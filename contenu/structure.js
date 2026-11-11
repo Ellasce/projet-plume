@@ -28,9 +28,9 @@ window.PLUME_STRUCTURE = {
       description: "Des mots qui se prononcent pareil mais ne s'écrivent pas pareil.",
       sous: [
         { id: "homophones-classiques", titre: "Les classiques",
-          regles: ["a-a", "et-est", "on-ont", "son-sont", "ou-ou", "la-la", "leur-leurs", "peu-peut", "ca-sa"] },
+          regles: ["a-a", "et-est", "on-ont", "son-sont", "ou-ou", "la-la", "leur-leurs", "peu-peut", "ca-sa", "mes-mais-met", "pres-pret"] },
         { id: "homophones-grammaticaux", titre: "Homophones grammaticaux",
-          regles: ["infinitif-participe", "ce-se-ces-ses", "quel-quelle-qu-elle", "futur-conditionnel", "quelque-quel-que", "quand-quant", "plutot-plus-tot", "sais-sait", "ai-ais"] }
+          regles: ["infinitif-participe", "ce-se-ces-ses", "quel-quelle-qu-elle", "futur-conditionnel", "quelque-quel-que", "quand-quant", "plutot-plus-tot", "sais-sait", "ai-ais", "si-s-y", "ni-n-y", "sans-s-en"] }
       ]
     },
     {
@@ -107,9 +107,9 @@ window.PLUME_STRUCTURE = {
   // les valide d'emblée pour ceux qui les maîtrisent.
   parcours: [
     "a-a", "et-est", "on-ont", "son-sont", "ou-ou", "la-la", "leur-leurs", "peu-peut",
-    "ca-sa", "sais-sait", "accord-gn", "accord-sujet-verbe", "pluriel-noms", "tu-s", "verbes-cer-ger", "pc-auxiliaire", "pp-terminaison", "cod-coi", "consonnes-doubles", "accents",
+    "ca-sa", "sais-sait", "mes-mais-met", "pres-pret", "accord-gn", "accord-sujet-verbe", "pluriel-noms", "tu-s", "verbes-cer-ger", "pc-auxiliaire", "pp-terminaison", "cod-coi", "consonnes-doubles", "accents",
     "conj-groupes", "conj-base-present", "conj-base-imparfait", "conj-base-futur",
-    "infinitif-participe", "ce-se-ces-ses", "quel-quelle-qu-elle", "pp-etre-avoir",
+    "infinitif-participe", "ce-se-ces-ses", "si-s-y", "ni-n-y", "sans-s-en", "quel-quelle-qu-elle", "pp-etre-avoir",
     "conj-present", "futur-conditionnel", "conj-futur", "pp-cod-avant",
     "tout", "conj-imperatif", "vingt-cent-mille", "couleurs", "demi-nu", "amment-emment", "dont-que", "cest-ce-sont", "negation-ne", "trait-union", "majuscules", "conditionnel-passe", "ai-ais", "interrogation-indirecte", "mots-difficiles", "pronoms-relatifs", "virgule", "concordance-temps", "constructions-verbes", "conj-subjonctif",
     "accords-sujet-delicats", "modes-conjonctions", "pp-pronominaux", "quelque-quel-que",
@@ -118,6 +118,10 @@ window.PLUME_STRUCTURE = {
   ],
 
   liens: {
+    "ni-n-y": ["negation-ne"],
+    "si-s-y": ["ce-se-ces-ses", "interrogation-indirecte"],
+    "sans-s-en": ["ce-se-ces-ses"],
+    "mes-mais-met": ["ce-se-ces-ses"],
     "concordance-temps": ["futur-conditionnel", "conditionnel-passe"],
     "pronoms-relatifs": ["dont-que", "ou-ou"],
     "constructions-verbes": ["cod-coi", "constructions-fautives"],

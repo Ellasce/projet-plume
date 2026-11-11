@@ -14,7 +14,7 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 3. L'orthographe d'usage (consonnes doubles, accents, -amment / -emment, majuscules, trait d'union) : la catégorie entièrement absente.
 4. La ponctuation, puis les règles 🟢.
 
-## Déjà en ligne (64 règles)
+## Déjà réalisées (69 règles)
 
 - [x] a / à — `a-a`
 - [x] Infinitif ou participe passé : -er, -é, -ez — `infinitif-participe`
@@ -81,14 +81,19 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 - [x] son / sont — `son-sont`
 - [x] on / ont / on n' — `on-ont`
 - [x] et / est / ai / es — `et-est`
+- [x] mes / mais / met / mets — `mes-mais-met`
+- [x] si / s'y / ci — `si-s-y`
+- [x] ni / n'y — `ni-n-y`
+- [x] près / prêt — `pres-pret`
+- [x] sans / s'en / sang / cent — `sans-s-en`
 
 ## 1. Homophones
 
-- [ ] 🟠 mes / mais / met / mets — collège
-- [ ] 🟠 sans / s'en / sang / cent — collège
-- [ ] 🟠 si / s'y / ci — collège
-- [ ] 🟠 ni / n'y — collège
-- [ ] 🟠 près / prêt — collège
+- [x] 🟠 mes / mais / met / mets — collège → `mes-mais-met`
+- [x] 🟠 sans / s'en / sang / cent — collège → `sans-s-en`
+- [x] 🟠 si / s'y / ci — collège → `si-s-y`
+- [x] 🟠 ni / n'y — collège → `ni-n-y`
+- [x] 🟠 près / prêt — collège → `pres-pret`
 - [ ] 🟠 -é / -ée / -er / -ez / -ait (version complète) — collège
 - [ ] 🟠 quoique / quoi que — supérieur
 - [ ] 🟠 davantage / d'avantage — supérieur

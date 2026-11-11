@@ -8593,6 +8593,235 @@ window.PLUME_REGLES = [
   "bref": "- **Majuscule** : début de phrase, noms de personnes, de villes, de pays, et **habitants** : les **F**rançais, une **P**arisienne.\n- **Minuscule** : **langues** et **adjectifs** (le **f**rançais, un vin **f**rançais), **jours** et **mois** (**l**undi, **j**anvier).\n\n**Le test** : s'il s'agit de **personnes**, majuscule ; d'une **langue** ou d'un **adjectif**, minuscule."
  },
  {
+  "id": "mes-mais-met",
+  "titre": "mes, mais, met ou mets",
+  "resume": "Mes clés (les miennes), mais (opposition), il met / je mets (verbe mettre).",
+  "niveau": "college",
+  "fiche": "- **mes** est le pluriel de **mon / ma** : **mes** clés, **mes** amis. On peut dire **tes** ou **ses** à la place.\n- **mais** marque une **opposition** : je l'ai invité, **mais** il n'est pas venu. On peut dire **pourtant** ou **cependant**.\n- **met** et **mets** viennent du verbe **mettre** : je **mets**, tu **mets**, il **met**. On peut dire **mettait** à la place.\n\n**Le test** :\n> Il met son manteau. → Il mettait son manteau ✔ → verbe mettre, **met**.\n> J'ai perdu mes clés. → J'ai perdu tes clés ✔ → **mes**.\n> Il pleut, mais je sors. → Il pleut, pourtant je sors ✔ → **mais**.\n\n**Les pièges** :\n- **je mets, tu mets** avec un **s** ; **il met** sans **s**.\n- À l'impératif : **mets** ton manteau, **mets**-le ici.\n\n**Pour aller plus loin**\n- **Un mets** (avec un **s**, même au singulier) est un plat : ce restaurant sert des **mets** délicieux.\n- **mais** peut relier deux adjectifs : il fait beau, **mais** froid.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je sais que tu le vois, {mes>mais} le regardes-tu vraiment ?",
+    "e": "Opposition, on peut dire « pourtant » : « mais ».",
+    "src": "tatoeba:1309606",
+    "id": "mes-mais-met.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "L'argent ne fait pas le bonheur, {mes>mais} il y contribue.",
+    "e": "Opposition, on peut dire « cependant » : « mais ».",
+    "src": "tatoeba:10490514",
+    "id": "mes-mais-met.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il {mes>met} trop de sucre dans son thé.",
+    "e": "Verbe mettre, « il mettait » : « il met ».",
+    "src": "tatoeba:2295992",
+    "id": "mes-mais-met.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je {mais>mets} toutes mes recettes en ligne sur mon blog.",
+    "e": "Verbe mettre, « je mettais » : « je mets », avec un s.",
+    "src": "tatoeba:10270518",
+    "id": "mes-mais-met.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ne {mais>mets} rien sur la boîte.",
+    "e": "Verbe mettre à l'impératif : « mets ».",
+    "src": "tatoeba:5923176",
+    "id": "mes-mais-met.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'ai oublié {mais>mes} clés chez toi.",
+    "e": "Les clés qui sont à moi, « tes clés » : « mes ».",
+    "id": "mes-mais-met.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cet homme se {mes>met} souvent en colère.",
+    "e": "Verbe se mettre, « il se mettait » : « il se met ».",
+    "src": "tatoeba:12587074",
+    "id": "mes-mais-met.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je téléphone à {mais>mes} parents tous les dimanches.",
+    "e": "Les parents qui sont à moi, « tes parents » : « mes ».",
+    "id": "mes-mais-met.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je mets mes bottes, mais il ne pleut plus.",
+    "e": "Correct : « je mets » (verbe mettre), « mes bottes » (tes bottes), « mais » (pourtant).",
+    "id": "mes-mais-met.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il ___ son manteau avant de sortir.",
+    "o": [
+     "met",
+     "mets",
+     "mes"
+    ],
+    "a": 0,
+    "e": "Verbe mettre avec « il » : « il met », sans s.",
+    "id": "mes-mais-met.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "Quel mot faut-il écrire ?",
+    "c": [
+     "le verbe mettre (met, mets)",
+     "mes ou mais"
+    ],
+    "items": [
+     [
+      "Il ___ la table.",
+      0
+     ],
+     [
+      "J'invite ___ amis.",
+      1
+     ],
+     [
+      "Tu ___ ton écharpe.",
+      0
+     ],
+     [
+      "Il est petit, ___ costaud.",
+      1
+     ],
+     [
+      "Je ___ du sel dans l'eau.",
+      0
+     ],
+     [
+      "Range ___ affaires.",
+      1
+     ]
+    ],
+    "e": "Si l'on peut dire « mettait », c'est le verbe mettre. Sinon, « mes » (tes) ou « mais » (pourtant).",
+    "id": "mes-mais-met.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Tu {met>mets} toujours trop de sel.",
+    "e": "Avec « tu », le verbe mettre prend un s : « tu mets ».",
+    "id": "mes-mais-met.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Met>Mets}-le sur la table, s'il te plaît.",
+    "e": "Impératif du verbe mettre : « mets ».",
+    "id": "mes-mais-met.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce restaurant sert des {mais>mets} délicieux.",
+    "e": "« Un mets » est un plat ; il s'écrit avec un s : « des mets ».",
+    "id": "mes-mais-met.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il fait beau, {mes>mais} froid.",
+    "e": "Opposition entre « beau » et « froid » : « mais ».",
+    "id": "mes-mais-met.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Je ___ mon réveil à sept heures.",
+    "o": [
+     "mets",
+     "met",
+     "mes"
+    ],
+    "a": 0,
+    "e": "Verbe mettre avec « je » : « je mets ».",
+    "id": "mes-mais-met.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle met ses gants, mais ses mains restent froides.",
+    "e": "Correct : « elle met » (verbe mettre), « mais » marque l'opposition.",
+    "id": "mes-mais-met.17"
+   },
+   {
+    "num": 18,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Mais>Mes} voisins arrivent ce soir.",
+    "e": "Les voisins qui sont à moi, « tes voisins » : « mes ».",
+    "id": "mes-mais-met.18"
+   },
+   {
+    "num": 19,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "On {mets>met} la table dans le jardin ?",
+    "e": "Avec « on », le verbe mettre s'écrit comme avec « il » : « on met ».",
+    "id": "mes-mais-met.19"
+   }
+  ],
+  "bref": "- **mes** = les miens, les miennes : **mes** clés → **tes** clés.\n- **mais** marque une opposition : il fait beau, **mais** froid → il fait beau, **pourtant** froid.\n- **met / mets** = verbe **mettre** : il **met** → il **mettait**."
+ },
+ {
   "id": "modes-conjonctions",
   "titre": "Indicatif ou subjonctif",
   "resume": "Après que + indicatif ; bien que, pour que, je veux que + subjonctif.",
@@ -9270,6 +9499,227 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "À l'écrit, la négation a **deux parties** : **ne… pas**, **ne… jamais**, **ne… plus**, **ne… rien**.\n> Je sais pas. ✘ → Je **ne** sais **pas**. ✔\n\nEn début de phrase : **Personne ne** vient, **Rien n'**est prêt."
+ },
+ {
+  "id": "ni-n-y",
+  "titre": "ni ou n'y",
+  "resume": "Ni pain ni lait (ni = et pas) ; il n'y a rien (ne + y).",
+  "niveau": "college",
+  "fiche": "- **n'y** est formé de **ne** et **y**. Il se place devant un verbe : il **n'y** a personne, je **n'y** vais pas, **n'y** touche pas.\n- **ni** relie des mots niés : je n'aime **ni** le thé **ni** le café. À la forme affirmative, on dirait **et** : j'aime le thé **et** le café.\n\n**Le test** : enlevez la négation.\n> Il n'y a personne. → Il y a quelqu'un ✔ → **n'y**.\n> Il n'est ni grand ni petit. → Il est grand et petit → **ni**.\n\n**Les pièges** :\n- **il n'y a** : c'est toujours **n'y** (il **y** a).\n- **ni** peut relier deux verbes : je ne bois **ni** ne fume.\n\n**Pour aller plus loin**\n- **ni** peut apparaître une seule fois, après « ne … pas » : il n'est pas heureux **ni** satisfait.\n- En tête de phrase : **Ni** toi **ni** moi ne pouvons y aller.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il {ni>n'y} a rien à craindre.",
+    "e": "Sans négation : « il y a » : ne + y, « n'y ».",
+    "src": "tatoeba:2867509",
+    "id": "ni-n-y.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il {ni>n'y} a personne à l'intérieur.",
+    "e": "« Il y a quelqu'un » : « n'y ».",
+    "src": "tatoeba:10062019",
+    "id": "ni-n-y.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il {ni>n'y} a pas de rose sans épines.",
+    "e": "« Il y a des roses » : « n'y ».",
+    "src": "tatoeba:1069756",
+    "id": "ni-n-y.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je ne bois {n'y>ni} ne fume.",
+    "e": "« ni » relie deux verbes niés (je bois et je fume).",
+    "src": "tatoeba:1100231",
+    "id": "ni-n-y.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je n'ai pas besoin de toi {n'y>ni} de quiconque d'autre.",
+    "e": "« ni » relie deux éléments niés.",
+    "src": "tatoeba:2322876",
+    "id": "ni-n-y.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{N'y>Ni} l'or ni la grandeur ne nous rendent heureux.",
+    "e": "« Ni l'or ni la grandeur » : l'or et la grandeur, niés.",
+    "src": "tatoeba:920941",
+    "id": "ni-n-y.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je {ni>n'y} vais jamais le dimanche.",
+    "e": "Sans négation : « j'y vais » : « n'y ».",
+    "id": "ni-n-y.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il n'est {n'y>ni} grand ni petit.",
+    "e": "« ni grand ni petit » : deux adjectifs niés.",
+    "id": "ni-n-y.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il n'y a ni pain ni lait dans le réfrigérateur.",
+    "e": "Correct : « il n'y a » (il y a), puis « ni pain ni lait ».",
+    "id": "ni-n-y.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Tu ___ penses pas sérieusement !",
+    "o": [
+     "n'y",
+     "ni"
+    ],
+    "a": 0,
+    "e": "Sans négation : « tu y penses » : « n'y ».",
+    "id": "ni-n-y.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "ni ou n'y ?",
+    "c": [
+     "ni",
+     "n'y"
+    ],
+    "items": [
+     [
+      "Il ___ a plus de place.",
+      1
+     ],
+     [
+      "Je ne veux ___ thé ni café.",
+      0
+     ],
+     [
+      "On ___ voit rien.",
+      1
+     ],
+     [
+      "Elle n'aime ___ le froid ni la pluie.",
+      0
+     ],
+     [
+      "Nous ___ sommes jamais allés.",
+      1
+     ],
+     [
+      "Ce n'est ___ juste ni raisonnable.",
+      0
+     ]
+    ],
+    "e": "Si l'on peut dire « y » sans la négation (il y a, on y voit), c'est « n'y ». Sinon, c'est « ni ».",
+    "id": "ni-n-y.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il {ni>n'y} avait presque personne autour de moi.",
+    "e": "« Il y avait » : « n'y ».",
+    "src": "tatoeba:13626743",
+    "id": "ni-n-y.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Alain n'est pas heureux {n'y>ni} satisfait de son mariage.",
+    "e": "« ni » relie deux adjectifs niés, après « ne … pas ».",
+    "src": "tatoeba:524498",
+    "id": "ni-n-y.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{N'y>Ni} toi ni moi ne pouvons y aller.",
+    "e": "« Ni toi ni moi » : deux sujets niés.",
+    "id": "ni-n-y.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je {ni>n'y} comprends rien.",
+    "e": "Sans négation : « j'y comprends quelque chose » : « n'y ».",
+    "id": "ni-n-y.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "N'y touche pas, c'est chaud !",
+    "e": "Correct : impératif négatif, « touches-y » → « n'y touche pas ».",
+    "id": "ni-n-y.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il ne parle ___ anglais ni allemand.",
+    "o": [
+     "ni",
+     "n'y"
+    ],
+    "a": 0,
+    "e": "Deux langues niées : « ni anglais ni allemand ».",
+    "id": "ni-n-y.17"
+   },
+   {
+    "num": 18,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il {ni>n'y} a pas d'autre possibilité.",
+    "e": "« Il y a une autre possibilité » : « n'y ».",
+    "src": "tatoeba:1815996",
+    "id": "ni-n-y.18"
+   }
+  ],
+  "bref": "- **n'y** = **ne + y**, devant un verbe : il **n'y** a rien → il **y** a quelque chose.\n- **ni** relie deux éléments niés : **ni** pain **ni** lait → du pain **et** du lait."
  },
  {
   "id": "on-ont",
@@ -11990,6 +12440,236 @@ window.PLUME_REGLES = [
   "bref": "Pour trouver la dernière lettre du participe passé, **mettez-le au féminin** :\n> une chose **prise** → j'ai **pris** ; une lettre **écrite** → j'ai **écrit** ; une tâche **finie** → j'ai **fini**.\n\nAprès **avoir**, c'est toujours le participe : j'ai **pris** (et non « prit »), j'ai **fini** (et non « finit »)."
  },
  {
+  "id": "pres-pret",
+  "titre": "près ou prêt",
+  "resume": "Près de la gare (à côté) ; prêt à partir (préparé). Prêt s'accorde, près jamais.",
+  "niveau": "college",
+  "fiche": "- **près** indique la **proximité** : il habite **près** de la gare. On peut dire **loin** à la place. Il ne s'accorde jamais.\n- **prêt** veut dire **préparé**, **disposé** : je suis **prêt** à partir. C'est un adjectif : il **s'accorde** (**prête, prêts, prêtes**).\n\n**Le test** :\n> Il vit près de la plage. → Il vit loin de la plage ✔ → **près**.\n> Es-tu prêt à y aller ? → Es-tu préparé à y aller ? ✔ → **prêt**.\n\n**Les pièges** :\n- **prêt** s'accorde : les filles sont **prêtes** ; nous sommes **prêts**.\n- **près** dans des expressions : à peu **près**, de **près**, tout **près**.\n\n**Pour aller plus loin**\n- **Un prêt** est aussi un nom : la banque lui a accordé un **prêt**.\n- **être près de** faire = être sur le point de : il était **près de** renoncer. **être prêt à** faire = être disposé à : il était **prêt à** tout.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils vivent {prêt>près} de l'aéroport.",
+    "e": "« Loin de l'aéroport » : proximité, « près ».",
+    "src": "tatoeba:12203003",
+    "id": "pres-pret.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il vit {prêt>près} de la plage.",
+    "e": "« Loin de la plage » : « près ».",
+    "src": "tatoeba:3642554",
+    "id": "pres-pret.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je m'assis {prêt>près} de lui.",
+    "e": "À côté de lui : « près ».",
+    "src": "tatoeba:1313177",
+    "id": "pres-pret.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Es-tu {près>prêt} à y aller ?",
+    "e": "« Es-tu préparé à y aller ? » : « prêt ».",
+    "src": "tatoeba:986823",
+    "id": "pres-pret.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je suis {près>prêt} à agrandir notre projet.",
+    "e": "Disposé à : « prêt ».",
+    "src": "tatoeba:12252653",
+    "id": "pres-pret.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces prunes sont {près>prêtes} à être mangées.",
+    "e": "Préparées à : « prêt », accordé avec « prunes » : « prêtes ».",
+    "src": "tatoeba:13329352",
+    "id": "pres-pret.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous sommes {près>prêts} à faire tout ce qui est nécessaire.",
+    "e": "Disposés à : « prêt », accordé au pluriel : « prêts ».",
+    "src": "tatoeba:11589919",
+    "id": "pres-pret.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle est {prêt>prête} à partir.",
+    "e": "« prêt » s'accorde avec « elle » : « prête ».",
+    "id": "pres-pret.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le repas est prêt et la gare est tout près.",
+    "e": "Correct : le repas est préparé (« prêt ») ; la gare n'est pas loin (« près »).",
+    "id": "pres-pret.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "La boulangerie est tout ___ d'ici.",
+    "o": [
+     "près",
+     "prêt"
+    ],
+    "a": 0,
+    "e": "Pas loin d'ici : « près ».",
+    "id": "pres-pret.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "près ou prêt ?",
+    "c": [
+     "près",
+     "prêt"
+    ],
+    "items": [
+     [
+      "J'habite ___ du parc.",
+      0
+     ],
+     [
+      "Le gâteau est ___.",
+      1
+     ],
+     [
+      "Assieds-toi ___ de moi.",
+      0
+     ],
+     [
+      "Il est ___ à t'aider.",
+      1
+     ],
+     [
+      "Regarde de ___.",
+      0
+     ],
+     [
+      "Mon vélo est ___ pour la course.",
+      1
+     ]
+    ],
+    "e": "« près » = pas loin. « prêt » = préparé, disposé.",
+    "id": "pres-pret.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il y avait à peu {prêt>près} cent personnes.",
+    "e": "« À peu près » (environ) s'écrit avec « près ».",
+    "id": "pres-pret.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Regarde ce tableau de {prêt>près}.",
+    "e": "« De près » (le contraire de « de loin ») : « près ».",
+    "id": "pres-pret.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La banque lui a accordé un {près>prêt} pour sa maison.",
+    "e": "Le nom « un prêt » (de l'argent prêté).",
+    "id": "pres-pret.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les filles sont {prêts>prêtes} pour le spectacle.",
+    "e": "« prêt » s'accorde avec « les filles » : « prêtes ».",
+    "id": "pres-pret.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il était {prêt>près} de renoncer quand il a enfin réussi.",
+    "e": "« Près de renoncer » = sur le point de renoncer : « près ».",
+    "id": "pres-pret.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Les valises sont ___ depuis hier.",
+    "o": [
+     "prêtes",
+     "prêts",
+     "près"
+    ],
+    "a": 0,
+    "e": "Les valises sont préparées : « prêt » au féminin pluriel, « prêtes ».",
+    "id": "pres-pret.17"
+   },
+   {
+    "num": 18,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle est prête à déménager près de son travail.",
+    "e": "Correct : « prête à » (disposée à), « près de » (pas loin de).",
+    "id": "pres-pret.18"
+   },
+   {
+    "num": 19,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "C'est pratique d'habiter si {prêt>près} de la station.",
+    "e": "« Si loin de la station » : « près ».",
+    "src": "tatoeba:373729",
+    "id": "pres-pret.19"
+   }
+  ],
+  "bref": "- **près** = à côté, le contraire de « loin » : **près** de la gare → **loin** de la gare.\n- **prêt** = préparé, et il s'accorde : elle est **prête** à partir."
+ },
+ {
   "id": "pronoms-relatifs",
   "titre": "Les pronoms relatifs : qui, que, où, lequel",
   "resume": "La fille avec qui je travaille, la raison pour laquelle je suis venu, le jour où…",
@@ -13043,6 +13723,467 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "- **sais** et **sait** sont le verbe **savoir** : je **sais**, tu **sais**, il **sait**. On peut dire **savait**.\n- **c'est** veut dire « cela est » ; **s'est** se trouve devant un participe passé (il s'est levé).\n\n> Je sais nager. → Je savais nager ✔ → **sais**\n> C'est facile. → Cela est facile ✔ → **c'est**"
+ },
+ {
+  "id": "sans-s-en",
+  "titre": "sans ou s'en",
+  "resume": "Sans sucre (le contraire d'avec) ; il s'en va (se + en).",
+  "niveau": "college",
+  "fiche": "- **sans** est le contraire de **avec** : une robe **sans** manches, parler **sans** notes, **sans** arrêt.\n- **s'en** est formé de **se** et **en**. Il se place devant un verbe : il **s'en** va, elle **s'en** souvient, il ne **s'en** cache plus.\n\n**Le test** : changez de personne. Si l'on peut dire **m'en** ou **t'en**, on écrit **s'en**.\n> Les clients s'en vont. → Je m'en vais ✔ → **s'en**.\n> Un café sans sucre. → Un café avec sucre ✔ → **sans**.\n\n**Les pièges** :\n- Devant un infinitif : il vaut mieux **s'en** aller (je ferais mieux de **m'en** aller).\n- Aux temps composés : elle **s'en** est sortie (je **m'en** suis sorti).\n\n**Pour aller plus loin**\n- **sans que** et **s'en** dans la même phrase : la vie passe **sans** qu'on **s'en** aperçoive.\n- Ne pas confondre avec **sang** (le liquide rouge) et **cent** (le nombre 100) : donner son **sang**, **cent** euros.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il vaut mieux {sans>s'en} aller d'ici.",
+    "e": "« Il vaut mieux que je m'en aille » : se + en, « s'en ».",
+    "src": "tatoeba:13250031",
+    "id": "sans-s-en.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il est trop tôt pour {sans>s'en} aller.",
+    "e": "« Trop tôt pour m'en aller » : « s'en ».",
+    "src": "tatoeba:3501587",
+    "id": "sans-s-en.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle {sans>s'en} est assez bien sortie.",
+    "e": "« Je m'en suis sortie » : « s'en ».",
+    "src": "tatoeba:3587643",
+    "id": "sans-s-en.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les clients mécontents {sans>s'en} vont.",
+    "e": "« Je m'en vais » : « s'en ».",
+    "src": "tatoeba:5523936",
+    "id": "sans-s-en.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Voulez-vous une robe {s'en>sans} manches ?",
+    "e": "Le contraire de « avec manches » : « sans ».",
+    "src": "tatoeba:12733678",
+    "id": "sans-s-en.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "On dit qu'il est capable de parler {s'en>sans} notes.",
+    "e": "Le contraire de « avec des notes » : « sans ».",
+    "src": "tatoeba:127988",
+    "id": "sans-s-en.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous nous téléphonions {s'en>sans} arrêt.",
+    "e": "« Sans arrêt » : le contraire de « avec des arrêts », « sans ».",
+    "src": "tatoeba:8628514",
+    "id": "sans-s-en.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il ne {sans>s'en} cache plus.",
+    "e": "« Je ne m'en cache plus » : « s'en ».",
+    "src": "tatoeba:11906245",
+    "id": "sans-s-en.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il est parti sans un mot et ne s'en excuse pas.",
+    "e": "Correct : « sans un mot » (avec un mot) ; « s'en excuse » (je m'en excuse).",
+    "id": "sans-s-en.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Elle a oublié son parapluie, mais elle ___ moque.",
+    "o": [
+     "s'en",
+     "sans"
+    ],
+    "a": 0,
+    "e": "« Je m'en moque » : « s'en ».",
+    "id": "sans-s-en.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "sans ou s'en ?",
+    "c": [
+     "sans",
+     "s'en"
+    ],
+    "items": [
+     [
+      "Un café ___ sucre.",
+      0
+     ],
+     [
+      "Il ___ va demain.",
+      1
+     ],
+     [
+      "Elle est sortie ___ parapluie.",
+      0
+     ],
+     [
+      "Elle ___ souvient très bien.",
+      1
+     ],
+     [
+      "Il travaille ___ relâche.",
+      0
+     ],
+     [
+      "Ils ___ moquent.",
+      1
+     ]
+    ],
+    "e": "« sans » est le contraire de « avec ». « s'en » devient « m'en » avec « je ».",
+    "id": "sans-s-en.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La vie passe sans qu'on {sans>s'en} aperçoive.",
+    "e": "« Sans que je m'en aperçoive » : le second mot est « s'en ».",
+    "src": "tatoeba:12980044",
+    "id": "sans-s-en.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Aucun des passagers ne {sans>s'en} est sorti indemne.",
+    "e": "« Je ne m'en suis pas sorti » : « s'en ».",
+    "src": "tatoeba:11792353",
+    "id": "sans-s-en.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils {sans>s'en} souviendront longtemps.",
+    "e": "« Je m'en souviendrai » : « s'en ».",
+    "id": "sans-s-en.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il est entré {s'en>sans} frapper.",
+    "e": "Il n'a pas frappé : « sans ».",
+    "id": "sans-s-en.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Sans toi, il ne s'en serait jamais sorti.",
+    "e": "Correct : « sans toi » (avec toi) ; « s'en serait sorti » (je m'en serais sorti).",
+    "id": "sans-s-en.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a donné son {cent>sang} à l'hôpital.",
+    "e": "Le liquide rouge : « sang ».",
+    "id": "sans-s-en.17"
+   },
+   {
+    "num": 18,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce vélo coûte {sang>cent} euros.",
+    "e": "Le nombre 100 : « cent ».",
+    "id": "sans-s-en.18"
+   },
+   {
+    "num": 19,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Elle est partie ___ dire au revoir.",
+    "o": [
+     "sans",
+     "s'en"
+    ],
+    "a": 0,
+    "e": "Elle n'a pas dit au revoir : « sans ».",
+    "id": "sans-s-en.19"
+   }
+  ],
+  "bref": "- **sans** est le contraire de **avec** : un thé **sans** sucre → un thé **avec** sucre.\n- **s'en** = **se + en**, devant un verbe : il **s'en** va → je **m'en** vais."
+ },
+ {
+  "id": "si-s-y",
+  "titre": "si, s'y ou ci",
+  "resume": "Si tu veux (condition), il s'y rend (se + y), celui-ci (ci = ici).",
+  "niveau": "college",
+  "fiche": "- **s'y** est formé de **se** et **y**. Il se place devant un verbe : elle **s'y** rend, il **s'y** habitue.\n- **si** introduit une **condition** (**si** tu viens…), une question indirecte (je me demande **si**…) ou une **intensité** (il est **si** grand).\n- **ci** veut dire « ici ». Il est toujours lié par un **trait d'union** : celui-**ci**, ce livre-**ci**, **ci**-joint, **ci**-dessous.\n\n**Le test** : changez de personne. Si l'on peut dire **m'y** ou **t'y**, on écrit **s'y**.\n> Elle s'y rend à vélo. → Je m'y rends à vélo ✔ → **s'y**.\n> Si tu veux, on part. → M'y tu veux ✘ → **si**.\n\n**Les pièges** :\n- Devant un infinitif : savoir **s'y** prendre (je sais **m'y** prendre), ne pas **s'y** fier.\n- **Si** répond « oui » à une question négative : « Tu ne viens pas ? — **Si** ! ».\n\n**Pour aller plus loin**\n- **ci-joint**, **ci-dessous**, **ci-dessus** s'écrivent avec **ci** et un trait d'union.\n- **si** après « je me demande », « dis-moi » : je me demande **si** elle viendra.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle {si>s'y} rendra à vélo.",
+    "e": "« Je m'y rendrai » : se + y, « s'y ».",
+    "src": "tatoeba:8693186",
+    "id": "si-s-y.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il {si>s'y} est aventuré seul.",
+    "e": "« Je m'y suis aventuré » : « s'y ».",
+    "src": "tatoeba:8676842",
+    "id": "si-s-y.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils ne savent pas {si>s'y} prendre.",
+    "e": "« Je ne sais pas m'y prendre » : « s'y ».",
+    "src": "tatoeba:9466762",
+    "id": "si-s-y.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a décidé de ne pas {si>s'y} rendre.",
+    "e": "« J'ai décidé de ne pas m'y rendre » : « s'y ».",
+    "src": "tatoeba:1921030",
+    "id": "si-s-y.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{S'y>Si} on mélange du bleu et du rouge, on obtient du violet.",
+    "e": "Condition, on ne peut pas dire « m'y » : « si ».",
+    "src": "tatoeba:2382243",
+    "id": "si-s-y.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{S'y>Si} j'étais riche, j'irais à l'étranger.",
+    "e": "Condition : « si ».",
+    "src": "tatoeba:416899",
+    "id": "si-s-y.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Prends celui-{si>ci}, il est plus solide.",
+    "e": "« Celui-ci » = celui qui est ici : « ci ».",
+    "id": "si-s-y.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il fait {s'y>si} froid ce matin !",
+    "e": "Intensité, « tellement froid » : « si ».",
+    "id": "si-s-y.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Si tu vas à la piscine, ta sœur s'y trouve déjà.",
+    "e": "Correct : « si » (condition), puis « s'y trouve » (je m'y trouve).",
+    "id": "si-s-y.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ce village est beau : on ___ sent bien.",
+    "o": [
+     "s'y",
+     "si",
+     "ci"
+    ],
+    "a": 0,
+    "e": "« Je m'y sens bien » : se + y, « s'y ».",
+    "id": "si-s-y.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "si ou s'y ?",
+    "c": [
+     "si",
+     "s'y"
+    ],
+    "items": [
+     [
+      "___ tu veux, on part.",
+      0
+     ],
+     [
+      "Elle ___ habitue peu à peu.",
+      1
+     ],
+     [
+      "Il est ___ gentil !",
+      0
+     ],
+     [
+      "On ___ perd facilement.",
+      1
+     ],
+     [
+      "Je me demande ___ il viendra.",
+      0
+     ],
+     [
+      "Ils ___ sont installés l'an dernier.",
+      1
+     ]
+    ],
+    "e": "Si l'on peut dire « m'y » en changeant de personne, c'est « s'y ». Sinon, « si ».",
+    "id": "si-s-y.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Vous trouverez {si-joint>ci-joint} mon curriculum vitae.",
+    "e": "« Ci-joint » = joint ici : « ci », avec un trait d'union.",
+    "id": "si-s-y.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Lisez les consignes {si-dessous>ci-dessous}.",
+    "e": "« Ci-dessous » = ici, en dessous : « ci ».",
+    "id": "si-s-y.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "« Tu n'as pas faim ? — {S'y>Si}, j'ai très faim ! »",
+    "e": "Réponse positive à une question négative : « si ».",
+    "id": "si-s-y.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je me demande {s'y>si} elle viendra.",
+    "e": "Question indirecte (« viendra-t-elle ? ») : « si ».",
+    "id": "si-s-y.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il ne faut pas {si>s'y} fier.",
+    "e": "« Je ne m'y fie pas » : se + y, « s'y ».",
+    "id": "si-s-y.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cette maison-ci est plus grande que celle-là.",
+    "e": "Correct : « maison-ci » = la maison qui est ici.",
+    "id": "si-s-y.17"
+   },
+   {
+    "num": 18,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Elle aime ce quartier et ___ promène souvent.",
+    "o": [
+     "s'y",
+     "si",
+     "ci"
+    ],
+    "a": 0,
+    "e": "« Je m'y promène » : « s'y ».",
+    "id": "si-s-y.18"
+   },
+   {
+    "num": 19,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il oublia sa promesse de {si>s'y} rendre.",
+    "e": "« Ma promesse de m'y rendre » : « s'y ».",
+    "src": "tatoeba:1015418",
+    "id": "si-s-y.19"
+   }
+  ],
+  "bref": "- **s'y** = **se + y**, devant un verbe : il **s'y** rend → je **m'y** rends.\n- **si** marque une condition ou l'intensité : **si** tu veux ; il fait **si** froid.\n- **ci** = ici, avec un trait d'union : celui-**ci**, **ci**-dessous."
  },
  {
   "id": "son-sont",
