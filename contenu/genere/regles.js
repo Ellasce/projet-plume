@@ -803,6 +803,209 @@ window.PLUME_REGLES = [
   "bref": "Dans un groupe nominal, **le déterminant et l'adjectif prennent le genre et le nombre du nom**.\n> une **petite** maison → des **petites** maisons\n> un livre **intéressant** → des histoires **intéressantes**\n\n**Le test** : trouvez le nom, puis demandez-vous s'il est masculin ou féminin, singulier ou pluriel."
  },
  {
+  "id": "accord-on-vous",
+  "titre": "L'accord avec « on » et le « vous » de politesse",
+  "resume": "On est partis (= nous) ; vous êtes prête, Madame ? (une seule personne).",
+  "niveau": "lycee",
+  "fiche": "- Quand **on** veut dire **nous**, le verbe reste au **singulier** (on **est**), mais l'adjectif ou le participe s'accorde avec les personnes : avec mes amis, on est **partis** ; ma mère et ma sœur disent : « on est **fatiguées** ».\n- Quand **on** désigne n'importe qui (**les gens**), on accorde au **masculin singulier** : quand on est **jeune**, on ne pense pas à demain.\n- Le **vous de politesse** s'adresse à **une seule personne** : le verbe est au **pluriel** (vous **êtes**), mais l'adjectif ou le participe est au **singulier** : Monsieur, vous êtes **attendu** ; Madame, vous êtes **prête** ?\n\n**Le test** : demandez-vous **qui** est désigné, et combien de personnes.\n> Avec Paul, on s'est perdus. → Paul et moi → **perdus**.\n> Madame, êtes-vous satisfaite ? → une seule femme → **satisfaite**.\n\n**Les pièges** :\n- Avec « on », le **verbe** ne change jamais : on **est** (et non « on sont »).\n- Avec « vous » de politesse, le **verbe** reste au pluriel : vous **êtes** bien aimable.\n\n**Pour aller plus loin**\n- **on** indéfini : masculin singulier (quand on est **jeune**).\n- Le **nous de modestie** (un auteur qui parle de lui-même) : l'adjectif est au singulier : « nous sommes **convaincu** que… », écrit un auteur.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Avec mes amis, on est {parti>partis} tôt.",
+    "e": "« On » = mes amis et moi : participe au pluriel, « partis ».",
+    "id": "accord-on-vous.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ma mère et ma sœur disent : « On est {fatiguée>fatiguées}. »",
+    "e": "« On » = deux femmes : féminin pluriel, « fatiguées ».",
+    "id": "accord-on-vous.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Madame, vous êtes {prêtes>prête} ?",
+    "e": "« Vous » de politesse, une seule femme : « prête ».",
+    "id": "accord-on-vous.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Monsieur le directeur, vous êtes {attendus>attendu} en salle 3.",
+    "e": "« Vous » de politesse, un seul homme : « attendu ».",
+    "id": "accord-on-vous.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Mes parents et moi, on est {allé>allés} au cinéma.",
+    "e": "« On » = mes parents et moi : pluriel, « allés ».",
+    "id": "accord-on-vous.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Vous {est>êtes} bien aimable, Monsieur.",
+    "e": "Avec « vous », même de politesse, le verbe est au pluriel : « êtes ».",
+    "id": "accord-on-vous.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Avec Paul, on s'est {perdu>perdus} dans la forêt.",
+    "e": "« On » = Paul et moi : pluriel, « perdus ».",
+    "id": "accord-on-vous.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Madame, êtes-vous {satisfaites>satisfaite} de votre séjour ?",
+    "e": "« Vous » de politesse, une seule femme : « satisfaite ».",
+    "id": "accord-on-vous.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Monsieur, vous êtes arrivé le premier.",
+    "e": "Correct : « vous » de politesse (un homme) : verbe au pluriel, participe au singulier.",
+    "id": "accord-on-vous.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Monsieur, vous êtes ___ ?",
+    "o": [
+     "sûr",
+     "sûrs"
+    ],
+    "a": 0,
+    "e": "« Vous » de politesse, un seul homme : « sûr ».",
+    "id": "accord-on-vous.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "accord au singulier ou au pluriel ?",
+    "c": [
+     "singulier",
+     "pluriel"
+    ],
+    "items": [
+     [
+      "Madame, vous êtes (inquiet).",
+      0
+     ],
+     [
+      "Mes cousins et moi, on est (content).",
+      1
+     ],
+     [
+      "Quand on est (malade), on reste au lit.",
+      0
+     ],
+     [
+      "Mesdames, vous êtes (invité).",
+      1
+     ],
+     [
+      "Monsieur, vous êtes (pressé) ?",
+      0
+     ],
+     [
+      "Avec Léa, on s'est (régalé).",
+      1
+     ]
+    ],
+    "e": "Une seule personne (vous de politesse, on = n'importe qui) : singulier. Plusieurs personnes : pluriel.",
+    "id": "accord-on-vous.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Quand on est {jeunes>jeune}, on ne pense pas à demain.",
+    "e": "« On » désigne n'importe qui : masculin singulier, « jeune ».",
+    "id": "accord-on-vous.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Dans notre famille, on est tous {blond>blonds}.",
+    "e": "« On » = les membres de la famille (tous) : pluriel, « blonds ».",
+    "id": "accord-on-vous.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Mademoiselle, vous êtes {convoquées>convoquée} demain matin.",
+    "e": "« Vous » de politesse, une seule femme : « convoquée ».",
+    "id": "accord-on-vous.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Mesdames, vous êtes priées de patienter.",
+    "e": "Correct : « vous » désigne plusieurs femmes : féminin pluriel, « priées ».",
+    "id": "accord-on-vous.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ma mère et ma tante disent : « On est ___ du concert ravies. »",
+    "o": [
+     "rentrées",
+     "rentré"
+    ],
+    "a": 0,
+    "e": "« On » = deux femmes : participe au féminin pluriel, « rentrées ».",
+    "id": "accord-on-vous.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Monsieur, vous {sont>êtes} le bienvenu.",
+    "e": "Avec « vous », le verbe est au pluriel : « êtes ».",
+    "id": "accord-on-vous.17"
+   }
+  ],
+  "bref": "- **on = nous** : le verbe reste au singulier, mais l'adjectif s'accorde : avec mes amis, on est **partis**.\n- **vous** pour **une seule personne** (politesse) : le verbe est au pluriel, l'adjectif au singulier : Madame, vous êtes **prête** ?"
+ },
+ {
   "id": "accord-sujet-verbe",
   "titre": "L'accord du verbe avec son sujet",
   "resume": "Trouver le vrai sujet, même s'il est loin ou placé après le verbe.",
@@ -2877,6 +3080,209 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "- **cet** et **cette** se prononcent pareil : regardez le **genre** du nom.\n- **une** → **cette** : **cette** idée. **un** → **cet** devant une voyelle (**cet** arbre), sinon **ce** (**ce** garçon)."
+ },
+ {
+  "id": "chaque-chacun",
+  "titre": "chaque ou chacun",
+  "resume": "Chaque élève (devant un nom) ; chacun (tout seul). Toujours au singulier.",
+  "niveau": "college",
+  "fiche": "- **chaque** est un déterminant : il est toujours suivi d'un **nom au singulier**. Il ne prend **jamais de s** : **chaque** élève, **chaque** fois.\n- **chacun, chacune** est un pronom : il s'emploie **seul**, sans nom après lui. **Chacun** doit ranger sa chaise. **Chacune** de ses sœurs habite à Paris.\n\n**Le test** : y a-t-il un nom juste après ?\n> Chaque élève a reçu un diplôme. → nom après ✔ → **chaque**.\n> Ces livres coûtent dix euros chacun. → pas de nom après → **chacun**.\n\n**Les pièges** :\n- Le verbe est **au singulier** : chaque enfant **a** reçu un cadeau ; chacune des filles **a** chanté.\n- On ne dit pas « dix euros **chaque** » mais « dix euros **chacun** ».\n\n**Pour aller plus loin**\n- **chacun d'entre vous**, **chacun de nous** : le verbe reste au singulier (chacun de nous **doit** participer).\n- Au féminin, **chacune** : ces robes coûtent cinquante euros **chacune**.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces livres coûtent dix euros {chaque>chacun}.",
+    "e": "Pas de nom après : pronom, « chacun ».",
+    "id": "chaque-chacun.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Chacun>Chaque} élève a reçu un diplôme.",
+    "e": "Suivi du nom « élève » : « chaque ».",
+    "id": "chaque-chacun.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Chaque>Chacun} doit ranger sa chaise.",
+    "e": "Employé seul, sans nom : « chacun ».",
+    "id": "chaque-chacun.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Chaque enfant {ont>a} reçu un cadeau.",
+    "e": "« Chaque » demande le singulier : « a ».",
+    "id": "chaque-chacun.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Chaques>Chaque} jour, il court une heure.",
+    "e": "« Chaque » ne prend jamais de s.",
+    "id": "chaque-chacun.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Chacune des filles {ont>a} chanté.",
+    "e": "Le sujet est « chacune » : singulier, « a ».",
+    "id": "chaque-chacun.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Chacun>Chacune} de ses sœurs habite à Paris.",
+    "e": "« Ses sœurs » est féminin : « chacune ».",
+    "id": "chaque-chacun.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Chacun de nous {devons>doit} participer.",
+    "e": "Le sujet est « chacun » : singulier, « doit ».",
+    "id": "chaque-chacun.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Chaque matin, chacun prend son petit-déjeuner.",
+    "e": "Correct : « chaque matin » (devant un nom), « chacun » (seul).",
+    "id": "chaque-chacun.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ces billets valent vingt euros ___.",
+    "o": [
+     "chacun",
+     "chaque"
+    ],
+    "a": 0,
+    "e": "Pas de nom après : « chacun ».",
+    "id": "chaque-chacun.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "chaque ou chacun ?",
+    "c": [
+     "chaque (devant un nom)",
+     "chacun (seul)"
+    ],
+    "items": [
+     [
+      "___ semaine",
+      0
+     ],
+     [
+      "___ doit se taire.",
+      1
+     ],
+     [
+      "___ fois",
+      0
+     ],
+     [
+      "Ils ont ___ un vélo.",
+      1
+     ],
+     [
+      "___ question",
+      0
+     ],
+     [
+      "Trois euros ___",
+      1
+     ]
+    ],
+    "e": "Suivi d'un nom : « chaque ». Seul : « chacun ».",
+    "id": "chaque-chacun.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Chaque>Chacun} d'entre vous recevra une lettre.",
+    "e": "Pas de nom juste après : pronom, « chacun d'entre vous ».",
+    "id": "chaque-chacun.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces robes coûtent cinquante euros {chaque>chacune}.",
+    "e": "Pas de nom après, et « robes » est féminin : « chacune ».",
+    "id": "chaque-chacun.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Chacun {font>fait} ce qu'il veut.",
+    "e": "« Chacun » est singulier : « fait ».",
+    "id": "chaque-chacun.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Chacune de ces chambres a sa salle de bains.",
+    "e": "Correct : « chacune » (seul, féminin) et verbe au singulier.",
+    "id": "chaque-chacun.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "___ semaine, nous allons au marché.",
+    "o": [
+     "Chaque",
+     "Chacune"
+    ],
+    "a": 0,
+    "e": "Suivi du nom « semaine » : « chaque ».",
+    "id": "chaque-chacun.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Chaques>Chaque} fois que je le vois, il sourit.",
+    "e": "« Chaque » ne prend jamais de s : « chaque fois ».",
+    "id": "chaque-chacun.17"
+   }
+  ],
+  "bref": "- **chaque** est suivi d'un **nom** : **chaque** élève, **chaque** jour.\n- **chacun** s'emploie **seul** : **chacun** doit venir ; ces livres coûtent dix euros **chacun**.\n- Toujours au **singulier** : chaque enfant **a**, chacun **a**."
  },
  {
   "id": "cod-coi",
@@ -8152,6 +8558,214 @@ window.PLUME_REGLES = [
   "bref": "- **est** est le verbe **être** : il est tard, elle est partie.\n- **et** ajoute quelque chose : du pain **et** du beurre.\n\n**Le test** : remplacez par **était**. Si la phrase reste correcte, écrivez **est**. Sinon, écrivez **et**.\n> La porte est ouverte. → La porte était ouverte ✔ → **est**\n> Un chien et un chat. → Un chien était un chat ✘ → **et**"
  },
  {
+  "id": "feminin",
+  "titre": "Le féminin des noms et des adjectifs",
+  "resume": "Sportif → sportive, acteur → actrice, complet → complète : les terminaisons du féminin.",
+  "niveau": "college",
+  "fiche": "- En général, on ajoute un **e** : grand → grand**e**, joli → joli**e**.\n- **-er** → **-ère** : boulanger → boulang**ère**, cher → ch**ère**.\n- **-eux** → **-euse** : heureux → heur**euse**, jaloux → jal**ouse**.\n- **-f** → **-ve** : sportif → sporti**ve**, neuf → neu**ve**.\n- **-teur** → **-trice** (acteur → act**rice**) ou **-teuse** (chanteur → chant**euse**).\n- On **double la consonne** : -el → **-elle** (cruel), -en → **-enne** (ancien), -on → **-onne** (bon), -et → **-ette** (muet), et gentil → genti**lle**.\n\n**Les pièges** :\n- **complet, concret, discret, inquiet, secret** font **-ète** : complète, inquiète.\n- **blanc** → blan**che** ; **public** → publi**que** ; **grec** → grec**que**.\n- **beau, nouveau, vieux** → **belle, nouvelle, vieille**.\n\n**Pour aller plus loin**\n- Devant un nom masculin qui commence par une voyelle, on dit **bel, nouvel, vieil** : un **bel** arbre, un **vieil** ami. Le féminin est le même : une **belle** journée, une **vieille** maison.\n- **frais** → fra**îche** ; **long** → lon**gue** ; **doux** → dou**ce**.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ma cousine est très {sportif>sportive}.",
+    "e": "-f devient -ve au féminin : « sportive ».",
+    "id": "feminin.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ma tante est {boulangeuse>boulangère}.",
+    "e": "-er devient -ère : « boulangère ».",
+    "id": "feminin.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cette robe est {neuf>neuve}.",
+    "e": "-f devient -ve : « neuve ».",
+    "id": "feminin.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La directrice est très {gentil>gentille}.",
+    "e": "« Gentil » double le l au féminin : « gentille ».",
+    "id": "feminin.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ma voisine est {inquiette>inquiète}.",
+    "e": "« Inquiet » fait partie des exceptions en -ète : « inquiète ».",
+    "id": "feminin.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "C'est une très bonne {acteuse>actrice}.",
+    "e": "« Acteur » fait « actrice » au féminin.",
+    "id": "feminin.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ma sœur est {heureux>heureuse} de sa nouvelle école.",
+    "e": "-eux devient -euse : « heureuse ».",
+    "id": "feminin.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'ai lu la version {complette>complète}.",
+    "e": "« Complet » fait « complète » (exception en -ète).",
+    "id": "feminin.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La chanteuse italienne est vive et curieuse.",
+    "e": "Correct : chanteur → chanteuse, italien → italienne, vif → vive, curieux → curieuse.",
+    "id": "feminin.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "C'est une histoire très ___.",
+    "o": [
+     "ancienne",
+     "anciene",
+     "ancièn"
+    ],
+    "a": 0,
+    "e": "-en double le n au féminin : « ancienne ».",
+    "id": "feminin.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "-ette ou -ète ?",
+    "c": [
+     "-ette",
+     "-ète"
+    ],
+    "items": [
+     [
+      "net",
+      0
+     ],
+     [
+      "complet",
+      1
+     ],
+     [
+      "muet",
+      0
+     ],
+     [
+      "secret",
+      1
+     ],
+     [
+      "coquet",
+      0
+     ],
+     [
+      "inquiet",
+      1
+     ]
+    ],
+    "e": "La plupart des adjectifs en -et doublent le t (nette, muette, coquette). Complet, concret, discret, inquiet, secret font -ète.",
+    "id": "feminin.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle porte une veste {blanc>blanche}.",
+    "e": "« Blanc » fait « blanche » au féminin.",
+    "id": "feminin.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils habitent une {vieil>vieille} maison.",
+    "e": "Le féminin de « vieux » (vieil) est « vieille ».",
+    "id": "feminin.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle a une amie {grec>grecque}.",
+    "e": "« Grec » fait « grecque » au féminin.",
+    "id": "feminin.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle rêve de devenir {chanteure>chanteuse}.",
+    "e": "« Chanteur » fait « chanteuse ».",
+    "id": "feminin.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ma chatte est très {jaloux>jalouse}.",
+    "e": "« Jaloux » fait « jalouse ».",
+    "id": "feminin.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cette longue et douce soirée était parfaite.",
+    "e": "Correct : long → longue, doux → douce, parfait → parfaite.",
+    "id": "feminin.17"
+   },
+   {
+    "num": 18,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous avons passé une {bel>belle} journée.",
+    "e": "Le féminin de « beau » (bel) est « belle ».",
+    "id": "feminin.18"
+   }
+  ],
+  "bref": "- En général, on ajoute un **e** : grand → grand**e**.\n- Des terminaisons changent : -er → **-ère**, -eux → **-euse**, -f → **-ve**, -teur → **-trice** ou **-teuse**.\n- Certaines consonnes doublent : gentil → genti**lle**, ancien → ancie**nne**, net → ne**tte**."
+ },
+ {
   "id": "futur-conditionnel",
   "titre": "Futur ou conditionnel : -rai ou -rais",
   "resume": "Je viendrai ou je viendrais ? Passez à « nous ».",
@@ -9741,6 +10355,209 @@ window.PLUME_REGLES = [
   "bref": "- **Majuscule** : début de phrase, noms de personnes, de villes, de pays, et **habitants** : les **F**rançais, une **P**arisienne.\n- **Minuscule** : **langues** et **adjectifs** (le **f**rançais, un vin **f**rançais), **jours** et **mois** (**l**undi, **j**anvier).\n\n**Le test** : s'il s'agit de **personnes**, majuscule ; d'une **langue** ou d'un **adjectif**, minuscule."
  },
  {
+  "id": "meme",
+  "titre": "même ou mêmes",
+  "resume": "Les mêmes livres (pareils, accord) ; même les enfants (= aussi, invariable).",
+  "niveau": "lycee",
+  "fiche": "- **même** adjectif s'**accorde** :\n  - devant un nom, il veut dire **pareil** : les **mêmes** chaussures, la **même** robe ;\n  - après un pronom, avec un trait d'union : **eux-mêmes**, **elles-mêmes**, **nous-mêmes**, **elle-même**.\n- **même** adverbe veut dire **aussi, y compris**. Il est **invariable** : **même** les enfants ont compris.\n\n**Le test** : remplacez par « aussi » ou « y compris ».\n> Même les enfants ont compris. → Y compris les enfants ✔ → adverbe, **même**.\n> Nous avons les mêmes chaussures. → les pareilles ✔ → adjectif, **mêmes**.\n\n**Les pièges** :\n- **eux-mêmes, elles-mêmes, nous-mêmes** : pluriel, avec un s.\n- Devant un adjectif ou un verbe, c'est l'adverbe : **même** fatigués, ils ont continué.\n\n**Pour aller plus loin**\n- Après un nom, au sens de « exactement » : ce sont les paroles **mêmes** de son père (accord).\n- **ils ont même oublié** : l'adverbe porte sur le verbe, il reste invariable.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous avons les {même>mêmes} chaussures.",
+    "e": "« Les chaussures pareilles » : adjectif, accordé au pluriel, « mêmes ».",
+    "id": "meme.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils l'ont fait {eux-même>eux-mêmes}.",
+    "e": "Après « eux » (pluriel) : « eux-mêmes ».",
+    "id": "meme.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Mêmes>Même} les enfants ont compris.",
+    "e": "« Y compris les enfants » : adverbe, invariable.",
+    "id": "meme.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elles portent la {mêmes>même} robe.",
+    "e": "« La robe » est au singulier : « même ».",
+    "id": "meme.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous l'avons construit {nous-même>nous-mêmes}.",
+    "e": "Après « nous » (plusieurs personnes) : « nous-mêmes ».",
+    "id": "meme.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Tout le monde est venu, {mêmes>même} les plus âgés.",
+    "e": "« Y compris les plus âgés » : adverbe, « même ».",
+    "id": "meme.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces deux frères ont les {même>mêmes} yeux.",
+    "e": "« Les yeux pareils » : adjectif, « mêmes ».",
+    "id": "meme.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle a réparé le vélo {elle-mêmes>elle-même}.",
+    "e": "Après « elle » (une seule personne) : « elle-même ».",
+    "id": "meme.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Même les meilleurs élèves font les mêmes erreurs.",
+    "e": "Correct : « même » (y compris), puis « les mêmes erreurs » (pareilles).",
+    "id": "meme.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ils ont tous ___ goûts.",
+    "o": [
+     "les mêmes",
+     "les même"
+    ],
+    "a": 0,
+    "e": "« Des goûts pareils » : adjectif au pluriel, « les mêmes ».",
+    "id": "meme.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "même ou mêmes ?",
+    "c": [
+     "même (aussi, ou singulier)",
+     "mêmes (pareils, pluriel)"
+    ],
+    "items": [
+     [
+      "___ mon chien a peur.",
+      0
+     ],
+     [
+      "les ___ idées",
+      1
+     ],
+     [
+      "Elles l'ont dit elles-___.",
+      1
+     ],
+     [
+      "la ___ couleur",
+      0
+     ],
+     [
+      "___ toi, tu ris !",
+      0
+     ],
+     [
+      "les ___ résultats",
+      1
+     ]
+    ],
+    "e": "« Aussi, y compris » ou un nom au singulier : même. « Pareils » au pluriel, ou eux-, elles-, nous- : mêmes.",
+    "id": "meme.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils ont {mêmes>même} oublié leurs clés.",
+    "e": "L'adverbe porte sur le verbe (ils ont aussi oublié) : invariable.",
+    "id": "meme.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce sont les paroles {même>mêmes} de son père.",
+    "e": "Après le nom, au sens de « exactement » : adjectif, accordé avec « paroles ».",
+    "id": "meme.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Mêmes>Même} fatigués, ils ont continué.",
+    "e": "Devant un adjectif, au sens de « y compris » : adverbe, invariable.",
+    "id": "meme.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils sont restés eux-mêmes, même dans la difficulté.",
+    "e": "Correct : « eux-mêmes » (pronom pluriel), puis « même » (y compris).",
+    "id": "meme.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ces chiffres sont restés les ___ depuis un an.",
+    "o": [
+     "mêmes",
+     "même"
+    ],
+    "a": 0,
+    "e": "« Les chiffres pareils » : adjectif au pluriel, « mêmes ».",
+    "id": "meme.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elles se sont coiffées {elles-même>elles-mêmes}.",
+    "e": "Après « elles » (pluriel) : « elles-mêmes ».",
+    "id": "meme.17"
+   }
+  ],
+  "bref": "- **mêmes** (avec s) = **pareils**, devant un nom pluriel : les **mêmes** chaussures ; et après un pronom pluriel : eux-**mêmes**.\n- **même** (sans s) = **aussi, y compris** : **même** les enfants ont compris."
+ },
+ {
   "id": "mes-mais-met",
   "titre": "mes, mais, met ou mets",
   "resume": "Mes clés (les miennes), mais (opposition), il met / je mets (verbe mettre).",
@@ -10848,6 +11665,211 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "- **n'y** = **ne + y**, devant un verbe : il **n'y** a rien → il **y** a quelque chose.\n- **ni** relie deux éléments niés : **ni** pain **ni** lait → du pain **et** du lait."
+ },
+ {
+  "id": "noms-composes",
+  "titre": "Le pluriel des noms composés",
+  "resume": "Des coffres-forts, des arcs-en-ciel, des tire-bouchons : seuls les noms et les adjectifs s'accordent.",
+  "niveau": "lycee",
+  "fiche": "**La règle** : seuls les **noms** et les **adjectifs** s'accordent. Les **verbes**, **adverbes** et **prépositions** ne changent jamais.\n\n- **nom + adjectif** ou **adjectif + nom** : les deux s'accordent → des coffre**s**-fort**s**, des beau**x**-frère**s**.\n- **nom + nom** : les deux s'accordent → des chou**x**-fleur**s**.\n- **nom + préposition + nom** : seul le premier nom s'accorde → des arc**s**-en-ciel, des chef**s**-d'œuvre.\n- **verbe + nom** : le verbe ne change pas → des tire-bouchon**s**.\n- **mot invariable + nom** : seul le nom s'accorde → des sous-marin**s**, des arrière-pensée**s**.\n\n**Le test** : demandez-vous ce qu'est chaque mot (nom, adjectif, verbe, préposition).\n\n**Les pièges** :\n- **arc-en-ciel** : on voit plusieurs **arcs**, pas plusieurs ciels → des arcs-en-ciel.\n- **tire-bouchon** : « tire » est un verbe, il reste invariable → des tire-bouchons.\n\n**Pour aller plus loin**\n- Un nom complément sans préposition reste au singulier : des **timbres-poste** (des timbres pour la poste).\n- Sans trait d'union, chaque mot suit sa règle : des **pommes de terre**.\n- Les **rectifications de 1990** simplifient certains cas (des après-midis, un compte-goutte, des compte-gouttes). Les deux usages sont acceptés.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La banque possède deux {coffre-forts>coffres-forts}.",
+    "e": "Nom + adjectif : les deux s'accordent, « coffres-forts ».",
+    "id": "noms-composes.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'ai acheté des {choux-fleur>choux-fleurs}.",
+    "e": "Nom + nom : les deux s'accordent, « choux-fleurs ».",
+    "id": "noms-composes.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a vu deux {arcs-en-ciels>arcs-en-ciel}.",
+    "e": "Nom + préposition + nom : seul le premier s'accorde (des arcs de ciel).",
+    "id": "noms-composes.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce musée expose des {chef-d'œuvres>chefs-d'œuvre}.",
+    "e": "Nom + préposition + nom : seul « chef » s'accorde.",
+    "id": "noms-composes.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Range les {tires-bouchons>tire-bouchons}.",
+    "e": "« Tire » est un verbe : il ne change pas. Seul le nom prend un s.",
+    "id": "noms-composes.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les {sous-marin>sous-marins} ont plongé.",
+    "e": "« Sous » est invariable ; le nom « marin » s'accorde.",
+    "id": "noms-composes.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'avoue avoir des {arrières-pensées>arrière-pensées}.",
+    "e": "« Arrière » est ici un adverbe, invariable ; « pensées » s'accorde.",
+    "id": "noms-composes.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Mes deux {beau-frères>beaux-frères} sont venus.",
+    "e": "Adjectif + nom : les deux s'accordent, « beaux-frères ».",
+    "id": "noms-composes.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Mes beaux-parents ont deux chiens-loups.",
+    "e": "Correct : adjectif + nom (beaux-parents) et nom + nom (chiens-loups), tous accordés.",
+    "id": "noms-composes.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il y a des ___ dans le ciel.",
+    "o": [
+     "arcs-en-ciel",
+     "arc-en-ciels",
+     "arcs-en-ciels"
+    ],
+    "a": 0,
+    "e": "Seul le premier nom s'accorde : « arcs-en-ciel ».",
+    "id": "noms-composes.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "combien de mots s'accordent ?",
+    "c": [
+     "les deux mots",
+     "un seul mot"
+    ],
+    "items": [
+     [
+      "coffre-fort",
+      0
+     ],
+     [
+      "arc-en-ciel",
+      1
+     ],
+     [
+      "chou-fleur",
+      0
+     ],
+     [
+      "tire-bouchon",
+      1
+     ],
+     [
+      "beau-frère",
+      0
+     ],
+     [
+      "sous-marin",
+      1
+     ]
+    ],
+    "e": "Nom + adjectif, adjectif + nom, nom + nom : les deux. Avec une préposition, un verbe ou un adverbe : un seul.",
+    "id": "noms-composes.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle collectionne les {timbres-postes>timbres-poste}.",
+    "e": "« Poste » est un complément (des timbres pour la poste) : il reste au singulier.",
+    "id": "noms-composes.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous avons épluché des {pommes-de-terre>pommes de terre}.",
+    "e": "« Pomme de terre » s'écrit sans trait d'union ; seul « pommes » s'accorde.",
+    "id": "noms-composes.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nos {grand-pères>grands-pères} jouaient ensemble.",
+    "e": "Adjectif + nom : les deux s'accordent, « grands-pères ».",
+    "id": "noms-composes.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a les avant-bras couverts de coups de soleil.",
+    "e": "Correct : « avant » est invariable, et « bras » se termine déjà par s.",
+    "id": "noms-composes.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les {wagon-lits>wagons-lits} sont en tête du train.",
+    "e": "Nom + nom : les deux s'accordent, « wagons-lits ».",
+    "id": "noms-composes.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ces deux tableaux sont des ___.",
+    "o": [
+     "chefs-d'œuvre",
+     "chef-d'œuvres",
+     "chefs-d'œuvres"
+    ],
+    "a": 0,
+    "e": "Seul le premier nom s'accorde : « chefs-d'œuvre ».",
+    "id": "noms-composes.17"
+   }
+  ],
+  "bref": "Dans un nom composé, **seuls les noms et les adjectifs** prennent la marque du pluriel :\n- des **coffres-forts** (nom + adjectif), des **choux-fleurs** (nom + nom) ;\n- des **arcs-en-ciel** (seul le premier nom : « arcs de ciel ») ;\n- des **tire-bouchons**, des **sous-marins** (le verbe et « sous » ne changent pas)."
  },
  {
   "id": "notre-notre",

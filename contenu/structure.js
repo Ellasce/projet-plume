@@ -40,11 +40,11 @@ window.PLUME_STRUCTURE = {
       description: "Accorder le participe passé, le verbe et les mots variables.",
       sous: [
         { id: "accords-base", titre: "Les bases",
-          regles: ["accord-gn", "accord-sujet-verbe", "pluriel-noms", "cest-ce-sont"] },
+          regles: ["accord-gn", "feminin", "accord-sujet-verbe", "pluriel-noms", "noms-composes", "chaque-chacun", "cest-ce-sont"] },
         { id: "participe-passe", titre: "Participe passé",
           regles: ["pp-etre-avoir", "pp-cod-avant", "pp-pronominaux", "pp-infinitif"] },
         { id: "autres-accords", titre: "Autres accords",
-          regles: ["tout", "vingt-cent-mille", "couleurs", "demi-nu", "accords-sujet-delicats", "participe-present-adjectif"] }
+          regles: ["tout", "vingt-cent-mille", "couleurs", "demi-nu", "accords-sujet-delicats", "participe-present-adjectif", "meme", "accord-on-vous"] }
       ]
     },
     {
@@ -107,17 +107,22 @@ window.PLUME_STRUCTURE = {
   // les valide d'emblée pour ceux qui les maîtrisent.
   parcours: [
     "a-a", "et-est", "on-ont", "son-sont", "ou-ou", "la-la", "leur-leurs", "peu-peut",
-    "ca-sa", "sais-sait", "mes-mais-met", "pres-pret", "ma-m-a", "cet-cette", "accord-gn", "accord-sujet-verbe", "pluriel-noms", "tu-s", "verbes-cer-ger", "pc-auxiliaire", "pp-terminaison", "cod-coi", "consonnes-doubles", "accents",
+    "ca-sa", "sais-sait", "mes-mais-met", "pres-pret", "ma-m-a", "cet-cette", "accord-gn", "accord-sujet-verbe", "pluriel-noms", "feminin", "chaque-chacun", "tu-s", "verbes-cer-ger", "pc-auxiliaire", "pp-terminaison", "cod-coi", "consonnes-doubles", "accents",
     "conj-groupes", "conj-base-present", "conj-base-imparfait", "conj-base-futur",
     "infinitif-participe", "ce-se-ces-ses", "si-s-y", "ni-n-y", "sans-s-en", "ce-ceux", "quel-quelle-qu-elle", "pp-etre-avoir",
     "conj-present", "futur-conditionnel", "conj-futur", "pp-cod-avant",
-    "tout", "conj-imperatif", "vingt-cent-mille", "couleurs", "demi-nu", "amment-emment", "dont-que", "cest-ce-sont", "negation-ne", "trait-union", "majuscules", "conditionnel-passe", "ai-ais", "du-du", "parce-que", "notre-notre", "interrogation-indirecte", "mots-difficiles", "pronoms-relatifs", "virgule", "concordance-temps", "constructions-verbes", "conj-subjonctif",
+    "tout", "noms-composes", "meme", "accord-on-vous", "conj-imperatif", "vingt-cent-mille", "couleurs", "demi-nu", "amment-emment", "dont-que", "cest-ce-sont", "negation-ne", "trait-union", "majuscules", "conditionnel-passe", "ai-ais", "du-du", "parce-que", "notre-notre", "interrogation-indirecte", "mots-difficiles", "pronoms-relatifs", "virgule", "concordance-temps", "constructions-verbes", "conj-subjonctif",
     "accords-sujet-delicats", "modes-conjonctions", "pp-pronominaux", "quelque-quel-que",
     "quand-quant", "plutot-plus-tot", "quoique", "davantage", "voir-voire", "cense-sense", "participe-present-adjectif", "pp-infinitif", "conj-participe", "conj-passe-simple",
     "constructions-fautives", "paronymes"
   ],
 
   liens: {
+    "feminin": ["accord-gn"],
+    "noms-composes": ["pluriel-noms", "trait-union"],
+    "chaque-chacun": ["accord-sujet-verbe"],
+    "accord-on-vous": ["pp-etre-avoir", "on-ont"],
+    "meme": ["tout"],
     "voir-voire": ["paronymes"],
     "cense-sense": ["paronymes"],
     "quoique": ["quelque-quel-que"],

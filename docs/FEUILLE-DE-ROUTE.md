@@ -14,7 +14,7 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 3. L'orthographe d'usage (consonnes doubles, accents, -amment / -emment, majuscules, trait d'union) : la catégorie entièrement absente.
 4. La ponctuation, puis les règles 🟢.
 
-## Déjà réalisées (79 règles)
+## Déjà réalisées (84 règles)
 
 - [x] a / à — `a-a`
 - [x] Infinitif ou participe passé : -er, -é, -ez — `infinitif-participe`
@@ -96,6 +96,11 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 - [x] davantage / d'avantage — `davantage`
 - [x] voir / voire — `voir-voire`
 - [x] censé / sensé — `cense-sense`
+- [x] Féminin des noms et des adjectifs — `feminin`
+- [x] Chaque / chacun — `chaque-chacun`
+- [x] Pluriel des noms composés — `noms-composes`
+- [x] Même / mêmes — `meme`
+- [x] Accord avec « on » et le « vous » de politesse — `accord-on-vous`
 
 ## 1. Homophones
 
@@ -117,11 +122,11 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 
 ## 2. Accords
 
-- [ ] 🟠 Féminin des noms et des adjectifs — collège
-- [ ] 🟠 Chaque / chacun — collège
-- [ ] 🟠 Pluriel des noms composés (des grands-mères, des après-midi) — lycée
-- [ ] 🟠 Même / mêmes (adverbe ou adjectif) — lycée
-- [ ] 🟠 Accord avec « on », le « vous » de politesse, le « nous » de modestie — lycée
+- [x] 🟠 Féminin des noms et des adjectifs — collège → `feminin`
+- [x] 🟠 Chaque / chacun — collège → `chaque-chacun`
+- [x] 🟠 Pluriel des noms composés (des grands-mères, des après-midi) — lycée → `noms-composes`
+- [x] 🟠 Même / mêmes (adverbe ou adjectif) — lycée → `meme`
+- [x] 🟠 Accord avec « on », le « vous » de politesse, le « nous » de modestie — lycée → `accord-on-vous`
 - [ ] 🟠 Participe passé employé seul, en tête de phrase — lycée
 - [ ] 🟠 Ci-joint, ci-inclus, excepté, vu, passé — supérieur
 - [ ] 🟠 Sujets coordonnés (ou, ni, comme, ainsi que, avec) — supérieur
