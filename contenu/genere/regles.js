@@ -8331,6 +8331,209 @@ window.PLUME_REGLES = [
   "bref": "- **dû** (avec accent) vient du verbe **devoir** : j'ai **dû** partir. Sinon, **du** : **du** pain.\n- **sûr** = **certain** : je suis **sûr**. Sinon, **sur** : **sur** la table.\n- **mûr** = **à point** : un fruit **mûr**. Sinon, **mur** : le **mur**."
  },
  {
+  "id": "elision",
+  "titre": "L'élision : l', qu', jusqu'à, presqu'île",
+  "resume": "Lorsqu'il, jusqu'à, l'hôpital… mais le héros, presque arrivé, si elle.",
+  "niveau": "lycee",
+  "fiche": "- **le, la, de, je, me, te, se, ne, que** perdent leur voyelle devant une **voyelle** ou un **h muet** : **l'**arbre, **l'**hôpital, **qu'**il, **j'**aime.\n- Les mots formés avec **que** font de même : **lorsqu'**il, **puisqu'**il, **quoiqu'**elle, **jusqu'**à, **quelqu'**un.\n- **si** ne s'élide que devant **il** et **ils** : **s'il** vient, mais **si elle** vient.\n\n**Le test** : le mot suivant commence-t-il par une voyelle ou un h muet (on fait la liaison : les‿hôpitaux) ?\n> lorsque + il → **lorsqu'il**.\n> le + héros (h aspiré : les / héros, sans liaison) → **le héros**.\n\n**Les pièges** :\n- Devant un **h aspiré**, pas d'élision : **le** héros, **le** hoquet, **le** hérisson, **la** hache.\n- **presque** ne s'élide que dans **presqu'île** : il est **presque** arrivé.\n\n**Pour aller plus loin**\n- On ne fait pas l'élision devant **onze** : le **onze** mars.\n- Pour reconnaître un h aspiré, faites le pluriel : s'il n'y a pas de liaison (les / héros), il est aspiré.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Lorsque il>Lorsqu'il} pleut, je lis.",
+    "e": "« Lorsque » devant « il » : élision, « lorsqu'il ».",
+    "id": "elision.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je t'attendrai {jusque à>jusqu'à} midi.",
+    "e": "« Jusque » devant « à » : « jusqu'à ».",
+    "id": "elision.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Le hôpital>L'hôpital} est fermé la nuit.",
+    "e": "« Hôpital » commence par un h muet (les‿hôpitaux) : « l'hôpital ».",
+    "id": "elision.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{L'héros>Le héros} du film est courageux.",
+    "e": "« Héros » commence par un h aspiré (les / héros, sans liaison) : pas d'élision.",
+    "id": "elision.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Reste à la maison, {puisque il>puisqu'il} pleut.",
+    "e": "« Puisque » devant « il » : « puisqu'il ».",
+    "id": "elision.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Quelque un>Quelqu'un} a sonné.",
+    "e": "« Quelqu'un » s'écrit avec une apostrophe.",
+    "id": "elision.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je ne sais pas {si il>s'il} viendra.",
+    "e": "« Si » devant « il » : « s'il ».",
+    "id": "elision.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a {l'hoquet>le hoquet} depuis ce matin.",
+    "e": "« Hoquet » commence par un h aspiré : « le hoquet ».",
+    "id": "elision.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Lorsqu'elle est arrivée, le héros dormait déjà.",
+    "e": "Correct : « lorsqu'elle » (voyelle), « le héros » (h aspiré).",
+    "id": "elision.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Nous avons fait le tour de la ___.",
+    "o": [
+     "presqu'île",
+     "presque île"
+    ],
+    "a": 0,
+    "e": "« Presqu'île » est le seul mot où « presque » s'élide.",
+    "id": "elision.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "élision ou pas ?",
+    "c": [
+     "élision (l')",
+     "pas d'élision (le, la)"
+    ],
+    "items": [
+     [
+      "… hôtel",
+      0
+     ],
+     [
+      "… héros",
+      1
+     ],
+     [
+      "… haricot",
+      1
+     ],
+     [
+      "… homme",
+      0
+     ],
+     [
+      "… hache",
+      1
+     ],
+     [
+      "… arbre",
+      0
+     ]
+    ],
+    "e": "Devant une voyelle ou un h muet (hôtel, homme) : élision. Devant un h aspiré (héros, haricot, hache) : pas d'élision.",
+    "id": "elision.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il est {presqu'arrivé>presque arrivé}.",
+    "e": "« Presque » ne s'élide que dans « presqu'île ».",
+    "id": "elision.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous sommes {l'onze>le onze} mars.",
+    "e": "Pas d'élision devant « onze ».",
+    "id": "elision.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{S'elle>Si elle} vient, je pars.",
+    "e": "« Si » ne s'élide que devant « il » ou « ils ».",
+    "id": "elision.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Puisqu'il le faut, je viendrai jusqu'à la gare.",
+    "e": "Correct : « puisqu'il » et « jusqu'à » : élisions devant une voyelle.",
+    "id": "elision.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "___ hibou chante la nuit.",
+    "o": [
+     "Le",
+     "L'"
+    ],
+    "a": 0,
+    "e": "« Hibou » commence par un h aspiré : « le hibou ».",
+    "id": "elision.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'ai vu {l'hérisson>le hérisson} dans le jardin.",
+    "e": "« Hérisson » commence par un h aspiré : « le hérisson ».",
+    "id": "elision.17"
+   }
+  ],
+  "bref": "- Devant une **voyelle** ou un **h muet**, on remplace la voyelle par une **apostrophe** : **l'**hôpital, **lorsqu'**il, **jusqu'**à.\n- **Pas d'élision** devant un **h aspiré** : **le** héros, **le** hoquet.\n- **si** ne s'élide que devant **il** : **s'il**, mais **si elle**."
+ },
+ {
   "id": "et-est",
   "titre": "et ou est",
   "resume": "L'addition ou le verbe être ? Le test de « était ».",
@@ -9922,6 +10125,209 @@ window.PLUME_REGLES = [
   "bref": "- Devant un **verbe**, **leur** ne prend **jamais de s** : je **leur** parle. On peut dire **lui**.\n- Devant un **nom**, on regarde le nom : **leur** maison (une seule), **leurs** enfants (plusieurs).\n\n> Je leur écris. → Je lui écris ✔ → **leur**\n> Ils rangent leurs affaires. → « affaires » est au pluriel → **leurs**"
  },
  {
+  "id": "m-devant-mbp",
+  "titre": "m devant m, b, p",
+  "resume": "Emporter, ombre, important : devant m, b ou p, on écrit m au lieu de n.",
+  "niveau": "college",
+  "fiche": "- Devant les lettres **m**, **b** et **p**, le son « an », « on » ou « in » s'écrit avec un **m** : e**m**porter, e**m**brasser, o**m**bre, ta**m**bour, i**m**portant, co**m**poser.\n- Devant toutes les autres consonnes, il s'écrit avec un **n** : co**n**tre, i**n**téressant, cha**n**ter.\n\n**Le test** : regardez la lettre qui suit. **m, b, p** → **m**.\n> e?porter → p après → **emporter**.\n> co?tre → t après → **contre**.\n\n**Les pièges** :\n- Devant un **m**, on obtient souvent deux m : e**mm**ener, i**mm**ense, i**mm**obile.\n- Trois exceptions courantes : **bonbon**, **embonpoint**, **néanmoins**.\n\n**Pour aller plus loin**\n- **bonbonne** suit **bonbon** : un n devant b.\n- **néanmoins** garde le n de « néant ».",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il faut {enporter>emporter} un parapluie.",
+    "e": "Devant p : m, « emporter ».",
+    "id": "m-devant-mbp.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce rendez-vous est très {inportant>important}.",
+    "e": "Devant p : m, « important ».",
+    "id": "m-devant-mbp.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le chat dort à l'{onbre>ombre}.",
+    "e": "Devant b : m, « ombre ».",
+    "id": "m-devant-mbp.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle aime {conposer>composer} des chansons.",
+    "e": "Devant p : m, « composer ».",
+    "id": "m-devant-mbp.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le {tanbour>tambour} résonne dans la rue.",
+    "e": "Devant b : m, « tambour ».",
+    "id": "m-devant-mbp.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il est {inpossible>impossible} d'entrer.",
+    "e": "Devant p : m, « impossible ».",
+    "id": "m-devant-mbp.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle a ouvert un {conpte>compte} en banque.",
+    "e": "Devant p : m, « compte ».",
+    "id": "m-devant-mbp.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'ai {enmené>emmené} mon frère au parc.",
+    "e": "Devant m : m, d'où deux m, « emmené ».",
+    "id": "m-devant-mbp.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a acheté des bonbons et une lampe.",
+    "e": "Correct : « bonbon » est une exception (n devant b) ; « lampe » suit la règle (m devant p).",
+    "id": "m-devant-mbp.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il est ___ de mentir à sa sœur.",
+    "o": [
+     "impossible",
+     "inpossible"
+    ],
+    "a": 0,
+    "e": "Devant p : m.",
+    "id": "m-devant-mbp.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "m ou n ?",
+    "c": [
+     "m",
+     "n"
+    ],
+    "items": [
+     [
+      "o…bre",
+      0
+     ],
+     [
+      "co…tre",
+      1
+     ],
+     [
+      "ca…pagne",
+      0
+     ],
+     [
+      "i…téressant",
+      1
+     ],
+     [
+      "e…mener",
+      0
+     ],
+     [
+      "bo…bon",
+      1
+     ]
+    ],
+    "e": "Devant m, b, p : m (ombre, campagne, emmener). Ailleurs : n (contre, intéressant). « Bonbon » est une exception.",
+    "id": "m-devant-mbp.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les enfants adorent les {bombons>bonbons}.",
+    "e": "« Bonbon » est une exception : n devant b.",
+    "id": "m-devant-mbp.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Avec l'âge, il a pris de l'{enbonpoint>embonpoint}.",
+    "e": "« Em- » devant b, puis « -bon- » avec un n : « embonpoint » est une exception.",
+    "id": "m-devant-mbp.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il est fatigué ; {néammoins>néanmoins}, il continue.",
+    "e": "« Néanmoins » est une exception : n devant m.",
+    "id": "m-devant-mbp.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils habitent une {inmense>immense} maison.",
+    "e": "Devant m : m, d'où deux m, « immense ».",
+    "id": "m-devant-mbp.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le pompier a emmené l'enfant à l'ombre.",
+    "e": "Correct : « emmené » (m devant m), « ombre » (m devant b).",
+    "id": "m-devant-mbp.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ils se sont ___ dans le parc.",
+    "o": [
+     "embrassés",
+     "enbrassés"
+    ],
+    "a": 0,
+    "e": "Devant b : m, « embrassés ».",
+    "id": "m-devant-mbp.17"
+   }
+  ],
+  "bref": "- Devant **m, b, p**, on écrit **m** : e**m**porter, o**m**bre, i**m**portant.\n- Partout ailleurs, on écrit **n** : co**n**tre, i**n**téressant.\n- Exceptions : bo**n**bon, embo**n**point, néa**n**moins."
+ },
+ {
   "id": "ma-m-a",
   "titre": "ma ou m'a, ta ou t'a, mon ou m'ont, ton ou t'ont",
   "resume": "Ma veste (la mienne) ; il m'a prêté (me + a, verbe avoir).",
@@ -11234,6 +11640,210 @@ window.PLUME_REGLES = [
   "bref": "Quelques mots très courants sont souvent mal écrits. Les plus fréquents :\n- **parmi** et **malgré** n'ont **pas de s** ;\n- **rémunérer** (et non « rénumérer ») ;\n- **connexion** et **réflexion** finissent par **-xion** ;\n- **occurrence** prend deux c et deux r ; **dilemme** prend deux m ;\n- **volontiers**, **toujours**, **longtemps** finissent par un **s**."
  },
  {
+  "id": "mots-invariables",
+  "titre": "Les mots invariables courants",
+  "resume": "Beaucoup, d'abord, aujourd'hui, plusieurs, autrefois : des mots qui s'écrivent toujours pareil.",
+  "niveau": "college",
+  "fiche": "Les **mots invariables** (adverbes, prépositions, conjonctions) ne s'accordent jamais. Comme ils sont très fréquents, il faut connaître leur orthographe.\n\n- **Avec un s final** : plusieurs, autrefois, quelquefois, dehors, depuis, alors.\n- **Sans s final** : beaucoup, souvent, ensemble, maintenant, combien, pendant.\n- **Avec une apostrophe** : d'abord, aujourd'hui.\n\n**Les pièges** :\n- **plusieurs** prend toujours un s, même s'il ne s'entend pas : **plusieurs** livres.\n- **ensemble** ne prend jamais de s, même au pluriel : nous travaillons **ensemble**.\n- **beaucoup** se termine par un p muet.\n\n**Pour aller plus loin**\n- **tandis que** s'écrit en deux mots : elle lit **tandis que** je cuisine.\n- **aujourd'hui** : l'apostrophe vient de « au jour d'hui ».",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a {beaucoups>beaucoup} d'amis.",
+    "e": "« Beaucoup » est invariable : jamais de s.",
+    "id": "mots-invariables.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Dabord>D'abord}, lave-toi les mains.",
+    "e": "« D'abord » s'écrit avec une apostrophe.",
+    "id": "mots-invariables.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Aujourdhui>Aujourd'hui}, il fait beau.",
+    "e": "« Aujourd'hui » s'écrit avec une apostrophe.",
+    "id": "mots-invariables.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous allons {souvant>souvent} au parc.",
+    "e": "« Souvent » s'écrit avec -ent.",
+    "id": "mots-invariables.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'ai lu {plusieur>plusieurs} livres cet été.",
+    "e": "« Plusieurs » prend toujours un s.",
+    "id": "mots-invariables.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Autrefoi>Autrefois}, on s'éclairait à la bougie.",
+    "e": "« Autrefois » prend un s final.",
+    "id": "mots-invariables.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les enfants jouent {dehor>dehors}.",
+    "e": "« Dehors » prend un s final.",
+    "id": "mots-invariables.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous travaillons {ensembles>ensemble}.",
+    "e": "« Ensemble » est invariable : jamais de s.",
+    "id": "mots-invariables.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Maintenant, nous partons ensemble pendant quelques jours.",
+    "e": "Correct : « maintenant », « ensemble », « pendant » ne prennent pas de s.",
+    "id": "mots-invariables.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "___ coûte ce livre ?",
+    "o": [
+     "Combien",
+     "Combient",
+     "Combiens"
+    ],
+    "a": 0,
+    "e": "« Combien » s'écrit sans t ni s.",
+    "id": "mots-invariables.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "avec ou sans s final ?",
+    "c": [
+     "avec s final",
+     "sans s final"
+    ],
+    "items": [
+     [
+      "plusieur…",
+      0
+     ],
+     [
+      "autrefoi…",
+      0
+     ],
+     [
+      "dehor…",
+      0
+     ],
+     [
+      "ensemble…",
+      1
+     ],
+     [
+      "maintenant…",
+      1
+     ],
+     [
+      "souvent…",
+      1
+     ]
+    ],
+    "e": "Plusieurs, autrefois, dehors prennent un s. Ensemble, maintenant, souvent n'en prennent pas.",
+    "id": "mots-invariables.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il vient nous voir {quelquefoi>quelquefois}.",
+    "e": "« Quelquefois » prend un s final.",
+    "id": "mots-invariables.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je l'attends {depui>depuis} une heure.",
+    "e": "« Depuis » prend un s final.",
+    "id": "mots-invariables.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Alor>Alors}, tu viens ?",
+    "e": "« Alors » prend un s final.",
+    "id": "mots-invariables.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle lit {tandisque>tandis que} je cuisine.",
+    "e": "« Tandis que » s'écrit en deux mots.",
+    "id": "mots-invariables.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Autrefois, il venait souvent, mais aujourd'hui il habite trop loin.",
+    "e": "Correct : « autrefois » (s), « souvent » (sans s), « aujourd'hui » (apostrophe).",
+    "id": "mots-invariables.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il a ___ voyagé.",
+    "o": [
+     "beaucoup",
+     "beaucoups"
+    ],
+    "a": 0,
+    "e": "« Beaucoup » est invariable.",
+    "id": "mots-invariables.17"
+   }
+  ],
+  "bref": "Ces mots ne changent **jamais**. Il faut retenir leur orthographe :\n- **avec un s** : plusieur**s**, autrefoi**s**, quelquefoi**s**, dehor**s**, depui**s**, alor**s** ;\n- **sans s** : beaucou**p**, souven**t**, ensembl**e**, maintenan**t** ;\n- **avec une apostrophe** : **d'**abord, aujour**d'**hui."
+ },
+ {
   "id": "negation-ne",
   "titre": "La négation : ne pas oublier « ne »",
   "resume": "À l'écrit, la négation a deux parties : ne… pas, ne… jamais, personne ne…",
@@ -11870,6 +12480,209 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "Dans un nom composé, **seuls les noms et les adjectifs** prennent la marque du pluriel :\n- des **coffres-forts** (nom + adjectif), des **choux-fleurs** (nom + nom) ;\n- des **arcs-en-ciel** (seul le premier nom : « arcs de ciel ») ;\n- des **tire-bouchons**, des **sous-marins** (le verbe et « sous » ne changent pas)."
+ },
+ {
+  "id": "noms-ee-te",
+  "titre": "Les noms en -é, -ée, -té, -tié",
+  "resume": "Une année, une idée, mais la beauté, la moitié : les noms féminins en -té et -tié n'ont pas de e.",
+  "niveau": "college",
+  "fiche": "- Les noms **féminins** terminés par le son « é » prennent un **e** : une ann**ée**, une id**ée**, une journ**ée**, une arriv**ée**.\n- **Exception** : les noms féminins en **-té** ou **-tié** n'en prennent pas : la beau**té**, la liber**té**, la san**té**, la moi**tié**, l'ami**tié**, la pi**tié**.\n\n**Le test** : le nom est-il féminin ? Se termine-t-il par « -té » ou « -tié » ?\n> une année → féminin, pas en -té → **-ée**.\n> la beauté → féminin en -té → **-é**.\n\n**Les pièges** :\n- Quelques noms en -tée font exception : la **dictée**, la **montée**, la **portée**, la **jetée**, la **pâtée**.\n- Des noms **masculins** se terminent par -ée : le **musée**, le **lycée**, le **trophée**.\n\n**Pour aller plus loin**\n- Les noms qui indiquent un **contenu** prennent -ée, même en -tée : une pelle**tée** de terre, une assie**ttée** de soupe.\n- Les noms masculins en « é » s'écrivent le plus souvent **-é** : le café, le marché ; mais le musée, le lycée.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La {beautée>beauté} de ce paysage est rare.",
+    "e": "Nom féminin en -té : pas de e, « beauté ».",
+    "id": "noms-ee-te.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'ai mangé la {moitiée>moitié} du gâteau.",
+    "e": "Nom féminin en -tié : pas de e, « moitié ».",
+    "id": "noms-ee-te.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Notre {amitiée>amitié} dure depuis longtemps.",
+    "e": "Nom féminin en -tié : « amitié ».",
+    "id": "noms-ee-te.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Bonne {anné>année} à tous !",
+    "e": "Nom féminin qui n'est pas en -té : « année ».",
+    "id": "noms-ee-te.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a fait une {dicté>dictée} sans faute.",
+    "e": "« Dictée » fait partie des exceptions en -tée.",
+    "id": "noms-ee-te.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La {libertée>liberté} est précieuse.",
+    "e": "Nom féminin en -té : « liberté ».",
+    "id": "noms-ee-te.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Quelle belle {journé>journée} !",
+    "e": "Nom féminin qui n'est pas en -té : « journée ».",
+    "id": "noms-ee-te.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle étudie à l'{universitée>université}.",
+    "e": "Nom féminin en -té : « université ».",
+    "id": "noms-ee-te.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cette soirée était pleine de gaieté.",
+    "e": "Correct : « soirée » (féminin, -ée) et « gaieté » (féminin en -té).",
+    "id": "noms-ee-te.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il a eu une bonne ___.",
+    "o": [
+     "idée",
+     "idé"
+    ],
+    "a": 0,
+    "e": "Nom féminin qui n'est pas en -té : « idée ».",
+    "id": "noms-ee-te.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "-é ou -ée ?",
+    "c": [
+     "-é",
+     "-ée"
+    ],
+    "items": [
+     [
+      "la santé",
+      0
+     ],
+     [
+      "l'arrivée",
+      1
+     ],
+     [
+      "la pitié",
+      0
+     ],
+     [
+      "la dictée",
+      1
+     ],
+     [
+      "la vérité",
+      0
+     ],
+     [
+      "la montée",
+      1
+     ]
+    ],
+    "e": "Les noms en -té et -tié n'ont pas de e (santé, pitié, vérité). Dictée et montée sont des exceptions ; arrivée suit la règle générale.",
+    "id": "noms-ee-te.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La {porté>portée} de ce tir est impressionnante.",
+    "e": "« Portée » fait partie des exceptions en -tée.",
+    "id": "noms-ee-te.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous avons visité le {musé>musée} du village.",
+    "e": "« Musée » est masculin, mais il s'écrit -ée.",
+    "id": "noms-ee-te.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a jeté une {pelleté>pelletée} de terre.",
+    "e": "Un nom de contenu (ce que contient la pelle) : « pelletée ».",
+    "id": "noms-ee-te.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La {sociétée>société} change vite.",
+    "e": "Nom féminin en -té : « société ».",
+    "id": "noms-ee-te.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La jetée du port est fermée à marée haute.",
+    "e": "Correct : « jetée » (exception en -tée) et « marée » (-ée).",
+    "id": "noms-ee-te.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ma ___ est meilleure qu'hier.",
+    "o": [
+     "santé",
+     "santée"
+    ],
+    "a": 0,
+    "e": "Nom féminin en -té : « santé ».",
+    "id": "noms-ee-te.17"
+   }
+  ],
+  "bref": "- Les noms **féminins** en « é » s'écrivent **-ée** : une ann**ée**, une id**ée**.\n- Sauf ceux en **-té** et **-tié** : la beau**té**, la moi**tié**, l'ami**tié**.\n- Quelques exceptions en -tée : la dic**tée**, la mon**tée**, la por**tée**, la je**tée**."
  },
  {
   "id": "notre-notre",
@@ -16841,6 +17654,210 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "- **s'y** = **se + y**, devant un verbe : il **s'y** rend → je **m'y** rends.\n- **si** marque une condition ou l'intensité : **si** tu veux ; il fait **si** froid.\n- **ci** = ici, avec un trait d'union : celui-**ci**, **ci**-dessous."
+ },
+ {
+  "id": "son-s",
+  "titre": "Le son « s » : s, ss, c, ç, sc",
+  "resume": "Poisson (ss entre deux voyelles), glace (c devant e), garçon (ç devant o).",
+  "niveau": "college",
+  "fiche": "- Entre deux voyelles, un seul **s** se prononce « z » : une ro**s**e, un poi**s**on. Pour entendre « s », on double : un poi**ss**on, gli**ss**er.\n- La lettre **c** se prononce « s » devant **e, i, y** : gla**c**e, **c**inéma.\n- Devant **a, o, u**, il faut une **cédille** : gar**ç**on, le**ç**on, re**ç**u.\n- Quelques mots s'écrivent avec **sc** : **sc**ience, pi**sc**ine, de**sc**endre.\n\n**Le test** : regardez les voyelles autour du son.\n> poi?on, entre deux voyelles → **ss** (poisson).\n> gar?on, devant o → **ç** (garçon).\n\n**Les pièges** :\n- Le sens change : un **poison** / un **poisson** ; un **désert** / un **dessert**.\n- La cédille ne se met jamais devant **e** ou **i** : glace, ciel (sans cédille).\n\n**Pour aller plus loin**\n- Les mots en **sc** viennent souvent du latin : **sc**ience, con**sc**ience, a**sc**enseur.\n- **nécessaire** : un c puis deux s.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le {poison>poisson} nage dans le bocal.",
+    "e": "Entre deux voyelles, pour entendre « s » : « ss ». Un « poison » est autre chose.",
+    "id": "son-s.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce {garcon>garçon} est mon frère.",
+    "e": "Devant o, le c prend une cédille : « garçon ».",
+    "id": "son-s.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a bien appris sa {leson>leçon}.",
+    "e": "Le son « s » devant o s'écrit ici « ç » : « leçon ».",
+    "id": "son-s.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Attention, ça {glise>glisse} !",
+    "e": "Entre deux voyelles, « s » se prononcerait « z » : « glisse ».",
+    "id": "son-s.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'ai pris un {desert>dessert} au chocolat.",
+    "e": "Le plat sucré s'écrit avec ss : « dessert ». Le « désert » est une étendue de sable.",
+    "id": "son-s.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a mangé une {glasse>glace}.",
+    "e": "Devant e, le c se prononce « s » : « glace ».",
+    "id": "son-s.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La {sience>science} m'intéresse beaucoup.",
+    "e": "« Science » s'écrit avec sc.",
+    "id": "son-s.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'ai {recu>reçu} ta lettre.",
+    "e": "Devant u, il faut une cédille : « reçu ».",
+    "id": "son-s.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le garçon a reçu une glace à la pistache.",
+    "e": "Correct : « ç » devant o et u, « c » devant e.",
+    "id": "son-s.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Le ___ est rouge vif.",
+    "o": [
+     "poisson",
+     "poison"
+    ],
+    "a": 0,
+    "e": "L'animal s'écrit avec ss : « poisson ».",
+    "id": "son-s.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "ss ou ç ?",
+    "c": [
+     "ss",
+     "ç"
+    ],
+    "items": [
+     [
+      "pa…er (passer)",
+      0
+     ],
+     [
+      "fa…ade",
+      1
+     ],
+     [
+      "cla…e",
+      0
+     ],
+     [
+      "gar…on",
+      1
+     ],
+     [
+      "po…ible",
+      0
+     ],
+     [
+      "re…u",
+      1
+     ]
+    ],
+    "e": "Entre deux voyelles, devant e ou i : ss. Devant a, o, u : ç.",
+    "id": "son-s.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il faut {desendre>descendre} l'escalier.",
+    "e": "« Descendre » s'écrit avec sc.",
+    "id": "son-s.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous allons à la {pisine>piscine}.",
+    "e": "« Piscine » s'écrit avec sc.",
+    "id": "son-s.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "C'est {nésessaire>nécessaire}.",
+    "e": "« Nécessaire » : un c, puis deux s.",
+    "id": "son-s.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le {macon>maçon} construit un mur.",
+    "e": "Devant o, il faut une cédille : « maçon ».",
+    "id": "son-s.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il est descendu à la piscine en ascenseur.",
+    "e": "Correct : « descendu », « piscine » et « ascenseur » s'écrivent avec sc.",
+    "id": "son-s.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il fait ses ___ de mathématiques.",
+    "o": [
+     "exercices",
+     "exercisses",
+     "exersices"
+    ],
+    "a": 0,
+    "e": "« Exercice » : le son « s » s'écrit c devant e et i.",
+    "id": "son-s.17"
+   }
+  ],
+  "bref": "- Entre deux voyelles, **ss** pour entendre « s » : poi**ss**on (poi**s**on se prononce « z »).\n- **c** devant **e, i, y** : gla**c**e ; **ç** devant **a, o, u** : gar**ç**on, re**ç**u.\n- Quelques mots en **sc** : **sc**ience, pi**sc**ine, de**sc**endre."
  },
  {
   "id": "son-sont",

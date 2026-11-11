@@ -70,11 +70,11 @@ window.PLUME_STRUCTURE = {
       description: "L'orthographe des mots eux-mêmes : lettres doubles, accents, terminaisons.",
       sous: [
         { id: "lettres", titre: "Lettres et accents",
-          regles: ["consonnes-doubles", "accents", "du-du", "mots-difficiles"] },
+          regles: ["consonnes-doubles", "m-devant-mbp", "son-s", "accents", "du-du", "mots-invariables", "mots-difficiles"] },
         { id: "terminaisons", titre: "Terminaisons",
-          regles: ["amment-emment"] },
+          regles: ["noms-ee-te", "amment-emment"] },
         { id: "majuscules-traits", titre: "Majuscules et trait d'union",
-          regles: ["majuscules", "trait-union"] }
+          regles: ["majuscules", "trait-union", "elision"] }
       ]
     },
     {
@@ -107,17 +107,20 @@ window.PLUME_STRUCTURE = {
   // les valide d'emblée pour ceux qui les maîtrisent.
   parcours: [
     "a-a", "et-est", "on-ont", "son-sont", "ou-ou", "la-la", "leur-leurs", "peu-peut",
-    "ca-sa", "sais-sait", "mes-mais-met", "pres-pret", "ma-m-a", "cet-cette", "accord-gn", "accord-sujet-verbe", "pluriel-noms", "feminin", "chaque-chacun", "tu-s", "verbes-cer-ger", "pc-auxiliaire", "pp-terminaison", "cod-coi", "consonnes-doubles", "accents",
+    "ca-sa", "sais-sait", "mes-mais-met", "pres-pret", "ma-m-a", "cet-cette", "accord-gn", "accord-sujet-verbe", "pluriel-noms", "feminin", "chaque-chacun", "tu-s", "verbes-cer-ger", "pc-auxiliaire", "pp-terminaison", "cod-coi", "consonnes-doubles", "m-devant-mbp", "son-s", "noms-ee-te", "mots-invariables", "accents",
     "conj-groupes", "conj-base-present", "conj-base-imparfait", "conj-base-futur",
     "infinitif-participe", "ce-se-ces-ses", "si-s-y", "ni-n-y", "sans-s-en", "ce-ceux", "quel-quelle-qu-elle", "pp-etre-avoir",
     "conj-present", "futur-conditionnel", "conj-futur", "pp-cod-avant",
-    "tout", "noms-composes", "meme", "accord-on-vous", "conj-imperatif", "vingt-cent-mille", "couleurs", "demi-nu", "amment-emment", "dont-que", "cest-ce-sont", "negation-ne", "trait-union", "majuscules", "conditionnel-passe", "ai-ais", "du-du", "parce-que", "notre-notre", "interrogation-indirecte", "mots-difficiles", "pronoms-relatifs", "virgule", "concordance-temps", "constructions-verbes", "conj-subjonctif",
+    "tout", "noms-composes", "meme", "accord-on-vous", "conj-imperatif", "vingt-cent-mille", "couleurs", "demi-nu", "amment-emment", "dont-que", "cest-ce-sont", "negation-ne", "trait-union", "elision", "majuscules", "conditionnel-passe", "ai-ais", "du-du", "parce-que", "notre-notre", "interrogation-indirecte", "mots-difficiles", "pronoms-relatifs", "virgule", "concordance-temps", "constructions-verbes", "conj-subjonctif",
     "accords-sujet-delicats", "modes-conjonctions", "pp-pronominaux", "quelque-quel-que",
     "quand-quant", "plutot-plus-tot", "quoique", "davantage", "voir-voire", "cense-sense", "participe-present-adjectif", "pp-infinitif", "conj-participe", "conj-passe-simple",
     "constructions-fautives", "paronymes"
   ],
 
   liens: {
+    "son-s": ["verbes-cer-ger"],
+    "mots-invariables": ["mots-difficiles"],
+    "elision": ["trait-union", "si-s-y"],
     "feminin": ["accord-gn"],
     "noms-composes": ["pluriel-noms", "trait-union"],
     "chaque-chacun": ["accord-sujet-verbe"],

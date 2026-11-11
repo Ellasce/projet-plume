@@ -14,7 +14,7 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 3. L'orthographe d'usage (consonnes doubles, accents, -amment / -emment, majuscules, trait d'union) : la catégorie entièrement absente.
 4. La ponctuation, puis les règles 🟢.
 
-## Déjà réalisées (84 règles)
+## Déjà réalisées (89 règles)
 
 - [x] a / à — `a-a`
 - [x] Infinitif ou participe passé : -er, -é, -ez — `infinitif-participe`
@@ -101,6 +101,11 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 - [x] Pluriel des noms composés — `noms-composes`
 - [x] Même / mêmes — `meme`
 - [x] Accord avec « on » et le « vous » de politesse — `accord-on-vous`
+- [x] m devant m, b, p — `m-devant-mbp`
+- [x] Le son « s » — `son-s`
+- [x] Noms en -é, -ée, -té, -tié — `noms-ee-te`
+- [x] Mots invariables courants — `mots-invariables`
+- [x] L'élision — `elision`
 
 ## 1. Homophones
 
@@ -152,14 +157,14 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 
 ## 4. Orthographe d'usage (catégorie à créer)
 
-- [ ] 🟠 m devant m, b, p — collège
-- [ ] 🟠 Le son « s » : s, ss, c, ç, sc — collège
+- [x] 🟠 m devant m, b, p — collège → `m-devant-mbp`
+- [x] 🟠 Le son « s » : s, ss, c, ç, sc — collège → `son-s`
 - [ ] 🟠 Lettres muettes en fin de mot (-ement, -ment, -ent) — collège
-- [ ] 🟠 Noms en -ée, -té, -tié (l'année, la beauté, la moitié) — collège
-- [ ] 🟠 Mots invariables courants (parmi, malgré, toujours, longtemps) — collège
+- [x] 🟠 Noms en -ée, -té, -tié (l'année, la beauté, la moitié) — collège → `noms-ee-te`
+- [x] 🟠 Mots invariables courants (parmi, malgré, toujours, longtemps) — collège → `mots-invariables`
 - [ ] 🟠 Mots en -tion, -sion, -ssion, -xion — lycée
 - [ ] 🟠 Préfixes : ac-, ap-, ad-, at-, ir-, il-, im- — lycée
-- [ ] 🟠 Élision et apostrophe (presqu'île, lorsqu'il, jusqu'à) — lycée
+- [x] 🟠 Élision et apostrophe (presqu'île, lorsqu'il, jusqu'à) — lycée → `elision`
 - [ ] 🟠 Accent circonflexe : quand le garder (dû, sûr, mûr, jeûne) — supérieur
 - [ ] 🟢 Le son « g » et « j » : g, ge, gu — collège
 - [ ] 🟢 Noms en -ail / -aille, -eil / -eille, -euil / -euille — collège
