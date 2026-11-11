@@ -40,7 +40,7 @@ Niveau : collège.
 ## Pour aller plus loin
 
 - **çà** (avec un accent grave) est un adverbe ancien : **çà et là** (ici et là). Des fleurs poussaient **çà et là**.
-- **ça a** : le pronom suivi du verbe avoir : **ça a** été un beau moment (cela a été).
+- **ça a** : le pronom suivi du verbe avoir : **ça a** duré toute la soirée (cela a duré).
 
 ## Exercices essentiels
 

@@ -60,7 +60,7 @@ Niveau : collège.
 5. Ajoute un [peut → peu] de sel.
    Pourquoi : « Un peu de sel » : petite quantité, « peu ».
 
-6. Il me faut un [peut → peu] plus de patience.
+6. Mets un [peut → peu] plus de sucre.
    Pourquoi : « Un peu plus » : quantité, « peu ».
 
 7. Le sport [peu → peut] aider à mieux dormir.

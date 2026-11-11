@@ -34,7 +34,7 @@ Le radical de ces verbes change pour garder le même son.
 
 - **-cer** : on écrit **ç** devant **a** et **o** pour garder le son « s » : nous commen**ç**ons, il lan**ç**ait.
 - **-ger** : on ajoute un **e** devant **a** et **o** pour garder le son « j » : nous man**ge**ons, je man**ge**ais.
-- **-eler / -eter** : devant une syllabe muette, la plupart prennent un **accent grave** : j'ach**è**te, il g**è**le, je l**è**ve. Mais **appeler** et **jeter** doublent la consonne : j'appe**ll**e, je je**tt**e.
+- **-eler / -eter** : devant une syllabe muette, la plupart prennent un **accent grave** : j'ach**è**te, il g**è**le, il p**è**le. Mais **appeler** et **jeter** doublent la consonne : j'appe**ll**e, je je**tt**e.
 - **-yer** : le **y** devient **i** devant un **e muet** : j'emplo**i**e, tu essu**i**es, il nettoi**e**ra.
 
 **Les pièges** :

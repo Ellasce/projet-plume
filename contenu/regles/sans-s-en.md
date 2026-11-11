@@ -13,7 +13,7 @@ Cas de base
   2. s'en : pronom réfléchi se + pronom en, devant un verbe pronominal (il s'en va, elle s'en souvient).
      Test : passer à « je » : il s'en va → je m'en vais.
 Cas particuliers et pièges
-  3. s'en devant un infinitif : il vaut mieux s'en aller.
+  3. s'en devant un infinitif : il est temps de s'en aller.
   4. sans que : sans qu'on s'en aperçoive (les deux dans la même phrase).
   5. s'en aux temps composés : elle s'en est sortie.
   6. Homophones voisins : sang (le liquide), cent (le nombre).
@@ -26,20 +26,20 @@ Niveau : collège.
 
 ## Fiche
 
-- **sans** est le contraire de **avec** : une robe **sans** manches, parler **sans** notes, **sans** arrêt.
-- **s'en** est formé de **se** et **en**. Il se place devant un verbe : il **s'en** va, elle **s'en** souvient, il ne **s'en** cache plus.
+- **sans** est le contraire de **avec** : un café **sans** sucre, réciter **sans** hésiter, **sans** arrêt.
+- **s'en** est formé de **se** et **en**. Il se place devant un verbe : il **s'en** va, elle **s'en** souvient, il ne **s'en** souvient plus.
 
 **Le test** : changez de personne. Si l'on peut dire **m'en** ou **t'en**, on écrit **s'en**.
-> Les clients s'en vont. → Je m'en vais ✔ → **s'en**.
+> Les invités s'en vont. → Je m'en vais ✔ → **s'en**.
 > Un café sans sucre. → Un café avec sucre ✔ → **sans**.
 
 **Les pièges** :
-- Devant un infinitif : il vaut mieux **s'en** aller (je ferais mieux de **m'en** aller).
+- Devant un infinitif : il est temps de **s'en** aller (il est temps de **m'en** aller).
 - Aux temps composés : elle **s'en** est sortie (je **m'en** suis sorti).
 
 ## Pour aller plus loin
 
-- **sans que** et **s'en** dans la même phrase : la vie passe **sans** qu'on **s'en** aperçoive.
+- **sans que** et **s'en** dans la même phrase : les années passent **sans** qu'on **s'en** rende compte.
 - Ne pas confondre avec **sang** (le liquide rouge) et **cent** (le nombre 100) : donner son **sang**, **cent** euros.
 
 ## Exercices essentiels

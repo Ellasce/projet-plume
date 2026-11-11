@@ -20,7 +20,7 @@ Résumé : Après que + indicatif ; bien que, pour que, je veux que + subjonctif
 ## Pour aller plus loin
 
 - **Il semble que** + subjonctif, mais **il me semble que** + indicatif.
-- Après que il **fut** parti (passé antérieur, sans accent).
+- Après qu'il **fut** parti (passé antérieur, sans accent).
 
 ## Exercices essentiels
 

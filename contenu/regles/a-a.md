@@ -33,7 +33,7 @@ Couverture : chaque cas a au moins 2 exercices ; ~15 % de phrases correctes.
 > Je vais à la plage. → Je vais avait la plage ✘ → **à**
 
 **Les pièges** :
-- **il y a** contient le verbe avoir : il y a du monde, je l'ai vu il y a trois semaines (il y avait).
+- **il y a** contient le verbe avoir : il y a du monde, nous avons déménagé il y a deux ans (il y avait).
 - **ça a** : le premier mot est « ça », le second est le verbe (ça avait marché).
 - Dans une question : **a-t-il**, **y a-t-il** (avait-il).
 - **a** et **à** peuvent se suivre : il **a à** peine mangé ; qu'est-ce que ça **a à** voir ?
@@ -44,7 +44,7 @@ Couverture : chaque cas a au moins 2 exercices ; ~15 % de phrases correctes.
 
 ## Pour aller plus loin
 
-- Après **qui**, **ça** ou **tout le monde**, c'est toujours le verbe : l'homme qui **a** rédigé, ça **a** l'air bon, tout le monde **a** des problèmes.
+- Après **qui**, **ça** ou **tout le monde**, c'est toujours le verbe : la voisine qui **a** peint ce tableau, ce gâteau **a** l'air délicieux, chacun **a** ses habitudes.
 - **Il n'y a qu'à**, **avoir à cœur**, **avoir à voir** : le verbe puis la préposition, collés.
 - Les expressions **à peine**, **à peu près**, **à nouveau** suivent souvent le verbe avoir : il **a à** peine mangé.
 - **À** en majuscule garde toujours son accent : **À** ton avis…

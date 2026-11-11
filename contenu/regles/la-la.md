@@ -59,8 +59,8 @@ Niveau : collège.
 4. Elle [la → l'a] rangée dans le tiroir.
    Pourquoi : « Elle l'avait rangée » : pronom + verbe avoir, « l'a ».
 
-5. Il ne [la → l'a] même pas ouvert.
-   Pourquoi : « Il ne l'avait même pas ouvert » : pronom + verbe avoir, « l'a ».
+5. Il ne [la → l'a] jamais rencontrée.
+   Pourquoi : « Il ne l'avait jamais rencontrée » : pronom + verbe avoir, « l'a ».
 
 6. Le vétérinaire [là → l'a] soignée rapidement.
    Pourquoi : « Le vétérinaire l'avait soignée » : pronom + verbe avoir, « l'a ».

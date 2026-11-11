@@ -45,7 +45,7 @@ Niveau : collège.
 
 - Avec **tu**, le verbe être s'écrit **es** : tu es content (tu étais content).
 - Avec **je**, attention au verbe avoir : j'**ai** faim (j'avais faim).
-- Deux sujets reliés par **et** demandent un verbe au pluriel : Véronique **et** Serge dormaient.
+- Deux sujets reliés par **et** demandent un verbe au pluriel : Julie **et** Karim jouaient aux cartes.
 
 ## Exercices essentiels
 

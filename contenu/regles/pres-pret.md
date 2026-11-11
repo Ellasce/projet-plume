@@ -30,8 +30,8 @@ Niveau : collège.
 - **prêt** veut dire **préparé**, **disposé** : je suis **prêt** à partir. C'est un adjectif : il **s'accorde** (**prête, prêts, prêtes**).
 
 **Le test** :
-> Il vit près de la plage. → Il vit loin de la plage ✔ → **près**.
-> Es-tu prêt à y aller ? → Es-tu préparé à y aller ? ✔ → **prêt**.
+> Nous habitons près de l'école. → Nous habitons loin de l'école ✔ → **près**.
+> Tu es prêt à partir ? → Tu es préparé à partir ? ✔ → **prêt**.
 
 **Les pièges** :
 - **prêt** s'accorde : les filles sont **prêtes** ; nous sommes **prêts**.

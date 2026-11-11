@@ -42,7 +42,7 @@ Niveau : lycée.
 
 - **plutôt que de** + infinitif : **plutôt que de** te plaindre, agis.
 - **plus tôt…, plus tôt…** : **plus tôt** on commence, **plus tôt** on finit.
-- **ou plutôt** sert à se corriger : ce n'est pas un échec, c'est **plutôt** une leçon.
+- **ou plutôt** sert à se corriger : c'est un échec, **ou plutôt** une leçon.
 
 ## Exercices essentiels
 

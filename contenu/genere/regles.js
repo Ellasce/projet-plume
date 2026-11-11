@@ -10,7 +10,7 @@ window.PLUME_REGLES = [
   "titre": "a ou à",
   "resume": "Le verbe avoir ou la préposition ? Le test de « avait ».",
   "niveau": "college",
-  "fiche": "- **a** (sans accent) est le verbe **avoir** : il a faim, elle a mangé.\n- **à** (avec accent) est une **préposition** : il va à Paris, une machine à laver.\n\n**Le test** : remplacez par **avait**. Si la phrase reste correcte, écrivez **a**. Sinon, écrivez **à**.\n> Elle a peur. → Elle avait peur ✔ → **a**\n> Je vais à la plage. → Je vais avait la plage ✘ → **à**\n\n**Les pièges** :\n- **il y a** contient le verbe avoir : il y a du monde, je l'ai vu il y a trois semaines (il y avait).\n- **ça a** : le premier mot est « ça », le second est le verbe (ça avait marché).\n- Dans une question : **a-t-il**, **y a-t-il** (avait-il).\n- **a** et **à** peuvent se suivre : il **a à** peine mangé ; qu'est-ce que ça **a à** voir ?\n- Expressions avec **à** : à peu près, à peine, à nouveau, à pied, à côté, à l'avance.\n- Nom ou adjectif + **à** + infinitif : une machine **à** laver, un livre facile **à** lire.\n\n**En majuscule**, l'accent se garde : **À** quelle heure part le train ?\n\n**Pour aller plus loin**\n- Après **qui**, **ça** ou **tout le monde**, c'est toujours le verbe : l'homme qui **a** rédigé, ça **a** l'air bon, tout le monde **a** des problèmes.\n- **Il n'y a qu'à**, **avoir à cœur**, **avoir à voir** : le verbe puis la préposition, collés.\n- Les expressions **à peine**, **à peu près**, **à nouveau** suivent souvent le verbe avoir : il **a à** peine mangé.\n- **À** en majuscule garde toujours son accent : **À** ton avis…",
+  "fiche": "- **a** (sans accent) est le verbe **avoir** : il a faim, elle a mangé.\n- **à** (avec accent) est une **préposition** : il va à Paris, une machine à laver.\n\n**Le test** : remplacez par **avait**. Si la phrase reste correcte, écrivez **a**. Sinon, écrivez **à**.\n> Elle a peur. → Elle avait peur ✔ → **a**\n> Je vais à la plage. → Je vais avait la plage ✘ → **à**\n\n**Les pièges** :\n- **il y a** contient le verbe avoir : il y a du monde, nous avons déménagé il y a deux ans (il y avait).\n- **ça a** : le premier mot est « ça », le second est le verbe (ça avait marché).\n- Dans une question : **a-t-il**, **y a-t-il** (avait-il).\n- **a** et **à** peuvent se suivre : il **a à** peine mangé ; qu'est-ce que ça **a à** voir ?\n- Expressions avec **à** : à peu près, à peine, à nouveau, à pied, à côté, à l'avance.\n- Nom ou adjectif + **à** + infinitif : une machine **à** laver, un livre facile **à** lire.\n\n**En majuscule**, l'accent se garde : **À** quelle heure part le train ?\n\n**Pour aller plus loin**\n- Après **qui**, **ça** ou **tout le monde**, c'est toujours le verbe : la voisine qui **a** peint ce tableau, ce gâteau **a** l'air délicieux, chacun **a** ses habitudes.\n- **Il n'y a qu'à**, **avoir à cœur**, **avoir à voir** : le verbe puis la préposition, collés.\n- Les expressions **à peine**, **à peu près**, **à nouveau** suivent souvent le verbe avoir : il **a à** peine mangé.\n- **À** en majuscule garde toujours son accent : **À** ton avis…",
   "exercices": [
    {
     "num": 1,
@@ -584,7 +584,7 @@ window.PLUME_REGLES = [
   "titre": "L'accord dans le groupe nominal",
   "resume": "Le déterminant et l'adjectif prennent le genre et le nombre du nom.",
   "niveau": "college",
-  "fiche": "Dans un groupe nominal, **le déterminant et l'adjectif prennent le genre et le nombre du nom**.\n> une **petite** maison → des **petites** maisons\n> un livre **intéressant** → des histoires **intéressantes**\n\n**Le test** : trouvez le nom, puis demandez-vous s'il est masculin ou féminin, singulier ou pluriel. Accordez ensuite chaque mot qui l'accompagne.\n\n**Les pièges** :\n- Un adjectif qui se rapporte à **plusieurs noms** se met au pluriel. Si l'un des noms est masculin, il se met au **masculin pluriel** : une jupe et un pull **neufs**.\n- L'adjectif peut être **loin du nom** : ces routes, sinueuses et étroites, sont **dangereuses**.\n- Certains noms trompent : **une** idée, **une** clé, **une** année, mais **un** musée, **un** lycée.\n\n**Pour aller plus loin**\n- Certains féminins s'entendent à peine : cher → **chère**, net → **nette**, public → **publique**, sec → **sèche**.\n- Avec « des » + adjectif + nom, on écrit souvent **de** : **de** belles fleurs (à l'écrit soigné).",
+  "fiche": "Dans un groupe nominal, **le déterminant et l'adjectif prennent le genre et le nombre du nom**.\n> une **petite** maison → des **petites** maisons\n> un livre **intéressant** → des histoires **intéressantes**\n\n**Le test** : trouvez le nom, puis demandez-vous s'il est masculin ou féminin, singulier ou pluriel. Accordez ensuite chaque mot qui l'accompagne.\n\n**Les pièges** :\n- Un adjectif qui se rapporte à **plusieurs noms** se met au pluriel. Si l'un des noms est masculin, il se met au **masculin pluriel** : une jupe et un pull **neufs**.\n- L'adjectif peut être **loin du nom** : ces routes, sinueuses et étroites, sont **dangereuses**.\n- Certains noms trompent : **une** idée, **une** clé, **une** année, mais **un** musée, **un** lycée.\n\n**Pour aller plus loin**\n- Certains féminins sont particuliers : cher → **chère**, net → **nette**, public → **publique**, sec → **sèche**.\n- Avec « des » + adjectif + nom, on écrit souvent **de** : **de** belles fleurs (à l'écrit soigné).",
   "exercices": [
    {
     "num": 1,
@@ -1619,7 +1619,7 @@ window.PLUME_REGLES = [
   "titre": "ça ou sa",
   "resume": "« Cela » ou « la sienne » ? Les tests de « cela » et de « ma ».",
   "niveau": "college",
-  "fiche": "- **ça** est un pronom, la forme familière de **cela** : **ça** marche, **ça** me plaît, j'aime **ça**.\n- **sa** est un déterminant possessif, devant un **nom féminin** : **sa** voiture, **sa** sœur (la sienne). On peut le remplacer par **ma**.\n\n**Le test** : essayez **cela** puis **ma**.\n> Ça me plaît. → Cela me plaît ✔ → **ça**\n> Il cherche sa clé. → Il cherche ma clé ✔ → **sa**\n\n**Les pièges** :\n- **ça** a une cédille : sans elle, on lirait « ka ».\n- **sa** est toujours suivi d'un nom (ou d'un adjectif puis d'un nom) : **sa** petite sœur.\n\n**Pour aller plus loin**\n- **çà** (avec un accent grave) est un adverbe ancien : **çà et là** (ici et là). Des fleurs poussaient **çà et là**.\n- **ça a** : le pronom suivi du verbe avoir : **ça a** été un beau moment (cela a été).",
+  "fiche": "- **ça** est un pronom, la forme familière de **cela** : **ça** marche, **ça** me plaît, j'aime **ça**.\n- **sa** est un déterminant possessif, devant un **nom féminin** : **sa** voiture, **sa** sœur (la sienne). On peut le remplacer par **ma**.\n\n**Le test** : essayez **cela** puis **ma**.\n> Ça me plaît. → Cela me plaît ✔ → **ça**\n> Il cherche sa clé. → Il cherche ma clé ✔ → **sa**\n\n**Les pièges** :\n- **ça** a une cédille : sans elle, on lirait « ka ».\n- **sa** est toujours suivi d'un nom (ou d'un adjectif puis d'un nom) : **sa** petite sœur.\n\n**Pour aller plus loin**\n- **çà** (avec un accent grave) est un adverbe ancien : **çà et là** (ici et là). Des fleurs poussaient **çà et là**.\n- **ça a** : le pronom suivi du verbe avoir : **ça a** duré toute la soirée (cela a duré).",
   "exercices": [
    {
     "num": 1,
@@ -3355,7 +3355,7 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je sais que {j'aurai>j'aurais} dû t'appeler.",
+    "s": "Avec du recul, {j'aurai>j'aurais} dû t'appeler.",
     "e": "Un regret : conditionnel passé (nous aurions dû) → « j'aurais ».",
     "id": "conditionnel-passe.1"
    },
@@ -3364,8 +3364,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je pense que {j'aurai>j'aurais} pu courir plus vite.",
-    "e": "Un regret : « nous aurions pu » → « j'aurais ».",
+    "s": "En m'entraînant, {j'aurai>j'aurais} pu courir plus vite.",
+    "e": "Une possibilité passée non réalisée : « nous aurions pu » → « j'aurais ».",
     "id": "conditionnel-passe.2"
    },
    {
@@ -3391,7 +3391,7 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je crois que {j'aurai>j'aurais} dû prendre un parapluie.",
+    "s": "Zut, {j'aurai>j'aurais} dû prendre un parapluie !",
     "e": "Un regret : « j'aurais dû ».",
     "id": "conditionnel-passe.5"
    },
@@ -7929,7 +7929,7 @@ window.PLUME_REGLES = [
   "titre": "et ou est",
   "resume": "L'addition ou le verbe être ? Le test de « était ».",
   "niveau": "college",
-  "fiche": "- **est** est le verbe **être** (3e personne du singulier) : il est tard, elle est partie.\n- **et** est une conjonction : elle ajoute quelque chose. On peut dire « et puis » : du pain **et** du beurre.\n\n**Le test** : remplacez par **était**. Si la phrase reste correcte, écrivez **est**. Sinon, écrivez **et**.\n> La porte est ouverte. → La porte était ouverte ✔ → **est**\n> Un chien et un chat. → Un chien était un chat ✘ → **et**\n\n**Les pièges** :\n- Dans une question, **est-ce que** contient le verbe être : où est-ce que tu vas ?\n- Les deux mots peuvent se trouver dans la même phrase : il **est** tard **et** je suis fatigué.\n\n**Pour aller plus loin**\n- Avec **tu**, le verbe être s'écrit **es** : tu es content (tu étais content).\n- Avec **je**, attention au verbe avoir : j'**ai** faim (j'avais faim).\n- Deux sujets reliés par **et** demandent un verbe au pluriel : Véronique **et** Serge dormaient.",
+  "fiche": "- **est** est le verbe **être** (3e personne du singulier) : il est tard, elle est partie.\n- **et** est une conjonction : elle ajoute quelque chose. On peut dire « et puis » : du pain **et** du beurre.\n\n**Le test** : remplacez par **était**. Si la phrase reste correcte, écrivez **est**. Sinon, écrivez **et**.\n> La porte est ouverte. → La porte était ouverte ✔ → **est**\n> Un chien et un chat. → Un chien était un chat ✘ → **et**\n\n**Les pièges** :\n- Dans une question, **est-ce que** contient le verbe être : où est-ce que tu vas ?\n- Les deux mots peuvent se trouver dans la même phrase : il **est** tard **et** je suis fatigué.\n\n**Pour aller plus loin**\n- Avec **tu**, le verbe être s'écrit **es** : tu es content (tu étais content).\n- Avec **je**, attention au verbe avoir : j'**ai** faim (j'avais faim).\n- Deux sujets reliés par **et** demandent un verbe au pluriel : Julie **et** Karim jouaient aux cartes.",
   "exercices": [
    {
     "num": 1,
@@ -8873,8 +8873,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il ne {la>l'a} même pas ouvert.",
-    "e": "« Il ne l'avait même pas ouvert » : pronom + verbe avoir, « l'a ».",
+    "s": "Il ne {la>l'a} jamais rencontrée.",
+    "e": "« Il ne l'avait jamais rencontrée » : pronom + verbe avoir, « l'a ».",
     "id": "la-la.5"
    },
    {
@@ -9241,8 +9241,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Rends-moi ce que tu {leurs>leur} as pris.",
-    "e": "« Ce que tu lui as pris » : pronom devant le verbe, « leur ».",
+    "s": "Qu'est-ce que tu {leurs>leur} as offert ?",
+    "e": "« Qu'est-ce que tu lui as offert » : pronom devant le verbe, « leur ».",
     "id": "leur-leurs.14"
    },
    {
@@ -9692,7 +9692,7 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{A>À} quelle heure arrive le train ?",
+    "s": "{A>À} quelle heure part le car ?",
     "e": "L'accent se garde sur la majuscule : « À ».",
     "id": "majuscules.15"
    },
@@ -9968,7 +9968,7 @@ window.PLUME_REGLES = [
   "titre": "Indicatif ou subjonctif",
   "resume": "Après que + indicatif ; bien que, pour que, je veux que + subjonctif.",
   "niveau": "superieur",
-  "fiche": "**Après que** introduit un fait accompli, réel : il se construit avec l'**indicatif**.\n> Nous partirons après qu'il aura terminé.\n\n**Avant que, bien que, pour que, afin que, sans que, à moins que, jusqu'à ce que, quoique** expriment un fait envisagé, non réalisé ou concédé : **subjonctif**.\n> Bien qu'il soit fatigué, il continue.\n> Je t'explique pour que tu comprennes.\n\n**L'astuce** : « après que » suit la même logique que « quand » ou « lorsque », qu'on ne fait jamais suivre du subjonctif.\n\n**Après un verbe** : la volonté, le souhait, le sentiment ou la nécessité appellent le **subjonctif** (je veux que tu sois, il faut que, je suis surpris que). La certitude appelle l'**indicatif** (je suis certain que vous êtes).\n\n**Pour aller plus loin**\n- **Il semble que** + subjonctif, mais **il me semble que** + indicatif.\n- Après que il **fut** parti (passé antérieur, sans accent).",
+  "fiche": "**Après que** introduit un fait accompli, réel : il se construit avec l'**indicatif**.\n> Nous partirons après qu'il aura terminé.\n\n**Avant que, bien que, pour que, afin que, sans que, à moins que, jusqu'à ce que, quoique** expriment un fait envisagé, non réalisé ou concédé : **subjonctif**.\n> Bien qu'il soit fatigué, il continue.\n> Je t'explique pour que tu comprennes.\n\n**L'astuce** : « après que » suit la même logique que « quand » ou « lorsque », qu'on ne fait jamais suivre du subjonctif.\n\n**Après un verbe** : la volonté, le souhait, le sentiment ou la nécessité appellent le **subjonctif** (je veux que tu sois, il faut que, je suis surpris que). La certitude appelle l'**indicatif** (je suis certain que vous êtes).\n\n**Pour aller plus loin**\n- **Il semble que** + subjonctif, mais **il me semble que** + indicatif.\n- Après qu'il **fut** parti (passé antérieur, sans accent).",
   "exercices": [
    {
     "num": 1,
@@ -10642,7 +10642,7 @@ window.PLUME_REGLES = [
   "titre": "ni ou n'y",
   "resume": "Ni pain ni lait (ni = et pas) ; il n'y a rien (ne + y).",
   "niveau": "college",
-  "fiche": "- **n'y** est formé de **ne** et **y**. Il se place devant un verbe : il **n'y** a personne, je **n'y** vais pas, **n'y** touche pas.\n- **ni** relie des mots niés : je n'aime **ni** le thé **ni** le café. À la forme affirmative, on dirait **et** : j'aime le thé **et** le café.\n\n**Le test** : enlevez la négation.\n> Il n'y a personne. → Il y a quelqu'un ✔ → **n'y**.\n> Il n'est ni grand ni petit. → Il est grand et petit → **ni**.\n\n**Les pièges** :\n- **il n'y a** : c'est toujours **n'y** (il **y** a).\n- **ni** peut relier deux verbes : je ne bois **ni** ne fume.\n\n**Pour aller plus loin**\n- **ni** peut apparaître une seule fois, après « ne … pas » : il n'est pas heureux **ni** satisfait.\n- En tête de phrase : **Ni** toi **ni** moi ne pouvons y aller.",
+  "fiche": "- **n'y** est formé de **ne** et **y**. Il se place devant un verbe : il **n'y** a personne, je **n'y** vais pas, **n'y** touche pas.\n- **ni** relie des mots niés : je n'aime **ni** le thé **ni** le café. À la forme affirmative, on dirait **et** : j'aime le thé **et** le café.\n\n**Le test** : enlevez la négation.\n> Il n'y a personne. → Il y a quelqu'un ✔ → **n'y**.\n> Il n'est ni grand ni petit. → Il est grand et petit → **ni**.\n\n**Les pièges** :\n- **il n'y a** : c'est toujours **n'y** (il **y** a).\n- **ni** peut relier deux verbes : il ne chante **ni** ne danse.\n\n**Pour aller plus loin**\n- **ni** peut apparaître une seule fois, après « ne … pas » : il n'est pas pressé **ni** inquiet.\n- En tête de phrase : **Ni** toi **ni** moi ne pouvons y aller.",
   "exercices": [
    {
     "num": 1,
@@ -12356,7 +12356,7 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il me faut un {peut>peu} plus de patience.",
+    "s": "Mets un {peut>peu} plus de sucre.",
     "e": "« Un peu plus » : quantité, « peu ».",
     "id": "peu-peut.6"
    },
@@ -12761,7 +12761,7 @@ window.PLUME_REGLES = [
   "titre": "plutôt ou plus tôt",
   "resume": "La préférence ou le contraire de « plus tard » ?",
   "niveau": "lycee",
-  "fiche": "- **plus tôt** (deux mots) est le contraire de **plus tard** : il est arrivé **plus tôt**.\n- **plutôt** (un mot) signifie « de préférence » ou « assez » : je prendrai **plutôt** un thé ; c'est **plutôt** bon.\n\n**Le test** : remplacez par **plus tard**. Si la phrase reste correcte (avec le sens contraire), écrivez **plus tôt**. Sinon, écrivez **plutôt**.\n> Viens plus tôt. → Viens plus tard ✔ → **plus tôt**\n> C'est plutôt cher. → C'est plus tard cher ✘ → **plutôt**\n\n**Les pièges** :\n- **le plus tôt possible**, **une heure plus tôt**, **plus tôt que prévu** : il s'agit du temps.\n- **plutôt que** exprime un choix : vendredi **plutôt que** jeudi.\n\n**Pour aller plus loin**\n- **plutôt que de** + infinitif : **plutôt que de** te plaindre, agis.\n- **plus tôt…, plus tôt…** : **plus tôt** on commence, **plus tôt** on finit.\n- **ou plutôt** sert à se corriger : ce n'est pas un échec, c'est **plutôt** une leçon.",
+  "fiche": "- **plus tôt** (deux mots) est le contraire de **plus tard** : il est arrivé **plus tôt**.\n- **plutôt** (un mot) signifie « de préférence » ou « assez » : je prendrai **plutôt** un thé ; c'est **plutôt** bon.\n\n**Le test** : remplacez par **plus tard**. Si la phrase reste correcte (avec le sens contraire), écrivez **plus tôt**. Sinon, écrivez **plutôt**.\n> Viens plus tôt. → Viens plus tard ✔ → **plus tôt**\n> C'est plutôt cher. → C'est plus tard cher ✘ → **plutôt**\n\n**Les pièges** :\n- **le plus tôt possible**, **une heure plus tôt**, **plus tôt que prévu** : il s'agit du temps.\n- **plutôt que** exprime un choix : vendredi **plutôt que** jeudi.\n\n**Pour aller plus loin**\n- **plutôt que de** + infinitif : **plutôt que de** te plaindre, agis.\n- **plus tôt…, plus tôt…** : **plus tôt** on commence, **plus tôt** on finit.\n- **ou plutôt** sert à se corriger : c'est un échec, **ou plutôt** une leçon.",
   "exercices": [
    {
     "num": 1,
@@ -13918,7 +13918,7 @@ window.PLUME_REGLES = [
   "titre": "près ou prêt",
   "resume": "Près de la gare (à côté) ; prêt à partir (préparé). Prêt s'accorde, près jamais.",
   "niveau": "college",
-  "fiche": "- **près** indique la **proximité** : il habite **près** de la gare. On peut dire **loin** à la place. Il ne s'accorde jamais.\n- **prêt** veut dire **préparé**, **disposé** : je suis **prêt** à partir. C'est un adjectif : il **s'accorde** (**prête, prêts, prêtes**).\n\n**Le test** :\n> Il vit près de la plage. → Il vit loin de la plage ✔ → **près**.\n> Es-tu prêt à y aller ? → Es-tu préparé à y aller ? ✔ → **prêt**.\n\n**Les pièges** :\n- **prêt** s'accorde : les filles sont **prêtes** ; nous sommes **prêts**.\n- **près** dans des expressions : à peu **près**, de **près**, tout **près**.\n\n**Pour aller plus loin**\n- **Un prêt** est aussi un nom : la banque lui a accordé un **prêt**.\n- **être près de** faire = être sur le point de : il était **près de** renoncer. **être prêt à** faire = être disposé à : il était **prêt à** tout.",
+  "fiche": "- **près** indique la **proximité** : il habite **près** de la gare. On peut dire **loin** à la place. Il ne s'accorde jamais.\n- **prêt** veut dire **préparé**, **disposé** : je suis **prêt** à partir. C'est un adjectif : il **s'accorde** (**prête, prêts, prêtes**).\n\n**Le test** :\n> Nous habitons près de l'école. → Nous habitons loin de l'école ✔ → **près**.\n> Tu es prêt à partir ? → Tu es préparé à partir ? ✔ → **prêt**.\n\n**Les pièges** :\n- **prêt** s'accorde : les filles sont **prêtes** ; nous sommes **prêts**.\n- **près** dans des expressions : à peu **près**, de **près**, tout **près**.\n\n**Pour aller plus loin**\n- **Un prêt** est aussi un nom : la banque lui a accordé un **prêt**.\n- **être près de** faire = être sur le point de : il était **près de** renoncer. **être prêt à** faire = être disposé à : il était **prêt à** tout.",
   "exercices": [
    {
     "num": 1,
@@ -15381,7 +15381,7 @@ window.PLUME_REGLES = [
   "titre": "sans ou s'en",
   "resume": "Sans sucre (le contraire d'avec) ; il s'en va (se + en).",
   "niveau": "college",
-  "fiche": "- **sans** est le contraire de **avec** : une robe **sans** manches, parler **sans** notes, **sans** arrêt.\n- **s'en** est formé de **se** et **en**. Il se place devant un verbe : il **s'en** va, elle **s'en** souvient, il ne **s'en** cache plus.\n\n**Le test** : changez de personne. Si l'on peut dire **m'en** ou **t'en**, on écrit **s'en**.\n> Les clients s'en vont. → Je m'en vais ✔ → **s'en**.\n> Un café sans sucre. → Un café avec sucre ✔ → **sans**.\n\n**Les pièges** :\n- Devant un infinitif : il vaut mieux **s'en** aller (je ferais mieux de **m'en** aller).\n- Aux temps composés : elle **s'en** est sortie (je **m'en** suis sorti).\n\n**Pour aller plus loin**\n- **sans que** et **s'en** dans la même phrase : la vie passe **sans** qu'on **s'en** aperçoive.\n- Ne pas confondre avec **sang** (le liquide rouge) et **cent** (le nombre 100) : donner son **sang**, **cent** euros.",
+  "fiche": "- **sans** est le contraire de **avec** : un café **sans** sucre, réciter **sans** hésiter, **sans** arrêt.\n- **s'en** est formé de **se** et **en**. Il se place devant un verbe : il **s'en** va, elle **s'en** souvient, il ne **s'en** souvient plus.\n\n**Le test** : changez de personne. Si l'on peut dire **m'en** ou **t'en**, on écrit **s'en**.\n> Les invités s'en vont. → Je m'en vais ✔ → **s'en**.\n> Un café sans sucre. → Un café avec sucre ✔ → **sans**.\n\n**Les pièges** :\n- Devant un infinitif : il est temps de **s'en** aller (il est temps de **m'en** aller).\n- Aux temps composés : elle **s'en** est sortie (je **m'en** suis sorti).\n\n**Pour aller plus loin**\n- **sans que** et **s'en** dans la même phrase : les années passent **sans** qu'on **s'en** rende compte.\n- Ne pas confondre avec **sang** (le liquide rouge) et **cent** (le nombre 100) : donner son **sang**, **cent** euros.",
   "exercices": [
    {
     "num": 1,
@@ -15602,7 +15602,7 @@ window.PLUME_REGLES = [
   "titre": "si, s'y ou ci",
   "resume": "Si tu veux (condition), il s'y rend (se + y), celui-ci (ci = ici).",
   "niveau": "college",
-  "fiche": "- **s'y** est formé de **se** et **y**. Il se place devant un verbe : elle **s'y** rend, il **s'y** habitue.\n- **si** introduit une **condition** (**si** tu viens…), une question indirecte (je me demande **si**…) ou une **intensité** (il est **si** grand).\n- **ci** veut dire « ici ». Il est toujours lié par un **trait d'union** : celui-**ci**, ce livre-**ci**, **ci**-joint, **ci**-dessous.\n\n**Le test** : changez de personne. Si l'on peut dire **m'y** ou **t'y**, on écrit **s'y**.\n> Elle s'y rend à vélo. → Je m'y rends à vélo ✔ → **s'y**.\n> Si tu veux, on part. → M'y tu veux ✘ → **si**.\n\n**Les pièges** :\n- Devant un infinitif : savoir **s'y** prendre (je sais **m'y** prendre), ne pas **s'y** fier.\n- **Si** répond « oui » à une question négative : « Tu ne viens pas ? — **Si** ! ».\n\n**Pour aller plus loin**\n- **ci-joint**, **ci-dessous**, **ci-dessus** s'écrivent avec **ci** et un trait d'union.\n- **si** après « je me demande », « dis-moi » : je me demande **si** elle viendra.",
+  "fiche": "- **s'y** est formé de **se** et **y**. Il se place devant un verbe : elle **s'y** rend, il **s'y** habitue.\n- **si** introduit une **condition** (**si** tu viens…), une question indirecte (je me demande **si**…) ou une **intensité** (il est **si** grand).\n- **ci** veut dire « ici ». Il est toujours lié par un **trait d'union** : celui-**ci**, ce livre-**ci**, **ci**-joint, **ci**-dessous.\n\n**Le test** : changez de personne. Si l'on peut dire **m'y** ou **t'y**, on écrit **s'y**.\n> Elle s'y rend en train. → Je m'y rends en train ✔ → **s'y**.\n> Si tu veux, on part. → M'y tu veux ✘ → **si**.\n\n**Les pièges** :\n- Devant un infinitif : savoir **s'y** prendre (je sais **m'y** prendre), ne pas **s'y** fier.\n- **Si** répond « oui » à une question négative : « Tu ne viens pas ? — **Si** ! ».\n\n**Pour aller plus loin**\n- **ci-joint**, **ci-dessous**, **ci-dessus** s'écrivent avec **ci** et un trait d'union.\n- **si** après « je me demande », « dis-moi » : je me demande **si** elle viendra.",
   "exercices": [
    {
     "num": 1,
@@ -15627,8 +15627,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ils ne savent pas {si>s'y} prendre avec les enfants.",
-    "e": "« Je ne sais pas m'y prendre » : « s'y ».",
+    "s": "Mon frère sait très bien {si>s'y} prendre avec les bébés.",
+    "e": "« Je sais m'y prendre » : « s'y ».",
     "id": "si-s-y.3"
    },
    {
@@ -15636,8 +15636,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle a décidé de ne pas {si>s'y} inscrire.",
-    "e": "« J'ai décidé de ne pas m'y inscrire » : « s'y ».",
+    "s": "Elle refuse de {si>s'y} inscrire.",
+    "e": "« Je refuse de m'y inscrire » : « s'y ».",
     "id": "si-s-y.4"
    },
    {
@@ -16710,7 +16710,7 @@ window.PLUME_REGLES = [
   "titre": "Verbes en -cer, -ger, -eler, -eter, -yer",
   "resume": "Nous commençons, nous mangeons, j'appelle, j'achète, j'emploie.",
   "niveau": "college",
-  "fiche": "Le radical de ces verbes change pour garder le même son.\n\n- **-cer** : on écrit **ç** devant **a** et **o** pour garder le son « s » : nous commen**ç**ons, il lan**ç**ait.\n- **-ger** : on ajoute un **e** devant **a** et **o** pour garder le son « j » : nous man**ge**ons, je man**ge**ais.\n- **-eler / -eter** : devant une syllabe muette, la plupart prennent un **accent grave** : j'ach**è**te, il g**è**le, je l**è**ve. Mais **appeler** et **jeter** doublent la consonne : j'appe**ll**e, je je**tt**e.\n- **-yer** : le **y** devient **i** devant un **e muet** : j'emplo**i**e, tu essu**i**es, il nettoi**e**ra.\n\n**Les pièges** :\n- Devant **i** ou un **e** qui se prononce, rien ne change : nous nag**i**ons, nous app**el**ons, nous empl**oy**ons.\n- Pour **payer**, les deux formes sont admises : je paie ou je paye.\n\n**Pour aller plus loin**\n- Depuis les **rectifications de 1990**, tous les verbes en -eler et -eter, sauf appeler, jeter et leurs dérivés (rappeler, rejeter…), peuvent suivre le modèle d'acheter : il étiqu**è**te, il ruiss**è**le. Les deux écritures sont acceptées.",
+  "fiche": "Le radical de ces verbes change pour garder le même son.\n\n- **-cer** : on écrit **ç** devant **a** et **o** pour garder le son « s » : nous commen**ç**ons, il lan**ç**ait.\n- **-ger** : on ajoute un **e** devant **a** et **o** pour garder le son « j » : nous man**ge**ons, je man**ge**ais.\n- **-eler / -eter** : devant une syllabe muette, la plupart prennent un **accent grave** : j'ach**è**te, il g**è**le, il p**è**le. Mais **appeler** et **jeter** doublent la consonne : j'appe**ll**e, je je**tt**e.\n- **-yer** : le **y** devient **i** devant un **e muet** : j'emplo**i**e, tu essu**i**es, il nettoi**e**ra.\n\n**Les pièges** :\n- Devant **i** ou un **e** qui se prononce, rien ne change : nous nag**i**ons, nous app**el**ons, nous empl**oy**ons.\n- Pour **payer**, les deux formes sont admises : je paie ou je paye.\n\n**Pour aller plus loin**\n- Depuis les **rectifications de 1990**, tous les verbes en -eler et -eter, sauf appeler, jeter et leurs dérivés (rappeler, rejeter…), peuvent suivre le modèle d'acheter : il étiqu**è**te, il ruiss**è**le. Les deux écritures sont acceptées.",
   "exercices": [
    {
     "num": 1,

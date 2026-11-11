@@ -9,12 +9,12 @@ Résumé : Ni pain ni lait (ni = et pas) ; il n'y a rien (ne + y).
 Décision demandée : écrire ni ou n'y.
 Cas de base
   1. ni : conjonction de coordination négative ; elle relie des éléments niés
-     (ni pain ni lait ; je ne bois ni ne fume). Test : à la forme affirmative, on dirait « et ».
+     (ni pain ni lait ; il ne chante ni ne danse). Test : à la forme affirmative, on dirait « et ».
   2. n'y : négation ne + pronom y, devant un verbe (il n'y a rien, je n'y vais pas).
      Test : enlever la négation : il n'y a rien → il y a quelque chose ; je n'y vais pas → j'y vais.
 Cas particuliers et pièges
   3. « il n'y a » : la tournure la plus fréquente.
-  4. « ne … ni … » sans premier « ni » : il n'est pas heureux ni satisfait.
+  4. « ne … ni … » sans premier « ni » : il n'est pas pressé ni inquiet.
   5. n'y devant un infinitif ou à l'impératif : n'y touche pas.
 Hors sujet : la négation sans « y » (règle « La négation »).
 Niveau : collège.
@@ -35,11 +35,11 @@ Niveau : collège.
 
 **Les pièges** :
 - **il n'y a** : c'est toujours **n'y** (il **y** a).
-- **ni** peut relier deux verbes : je ne bois **ni** ne fume.
+- **ni** peut relier deux verbes : il ne chante **ni** ne danse.
 
 ## Pour aller plus loin
 
-- **ni** peut apparaître une seule fois, après « ne … pas » : il n'est pas heureux **ni** satisfait.
+- **ni** peut apparaître une seule fois, après « ne … pas » : il n'est pas pressé **ni** inquiet.
 - En tête de phrase : **Ni** toi **ni** moi ne pouvons y aller.
 
 ## Exercices essentiels

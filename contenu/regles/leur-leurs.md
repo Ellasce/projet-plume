@@ -97,8 +97,8 @@ Niveau : collège.
 13. Pourquoi ne [leurs → leur] a-t-elle pas répondu ?
     Pourquoi : « Pourquoi ne lui a-t-elle pas répondu » : pronom devant le verbe, « leur ».
 
-14. Rends-moi ce que tu [leurs → leur] as pris.
-    Pourquoi : « Ce que tu lui as pris » : pronom devant le verbe, « leur ».
+14. Qu'est-ce que tu [leurs → leur] as offert ?
+    Pourquoi : « Qu'est-ce que tu lui as offert » : pronom devant le verbe, « leur ».
 
 15. Ces livres sont les [leur → leurs].
     Pourquoi : « Les leurs » remplace plusieurs livres : pronom possessif au pluriel.

@@ -46,11 +46,11 @@ On l'entend comme le futur antérieur (j'**aurai** fini). Passez à **nous** : n
 
 ## Exercices essentiels
 
-1. Je sais que [j'aurai → j'aurais] dû t'appeler.
+1. Avec du recul, [j'aurai → j'aurais] dû t'appeler.
    Pourquoi : Un regret : conditionnel passé (nous aurions dû) → « j'aurais ».
 
-2. Je pense que [j'aurai → j'aurais] pu courir plus vite.
-   Pourquoi : Un regret : « nous aurions pu » → « j'aurais ».
+2. En m'entraînant, [j'aurai → j'aurais] pu courir plus vite.
+   Pourquoi : Une possibilité passée non réalisée : « nous aurions pu » → « j'aurais ».
 
 3. Si tu m'avais prévenu, [j'aurai → j'aurais] pu venir.
    Pourquoi : Hypothèse non réalisée (si + plus-que-parfait) : conditionnel passé, « j'aurais ».
@@ -58,7 +58,7 @@ On l'entend comme le futur antérieur (j'**aurai** fini). Passez à **nous** : n
 4. Franchement, [tu auras → tu aurais] pu ranger !
    Pourquoi : Un reproche : conditionnel passé, « tu aurais pu ».
 
-5. Je crois que [j'aurai → j'aurais] dû prendre un parapluie.
+5. Zut, [j'aurai → j'aurais] dû prendre un parapluie !
    Pourquoi : Un regret : « j'aurais dû ».
 
 6. Si j'avais su, je [serai → serais] venu plus tôt.

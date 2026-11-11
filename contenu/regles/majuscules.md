@@ -101,7 +101,7 @@ Niveau : lycée.
 14. Le [moyen âge → Moyen Âge] a duré environ mille ans.
     Pourquoi : Nom de période historique : majuscules (avec l'accent sur le Â).
 
-15. [A → À] quelle heure arrive le train ?
+15. [A → À] quelle heure part le car ?
     Pourquoi : L'accent se garde sur la majuscule : « À ».
 
 16. Les Parisiens adorent les terrasses au printemps.

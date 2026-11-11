@@ -34,7 +34,7 @@ Niveau : collège.
 - **ci** veut dire « ici ». Il est toujours lié par un **trait d'union** : celui-**ci**, ce livre-**ci**, **ci**-joint, **ci**-dessous.
 
 **Le test** : changez de personne. Si l'on peut dire **m'y** ou **t'y**, on écrit **s'y**.
-> Elle s'y rend à vélo. → Je m'y rends à vélo ✔ → **s'y**.
+> Elle s'y rend en train. → Je m'y rends en train ✔ → **s'y**.
 > Si tu veux, on part. → M'y tu veux ✘ → **si**.
 
 **Les pièges** :
@@ -54,11 +54,11 @@ Niveau : collège.
 2. Il [si → s'y] est installé l'été dernier.
    Pourquoi : « Je m'y suis installé » : « s'y ».
 
-3. Ils ne savent pas [si → s'y] prendre avec les enfants.
-   Pourquoi : « Je ne sais pas m'y prendre » : « s'y ».
+3. Mon frère sait très bien [si → s'y] prendre avec les bébés.
+   Pourquoi : « Je sais m'y prendre » : « s'y ».
 
-4. Elle a décidé de ne pas [si → s'y] inscrire.
-   Pourquoi : « J'ai décidé de ne pas m'y inscrire » : « s'y ».
+4. Elle refuse de [si → s'y] inscrire.
+   Pourquoi : « Je refuse de m'y inscrire » : « s'y ».
 
 5. [S'y → Si] on chauffe la glace, elle fond.
    Pourquoi : Condition, on ne peut pas dire « m'y » : « si ».

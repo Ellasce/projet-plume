@@ -41,7 +41,7 @@ Dans un groupe nominal, **le déterminant et l'adjectif prennent le genre et le 
 
 ## Pour aller plus loin
 
-- Certains féminins s'entendent à peine : cher → **chère**, net → **nette**, public → **publique**, sec → **sèche**.
+- Certains féminins sont particuliers : cher → **chère**, net → **nette**, public → **publique**, sec → **sèche**.
 - Avec « des » + adjectif + nom, on écrit souvent **de** : **de** belles fleurs (à l'écrit soigné).
 
 ## Exercices essentiels
