@@ -90,14 +90,14 @@ page({
 // --- Cours ---
 page({
   chemin: "/cours",
-  titre: "Cours d'orthographe, de grammaire et de conjugaison — Projet Plume",
+  titre: "Cours d'orthographe, de grammaire et de conjugaison — La Plume de Diderot",
   description: "Tous les cours du Projet Plume par thème : homophones, accords, conjugaison, bien écrire. Fiches claires et exercices gratuits.",
   contenu: '<section class="cours"><h1>Cours</h1><p>Choisissez un thème. Chaque règle a une fiche et des exercices corrigés.</p>' + listeThemes() + "</section>",
 });
 STRUCTURE.categories.forEach((cat) => {
   page({
     chemin: "/cours/" + cat.id,
-    titre: cat.titre + " : règles et exercices — Projet Plume",
+    titre: cat.titre + " : règles et exercices — La Plume de Diderot",
     description: cat.description + " " + pluriel(reglesDe(cat).length, "règle") + " avec fiches et exercices gratuits.",
     contenu: '<section class="categorie"><nav class="ariane"><a href="/cours">Cours</a> › ' + esc(cat.titre) + "</nav><h1>" + esc(cat.titre) + "</h1><p>" + esc(cat.description) + "</p>"
       + cat.sous.map((s) => "<h2>" + esc(s.titre) + "</h2><ul>" + s.regles.map((id) => parId[id]).filter(Boolean).map(lienRegle).join("") + "</ul>").join("") + "</section>",
@@ -107,7 +107,7 @@ STRUCTURE.categories.forEach((cat) => {
 // --- Règles ---
 page({
   chemin: "/regles",
-  titre: "Toutes les règles d'orthographe et de grammaire — Projet Plume",
+  titre: "Toutes les règles d'orthographe et de grammaire — La Plume de Diderot",
   description: "Les " + REGLES.length + " fiches de règles du Projet Plume, classées par thème, à consulter librement.",
   contenu: '<section class="regles-index"><h1>Règles</h1><p>Toutes les fiches, à consulter sans faire d\'exercices.</p>'
     + STRUCTURE.categories.map((cat) => "<h2>" + esc(cat.titre) + "</h2>" + cat.sous.map((s) =>
@@ -125,7 +125,7 @@ REGLES.forEach((r) => {
     + (voisines.length ? "<h2>Règles liées</h2><ul>" + voisines.map(lienRegle).join("") + "</ul>" : "")
     + "</article>";
   const meta = {
-    titre: r.titre + " : règle et exercices — Projet Plume",
+    titre: r.titre + " : règle et exercices — La Plume de Diderot",
     description: (r.resume + " Fiche claire et " + pluriel(r.exercices.length, "exercice") + " corrigés, gratuits et sans inscription.").slice(0, 300),
     contenu,
   };
@@ -137,7 +137,7 @@ REGLES.forEach((r) => {
 // --- Pages de présentation ---
 page({ chemin: "/projet", titre: PAGES.projet.titre + " — le savoir libre, pour tous", description: PAGES.projet.description,
   contenu: '<article class="fiche page-projet">' + PAGES.projet.html + "</article>" });
-page({ chemin: "/progres", titre: PAGES.progression.titre + " — Projet Plume", description: PAGES.progression.description, indexable: false,
+page({ chemin: "/progres", titre: PAGES.progression.titre + " — La Plume de Diderot", description: PAGES.progression.description, indexable: false,
   contenu: '<section class="progres"><h1>Ma progression</h1>' + PAGES.progression.html + "</section>" });
 
 // --- Fichiers du site ---

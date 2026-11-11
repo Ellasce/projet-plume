@@ -332,7 +332,7 @@
     document.getElementById("serie").textContent = s > 0 ? "🔥 " + s + " j" : "";
     var h1 = app.querySelector("h1");
     var t = h1 ? h1.textContent.trim() : "";
-    document.title = onglet === "accueil" || !t ? PAGES.accueil.titre : t + (/Projet Plume/.test(t) ? "" : " — Projet Plume");
+    document.title = onglet === "accueil" || !t ? PAGES.accueil.titre : t + (/Plume/.test(t) ? "" : " — La Plume de Diderot");
   }
 
   function barre(valeur) {

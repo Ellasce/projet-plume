@@ -5,7 +5,7 @@
  */
 window.PLUME_PAGES = {
   accueil: {
-    titre: "Projet Plume — l'orthographe libre et gratuite",
+    titre: "La Plume de Diderot — l'orthographe libre et gratuite",
     description: "Entraînez-vous à l'orthographe, à la grammaire et à la conjugaison françaises gratuitement, sans compte ni publicité. Cours et exercices libres.",
     html: `<div class="presentation">
 <h1>Le savoir libre, pour tous</h1>
@@ -24,7 +24,7 @@ window.PLUME_PAGES = {
     description: "Le Projet Plume est un site libre et gratuit pour apprendre l'orthographe française : pas de compte, pas de publicité, aucune donnée collectée.",
     html: `<h1>Le Projet Plume</h1>
 <div class="fiche-texte">
-<p><strong>Le Projet Plume est un site libre et gratuit pour bien écrire le français.</strong> On y trouve des fiches de règles et des exercices d'orthographe, de grammaire et de conjugaison, du collège au niveau adulte.</p>
+<p><strong>La Plume de Diderot est le site du Projet Plume : un site libre et gratuit pour bien écrire le français.</strong> On y trouve des fiches de règles et des exercices d'orthographe, de grammaire et de conjugaison, du collège au niveau adulte.</p>
 
 <h2>Pourquoi ce projet ?</h2>
 <p>Bien écrire sert à tout : étudier, chercher un emploi, se faire comprendre. Ce savoir ne devrait pas dépendre d'un abonnement. Le Projet Plume part d'une idée simple : <strong>le savoir libre, pour tous</strong>.</p>
@@ -33,6 +33,9 @@ window.PLUME_PAGES = {
 <li><strong>Gratuit</strong> : tout est ouvert. Il n'y a ni abonnement, ni module payant, ni publicité.</li>
 <li><strong>Sans collecte de données</strong> : il n'y a pas de compte, pas de traceur, pas de statistiques de visite. Le site ne sait rien de vous.</li>
 </ul>
+
+<h2>Pourquoi « Diderot » ?</h2>
+<p>Au XVIII<sup>e</sup> siècle, Denis Diderot a dirigé avec d'Alembert l'<em>Encyclopédie</em>, qui voulait rassembler les connaissances de son temps et les mettre à la portée de tous. Le site lui emprunte cette idée : un savoir partagé, que chacun peut lire et enrichir.</p>
 
 <h2>Comment ça marche ?</h2>
 <ul>

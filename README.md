@@ -1,4 +1,6 @@
-# Projet Plume — orthographe libre
+# La Plume de Diderot
+
+*Projet Plume — l'orthographe libre et gratuite*
 
 **Essayer en ligne : https://projet-plume.pages.dev**
 
