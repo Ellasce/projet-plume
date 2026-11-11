@@ -47,7 +47,7 @@ Niveau : lycée.
 ## Exercices essentiels
 
 1. Tu as tout ce [que → dont] tu as besoin ?
-   Pourquoi : On a besoin DE quelque chose : « ce dont vous avez besoin ».
+   Pourquoi : On a besoin DE quelque chose : « ce dont tu as besoin ».
 
 2. Voici exactement ce [que → dont] j'ai besoin.
    Pourquoi : Avoir besoin DE : « dont ».

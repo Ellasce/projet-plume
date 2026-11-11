@@ -54,7 +54,7 @@ Le COD placé avant est souvent un pronom : **que**, **l'**, **la**, **les**, **
    Pourquoi : Acheté quoi ? « quelles chemises », placé avant : féminin pluriel.
    Source : LanguageTool (ACCORD_COD_QUELLE[1]#0)
 
-9. La montre qu'il a [mis → mise] ce matin.
+9. J'aime la montre qu'il a [mis → mise] ce matin.
    Pourquoi : Mis quoi ? « qu' » = la montre, placé avant : « mise ».
    Source : LanguageTool (D_N_QUE_R_AVOIR_PPA[0]#1)
 

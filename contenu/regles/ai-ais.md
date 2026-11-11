@@ -50,8 +50,8 @@ Avec **je**, plusieurs temps se terminent par un son proche : **-ai** ou **-ais*
 2. Je [connai → connais] bien ce quartier.
    Pourquoi : « Il connaît » : présent du verbe connaître, « je connais ».
 
-3. Je suis content que [j'ais → j'ai] réussi.
-   Pourquoi : Verbe avoir : « j'ai ». « J'ais » n'existe pas.
+3. Je pense que [j'ais → j'ai] réussi.
+   Pourquoi : Verbe avoir à l'indicatif (il a réussi) : « j'ai ». « J'ais » n'existe pas.
 
 4. [J'ais → J'ai] réservé une table pour quatre.
    Pourquoi : Verbe avoir (il a réservé) : « j'ai ».

@@ -368,7 +368,7 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il a fait un {éxemple>exemple} au tableau.",
+    "s": "Il a donné un {éxemple>exemple} au tableau.",
     "e": "Jamais d'accent devant un x : « exemple ».",
     "id": "accents.1"
    },
@@ -1200,8 +1200,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je suis content que {j'ais>j'ai} réussi.",
-    "e": "Verbe avoir : « j'ai ». « J'ais » n'existe pas.",
+    "s": "Je pense que {j'ais>j'ai} réussi.",
+    "e": "Verbe avoir à l'indicatif (il a réussi) : « j'ai ». « J'ais » n'existe pas.",
     "id": "ai-ais.3"
    },
    {
@@ -1760,8 +1760,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle a prêté {ça>sa} voiture à un ami.",
-    "e": "« Elle a prêté ma voiture » : possessif, « sa ».",
+    "s": "Elle a oublié {ça>sa} valise dans le train.",
+    "e": "« Elle a oublié ma valise » : possessif, « sa ».",
     "id": "ca-sa.12"
    },
    {
@@ -2216,9 +2216,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ainsi, {c'est>ces} maisons sont à vendre.",
+    "s": "{C'est>Ces} maisons sont à vendre depuis un an.",
     "e": "Devant le nom « maisons » : déterminant démonstratif pluriel « ces ».",
-    "src": "CE_SE[14]#0",
     "id": "ce-se-ces-ses.17"
    },
    {
@@ -6217,7 +6216,7 @@ window.PLUME_REGLES = [
   "titre": "Doubler ou non la consonne",
   "resume": "Appeler, apporter, attendre… mais apercevoir : quelques régularités et des mots à retenir.",
   "niveau": "college",
-  "fiche": "**Les verbes en ap-, ac-, af-, at-** doublent le plus souvent la consonne :\n> **app**orter, **app**eler, **app**araître — **acc**ompagner, **acc**ueillir — **aff**irmer — **att**endre, **att**raper\nExceptions courantes : **ap**ercevoir, **ap**aiser, **ap**latir, **ac**heter, **at**elier.\n\n**Les féminins** en **-enne, -onne, -ette, -elle** doublent la consonne : chie**nne**, bo**nne**, ne**tte**, crue**lle**.\n\n**La famille du mot** aide souvent : te**rr**e → te**rr**ain, do**nn**er → do**nn**ée.\n\n**Les pièges** (à apprendre) :\n- un seul p dans **apercevoir**, deux p dans **développer** et **enveloppe** ;\n- deux c dans **occasion**, deux r dans **carotte** mais un seul dans **chariot**.\n\n**Pour aller plus loin**\n- Des familles qui changent : **honneur** (deux n) mais **honorer** (un n) ; **sonner** (deux n) mais **sonore** ; **charrette** (deux r) mais **chariot** (un r).\n- **Imbécile** prend un seul l, mais **imbécillité** en prend deux.",
+  "fiche": "**Les verbes en ap-, ac-, af-, at-** doublent le plus souvent la consonne :\n> **app**orter, **app**eler, **app**araître — **acc**ompagner, **acc**ueillir — **aff**irmer — **att**endre, **att**raper\nExceptions courantes : **ap**ercevoir, **ap**aiser, **ap**latir, **ac**heter, **at**elier.\n\n**Les féminins** en **-enne, -onne, -ette, -elle** doublent la consonne : chie**nne**, bo**nne**, ne**tte**, crue**lle**.\n\n**La famille du mot** aide souvent : te**rr**e → te**rr**ain, do**nn**er → do**nn**ée.\n\n**Les pièges** (à apprendre) :\n- un seul p dans **apercevoir**, deux p dans **développer** et **enveloppe** ;\n- deux c dans **occasion**, deux t dans **carotte**.\n\n**Pour aller plus loin**\n- Des familles qui changent : **honneur** (deux n) mais **honorer** (un n) ; **sonner** (deux n) mais **sonore** ; **charrette** (deux r) mais **chariot** (un r, ou **charriot** depuis les rectifications de 1990).\n- **Imbécile** prend un seul l, mais **imbécillité** en prend deux.",
   "exercices": [
    {
     "num": 1,
@@ -6386,8 +6385,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il pousse un {charriot>chariot} au supermarché.",
-    "e": "« Chariot » prend un seul r (mais « charrette » en prend deux).",
+    "s": "Il faut {fraper>frapper} avant d'entrer.",
+    "e": "« Frapper » prend deux p.",
     "id": "consonnes-doubles.15"
    },
    {
@@ -7495,7 +7494,7 @@ window.PLUME_REGLES = [
     "statut": "a-relire",
     "t": "faute",
     "s": "Tu as tout ce {que>dont} tu as besoin ?",
-    "e": "On a besoin DE quelque chose : « ce dont vous avez besoin ».",
+    "e": "On a besoin DE quelque chose : « ce dont tu as besoin ».",
     "id": "dont-que.1"
    },
    {
@@ -8578,9 +8577,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Tom s'est fait {agressé>agresser} en rentrant chez lui du travail.",
-    "e": "Après « se faire », on emploie l'infinitif : « s'est fait prendre » → « agresser ».",
-    "src": "FAIRE_VPPA[0]#2",
+    "s": "Léo s'est fait {grondé>gronder} par son père.",
+    "e": "Après « se faire », on emploie l'infinitif : « s'est fait prendre » → « gronder ».",
     "id": "infinitif-participe.19"
    },
    {
@@ -9596,7 +9594,7 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Les {italiens>Italiens} et les Français sont Européens.",
+    "s": "Les {italiens>Italiens} et les Français aiment la bonne cuisine.",
     "e": "Des personnes (les habitants de l'Italie) : majuscule.",
     "id": "majuscules.8"
    },
@@ -13087,7 +13085,7 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "La montre qu'il a {mis>mise} ce matin.",
+    "s": "J'aime la montre qu'il a {mis>mise} ce matin.",
     "e": "Mis quoi ? « qu' » = la montre, placé avant : « mise ».",
     "src": "D_N_QUE_R_AVOIR_PPA[0]#1",
     "id": "pp-cod-avant.9"
@@ -13322,9 +13320,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Cette opportunité m'a {permise>permis} d'être plus sociable.",
+    "s": "Cette expérience m'a {permise>permis} d'être plus sociable.",
     "e": "Auxiliaire avoir : « m' » n'est pas un COD (permettre À quelqu'un), donc pas d'accord.",
-    "src": "AUX_AVOIR[23]#0",
     "id": "pp-etre-avoir.16"
    },
    {
@@ -15304,7 +15301,7 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ouais, on {sais>sait} déjà que tu es costaud !",
+    "s": "Oui, on {sais>sait} déjà que tu es costaud !",
     "e": "Avec « on » : « on sait ».",
     "id": "sais-sait.12"
    },
@@ -16184,7 +16181,7 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Une veste {tout>toute} neuve.",
+    "s": "Elle porte une veste {tout>toute} neuve.",
     "e": "Adverbe devant un adjectif féminin commençant par une consonne : « toute neuve ».",
     "src": "ACCORD_TOUT_ADJECTIF[0]#0",
     "id": "tout.10"

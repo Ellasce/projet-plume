@@ -16,7 +16,7 @@ Cas de base
   4. Famille de mots : on garde souvent la consonne du mot de base (terre → terrain,
      honneur → honorer est une exception).
 Cas particuliers et pièges
-  5. Mots courants mal écrits : développer, enveloppe, occasion, carotte, chariot (un seul r),
+  5. Mots courants mal écrits : développer, enveloppe, occasion, carotte (deux t), chariot (un r ; « charriot » admis depuis 1990),
      charrette (deux r), personne, honneur, ennemi.
   6. Familles qui changent : honneur / honorer, sonner / sonore, imbécile (1 l) / imbécillité.
 Niveau : collège.
@@ -39,11 +39,11 @@ Exceptions courantes : **ap**ercevoir, **ap**aiser, **ap**latir, **ac**heter, **
 
 **Les pièges** (à apprendre) :
 - un seul p dans **apercevoir**, deux p dans **développer** et **enveloppe** ;
-- deux c dans **occasion**, deux r dans **carotte** mais un seul dans **chariot**.
+- deux c dans **occasion**, deux t dans **carotte**.
 
 ## Pour aller plus loin
 
-- Des familles qui changent : **honneur** (deux n) mais **honorer** (un n) ; **sonner** (deux n) mais **sonore** ; **charrette** (deux r) mais **chariot** (un r).
+- Des familles qui changent : **honneur** (deux n) mais **honorer** (un n) ; **sonner** (deux n) mais **sonore** ; **charrette** (deux r) mais **chariot** (un r, ou **charriot** depuis les rectifications de 1990).
 - **Imbécile** prend un seul l, mais **imbécillité** en prend deux.
 
 ## Exercices essentiels
@@ -100,8 +100,8 @@ Exceptions courantes : **ap**ercevoir, **ap**aiser, **ap**latir, **ac**heter, **
 14. Nous sommes très [honnorés → honorés] de votre visite.
     Pourquoi : « Honorer » prend un seul n, contrairement à « honneur ».
 
-15. Il pousse un [charriot → chariot] au supermarché.
-    Pourquoi : « Chariot » prend un seul r (mais « charrette » en prend deux).
+15. Il faut [fraper → frapper] avant d'entrer.
+    Pourquoi : « Frapper » prend deux p.
 
 16. Le cheval tirait une [charette → charrette] pleine de foin.
     Pourquoi : « Charrette » prend deux r.

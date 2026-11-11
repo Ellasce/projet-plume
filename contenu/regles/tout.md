@@ -62,7 +62,7 @@ Devant une voyelle ou un h muet, il reste invariable : elles sont tout heureuses
    Pourquoi : Déterminant devant « la matinée » (féminin singulier) : « toute ».
    Source : LanguageTool (AGREEMENT_TOUT_LE[3]#4)
 
-10. Une veste [tout → toute] neuve.
+10. Elle porte une veste [tout → toute] neuve.
    Pourquoi : Adverbe devant un adjectif féminin commençant par une consonne : « toute neuve ».
    Source : LanguageTool (ACCORD_TOUT_ADJECTIF[0]#0)
 

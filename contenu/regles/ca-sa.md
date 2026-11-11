@@ -87,8 +87,8 @@ Niveau : collège.
 
 ## Exercices avancés
 
-12. Elle a prêté [ça → sa] voiture à un ami.
-    Pourquoi : « Elle a prêté ma voiture » : possessif, « sa ».
+12. Elle a oublié [ça → sa] valise dans le train.
+    Pourquoi : « Elle a oublié ma valise » : possessif, « sa ».
 
 13. Chacun doit trouver [ça → sa] place.
     Pourquoi : « Trouver ma place » : possessif, « sa ».

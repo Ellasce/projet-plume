@@ -79,9 +79,8 @@ Résumé : Six mots qui se prononcent presque pareil.
 16. Ce qu'il dit, [s'est → c'est] exactement ce qu'il pense.
    Pourquoi : « Cela est exactement ce qu'il pense » : « c'est ».
 
-17. Ainsi, [c'est → ces] maisons sont à vendre.
+17. [C'est → Ces] maisons sont à vendre depuis un an.
    Pourquoi : Devant le nom « maisons » : déterminant démonstratif pluriel « ces ».
-   Source : LanguageTool (CE_SE[14]#0)
 
 18. Elle [c'est → s'est] violemment disputée avec son frère.
    Pourquoi : « Je me suis disputée » : verbe pronominal, « s'est ».

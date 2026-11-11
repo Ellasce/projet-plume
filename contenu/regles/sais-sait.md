@@ -89,7 +89,7 @@ Niveau : collège.
 
 ## Exercices avancés
 
-12. Ouais, on [sais → sait] déjà que tu es costaud !
+12. Oui, on [sais → sait] déjà que tu es costaud !
     Pourquoi : Avec « on » : « on sait ».
 
 13. Il [sais → sait] toujours quoi répondre.

@@ -43,7 +43,7 @@ Niveau : lycée.
 
 ## Exercices essentiels
 
-1. Il a fait un [éxemple → exemple] au tableau.
+1. Il a donné un [éxemple → exemple] au tableau.
    Pourquoi : Jamais d'accent devant un x : « exemple ».
 
 2. Merci pour ce [cadéau → cadeau].

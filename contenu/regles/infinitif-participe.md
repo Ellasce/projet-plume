@@ -94,9 +94,8 @@ Les verbes en **-er** se prononcent pareil à l'infinitif (**-er**), au particip
 18. Après avoir mangé, nous sommes allés nous promener.
    Pourquoi : Correct : après « avoir », le participe passé (mangé) ; après « allés nous », l'infinitif (promener).
 
-19. Tom s'est fait [agressé → agresser] en rentrant chez lui du travail.
-   Pourquoi : Après « se faire », on emploie l'infinitif : « s'est fait prendre » → « agresser ».
-   Source : LanguageTool (FAIRE_VPPA[0]#2)
+19. Léo s'est fait [grondé → gronder] par son père.
+   Pourquoi : Après « se faire », on emploie l'infinitif : « s'est fait prendre » → « gronder ».
 
 20. Il a, par exemple, [abandonner → abandonné].
    Pourquoi : Après l'auxiliaire avoir : participe passé (il a pris) → « abandonné ».

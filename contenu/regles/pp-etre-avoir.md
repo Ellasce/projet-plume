@@ -77,9 +77,8 @@ Résumé : Avec être, on accorde avec le sujet ; avec avoir, jamais avec le suj
 15. Ma sœur et mon frère sont partis tôt.
    Pourquoi : Correct : un masculin et un féminin donnent un accord au masculin pluriel.
 
-16. Cette opportunité m'a [permise → permis] d'être plus sociable.
+16. Cette expérience m'a [permise → permis] d'être plus sociable.
    Pourquoi : Auxiliaire avoir : « m' » n'est pas un COD (permettre À quelqu'un), donc pas d'accord.
-   Source : LanguageTool (AUX_AVOIR[23]#0)
 
 17. Seules les boissons et la nourriture sont [autorisés → autorisées].
    Pourquoi : Auxiliaire être, sujets « les boissons et la nourriture » (féminins) : « autorisées ».

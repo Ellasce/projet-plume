@@ -70,7 +70,7 @@ Niveau : lycée.
 7. Nous avons dîné dans un restaurant [Italien → italien].
    Pourquoi : Adjectif de nationalité : minuscule.
 
-8. Les [italiens → Italiens] et les Français sont Européens.
+8. Les [italiens → Italiens] et les Français aiment la bonne cuisine.
    Pourquoi : Des personnes (les habitants de l'Italie) : majuscule.
 
 9. Les Espagnols parlent espagnol et adorent l'été.
