@@ -18,7 +18,7 @@ Application **gratuite et libre** d'entraînement à l'orthographe, à la gramma
 
 > **Réalisé en grande partie avec une intelligence artificielle** (Claude, d'Anthropic), faute de moyens pour tout écrire à la main. Toute reprise, relecture ou réécriture humaine est bienvenue : c'est le but d'un projet libre.
 
-> État : **en construction**. 74 règles et 1 343 exercices, du collège au niveau adulte. La liste de ce qui reste à écrire est dans [docs/FEUILLE-DE-ROUTE.md](docs/FEUILLE-DE-ROUTE.md).
+> État : **en construction**. 79 règles et 1 429 exercices, du collège au niveau adulte. La liste de ce qui reste à écrire est dans [docs/FEUILLE-DE-ROUTE.md](docs/FEUILLE-DE-ROUTE.md).
 
 ## Démarrage rapide
 

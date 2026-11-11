@@ -2234,6 +2234,209 @@ window.PLUME_REGLES = [
   ]
  },
  {
+  "id": "cense-sense",
+  "titre": "censé ou sensé",
+  "resume": "Il est censé venir (= supposé) ; une idée sensée (= raisonnable).",
+  "niveau": "superieur",
+  "fiche": "- **censé** veut dire **supposé** ; il est presque toujours suivi d'un **infinitif** : tu es **censé** arriver à huit heures.\n- **sensé** veut dire **raisonnable**, plein de bon **sens** : c'est une remarque très **sensée**.\n\n**Le test** : remplacez par « supposé » ou par « raisonnable ».\n> Tu es censé arriver à huit heures. → Tu es supposé arriver ✔ → **censé**.\n> Une remarque sensée. → Une remarque raisonnable ✔ → **sensée**.\n\n**Les pièges** :\n- Les deux **s'accordent** : elle est **censée** partir ; des arguments **sensés**.\n- Un moyen de retenir : **sensé** comme bon **sens**.\n\n**Pour aller plus loin**\n- « **Nul n'est censé ignorer la loi** » : personne n'est supposé l'ignorer.\n- **censé** s'accorde avec le sujet : ils sont **censés** partir à midi.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Tu es {sensé>censé} arriver à huit heures.",
+    "e": "« Tu es supposé arriver » : « censé ».",
+    "id": "cense-sense.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "C'est une remarque très {censée>sensée}.",
+    "e": "« Une remarque raisonnable » : « sensée ».",
+    "id": "cense-sense.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il était {sensé>censé} m'appeler hier.",
+    "e": "« Il était supposé m'appeler » : « censé ».",
+    "id": "cense-sense.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle a pris une décision {censée>sensée}.",
+    "e": "« Une décision raisonnable » : « sensée ».",
+    "id": "cense-sense.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous sommes {sensés>censés} rendre le devoir lundi.",
+    "e": "« Nous sommes supposés rendre » : « censés ».",
+    "id": "cense-sense.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Une personne {censée>sensée} ne ferait pas ça.",
+    "e": "« Une personne raisonnable » : « sensée ».",
+    "id": "cense-sense.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce médicament est {sensé>censé} soulager la douleur.",
+    "e": "« Supposé soulager » : « censé ».",
+    "id": "cense-sense.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ses arguments sont {censés>sensés}.",
+    "e": "« Ses arguments sont raisonnables » : « sensés ».",
+    "id": "cense-sense.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il est censé être prudent, mais ce n'est pas un garçon sensé.",
+    "e": "Correct : « censé être » (supposé être), « un garçon sensé » (raisonnable).",
+    "id": "cense-sense.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Les élèves sont ___ apporter leur livre.",
+    "o": [
+     "censés",
+     "sensés"
+    ],
+    "a": 0,
+    "e": "« Supposés apporter » : « censés ».",
+    "id": "cense-sense.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "censé ou sensé ?",
+    "c": [
+     "censé (supposé)",
+     "sensé (raisonnable)"
+    ],
+    "items": [
+     [
+      "Il est ___ venir demain.",
+      0
+     ],
+     [
+      "Un conseil ___.",
+      1
+     ],
+     [
+      "Elle est ___ tout savoir.",
+      0
+     ],
+     [
+      "Une réponse ___.",
+      1
+     ],
+     [
+      "Le train est ___ partir à midi.",
+      0
+     ],
+     [
+      "Un homme ___.",
+      1
+     ]
+    ],
+    "e": "Suivi d'un verbe, au sens de « supposé » : censé. Au sens de « raisonnable » : sensé.",
+    "id": "cense-sense.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nul n'est {sensé>censé} ignorer la loi.",
+    "e": "« Nul n'est supposé ignorer la loi » : « censé ».",
+    "id": "cense-sense.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle est {sensée>censée} être en vacances.",
+    "e": "« Supposée être en vacances » : « censée ».",
+    "id": "cense-sense.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "C'est la réponse la plus {censée>sensée}.",
+    "e": "« La plus raisonnable » : « sensée ».",
+    "id": "cense-sense.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Une proposition sensée est censée convaincre.",
+    "e": "Correct : « sensée » (raisonnable), puis « censée convaincre » (supposée convaincre).",
+    "id": "cense-sense.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Voilà un conseil ___.",
+    "o": [
+     "sensé",
+     "censé"
+    ],
+    "a": 0,
+    "e": "« Un conseil raisonnable » : « sensé ».",
+    "id": "cense-sense.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils sont {censé>censés} partir à midi.",
+    "e": "« Censé » s'accorde avec « ils » : « censés ».",
+    "id": "cense-sense.17"
+   }
+  ],
+  "bref": "- **censé** = **supposé**, suivi d'un verbe : il est **censé** venir → il est **supposé** venir.\n- **sensé** = **raisonnable**, qui a du bon **sens** : une idée **sensée**."
+ },
+ {
   "id": "cest-ce-sont",
   "titre": "c'est ou ce sont",
   "resume": "À l'écrit soigné, « ce sont » devant un pluriel.",
@@ -6864,6 +7067,209 @@ window.PLUME_REGLES = [
   "bref": "- Une couleur **simple** s'accorde : des robes **vertes**, des yeux **bleus**.\n- Un **nom** employé comme couleur ne s'accorde pas : des yeux **marron**, des robes **orange**.\n- Une couleur **composée** ne s'accorde pas : des robes **bleu clair**.\n\n**Le test** : si on peut dire « de la couleur **d'un** fruit, d'une chose », c'est un nom → invariable."
  },
  {
+  "id": "davantage",
+  "titre": "davantage ou d'avantage",
+  "resume": "Dors davantage (= plus) ; plus d'avantages (= de bénéfices).",
+  "niveau": "superieur",
+  "fiche": "- **davantage** est un adverbe qui veut dire **plus** : tu devrais dormir **davantage**. Il est invariable.\n- **d'avantage(s)** est formé de **de** et du nom **avantage** (un bénéfice, un point positif) : ce forfait offre beaucoup **d'avantages**.\n\n**Le test** : remplacez par « plus » ou par « de bénéfices ».\n> J'aimerais en savoir davantage. → en savoir plus ✔ → **davantage**.\n> Cette offre présente beaucoup d'avantages. → beaucoup de bénéfices ✔ → **d'avantages**.\n\n**Les pièges** :\n- **davantage de** + nom = **plus de** : **davantage de** temps libre.\n- Après « beaucoup », « plus », « autant », c'est presque toujours le nom : plus **d'avantages**.\n\n**Pour aller plus loin**\n- **davantage que** = plus que : il s'intéresse **davantage** à la musique **qu'**au sport.\n- **pas davantage** : je n'en dirai **pas davantage**.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Tu devrais dormir {d'avantage>davantage}.",
+    "e": "« Dormir plus » : adverbe, « davantage ».",
+    "id": "davantage.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'aimerais en savoir {d'avantage>davantage}.",
+    "e": "« En savoir plus » : « davantage ».",
+    "id": "davantage.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce forfait offre plus {davantages>d'avantages}.",
+    "e": "« Plus de bénéfices » : de + nom, « d'avantages ».",
+    "id": "davantage.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il faut travailler {d'avantage>davantage} pour réussir.",
+    "e": "« Travailler plus » : « davantage ».",
+    "id": "davantage.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle lit {d'avantage>davantage} depuis l'été.",
+    "e": "« Elle lit plus » : « davantage ».",
+    "id": "davantage.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cette offre présente beaucoup {davantages>d'avantages}.",
+    "e": "« Beaucoup de bénéfices » : « d'avantages ».",
+    "id": "davantage.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous voulons {d'avantage>davantage} de temps libre.",
+    "e": "« Plus de temps libre » : « davantage de ».",
+    "id": "davantage.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce nouveau poste a autant {davantages>d'avantages} que l'ancien.",
+    "e": "« Autant de bénéfices » : « d'avantages ».",
+    "id": "davantage.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce métier a peu d'avantages, mais il me plaît davantage que l'ancien.",
+    "e": "Correct : « peu d'avantages » (de bénéfices), « me plaît davantage » (plus).",
+    "id": "davantage.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Mange ___ de légumes.",
+    "o": [
+     "davantage",
+     "d'avantage"
+    ],
+    "a": 0,
+    "e": "« Mange plus de légumes » : « davantage ».",
+    "id": "davantage.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "davantage ou d'avantages ?",
+    "c": [
+     "davantage (plus)",
+     "d'avantages (de bénéfices)"
+    ],
+    "items": [
+     [
+      "Il faut lire ___.",
+      0
+     ],
+     [
+      "Ce contrat a beaucoup ___.",
+      1
+     ],
+     [
+      "Travaille ___ !",
+      0
+     ],
+     [
+      "Il y a plus ___ que d'inconvénients.",
+      1
+     ],
+     [
+      "J'ai besoin de ___ de calme.",
+      0
+     ],
+     [
+      "Ce choix a peu ___.",
+      1
+     ]
+    ],
+    "e": "« Plus » → davantage. « De bénéfices » → d'avantages.",
+    "id": "davantage.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je n'en dirai pas {d'avantage>davantage}.",
+    "e": "« Je n'en dirai pas plus » : « davantage ».",
+    "id": "davantage.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce choix comporte autant {davantages>d'avantages} que d'inconvénients.",
+    "e": "« Autant de bénéfices que d'inconvénients » : « d'avantages ».",
+    "id": "davantage.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il s'intéresse {d'avantage>davantage} à la musique qu'au sport.",
+    "e": "« Il s'intéresse plus à la musique » : « davantage ».",
+    "id": "davantage.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je ne t'en demande pas davantage.",
+    "e": "Correct : « je ne t'en demande pas plus » : « davantage ».",
+    "id": "davantage.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il y a plus ___ que d'inconvénients.",
+    "o": [
+     "d'avantages",
+     "davantage"
+    ],
+    "a": 0,
+    "e": "« Plus de bénéfices que d'inconvénients » : « d'avantages ».",
+    "id": "davantage.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{D'avantage>Davantage} de personnes sont venues cette année.",
+    "e": "« Plus de personnes » : « davantage de ».",
+    "id": "davantage.17"
+   }
+  ],
+  "bref": "- **davantage** (un mot) = **plus** : dors **davantage** → dors **plus**.\n- **d'avantages** = **de bénéfices** : beaucoup **d'avantages** → beaucoup **de bénéfices**."
+ },
+ {
   "id": "demi-nu",
   "titre": "demi, mi, semi et nu",
   "resume": "Une demi-heure, mais deux heures et demie ; nu-pieds, mais pieds nus.",
@@ -10444,6 +10850,218 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "- **n'y** = **ne + y**, devant un verbe : il **n'y** a rien → il **y** a quelque chose.\n- **ni** relie deux éléments niés : **ni** pain **ni** lait → du pain **et** du lait."
+ },
+ {
+  "id": "notre-notre",
+  "titre": "notre ou nôtre, votre ou vôtre",
+  "resume": "Notre maison (devant un nom) ; la nôtre (avec le, la, les) : l'accent change tout.",
+  "niveau": "lycee",
+  "fiche": "- **notre** et **votre** se placent **devant un nom**, sans accent : **notre** maison, **votre** avis.\n- **le nôtre, la vôtre, les nôtres** remplacent un nom déjà cité. Ils prennent un **accent circonflexe** et sont toujours précédés de **le, la** ou **les**.\n\n**Le test** : regardez le mot d'avant.\n> Ce n'est pas votre voiture, c'est la nôtre. → « la » devant ✔ → **nôtre**.\n> Merci pour votre aide. → un nom après ✔ → **votre**.\n\n**Les pièges** :\n- Au pluriel, devant un nom, on écrit **nos, vos** : **nos** amis.\n- **les nôtres, les vôtres** prennent un s : ils jouent avec **les nôtres**.\n\n**Pour aller plus loin**\n- **Être des nôtres** = venir avec nous : serez-vous **des nôtres** samedi ?\n- **À la vôtre !** : pour trinquer, avec l'accent.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "C'est {nôtre>notre} maison.",
+    "e": "Devant le nom « maison » : déterminant, « notre » sans accent.",
+    "id": "notre-notre.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce n'est pas votre voiture, c'est la {notre>nôtre}.",
+    "e": "« La » devant, pas de nom après : pronom, « nôtre ».",
+    "id": "notre-notre.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Vôtre>Votre} avis compte beaucoup.",
+    "e": "Devant le nom « avis » : « votre » sans accent.",
+    "id": "notre-notre.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ton jardin est plus grand que le {notre>nôtre}.",
+    "e": "« Le » devant : pronom, « nôtre ».",
+    "id": "notre-notre.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Merci pour {vôtre>votre} aide.",
+    "e": "Devant le nom « aide » : « votre ».",
+    "id": "notre-notre.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Leurs enfants jouent avec les {notres>nôtres}.",
+    "e": "« Les » devant : pronom, « nôtres », avec accent et s.",
+    "id": "notre-notre.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce stylo est-il le {votre>vôtre} ?",
+    "e": "« Le » devant : pronom, « vôtre ».",
+    "id": "notre-notre.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous avons vendu {nôtre>notre} vieux canapé.",
+    "e": "Devant le groupe « vieux canapé » : déterminant, « notre ».",
+    "id": "notre-notre.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Votre chien et le nôtre s'entendent bien.",
+    "e": "Correct : « votre chien » (devant un nom), « le nôtre » (pronom).",
+    "id": "notre-notre.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Cette valise est la ___.",
+    "o": [
+     "vôtre",
+     "votre"
+    ],
+    "a": 0,
+    "e": "« La » devant, pas de nom après : « vôtre ».",
+    "id": "notre-notre.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "avec ou sans accent ?",
+    "c": [
+     "notre, votre (devant un nom)",
+     "nôtre, vôtre (le, la, les)"
+    ],
+    "items": [
+     [
+      "C'est ___ tour.",
+      0
+     ],
+     [
+      "Ce sac est le ___.",
+      1
+     ],
+     [
+      "Voici ___ adresse.",
+      0
+     ],
+     [
+      "Leur maison ressemble à la ___.",
+      1
+     ],
+     [
+      "___ professeur est malade.",
+      0
+     ],
+     [
+      "Nos idées et les ___.",
+      1
+     ]
+    ],
+    "e": "Devant un nom : sans accent. Après le, la, les : avec accent.",
+    "id": "notre-notre.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Serez-vous des {notres>nôtres} samedi ?",
+    "e": "« Être des nôtres » (venir avec nous) : pronom, « nôtres ».",
+    "id": "notre-notre.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "À la {votre>vôtre} !",
+    "e": "Pour trinquer : « à la vôtre », pronom avec accent.",
+    "id": "notre-notre.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Chacun a ses idées ; nous gardons les {notres>nôtres}.",
+    "e": "« Les » devant : pronom, « nôtres ».",
+    "id": "notre-notre.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nos voisins ont repeint leur façade ; nous repeindrons la nôtre.",
+    "e": "Correct : « la nôtre » remplace « notre façade ».",
+    "id": "notre-notre.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Je vous présente ___ fille.",
+    "o": [
+     "notre",
+     "nôtre"
+    ],
+    "a": 0,
+    "e": "Devant le nom « fille » : « notre ».",
+    "id": "notre-notre.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "C'est {nôtre>notre} tour de jouer.",
+    "e": "Devant le nom « tour » : « notre ».",
+    "id": "notre-notre.17"
+   },
+   {
+    "num": 18,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Leur équipe a gagné ; la {notre>nôtre} a perdu.",
+    "e": "« La » devant : pronom, « nôtre ».",
+    "id": "notre-notre.18"
+   }
+  ],
+  "bref": "- Devant un **nom** : **notre**, **votre**, sans accent → **notre** maison.\n- Avec **le, la, les** devant : **nôtre**, **vôtre**, avec un accent → c'est **la nôtre**."
  },
  {
   "id": "on-ont",
@@ -14337,6 +14955,209 @@ window.PLUME_REGLES = [
   ]
  },
  {
+  "id": "quoique",
+  "titre": "quoique ou quoi que",
+  "resume": "Quoiqu'il pleuve (= bien qu'il pleuve) ; quoi que tu fasses (= quelle que soit la chose que tu fasses).",
+  "niveau": "superieur",
+  "fiche": "- **quoique** (en un mot) marque une **concession**. On peut le remplacer par **bien que** : **quoiqu'**il soit jeune, il est très sérieux.\n- **quoi que** (en deux mots) veut dire **quelle que soit la chose que** : **quoi que** tu dises, je ne changerai pas d'avis.\n\n**Le test** : remplacez par « bien que ».\n> Quoiqu'il pleuve, nous sortirons. → Bien qu'il pleuve ✔ → **quoique**.\n> Quoi que tu fasses, fais-le bien. → Bien que tu fasses ✘ → **quoi que**.\n\n**Les pièges** :\n- Les expressions **quoi qu'il en soit**, **quoi qu'il arrive** s'écrivent en deux mots.\n- **quoi que ce soit** (n'importe quoi) : en deux mots.\n\n**Pour aller plus loin**\n- **quoique** peut précéder un adjectif : **quoique** riche, il vit simplement (= bien que riche).\n- **quoi qu'on en dise** (quoi que l'on dise de cela) : en deux mots.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Quoi qu'il>Quoiqu'il} pleuve, nous sortirons.",
+    "e": "« Bien qu'il pleuve » : « quoiqu'il ».",
+    "id": "quoique.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Quoiqu'il>Quoi qu'il} arrive, je resterai avec toi.",
+    "e": "« Quelle que soit la chose qui arrive » : locution « quoi qu'il arrive ».",
+    "id": "quoique.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Quoique>Quoi que} tu fasses, fais-le bien.",
+    "e": "« Quelle que soit la chose que tu fasses » : « quoi que ».",
+    "id": "quoique.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle est venue, {quoi qu'elle>quoiqu'elle} soit fatiguée.",
+    "e": "« Bien qu'elle soit fatiguée » : « quoiqu'elle ».",
+    "id": "quoique.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Quoique>Quoi que} tu dises, je ne changerai pas d'avis.",
+    "e": "« Quelle que soit la chose que tu dises » : « quoi que ».",
+    "id": "quoique.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Quoi qu'il>Quoiqu'il} soit jeune, il est très sérieux.",
+    "e": "« Bien qu'il soit jeune » : « quoiqu'il ».",
+    "id": "quoique.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Quoiqu'il>Quoi qu'il} en soit, nous partons demain.",
+    "e": "Locution « quoi qu'il en soit » : en deux mots.",
+    "id": "quoique.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a accepté, {quoi que>quoique} le salaire soit bas.",
+    "e": "« Bien que le salaire soit bas » : « quoique ».",
+    "id": "quoique.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Quoi qu'on en dise, ce film est réussi.",
+    "e": "Correct : « quoi qu'on en dise » (quoi que l'on dise de cela), en deux mots.",
+    "id": "quoique.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "___ il fasse beau, il prend son parapluie.",
+    "o": [
+     "Quoiqu'",
+     "Quoi qu'"
+    ],
+    "a": 0,
+    "e": "« Bien qu'il fasse beau » : « quoiqu' ».",
+    "id": "quoique.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "quoique ou quoi que ?",
+    "c": [
+     "quoique (bien que)",
+     "quoi que (quelle que soit la chose que)"
+    ],
+    "items": [
+     [
+      "___ il soit tard, il travaille encore.",
+      0
+     ],
+     [
+      "___ tu choisisses, je serai d'accord.",
+      1
+     ],
+     [
+      "___ elle soit timide, elle a chanté.",
+      0
+     ],
+     [
+      "___ il arrive, reste calme.",
+      1
+     ],
+     [
+      "___ le film soit long, il est passionnant.",
+      0
+     ],
+     [
+      "___ vous pensiez, dites-le.",
+      1
+     ]
+    ],
+    "e": "Si l'on peut dire « bien que », c'est « quoique ». Sinon, « quoi que ».",
+    "id": "quoique.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Quoique>Quoi que} vous décidiez, prévenez-moi.",
+    "e": "« Quelle que soit la chose que vous décidiez » : « quoi que ».",
+    "id": "quoique.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il réussit, {quoi qu'il>quoiqu'il} travaille peu.",
+    "e": "« Bien qu'il travaille peu » : « quoiqu'il ».",
+    "id": "quoique.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Quoiqu'elle ait raison, elle s'est excusée.",
+    "e": "Correct : « bien qu'elle ait raison » : « quoiqu'elle ».",
+    "id": "quoique.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ne touche à {quoique>quoi que} ce soit.",
+    "e": "« Quoi que ce soit » (n'importe quoi) : en deux mots.",
+    "id": "quoique.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Je l'aiderai, ___ il me demande de faire.",
+    "o": [
+     "quoi qu'",
+     "quoiqu'"
+    ],
+    "a": 0,
+    "e": "« Quelle que soit la chose qu'il me demande de faire » : « quoi qu' ».",
+    "id": "quoique.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Quoi que>Quoique} riche, il vit simplement.",
+    "e": "« Bien que riche » : « quoique » devant un adjectif.",
+    "id": "quoique.17"
+   }
+  ],
+  "bref": "- **quoique** (un mot) = **bien que** : **quoiqu'**il pleuve → **bien qu'**il pleuve.\n- **quoi que** (deux mots) = **quelle que soit la chose que** : **quoi que** tu fasses."
+ },
+ {
   "id": "sais-sait",
   "titre": "sais, sait, c'est ou s'est",
   "resume": "Je sais, il sait : le verbe savoir, à ne pas confondre avec c'est et s'est.",
@@ -16623,6 +17444,209 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "- **Jamais de virgule entre le sujet et le verbe** : Les élèves de la classe de 3e **sont** partis.\n- Dans une **énumération**, une virgule entre les éléments, mais **pas devant « et »** : du pain, du lait et du beurre.\n- Une **précision** glissée dans la phrase se met **entre deux virgules** : Paul**,** mon voisin**,** est venu.\n- On met une virgule quand on **s'adresse** à quelqu'un : Merci**,** Paul."
+ },
+ {
+  "id": "voir-voire",
+  "titre": "voir ou voire",
+  "resume": "Difficile, voire impossible (= et même) ; aller voir un film (le verbe).",
+  "niveau": "superieur",
+  "fiche": "- **voire** (avec un e) est un adverbe qui veut dire **et même** : cela prendra des semaines, **voire** des mois.\n- **voir** est le **verbe** : je vais **voir** un film, viens **voir** ce que j'ai trouvé.\n\n**Le test** : remplacez par « et même ».\n> C'est difficile, voire impossible. → difficile, et même impossible ✔ → **voire**.\n> Je vais voir un film. → Je vais et même un film ✘ → **voir**.\n\n**Les pièges** :\n- **voire** suit souvent une **virgule** et renchérit : utile, **voire** indispensable.\n- « **voire même** » est un pléonasme : **voire** veut déjà dire « et même ».\n\n**Pour aller plus loin**\n- On écrit simplement : c'est risqué, **voire** dangereux (et non « voire même dangereux »).\n- **Fais voir**, **on verra**, **il faut voir** : expressions avec le verbe.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "C'est difficile, {voir>voire} impossible.",
+    "e": "« Difficile, et même impossible » : « voire ».",
+    "id": "voir-voire.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il faudra des semaines, {voir>voire} des mois.",
+    "e": "« Et même des mois » : « voire ».",
+    "id": "voir-voire.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je vais {voire>voir} un film ce soir.",
+    "e": "Le verbe voir : « voir ».",
+    "id": "voir-voire.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Viens {voire>voir} ce que j'ai trouvé.",
+    "e": "Le verbe voir : « viens voir ».",
+    "id": "voir-voire.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce plat est fade, {voir>voire} immangeable.",
+    "e": "« Et même immangeable » : « voire ».",
+    "id": "voir-voire.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il est venu me {voire>voir} chez moi.",
+    "e": "Le verbe voir : « me voir ».",
+    "id": "voir-voire.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Des dizaines, {voir>voire} des centaines de personnes attendaient.",
+    "e": "« Et même des centaines » : « voire ».",
+    "id": "voir-voire.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je n'arrive pas à {voire>voir} le tableau.",
+    "e": "Le verbe voir : « voir ».",
+    "id": "voir-voire.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Pour voir la mer, il faut marcher une heure, voire deux.",
+    "e": "Correct : « pour voir » (le verbe), « voire deux » (et même deux).",
+    "id": "voir-voire.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ce travail prendra trois jours, ___ quatre.",
+    "o": [
+     "voire",
+     "voir"
+    ],
+    "a": 0,
+    "e": "« Et même quatre » : « voire ».",
+    "id": "voir-voire.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "voir ou voire ?",
+    "c": [
+     "voir (le verbe)",
+     "voire (et même)"
+    ],
+    "items": [
+     [
+      "J'aimerais ___ la mer.",
+      0
+     ],
+     [
+      "C'est rare, ___ unique.",
+      1
+     ],
+     [
+      "Allons ___ ce qui se passe.",
+      0
+     ],
+     [
+      "Il attendra une heure, ___ deux.",
+      1
+     ],
+     [
+      "Je ne peux pas te ___ demain.",
+      0
+     ],
+     [
+      "C'est utile, ___ indispensable.",
+      1
+     ]
+    ],
+    "e": "Si l'on peut dire « et même », c'est « voire ». Sinon, c'est le verbe « voir ».",
+    "id": "voir-voire.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cette idée est utile, {voir>voire} indispensable.",
+    "e": "« Et même indispensable » : « voire ».",
+    "id": "voir-voire.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "On verra bien : il faut {voire>voir}.",
+    "e": "Le verbe voir : « il faut voir ».",
+    "id": "voir-voire.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il est rare, {voir>voire} exceptionnel, qu'elle se trompe.",
+    "e": "« Et même exceptionnel » : « voire ».",
+    "id": "voir-voire.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Fais voir ton dessin.",
+    "e": "Correct : « fais voir » (le verbe).",
+    "id": "voir-voire.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Je voudrais ___ le directeur.",
+    "o": [
+     "voir",
+     "voire"
+    ],
+    "a": 0,
+    "e": "Le verbe voir : « voir le directeur ».",
+    "id": "voir-voire.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "C'est risqué, {voire même>voire} dangereux.",
+    "e": "« Voire » veut déjà dire « et même » : « voire même » est un pléonasme.",
+    "id": "voir-voire.17"
+   }
+  ],
+  "bref": "- **voire** = **et même** : difficile, **voire** impossible → difficile, **et même** impossible.\n- **voir** est le **verbe** : aller **voir** un film."
  }
 ];
 window.PLUME_ANCIENS_IDS = {"infinitif-participe#0": "infinitif-participe.1", "infinitif-participe#1": "infinitif-participe.2", "infinitif-participe#2": "infinitif-participe.3", "infinitif-participe#4": "infinitif-participe.4", "infinitif-participe#5": "infinitif-participe.5", "infinitif-participe#6": "infinitif-participe.6", "infinitif-participe#7": "infinitif-participe.7", "infinitif-participe#9": "infinitif-participe.8", "infinitif-participe#lt:A_INFINITIF[5]#1": "infinitif-participe.9", "infinitif-participe#lt:CONFUSION_E_ER[24]#0": "infinitif-participe.10", "infinitif-participe#lt:FAIRE_VPPA[1]#0": "infinitif-participe.11", "infinitif-participe#3": "infinitif-participe.12", "infinitif-participe#8": "infinitif-participe.13", "infinitif-participe#10": "infinitif-participe.14", "infinitif-participe#11": "infinitif-participe.15", "infinitif-participe#12": "infinitif-participe.16", "infinitif-participe#13": "infinitif-participe.17", "infinitif-participe#14": "infinitif-participe.18", "infinitif-participe#lt:FAIRE_VPPA[0]#2": "infinitif-participe.19", "infinitif-participe#lt:ETRE_VPPA_OU_ADJ[37]#0": "infinitif-participe.20", "infinitif-participe#lt:CONFUSION_INF_PPA[1]#0": "infinitif-participe.21", "ce-se-ces-ses#0": "ce-se-ces-ses.1", "ce-se-ces-ses#2": "ce-se-ces-ses.2", "ce-se-ces-ses#3": "ce-se-ces-ses.3", "ce-se-ces-ses#5": "ce-se-ces-ses.4", "ce-se-ces-ses#6": "ce-se-ces-ses.5", "ce-se-ces-ses#7": "ce-se-ces-ses.6", "ce-se-ces-ses#8": "ce-se-ces-ses.7", "ce-se-ces-ses#lt:CE_SE[21]#2": "ce-se-ces-ses.8", "ce-se-ces-ses#lt:SE_CE[31]#0": "ce-se-ces-ses.9", "ce-se-ces-ses#lt:CE_SE[4]#0": "ce-se-ces-ses.10", "ce-se-ces-ses#1": "ce-se-ces-ses.11", "ce-se-ces-ses#4": "ce-se-ces-ses.12", "ce-se-ces-ses#9": "ce-se-ces-ses.13", "ce-se-ces-ses#10": "ce-se-ces-ses.14", "ce-se-ces-ses#11": "ce-se-ces-ses.15", "ce-se-ces-ses#12": "ce-se-ces-ses.16", "ce-se-ces-ses#lt:CE_SE[14]#0": "ce-se-ces-ses.17", "ce-se-ces-ses#lt:CE_SE[17]#0": "ce-se-ces-ses.18", "quel-quelle-qu-elle#0": "quel-quelle-qu-elle.1", "quel-quelle-qu-elle#1": "quel-quelle-qu-elle.2", "quel-quelle-qu-elle#2": "quel-quelle-qu-elle.3", "quel-quelle-qu-elle#4": "quel-quelle-qu-elle.4", "quel-quelle-qu-elle#5": "quel-quelle-qu-elle.5", "quel-quelle-qu-elle#6": "quel-quelle-qu-elle.6", "quel-quelle-qu-elle#8": "quel-quelle-qu-elle.7", "quel-quelle-qu-elle#lt:QUELLE_OU_QU_ELLE[2]#0": "quel-quelle-qu-elle.8", "quel-quelle-qu-elle#lt:QUELLES_OU_QU_ELLES[0]#0": "quel-quelle-qu-elle.9", "quel-quelle-qu-elle#3": "quel-quelle-qu-elle.10", "quel-quelle-qu-elle#7": "quel-quelle-qu-elle.11", "quel-quelle-qu-elle#9": "quel-quelle-qu-elle.12", "quel-quelle-qu-elle#10": "quel-quelle-qu-elle.13", "quel-quelle-qu-elle#11": "quel-quelle-qu-elle.14", "quel-quelle-qu-elle#lt:QUELLE_OU_QUELLES_GROUPE_NOMINAL[3]#0": "quel-quelle-qu-elle.15", "quel-quelle-qu-elle#lt:CONFUSION_QUEL[4]#1": "quel-quelle-qu-elle.16", "pp-etre-avoir#0": "pp-etre-avoir.1", "pp-etre-avoir#1": "pp-etre-avoir.2", "pp-etre-avoir#3": "pp-etre-avoir.3", "pp-etre-avoir#4": "pp-etre-avoir.4", "pp-etre-avoir#5": "pp-etre-avoir.5", "pp-etre-avoir#6": "pp-etre-avoir.6", "pp-etre-avoir#7": "pp-etre-avoir.7", "pp-etre-avoir#lt:MADAME_EST_PPA[0]#0": "pp-etre-avoir.8", "pp-etre-avoir#lt:AUX_AVOIR[9]#0": "pp-etre-avoir.9", "pp-etre-avoir#lt:ETRE_VPPA_OU_ADJ[22]#0": "pp-etre-avoir.10", "pp-etre-avoir#2": "pp-etre-avoir.11", "pp-etre-avoir#8": "pp-etre-avoir.12", "pp-etre-avoir#9": "pp-etre-avoir.13", "pp-etre-avoir#10": "pp-etre-avoir.14", "pp-etre-avoir#11": "pp-etre-avoir.15", "pp-etre-avoir#lt:AUX_AVOIR[23]#0": "pp-etre-avoir.16", "pp-etre-avoir#lt:ETRE_VPPA_OU_ADJ[30]#1": "pp-etre-avoir.17", "pp-cod-avant#0": "pp-cod-avant.1", "pp-cod-avant#1": "pp-cod-avant.2", "pp-cod-avant#3": "pp-cod-avant.3", "pp-cod-avant#4": "pp-cod-avant.4", "pp-cod-avant#5": "pp-cod-avant.5", "pp-cod-avant#6": "pp-cod-avant.6", "pp-cod-avant#7": "pp-cod-avant.7", "pp-cod-avant#lt:ACCORD_COD_QUELLE[1]#0": "pp-cod-avant.8", "pp-cod-avant#lt:D_N_QUE_R_AVOIR_PPA[0]#1": "pp-cod-avant.9", "pp-cod-avant#2": "pp-cod-avant.10", "pp-cod-avant#8": "pp-cod-avant.11", "pp-cod-avant#9": "pp-cod-avant.12", "pp-cod-avant#10": "pp-cod-avant.13", "pp-cod-avant#lt:AUX_AVOIR[29]#0": "pp-cod-avant.14", "pp-cod-avant#lt:AUX_AVOIR[35]#0": "pp-cod-avant.15", "pp-cod-avant#lt:ACCORD_COD_QUELLE[6]#0": "pp-cod-avant.16", "futur-conditionnel#0": "futur-conditionnel.1", "futur-conditionnel#1": "futur-conditionnel.2", "futur-conditionnel#3": "futur-conditionnel.3", "futur-conditionnel#4": "futur-conditionnel.4", "futur-conditionnel#5": "futur-conditionnel.5", "futur-conditionnel#6": "futur-conditionnel.6", "futur-conditionnel#8": "futur-conditionnel.7", "futur-conditionnel#lt:CONFUSION_FUTUR_CON[9]#0": "futur-conditionnel.8", "futur-conditionnel#lt:CONFUSION_FUTUR_CON[10]#0": "futur-conditionnel.9", "futur-conditionnel#lt:COND_VS_FUTUR[4]#2": "futur-conditionnel.10", "futur-conditionnel#2": "futur-conditionnel.11", "futur-conditionnel#7": "futur-conditionnel.12", "futur-conditionnel#9": "futur-conditionnel.13", "futur-conditionnel#10": "futur-conditionnel.14", "futur-conditionnel#11": "futur-conditionnel.15", "futur-conditionnel#lt:CONFUSION_FUTUR_CON[16]#0": "futur-conditionnel.16", "futur-conditionnel#lt:COND_FUTUR_AVOIR_AIMERAI[0]#0": "futur-conditionnel.17", "vingt-cent-mille#0": "vingt-cent-mille.1", "vingt-cent-mille#1": "vingt-cent-mille.2", "vingt-cent-mille#3": "vingt-cent-mille.3", "vingt-cent-mille#4": "vingt-cent-mille.4", "vingt-cent-mille#5": "vingt-cent-mille.5", "vingt-cent-mille#6": "vingt-cent-mille.6", "vingt-cent-mille#8": "vingt-cent-mille.7", "vingt-cent-mille#lt:CENT[0]#0": "vingt-cent-mille.8", "vingt-cent-mille#lt:CENTS[0]#0": "vingt-cent-mille.9", "vingt-cent-mille#lt:MILLES[0]#0": "vingt-cent-mille.10", "vingt-cent-mille#2": "vingt-cent-mille.11", "vingt-cent-mille#7": "vingt-cent-mille.12", "vingt-cent-mille#9": "vingt-cent-mille.13", "vingt-cent-mille#10": "vingt-cent-mille.14", "vingt-cent-mille#11": "vingt-cent-mille.15", "vingt-cent-mille#lt:CENT[0]#3": "vingt-cent-mille.16", "tout#0": "tout.1", "tout#1": "tout.2", "tout#3": "tout.3", "tout#4": "tout.4", "tout#5": "tout.5", "tout#6": "tout.6", "tout#8": "tout.7", "tout#lt:AGREEMENT_TOUT_LE[0]#6": "tout.8", "tout#lt:AGREEMENT_TOUT_LE[3]#4": "tout.9", "tout#lt:ACCORD_TOUT_ADJECTIF[0]#0": "tout.10", "tout#2": "tout.11", "tout#7": "tout.12", "tout#9": "tout.13", "tout#10": "tout.14", "tout#11": "tout.15", "tout#lt:TOUS_TOUT[4]#0": "tout.16", "tout#lt:TOUS_TOUT[16]#0": "tout.17", "pp-pronominaux#0": "pp-pronominaux.1", "pp-pronominaux#1": "pp-pronominaux.2", "pp-pronominaux#2": "pp-pronominaux.3", "pp-pronominaux#3": "pp-pronominaux.4", "pp-pronominaux#4": "pp-pronominaux.5", "pp-pronominaux#7": "pp-pronominaux.6", "pp-pronominaux#8": "pp-pronominaux.7", "pp-pronominaux#9": "pp-pronominaux.8", "pp-pronominaux#5": "pp-pronominaux.9", "pp-pronominaux#6": "pp-pronominaux.10", "pp-pronominaux#10": "pp-pronominaux.11", "pp-pronominaux#11": "pp-pronominaux.12", "pp-pronominaux#12": "pp-pronominaux.13", "pp-pronominaux#lt:SE_SUCCEDER[0]#0": "pp-pronominaux.14", "pp-pronominaux#lt:ETRE_VPPA_OU_ADJ[12]#3": "pp-pronominaux.15", "pp-pronominaux#lt:ETRE_VPPA_OU_ADJ[4]#2": "pp-pronominaux.16", "pp-infinitif#0": "pp-infinitif.1", "pp-infinitif#1": "pp-infinitif.2", "pp-infinitif#2": "pp-infinitif.3", "pp-infinitif#4": "pp-infinitif.4", "pp-infinitif#5": "pp-infinitif.5", "pp-infinitif#6": "pp-infinitif.6", "pp-infinitif#lt:AVOIR_FAIT_V_INF[0]#0": "pp-infinitif.7", "pp-infinitif#lt:AVOIR_FAIT_V_INF[0]#2": "pp-infinitif.8", "pp-infinitif#3": "pp-infinitif.9", "pp-infinitif#7": "pp-infinitif.10", "pp-infinitif#8": "pp-infinitif.11", "pp-infinitif#9": "pp-infinitif.12", "pp-infinitif#10": "pp-infinitif.13", "pp-infinitif#lt:PPA_ACCORD_INFINITIF_IMPLICITE[0]#0": "pp-infinitif.14", "pp-infinitif#lt:PPA_ACCORD_INFINITIF_IMPLICITE[2]#0": "pp-infinitif.15", "quelque-quel-que#0": "quelque-quel-que.1", "quelque-quel-que#1": "quelque-quel-que.2", "quelque-quel-que#2": "quelque-quel-que.3", "quelque-quel-que#3": "quelque-quel-que.4", "quelque-quel-que#5": "quelque-quel-que.5", "quelque-quel-que#6": "quelque-quel-que.6", "quelque-quel-que#lt:QUELQUE_SOIT[1]#0": "quelque-quel-que.7", "quelque-quel-que#lt:ACCORD_QUEL_QUE_SOIT[1]#0": "quelque-quel-que.8", "quelque-quel-que#4": "quelque-quel-que.9", "quelque-quel-que#7": "quelque-quel-que.10", "quelque-quel-que#8": "quelque-quel-que.11", "quelque-quel-que#9": "quelque-quel-que.12", "quelque-quel-que#10": "quelque-quel-que.13", "quelque-quel-que#lt:QUELQUE[0]#1": "quelque-quel-que.14", "quelque-quel-que#lt:QUELLE_QUE[1]#0": "quelque-quel-que.15", "quelque-quel-que#lt:ACCORD_QUEL_QUE_SOIT[8]#0": "quelque-quel-que.16", "modes-conjonctions#0": "modes-conjonctions.1", "modes-conjonctions#1": "modes-conjonctions.2", "modes-conjonctions#3": "modes-conjonctions.3", "modes-conjonctions#4": "modes-conjonctions.4", "modes-conjonctions#6": "modes-conjonctions.5", "modes-conjonctions#7": "modes-conjonctions.6", "modes-conjonctions#8": "modes-conjonctions.7", "modes-conjonctions#lt:SUBJ_LOCU[5]#0": "modes-conjonctions.8", "modes-conjonctions#lt:SUBJ_SUBOR[0]#0": "modes-conjonctions.9", "modes-conjonctions#2": "modes-conjonctions.10", "modes-conjonctions#5": "modes-conjonctions.11", "modes-conjonctions#9": "modes-conjonctions.12", "modes-conjonctions#10": "modes-conjonctions.13", "modes-conjonctions#11": "modes-conjonctions.14", "modes-conjonctions#lt:SUBJ_LOCU[3]#0": "modes-conjonctions.15", "modes-conjonctions#lt:SUBJ_SUBOR[19]#0": "modes-conjonctions.16", "modes-conjonctions#lt:SUBJ_SUBOR[8]#1": "modes-conjonctions.17", "modes-conjonctions#lt:INC_SUBJ[0]#0": "modes-conjonctions.18", "participe-present-adjectif#0": "participe-present-adjectif.1", "participe-present-adjectif#1": "participe-present-adjectif.2", "participe-present-adjectif#3": "participe-present-adjectif.3", "participe-present-adjectif#4": "participe-present-adjectif.4", "participe-present-adjectif#5": "participe-present-adjectif.5", "participe-present-adjectif#6": "participe-present-adjectif.6", "participe-present-adjectif#8": "participe-present-adjectif.7", "participe-present-adjectif#lt:CONVAINCANT_CONVAINQUANT[0]#0": "participe-present-adjectif.8", "participe-present-adjectif#2": "participe-present-adjectif.9", "participe-present-adjectif#7": "participe-present-adjectif.10", "participe-present-adjectif#9": "participe-present-adjectif.11", "participe-present-adjectif#10": "participe-present-adjectif.12", "participe-present-adjectif#11": "participe-present-adjectif.13", "participe-present-adjectif#lt:CONVAINCANT_CONVAINQUANT[1]#0": "participe-present-adjectif.14", "participe-present-adjectif#lt:FABRICANT_FABRIQUANT[4]#0": "participe-present-adjectif.15", "participe-present-adjectif#lt:CONVAINCANT_CONVAINQUANT[2]#1": "participe-present-adjectif.16", "constructions-fautives#0": "constructions-fautives.1", "constructions-fautives#1": "constructions-fautives.2", "constructions-fautives#2": "constructions-fautives.3", "constructions-fautives#4": "constructions-fautives.4", "constructions-fautives#5": "constructions-fautives.5", "constructions-fautives#6": "constructions-fautives.6", "constructions-fautives#7": "constructions-fautives.7", "constructions-fautives#8": "constructions-fautives.8", "constructions-fautives#3": "constructions-fautives.9", "constructions-fautives#9": "constructions-fautives.10", "constructions-fautives#10": "constructions-fautives.11", "constructions-fautives#11": "constructions-fautives.12", "constructions-fautives#lt:RAPPELER_DE[2]#0": "constructions-fautives.13", "constructions-fautives#lt:ALLER_AU_COIFFEUR[2]#0": "constructions-fautives.14", "constructions-fautives#lt:BARBARISMES_COURANTS[9]#0": "constructions-fautives.15", "constructions-fautives#lt:BARBARISMES_COURANTS[25]#0": "constructions-fautives.16", "constructions-fautives#lt:BARBARISMES_COURANTS[16]#0": "constructions-fautives.17", "constructions-fautives#lt:BARBARISMES_COURANTS[15]#0": "constructions-fautives.18", "paronymes#0": "paronymes.1", "paronymes#1": "paronymes.2", "paronymes#2": "paronymes.3", "paronymes#3": "paronymes.4", "paronymes#5": "paronymes.5", "paronymes#6": "paronymes.6", "paronymes#7": "paronymes.7", "paronymes#lt:CONJECTURE[0]#0": "paronymes.8", "paronymes#4": "paronymes.9", "paronymes#8": "paronymes.10", "paronymes#9": "paronymes.11", "paronymes#10": "paronymes.12", "paronymes#11": "paronymes.13", "paronymes#12": "paronymes.14", "paronymes#lt:BARBARISMES_COURANTS[28]#0": "paronymes.15", "accords-sujet-delicats#0": "accords-sujet-delicats.1", "accords-sujet-delicats#1": "accords-sujet-delicats.2", "accords-sujet-delicats#2": "accords-sujet-delicats.3", "accords-sujet-delicats#4": "accords-sujet-delicats.4", "accords-sujet-delicats#6": "accords-sujet-delicats.5", "accords-sujet-delicats#7": "accords-sujet-delicats.6", "accords-sujet-delicats#lt:ACCORD_LA_PLUPART_DES[1]#0": "accords-sujet-delicats.7", "accords-sujet-delicats#lt:ACCORD_LA_PLUPART[2]#0": "accords-sujet-delicats.8", "accords-sujet-delicats#3": "accords-sujet-delicats.9", "accords-sujet-delicats#5": "accords-sujet-delicats.10", "accords-sujet-delicats#8": "accords-sujet-delicats.11", "accords-sujet-delicats#9": "accords-sujet-delicats.12", "accords-sujet-delicats#10": "accords-sujet-delicats.13", "accords-sujet-delicats#11": "accords-sujet-delicats.14", "conj-groupes#0": "conj-groupes.1", "conj-groupes#1": "conj-groupes.2", "conj-groupes#2": "conj-groupes.3", "conj-groupes#3": "conj-groupes.4", "conj-groupes#4": "conj-groupes.5", "conj-groupes#6": "conj-groupes.6", "conj-groupes#11": "conj-groupes.7", "conj-groupes#12": "conj-groupes.8", "conj-groupes#5": "conj-groupes.9", "conj-groupes#7": "conj-groupes.10", "conj-groupes#8": "conj-groupes.11", "conj-groupes#9": "conj-groupes.12", "conj-groupes#10": "conj-groupes.13", "conj-groupes#13": "conj-groupes.14", "conj-groupes#14": "conj-groupes.15", "conj-groupes#15": "conj-groupes.16", "conj-base-present#conj:chanter|je|au présent de l'indicatif": "conj-base-present.1", "conj-base-present#conj:chanter|vous|au présent de l'indicatif": "conj-base-present.2", "conj-base-present#conj:manger|nous|au présent de l'indicatif": "conj-base-present.3", "conj-base-present#conj:finir|il|au présent de l'indicatif": "conj-base-present.4", "conj-base-present#conj:finir|nous|au présent de l'indicatif": "conj-base-present.5", "conj-base-present#conj:choisir|ils|au présent de l'indicatif": "conj-base-present.6", "conj-base-present#conj:prendre|il|au présent de l'indicatif": "conj-base-present.7", "conj-base-present#conj:faire|vous|au présent de l'indicatif": "conj-base-present.8", "conj-base-present#conj:aller|ils|au présent de l'indicatif": "conj-base-present.9", "conj-base-present#conj:venir|ils|au présent de l'indicatif": "conj-base-present.10", "conj-base-present#conj:commencer|nous|au présent de l'indicatif": "conj-base-present.11", "conj-base-present#conj:grandir|vous|au présent de l'indicatif": "conj-base-present.12", "conj-base-present#conj:dire|vous|au présent de l'indicatif": "conj-base-present.13", "conj-base-present#conj:pouvoir|je|au présent de l'indicatif": "conj-base-present.14", "conj-base-present#conj:partir|je|au présent de l'indicatif": "conj-base-present.15", "conj-base-imparfait#conj:chanter|il|à l'imparfait de l'indicatif": "conj-base-imparfait.1", "conj-base-imparfait#conj:manger|je|à l'imparfait de l'indicatif": "conj-base-imparfait.2", "conj-base-imparfait#conj:commencer|il|à l'imparfait de l'indicatif": "conj-base-imparfait.3", "conj-base-imparfait#conj:finir|nous|à l'imparfait de l'indicatif": "conj-base-imparfait.4", "conj-base-imparfait#conj:avoir|ils|à l'imparfait de l'indicatif": "conj-base-imparfait.5", "conj-base-imparfait#conj:être|j'|à l'imparfait de l'indicatif": "conj-base-imparfait.6", "conj-base-imparfait#conj:faire|il|à l'imparfait de l'indicatif": "conj-base-imparfait.7", "conj-base-imparfait#conj:prendre|nous|à l'imparfait de l'indicatif": "conj-base-imparfait.8", "conj-base-imparfait#conj:étudier|nous|à l'imparfait de l'indicatif": "conj-base-imparfait.9", "conj-base-imparfait#conj:crier|vous|à l'imparfait de l'indicatif": "conj-base-imparfait.10", "conj-base-imparfait#conj:voir|nous|à l'imparfait de l'indicatif": "conj-base-imparfait.11", "conj-base-imparfait#conj:rire|nous|à l'imparfait de l'indicatif": "conj-base-imparfait.12", "conj-base-imparfait#conj:payer|vous|à l'imparfait de l'indicatif": "conj-base-imparfait.13", "conj-base-futur#conj:chanter|je|au futur simple": "conj-base-futur.1", "conj-base-futur#conj:jouer|nous|au futur simple": "conj-base-futur.2", "conj-base-futur#conj:finir|il|au futur simple": "conj-base-futur.3", "conj-base-futur#conj:être|je|au futur simple": "conj-base-futur.4", "conj-base-futur#conj:avoir|ils|au futur simple": "conj-base-futur.5", "conj-base-futur#conj:aller|j'|au futur simple": "conj-base-futur.6", "conj-base-futur#conj:faire|nous|au futur simple": "conj-base-futur.7", "conj-base-futur#conj:venir|il|au futur simple": "conj-base-futur.8", "conj-base-futur#conj:prendre|vous|au futur simple": "conj-base-futur.9", "conj-base-futur#conj:dire|ils|au futur simple": "conj-base-futur.10", "conj-base-futur#conj:crier|je|au futur simple": "conj-base-futur.11", "conj-base-futur#conj:vouloir|nous|au futur simple": "conj-base-futur.12", "conj-base-futur#conj:savoir|je|au futur simple": "conj-base-futur.13", "conj-base-futur#conj:pouvoir|ils|au futur simple": "conj-base-futur.14", "conj-present#conj:résoudre|je|au présent de l'indicatif": "conj-present.1", "conj-present#conj:résoudre|il|au présent de l'indicatif": "conj-present.2", "conj-present#conj:peindre|il|au présent de l'indicatif": "conj-present.3", "conj-present#conj:peindre|ils|au présent de l'indicatif": "conj-present.4", "conj-present#conj:prendre|ils|au présent de l'indicatif": "conj-present.5", "conj-present#conj:croire|ils|au présent de l'indicatif": "conj-present.6", "conj-present#conj:craindre|je|au présent de l'indicatif": "conj-present.7", "conj-present#conj:joindre|vous|au présent de l'indicatif": "conj-present.8", "conj-present#conj:vaincre|il|au présent de l'indicatif": "conj-present.9", "conj-present#conj:vaincre|nous|au présent de l'indicatif": "conj-present.10", "conj-present#conj:coudre|il|au présent de l'indicatif": "conj-present.11", "conj-present#conj:coudre|nous|au présent de l'indicatif": "conj-present.12", "conj-present#conj:acquérir|j'|au présent de l'indicatif": "conj-present.13", "conj-present#conj:acquérir|ils|au présent de l'indicatif": "conj-present.14", "conj-present#conj:asseoir|il|au présent de l'indicatif": "conj-present.15", "conj-present#conj:battre|il|au présent de l'indicatif": "conj-present.16", "conj-present#conj:rompre|il|au présent de l'indicatif": "conj-present.17", "conj-futur#conj:courir|je|au futur simple": "conj-futur.1", "conj-futur#conj:mourir|il|au futur simple": "conj-futur.2", "conj-futur#conj:envoyer|j'|au futur simple": "conj-futur.3", "conj-futur#conj:voir|nous|au futur simple": "conj-futur.4", "conj-futur#conj:appeler|il|au futur simple": "conj-futur.5", "conj-futur#conj:jeter|ils|au futur simple": "conj-futur.6", "conj-futur#conj:courir|je|au conditionnel présent": "conj-futur.7", "conj-futur#conj:mourir|il|au conditionnel présent": "conj-futur.8", "conj-futur#conj:acquérir|j'|au futur simple": "conj-futur.9", "conj-futur#conj:cueillir|je|au futur simple": "conj-futur.10", "conj-futur#conj:essuyer|j'|au futur simple": "conj-futur.11", "conj-futur#conj:conclure|je|au futur simple": "conj-futur.12", "conj-futur#conj:envoyer|nous|au conditionnel présent": "conj-futur.13", "conj-futur#conj:asseoir|j'|au futur simple": "conj-futur.14", "conj-futur#conj:accueillir|j'|au futur simple": "conj-futur.15", "conj-subjonctif#conj:croire|que nous|au subjonctif présent": "conj-subjonctif.1", "conj-subjonctif#conj:voir|que vous|au subjonctif présent": "conj-subjonctif.2", "conj-subjonctif#conj:avoir|que j'|au subjonctif présent": "conj-subjonctif.3", "conj-subjonctif#conj:avoir|qu'il|au subjonctif présent": "conj-subjonctif.4", "conj-subjonctif#conj:être|que nous|au subjonctif présent": "conj-subjonctif.5", "conj-subjonctif#conj:faire|que je|au subjonctif présent": "conj-subjonctif.6", "conj-subjonctif#conj:aller|qu'il|au subjonctif présent": "conj-subjonctif.7", "conj-subjonctif#conj:pouvoir|qu'ils|au subjonctif présent": "conj-subjonctif.8", "conj-subjonctif#conj:savoir|que je|au subjonctif présent": "conj-subjonctif.9", "conj-subjonctif#conj:rire|que nous|au subjonctif présent": "conj-subjonctif.10", "conj-subjonctif#conj:essayer|que nous|au subjonctif présent": "conj-subjonctif.11", "conj-subjonctif#conj:payer|que vous|au subjonctif présent": "conj-subjonctif.12", "conj-subjonctif#conj:envoyer|que nous|au subjonctif présent": "conj-subjonctif.13", "conj-subjonctif#conj:fuir|que nous|au subjonctif présent": "conj-subjonctif.14", "conj-subjonctif#conj:valoir|qu'il|au subjonctif présent": "conj-subjonctif.15", "conj-subjonctif#conj:vouloir|que je|au subjonctif présent": "conj-subjonctif.16", "conj-imperatif#conj:aller|(tu)|à l'impératif présent": "conj-imperatif.1", "conj-imperatif#conj:cueillir|(tu)|à l'impératif présent": "conj-imperatif.2", "conj-imperatif#conj:manger|(tu)|à l'impératif présent": "conj-imperatif.3", "conj-imperatif#conj:avoir|(tu)|à l'impératif présent": "conj-imperatif.4", "conj-imperatif#conj:être|(vous)|à l'impératif présent": "conj-imperatif.5", "conj-imperatif#conj:prendre|(tu)|à l'impératif présent": "conj-imperatif.6", "conj-imperatif#conj:finir|(tu)|à l'impératif présent": "conj-imperatif.7", "conj-imperatif#conj:ouvrir|(tu)|à l'impératif présent": "conj-imperatif.8", "conj-imperatif#conj:offrir|(tu)|à l'impératif présent": "conj-imperatif.9", "conj-imperatif#conj:savoir|(tu)|à l'impératif présent": "conj-imperatif.10", "conj-imperatif#conj:vouloir|(vous)|à l'impératif présent": "conj-imperatif.11", "conj-imperatif#conj:dire|(vous)|à l'impératif présent": "conj-imperatif.12", "conj-imperatif#conj:faire|(vous)|à l'impératif présent": "conj-imperatif.13", "conj-imperatif#conj:craindre|(tu)|à l'impératif présent": "conj-imperatif.14", "conj-passe-simple#conj:naître|il|au passé simple": "conj-passe-simple.1", "conj-passe-simple#conj:venir|ils|au passé simple": "conj-passe-simple.2", "conj-passe-simple#conj:tenir|il|au passé simple": "conj-passe-simple.3", "conj-passe-simple#conj:croire|il|au passé simple": "conj-passe-simple.4", "conj-passe-simple#conj:courir|il|au passé simple": "conj-passe-simple.5", "conj-passe-simple#conj:aller|ils|au passé simple": "conj-passe-simple.6", "conj-passe-simple#conj:être|ils|au passé simple": "conj-passe-simple.7", "conj-passe-simple#conj:voir|nous|au passé simple": "conj-passe-simple.8", "conj-passe-simple#conj:vaincre|il|au passé simple": "conj-passe-simple.9", "conj-passe-simple#conj:résoudre|il|au passé simple": "conj-passe-simple.10", "conj-passe-simple#conj:conclure|il|au passé simple": "conj-passe-simple.11", "conj-passe-simple#conj:peindre|il|au passé simple": "conj-passe-simple.12", "conj-passe-simple#conj:coudre|il|au passé simple": "conj-passe-simple.13", "conj-passe-simple#conj:mourir|il|au passé simple": "conj-passe-simple.14", "conj-passe-simple#conj:plaire|il|au passé simple": "conj-passe-simple.15", "conj-passe-simple#conj:devoir|ils|au passé simple": "conj-passe-simple.16", "conj-participe#conj:conclure||au participe passé (masculin singulier)": "conj-participe.1", "conj-participe#conj:inclure||au participe passé (masculin singulier)": "conj-participe.2", "conj-participe#conj:exclure||au participe passé (masculin singulier)": "conj-participe.3", "conj-participe#conj:résoudre||au participe passé (masculin singulier)": "conj-participe.4", "conj-participe#conj:acquérir||au participe passé (masculin singulier)": "conj-participe.5", "conj-participe#conj:devoir||au participe passé (masculin singulier)": "conj-participe.6", "conj-participe#conj:naître||au participe passé (masculin singulier)": "conj-participe.7", "conj-participe#conj:peindre||au participe passé (masculin singulier)": "conj-participe.8", "conj-participe#conj:absoudre||au participe passé (masculin singulier)": "conj-participe.9", "conj-participe#conj:clore||au participe passé (masculin singulier)": "conj-participe.10", "conj-participe#conj:mouvoir||au participe passé (masculin singulier)": "conj-participe.11", "conj-participe#conj:suffire||au participe passé (masculin singulier)": "conj-participe.12", "conj-participe#conj:croître||au participe passé (masculin singulier)": "conj-participe.13", "conj-participe#conj:luire||au participe passé (masculin singulier)": "conj-participe.14", "a-a#0": "a-a.1", "a-a#1": "a-a.2", "a-a#6": "a-a.3", "a-a#8": "a-a.4", "a-a#11": "a-a.5", "a-a#12": "a-a.6", "a-a#15": "a-a.7", "a-a#20": "a-a.8", "a-a#28": "a-a.9", "a-a#30": "a-a.10", "a-a#2": "a-a.11", "a-a#3": "a-a.12", "a-a#4": "a-a.13", "a-a#5": "a-a.14", "a-a#7": "a-a.15", "a-a#9": "a-a.16", "a-a#10": "a-a.17", "a-a#13": "a-a.18", "a-a#14": "a-a.19", "a-a#16": "a-a.20", "a-a#17": "a-a.21", "a-a#18": "a-a.22", "a-a#19": "a-a.23", "a-a#21": "a-a.24", "a-a#22": "a-a.25", "a-a#23": "a-a.26", "a-a#24": "a-a.27", "a-a#25": "a-a.28", "a-a#26": "a-a.29", "a-a#27": "a-a.30", "a-a#29": "a-a.31", "a-a#31": "a-a.32", "a-a#32": "a-a.33"};

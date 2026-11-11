@@ -14,7 +14,7 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 3. L'orthographe d'usage (consonnes doubles, accents, -amment / -emment, majuscules, trait d'union) : la catégorie entièrement absente.
 4. La ponctuation, puis les règles 🟢.
 
-## Déjà réalisées (74 règles)
+## Déjà réalisées (79 règles)
 
 - [x] a / à — `a-a`
 - [x] Infinitif ou participe passé : -er, -é, -ez — `infinitif-participe`
@@ -91,6 +91,11 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 - [x] ce / cet / cette — `cet-cette`
 - [x] du / dû, sur / sûr, mur / mûr — `du-du`
 - [x] parce que / par ce que — `parce-que`
+- [x] notre / nôtre, votre / vôtre — `notre-notre`
+- [x] quoique / quoi que — `quoique`
+- [x] davantage / d'avantage — `davantage`
+- [x] voir / voire — `voir-voire`
+- [x] censé / sensé — `cense-sense`
 
 ## 1. Homophones
 
@@ -100,10 +105,10 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 - [x] 🟠 ni / n'y — collège → `ni-n-y`
 - [x] 🟠 près / prêt — collège → `pres-pret`
 - [ ] 🟠 -é / -ée / -er / -ez / -ait (version complète) — collège
-- [ ] 🟠 quoique / quoi que — supérieur
-- [ ] 🟠 davantage / d'avantage — supérieur
-- [ ] 🟠 voir / voire — supérieur
-- [ ] 🟠 censé / sensé — supérieur
+- [x] 🟠 quoique / quoi que — supérieur → `quoique`
+- [x] 🟠 davantage / d'avantage — supérieur → `davantage`
+- [x] 🟠 voir / voire — supérieur → `voir-voire`
+- [x] 🟠 censé / sensé — supérieur → `cense-sense`
 - [ ] 🟢 dans / d'en — lycée
 - [ ] 🟢 quelquefois / quelques fois — lycée
 - [ ] 🟢 tant / temps / t'en — lycée
@@ -199,7 +204,7 @@ Homophones
 - [x] 🟠 ma / m'a, ta / t'a, mon / m'ont, ton / t'ont — collège → `ma-m-a`
 - [x] 🟠 ce / ceux — collège → `ce-ceux`
 - [x] 🟠 cet / cette — collège → `cet-cette`
-- [ ] 🟠 notre / nôtre, votre / vôtre — lycée
+- [x] 🟠 notre / nôtre, votre / vôtre — lycée → `notre-notre`
 - [x] 🟠 du / dû, sur / sûr, mur / mûr — lycée → `du-du`
 - [x] 🟠 parce que / par ce que — lycée → `parce-que`
 - [ ] 🟠 a / as, es / est, ai / aie / ait (les formes d'être et d'avoir qui se ressemblent) — collège

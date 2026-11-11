@@ -30,7 +30,7 @@ window.PLUME_STRUCTURE = {
         { id: "homophones-classiques", titre: "Les classiques",
           regles: ["a-a", "et-est", "on-ont", "son-sont", "ou-ou", "la-la", "leur-leurs", "peu-peut", "ca-sa", "mes-mais-met", "pres-pret", "ma-m-a", "cet-cette"] },
         { id: "homophones-grammaticaux", titre: "Homophones grammaticaux",
-          regles: ["infinitif-participe", "ce-se-ces-ses", "quel-quelle-qu-elle", "futur-conditionnel", "quelque-quel-que", "quand-quant", "plutot-plus-tot", "sais-sait", "ai-ais", "si-s-y", "ni-n-y", "sans-s-en", "ce-ceux", "parce-que"] }
+          regles: ["infinitif-participe", "ce-se-ces-ses", "quel-quelle-qu-elle", "futur-conditionnel", "quelque-quel-que", "quand-quant", "plutot-plus-tot", "sais-sait", "ai-ais", "si-s-y", "ni-n-y", "sans-s-en", "ce-ceux", "parce-que", "notre-notre", "quoique", "davantage"] }
       ]
     },
     {
@@ -98,7 +98,7 @@ window.PLUME_STRUCTURE = {
       description: "Les tournures fautives et les mots qu'on confond.",
       sous: [
         { id: "usage", titre: "Usage et vocabulaire",
-          regles: ["constructions-fautives", "paronymes"] }
+          regles: ["constructions-fautives", "paronymes", "voir-voire", "cense-sense"] }
       ]
     }
   ],
@@ -111,13 +111,16 @@ window.PLUME_STRUCTURE = {
     "conj-groupes", "conj-base-present", "conj-base-imparfait", "conj-base-futur",
     "infinitif-participe", "ce-se-ces-ses", "si-s-y", "ni-n-y", "sans-s-en", "ce-ceux", "quel-quelle-qu-elle", "pp-etre-avoir",
     "conj-present", "futur-conditionnel", "conj-futur", "pp-cod-avant",
-    "tout", "conj-imperatif", "vingt-cent-mille", "couleurs", "demi-nu", "amment-emment", "dont-que", "cest-ce-sont", "negation-ne", "trait-union", "majuscules", "conditionnel-passe", "ai-ais", "du-du", "parce-que", "interrogation-indirecte", "mots-difficiles", "pronoms-relatifs", "virgule", "concordance-temps", "constructions-verbes", "conj-subjonctif",
+    "tout", "conj-imperatif", "vingt-cent-mille", "couleurs", "demi-nu", "amment-emment", "dont-que", "cest-ce-sont", "negation-ne", "trait-union", "majuscules", "conditionnel-passe", "ai-ais", "du-du", "parce-que", "notre-notre", "interrogation-indirecte", "mots-difficiles", "pronoms-relatifs", "virgule", "concordance-temps", "constructions-verbes", "conj-subjonctif",
     "accords-sujet-delicats", "modes-conjonctions", "pp-pronominaux", "quelque-quel-que",
-    "quand-quant", "plutot-plus-tot", "participe-present-adjectif", "pp-infinitif", "conj-participe", "conj-passe-simple",
+    "quand-quant", "plutot-plus-tot", "quoique", "davantage", "voir-voire", "cense-sense", "participe-present-adjectif", "pp-infinitif", "conj-participe", "conj-passe-simple",
     "constructions-fautives", "paronymes"
   ],
 
   liens: {
+    "voir-voire": ["paronymes"],
+    "cense-sense": ["paronymes"],
+    "quoique": ["quelque-quel-que"],
     "ce-ceux": ["ce-se-ces-ses"],
     "cet-cette": ["ce-se-ces-ses"],
     "du-du": ["accents"],
