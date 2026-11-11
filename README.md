@@ -1,5 +1,13 @@
 # Projet Plume — orthographe libre
 
+**Essayer en ligne : https://projet-plume.pages.dev**
+
+<p align="center">
+  <img src="docs/captures/accueil.png" alt="Page d'accueil du Projet Plume" width="32%">
+  <img src="docs/captures/exercice.png" alt="Un exercice et sa correction" width="32%">
+  <img src="docs/captures/progression.png" alt="La page de progression" width="32%">
+</p>
+
 Application **gratuite et libre** d'entraînement à l'orthographe, à la grammaire et à la conjugaison françaises :
 
 - **sans abonnement ni modules payants** : un seul parcours continu ;
@@ -10,27 +18,27 @@ Application **gratuite et libre** d'entraînement à l'orthographe, à la gramma
 
 > État : **en construction**. 64 règles et 1 158 exercices, du collège au niveau adulte. La liste de ce qui reste à écrire est dans [docs/FEUILLE-DE-ROUTE.md](docs/FEUILLE-DE-ROUTE.md).
 
-## Construire et tester le site
+## Démarrage rapide
 
-**Le plus simple (Windows)** : double-cliquez sur **`Lancer Plume.bat`**. Il construit le site, puis l'ouvre dans votre navigateur à l'adresse http://localhost:8000. Laissez la fenêtre noire ouverte pendant que vous utilisez le site ; fermez-la pour l'arrêter.
-
-En ligne de commande :
-
-Le site se construit en une commande (Python 3 et Node.js requis) :
+Il faut **Python 3** et **Node.js**. Sur Windows, macOS ou Linux :
 
 ```bash
+git clone https://github.com/Allesca/projet-plume.git
+cd projet-plume
 python -I outils/construire.py
-```
-
-Elle assemble les règles (`contenu/regles/*.md`) et écrit le site complet dans `publication/` : une page HTML par adresse (lisible sans JavaScript, pour les moteurs de recherche), `sitemap.xml`, `robots.txt`.
-
-Pour le tester sur son ordinateur :
-
-```bash
 python -I outils/servir.py
 ```
 
-Puis ouvrir http://localhost:8000. Ce petit serveur se comporte comme Cloudflare Pages (adresses sans `.html`, retour à l'accueil pour les adresses inconnues). Ouvrir un fichier par double-clic ne fonctionne plus : les adresses du site sont absolues.
+Puis ouvrir http://localhost:8000. (Selon le système, la commande peut s'appeler `python3`.)
+
+- `construire.py` assemble les règles (`contenu/regles/*.md`) et écrit le site complet dans `publication/` : une page HTML par adresse (lisible sans JavaScript, pour les moteurs de recherche), `sitemap.xml`, `robots.txt`.
+- `servir.py` se comporte comme Cloudflare Pages (adresses sans `.html`, retour à l'accueil pour les adresses inconnues). Ouvrir un fichier par double-clic ne fonctionne pas : les adresses du site sont absolues.
+- **Raccourci Windows** : double-cliquez sur `Lancer Plume.bat`, qui fait les deux étapes et ouvre le navigateur. Laissez la fenêtre noire ouverte pendant l'utilisation.
+- **Captures d'écran du README** : serveur lancé, puis `node outils/captures.js` (Chrome, Edge ou Chromium requis).
+
+## Contribuer
+
+Une erreur dans une règle, un exercice à proposer, une relecture ? Voir **[CONTRIBUTING.md](CONTRIBUTING.md)**. Pas besoin de savoir programmer : les règles sont de simples fichiers texte.
 
 ## Site en ligne
 
@@ -102,6 +110,7 @@ gabarit.html, css/, js/        l'application (gabarit des pages, styles, code)
 contenu/pages.js               textes des pages Accueil, Projet et Progression
 outils/generer_site.js         écrit les pages statiques, le sitemap et robots.txt dans publication/
 outils/servir.py               serveur local pour tester publication/
+outils/captures.js             captures d'écran du README (docs/captures/)
 sw.js, manifest.webmanifest    mode hors ligne et installation comme application
 docs/PROCEDURE-CREATION-REGLE.md   procédure de création et de relecture (document de référence)
 CLAUDE.md                      consignes pour Claude (renvoie vers la procédure)
