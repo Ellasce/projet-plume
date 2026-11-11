@@ -52,25 +52,20 @@ Niveau : lycée.
 1. Les [français → Français] sont souvent fiers de leur cuisine.
    Pourquoi : Il s'agit de personnes (les habitants) : majuscule, « Français ».
 
-2. Le [Français → français] est-il facile ?
+2. Le [Français → français] est-il difficile à apprendre ?
    Pourquoi : Il s'agit de la langue : minuscule.
-   Source : Tatoeba n° 8737101
 
-3. Votre [Français → français] est meilleur que le mien.
+3. Ton [Français → français] a fait des progrès.
    Pourquoi : La langue : minuscule.
-   Source : Tatoeba n° 5794181
 
-4. Elle parle [Anglais → anglais] ainsi que français.
+4. Il parle [Espagnol → espagnol] et portugais.
    Pourquoi : Une langue : minuscule.
-   Source : Tatoeba n° 331021
 
-5. Je dois passer un examen en [Janvier → janvier].
+5. Les soldes commencent en [Janvier → janvier].
    Pourquoi : Les mois prennent une minuscule.
-   Source : Tatoeba n° 678710
 
-6. J'espère être de retour [Lundi → lundi] prochain.
+6. Je te rappelle [Mardi → mardi] soir.
    Pourquoi : Les jours prennent une minuscule.
-   Source : Tatoeba n° 1291285
 
 7. Nous avons dîné dans un restaurant [Italien → italien].
    Pourquoi : Adjectif de nationalité : minuscule.

@@ -44,33 +44,26 @@ Niveau : collège.
 
 ## Exercices essentiels
 
-1. Ils vivent [prêt → près] de l'aéroport.
-   Pourquoi : « Loin de l'aéroport » : proximité, « près ».
-   Source : Tatoeba n° 12203003
+1. Nous habitons [prêt → près] de l'école.
+   Pourquoi : « Loin de l'école » : proximité, « près ».
 
-2. Il vit [prêt → près] de la plage.
-   Pourquoi : « Loin de la plage » : « près ».
-   Source : Tatoeba n° 3642554
+2. La boulangerie est [prêt → près] de la mairie.
+   Pourquoi : « Loin de la mairie » : « près ».
 
-3. Je m'assis [prêt → près] de lui.
-   Pourquoi : À côté de lui : « près ».
-   Source : Tatoeba n° 1313177
+3. Viens t'asseoir [prêt → près] de moi.
+   Pourquoi : À côté de moi : « près ».
 
-4. Es-tu [près → prêt] à y aller ?
-   Pourquoi : « Es-tu préparé à y aller ? » : « prêt ».
-   Source : Tatoeba n° 986823
+4. Tu es [près → prêt] à partir ?
+   Pourquoi : « Tu es préparé à partir ? » : « prêt ».
 
-5. Je suis [près → prêt] à agrandir notre projet.
+5. Je suis [près → prêt] à t'aider.
    Pourquoi : Disposé à : « prêt ».
-   Source : Tatoeba n° 12252653
 
-6. Ces prunes sont [près → prêtes] à être mangées.
-   Pourquoi : Préparées à : « prêt », accordé avec « prunes » : « prêtes ».
-   Source : Tatoeba n° 13329352
+6. Les tomates sont [près → prêtes] à être cueillies.
+   Pourquoi : Préparées à : « prêt », accordé avec « tomates » : « prêtes ».
 
-7. Nous sommes [près → prêts] à faire tout ce qui est nécessaire.
+7. Nous sommes [près → prêts] à recommencer.
    Pourquoi : Disposés à : « prêt », accordé au pluriel : « prêts ».
-   Source : Tatoeba n° 11589919
 
 8. Elle est [prêt → prête] à partir.
    Pourquoi : « prêt » s'accorde avec « elle » : « prête ».
@@ -116,6 +109,5 @@ Niveau : collège.
 18. Elle est prête à déménager près de son travail.
     Pourquoi : Correct : « prête à » (disposée à), « près de » (pas loin de).
 
-19. C'est pratique d'habiter si [prêt → près] de la station.
-    Pourquoi : « Si loin de la station » : « près ».
-    Source : Tatoeba n° 373729
+19. C'est pratique de vivre si [prêt → près] du marché.
+    Pourquoi : « Si loin du marché » : « près ».

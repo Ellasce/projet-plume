@@ -46,29 +46,23 @@ Niveau : collège.
 
 ## Exercices essentiels
 
-1. Je [sait → sais] ce que tu veux dire.
+1. Je [sait → sais] où tu habites.
    Pourquoi : Verbe savoir avec « je » : « je sais ».
-   Source : Tatoeba n° 8728
 
-2. Je [sait → sais] que je ne vais pas aimer faire ça.
+2. Je [sait → sais] que tu as raison.
    Pourquoi : Avec « je » : « je sais ».
-   Source : Tatoeba n° 13674689
 
-3. Il [sais → sait] manger avec des baguettes.
+3. Il [sais → sait] nager depuis l'âge de cinq ans.
    Pourquoi : Verbe savoir avec « il » : « il sait ».
-   Source : Tatoeba n° 8165595
 
-4. Elle [sais → sait] faire de la magie.
+4. Elle [sais → sait] jouer de la guitare.
    Pourquoi : Avec « elle » : « elle sait ».
-   Source : Tatoeba n° 8709113
 
-5. Je [c'est → sais] de quoi ils ont l'air.
-   Pourquoi : « Je savais de quoi… » : verbe savoir, « je sais ».
-   Source : Tatoeba n° 2385927
+5. Je [c'est → sais] comment ça marche.
+   Pourquoi : « Je savais comment… » : verbe savoir, « je sais ».
 
-6. Je [c'est → sais] que j'ai fait quelque chose de mal.
+6. Je [c'est → sais] que je suis en retard.
    Pourquoi : Après « je », c'est le verbe savoir : « je sais ».
-   Source : Tatoeba n° 13378053
 
 7. Ma grand-mère [sais → sait] tricoter.
    Pourquoi : Le sujet est un nom (ma grand-mère) : « sait ».
@@ -98,9 +92,8 @@ Niveau : collège.
 12. Ouais, on [sais → sait] déjà que tu es costaud !
     Pourquoi : Avec « on » : « on sait ».
 
-13. Il [sais → sait] ce qu'il dit.
+13. Il [sais → sait] toujours quoi répondre.
     Pourquoi : Avec « il » : « il sait ».
-    Source : Tatoeba n° 9550914
 
 14. [Sait → Sais]-tu où est la gare ?
     Pourquoi : Le sujet « tu » est placé après le verbe : « sais-tu ».

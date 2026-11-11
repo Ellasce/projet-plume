@@ -47,33 +47,26 @@ Niveau : collège (cas 3 : lycée).
 
 ## Exercices essentiels
 
-1. Ils [on → ont] complètement détruit la ville.
-   Pourquoi : « Ils avaient détruit » : auxiliaire avoir, « ont ».
-   Source : Tatoeba n° 12169983
+1. Ils [on → ont] repeint la cuisine.
+   Pourquoi : « Ils avaient repeint » : auxiliaire avoir, « ont ».
 
-2. Les infirmières [on → ont] été très gentilles avec moi.
-   Pourquoi : « Les infirmières avaient été gentilles » : auxiliaire avoir, « ont ».
-   Source : Tatoeba n° 4093019
+2. Les pompiers [on → ont] été très rapides.
+   Pourquoi : « Les pompiers avaient été rapides » : auxiliaire avoir, « ont ».
 
-3. Mes parents [on → ont] été fiers de moi.
-   Pourquoi : « Mes parents avaient été fiers » : auxiliaire avoir, « ont ».
-   Source : Tatoeba n° 2200140
+3. Mes grands-parents [on → ont] été ravis de nous voir.
+   Pourquoi : « Mes grands-parents avaient été ravis » : auxiliaire avoir, « ont ».
 
-4. [Ont → On] tombe malade facilement avec un climat comme celui-là.
-   Pourquoi : « Il tombe malade » : pronom « on ».
-   Source : Tatoeba n° 2878692
+4. [Ont → On] attrape vite froid en hiver.
+   Pourquoi : « Il attrape vite froid » : pronom « on ».
 
-5. Je sais comment [ont → on] pourrait s'amuser.
-   Pourquoi : « Comment il pourrait s'amuser » : pronom « on ».
-   Source : Tatoeba n° 3474154
+5. Je sais où [ont → on] pourrait pique-niquer.
+   Pourquoi : « Où il pourrait pique-niquer » : pronom « on ».
 
-6. [Ont → On] dirait qu'aujourd'hui n'est pas mon jour de chance.
+6. [Ont → On] dirait qu'il va neiger.
    Pourquoi : « Il dirait » : pronom « on ».
-   Source : Tatoeba n° 8114341
 
-7. Est-ce qu'elles [on → ont] les yeux bleus ?
-   Pourquoi : « Elles avaient les yeux bleus » : verbe avoir, « ont ».
-   Source : Tatoeba n° 13623157
+7. Est-ce qu'ils [on → ont] un jardin ?
+   Pourquoi : « Ils avaient un jardin » : verbe avoir, « ont ».
 
 8. On a sonné : les voisins ont oublié leurs clés.
    Pourquoi : Correct : « il a sonné » (pronom on), puis « les voisins avaient oublié » (verbe avoir).
@@ -98,28 +91,23 @@ Niveau : collège (cas 3 : lycée).
 
 ## Exercices avancés
 
-12. [On a → On n'a] plus le temps.
-    Pourquoi : Phrase négative (plus) : « il n'a plus le temps ». On entend le « n' » avec « il » : il faut l'écrire avec « on ».
-    Source : Tatoeba n° 3444263
+12. [On a → On n'a] plus de farine.
+    Pourquoi : Phrase négative (plus) : « il n'a plus de farine ». On entend le « n' » avec « il » : il faut l'écrire avec « on ».
 
-13. [On est → On n'est] jamais trop prudent.
-    Pourquoi : Phrase négative (jamais) : « il n'est jamais trop prudent » → « on n'est ».
-    Source : Tatoeba n° 911104
+13. [On est → On n'est] jamais trop poli.
+    Pourquoi : Phrase négative (jamais) : « il n'est jamais trop poli » → « on n'est ».
 
-14. [On avait → On n'avait] rien à se reprocher.
-    Pourquoi : Phrase négative (rien) : « il n'avait rien à se reprocher » → « on n'avait ».
-    Source : Tatoeba n° 13306404
+14. [On avait → On n'avait] rien prévu pour ce soir.
+    Pourquoi : Phrase négative (rien) : « il n'avait rien prévu » → « on n'avait ».
 
 15. On a encore le temps de prendre un café.
     Pourquoi : Correct : pas de négation (il a encore le temps), donc pas de « n' ».
 
-16. D'autres noms [on → ont] été évoqués.
-    Pourquoi : « D'autres noms avaient été évoqués » : auxiliaire avoir, « ont ».
-    Source : Tatoeba n° 10613229
+16. D'autres idées [on → ont] été proposées.
+    Pourquoi : « D'autres idées avaient été proposées » : auxiliaire avoir, « ont ».
 
-17. Ils n'[on → ont] pas été détruits.
-    Pourquoi : « Ils n'avaient pas été détruits » : auxiliaire avoir, « ont ».
-    Source : Tatoeba n° 13306653
+17. Ils n'[on → ont] pas été prévenus.
+    Pourquoi : « Ils n'avaient pas été prévenus » : auxiliaire avoir, « ont ».
 
 18. ___ pas compris la question.
     Choix : On a / **On n'a**

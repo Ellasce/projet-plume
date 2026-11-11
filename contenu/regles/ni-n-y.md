@@ -44,29 +44,23 @@ Niveau : collège.
 
 ## Exercices essentiels
 
-1. Il [ni → n'y] a rien à craindre.
+1. Il [ni → n'y] a plus de lait.
    Pourquoi : Sans négation : « il y a » : ne + y, « n'y ».
-   Source : Tatoeba n° 2867509
 
-2. Il [ni → n'y] a personne à l'intérieur.
+2. Il [ni → n'y] a personne dans la cuisine.
    Pourquoi : « Il y a quelqu'un » : « n'y ».
-   Source : Tatoeba n° 10062019
 
-3. Il [ni → n'y] a pas de rose sans épines.
-   Pourquoi : « Il y a des roses » : « n'y ».
-   Source : Tatoeba n° 1069756
+3. Il [ni → n'y] a pas de fumée sans feu.
+   Pourquoi : « Il y a de la fumée » : « n'y ».
 
-4. Je ne bois [n'y → ni] ne fume.
-   Pourquoi : « ni » relie deux verbes niés (je bois et je fume).
-   Source : Tatoeba n° 1100231
+4. Il ne chante [n'y → ni] ne danse.
+   Pourquoi : « ni » relie deux verbes niés (il chante et il danse).
 
-5. Je n'ai pas besoin de toi [n'y → ni] de quiconque d'autre.
+5. Je n'ai besoin ni de sucre [n'y → ni] de lait.
    Pourquoi : « ni » relie deux éléments niés.
-   Source : Tatoeba n° 2322876
 
-6. [N'y → Ni] l'or ni la grandeur ne nous rendent heureux.
-   Pourquoi : « Ni l'or ni la grandeur » : l'or et la grandeur, niés.
-   Source : Tatoeba n° 920941
+6. [N'y → Ni] le vent ni la pluie ne l'arrêtent.
+   Pourquoi : « Ni le vent ni la pluie » : le vent et la pluie, niés.
 
 7. Je [ni → n'y] vais jamais le dimanche.
    Pourquoi : Sans négation : « j'y vais » : « n'y ».
@@ -93,13 +87,11 @@ Niveau : collège.
 
 ## Exercices avancés
 
-12. Il [ni → n'y] avait presque personne autour de moi.
+12. Il [ni → n'y] avait aucun bruit dans la maison.
     Pourquoi : « Il y avait » : « n'y ».
-    Source : Tatoeba n° 13626743
 
-13. Alain n'est pas heureux [n'y → ni] satisfait de son mariage.
+13. Paul n'est pas pressé [n'y → ni] inquiet.
     Pourquoi : « ni » relie deux adjectifs niés, après « ne … pas ».
-    Source : Tatoeba n° 524498
 
 14. [N'y → Ni] toi ni moi ne pouvons y aller.
     Pourquoi : « Ni toi ni moi » : deux sujets niés.
@@ -114,6 +106,5 @@ Niveau : collège.
     Choix : **ni** / n'y
     Pourquoi : Deux langues niées : « ni anglais ni allemand ».
 
-18. Il [ni → n'y] a pas d'autre possibilité.
-    Pourquoi : « Il y a une autre possibilité » : « n'y ».
-    Source : Tatoeba n° 1815996
+18. Il [ni → n'y] a pas d'autre solution.
+    Pourquoi : « Il y a une autre solution » : « n'y ».

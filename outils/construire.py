@@ -41,7 +41,7 @@ change jamais. Un ✔ juste après le numéro = validé ; ✎ = à corriger.
 
 Lignes facultatives, en retrait sous l'exercice :
     Pourquoi : explication affichée après la réponse (obligatoire en pratique)
-    Source : Tatoeba n° 123 | LanguageTool (ID) | Verbiste
+    Source : LanguageTool (ID) | Verbiste
     Aussi accepté : autre graphie, autre graphie
     Commentaire : remarque de relecture
     Rappel : le point de règle à montrer dans « Revoir la règle » (sinon l'application
@@ -315,9 +315,11 @@ def finir_exercice(ex, regle, err, attentions, nom):
         ex["rappel"] = champs["Rappel"]
     src = champs.get("Source", "")
     if src:
-        m = re.match(r"^Tatoeba n°\s*(\d+)$", src)
-        ex["src"] = ("tatoeba:" + m.group(1)) if m else ("verbiste" if src == "Verbiste" else
-                    (re.match(r"^LanguageTool \((.+)\)$", src).group(1) if re.match(r"^LanguageTool \((.+)\)$", src) else src))
+        if re.match(r"^Tatoeba", src):
+            # CC BY : chaque phrase imposerait de citer son auteur. Le projet n'en utilise plus.
+            err(no, "les phrases de Tatoeba ne sont plus acceptées : écrire une phrase originale")
+        ex["src"] = "verbiste" if src == "Verbiste" else (
+                    re.match(r"^LanguageTool \((.+)\)$", src).group(1) if re.match(r"^LanguageTool \((.+)\)$", src) else src)
 
 
 def main():

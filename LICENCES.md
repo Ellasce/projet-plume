@@ -21,12 +21,6 @@ Texte complet : https://creativecommons.org/licenses/by-sa/4.0/legalcode.fr
 
 **Les exercices repris d'une autre source** l'indiquent par une ligne `Source :` dans le fichier de la règle. L'application l'affiche sous la correction. Ils restent soumis à la licence de leur source :
 
-### Phrases de Tatoeba (`Source : Tatoeba n° …`)
-
-Phrases du corpus **Tatoeba** (https://tatoeba.org), publiées sous licence **Creative Commons Attribution 2.0 France (CC BY 2.0 FR)**. L'attribution se fait par le numéro de la phrase, qui renvoie à la page de l'auteur : `https://tatoeba.org/fr/sentences/show/<numéro>`. Les phrases ont été rendues fautives pour les besoins de l'exercice.
-
-Texte complet : https://creativecommons.org/licenses/by/2.0/fr/
-
 ### Phrases de LanguageTool (`Source : LanguageTool (…)`)
 
 Les phrases d'exemple proviennent des règles françaises de LanguageTool (`grammar.xml`) :

@@ -14,8 +14,8 @@ Quand l'utilisateur envoie simplement un thème (« et / est », « leur / leurs
 
 ## Règles du projet
 
-- **Licences libres uniquement**, réutilisables sans demander d'autorisation : LanguageTool (LGPL), Verbiste (GPL), Tatoeba (CC BY 2.0 FR), Wiktionnaire et Wikilivres (CC BY-SA). Ne rien copier d'ouvrages ou de sites protégés (grammaires, dictionnaires, sites d'entraînement commerciaux, manuels scolaires).
-- **Toujours créditer la source** d'une phrase reprise (`src: "tatoeba:<n°>"`…).
+- **Licences libres uniquement**, réutilisables sans demander d'autorisation : LanguageTool (LGPL), Verbiste (GPL). Les exercices sont des **phrases originales** ; **plus de Tatoeba** (sa licence CC BY impose de citer l'auteur de chaque phrase). En cas de doute sur une licence, ne pas utiliser. Ne rien copier d'ouvrages ou de sites protégés (grammaires, dictionnaires, sites d'entraînement commerciaux, manuels scolaires).
+- **Toujours créditer la source** d'une phrase reprise (ligne `Source : LanguageTool (…)` ou `Source : Verbiste`).
 - **Peu de « trouve la faute »** : l'utilisateur les trouve moyens. On privilégie le trou, la saisie et le tri.
 - **Une règle = une décision**, avec un socle essentiel de 8 à 12 exercices (pour valider la règle) et des exercices avancés marqués `avance: true` (« Aller plus loin »). Une seule bonne réponse possible par exercice.
 - **Les règles s'écrivent dans `contenu/regles/<règle>.md`** (texte lisible, sans code), puis `python -I outils/construire.py`. Ne jamais modifier `contenu/genere/` à la main.

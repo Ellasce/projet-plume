@@ -17,9 +17,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle {à>a} peur de lui.",
-    "e": "« Elle avait peur » : verbe avoir, « a ».",
-    "src": "tatoeba:9682891",
+    "s": "Léa {à>a} froid aux mains.",
+    "e": "« Léa avait froid » : verbe avoir, « a ».",
     "id": "a-a.1"
    },
    {
@@ -27,9 +26,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle {à>a} oublié de lui écrire.",
-    "e": "« Elle avait oublié » : auxiliaire avoir, « a ».",
-    "src": "tatoeba:1330162",
+    "s": "Mon frère {à>a} perdu son écharpe.",
+    "e": "« Mon frère avait perdu » : auxiliaire avoir, « a ».",
     "id": "a-a.2"
    },
    {
@@ -37,9 +35,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il n'y {à>a} aucune voiture dans la rue.",
-    "e": "« Il n'y avait aucune voiture » : « il y a » contient le verbe avoir.",
-    "src": "tatoeba:12429750",
+    "s": "Il n'y {à>a} plus de pain à la maison.",
+    "e": "« Il n'y avait plus de pain » : « il y a » contient le verbe avoir.",
     "id": "a-a.3"
    },
    {
@@ -47,9 +44,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ça {à>a} été un désastre complet.",
-    "e": "« Ça avait été un désastre » : après « ça », c'est le verbe avoir.",
-    "src": "tatoeba:1599315",
+    "s": "Ça {à>a} coûté bien trop cher.",
+    "e": "« Ça avait coûté » : après « ça », c'est le verbe avoir.",
     "id": "a-a.4"
    },
    {
@@ -57,9 +53,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je me suis réveillé {a>à} cinq heures du matin.",
-    "e": "« Réveillé avait cinq heures » ne veut rien dire : préposition « à » (le moment).",
-    "src": "tatoeba:1813264",
+    "s": "Le cours commence {a>à} huit heures.",
+    "e": "« Commence avait huit heures » ne veut rien dire : préposition « à » (le moment).",
     "id": "a-a.5"
    },
    {
@@ -67,9 +62,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "J'ai mal {a>à} la dent de sagesse.",
-    "e": "« Mal avait la dent » ne veut rien dire : préposition « à ».",
-    "src": "tatoeba:13087542",
+    "s": "J'ai mal {a>à} la tête depuis ce matin.",
+    "e": "« Mal avait la tête » ne veut rien dire : préposition « à ».",
     "id": "a-a.6"
    },
    {
@@ -77,9 +71,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Nous aimons marcher {a>à} pied.",
-    "e": "Expression « à pied » : préposition.",
-    "src": "tatoeba:13406904",
+    "s": "Nous rentrons {a>à} vélo.",
+    "e": "Expression « à vélo » : préposition.",
     "id": "a-a.7"
    },
    {
@@ -87,9 +80,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Mets ces chaussettes dans la machine {a>à} laver.",
-    "e": "Une machine à laver : nom + à + infinitif.",
-    "src": "tatoeba:3856726",
+    "s": "Range la brosse {a>à} dents dans le placard.",
+    "e": "Une brosse à dents : nom + à + nom, préposition.",
     "id": "a-a.8"
    },
    {
@@ -150,9 +142,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Mon père {à>a} dormi tout le long du film.",
-    "e": "« Mon père avait dormi » : auxiliaire avoir, « a ».",
-    "src": "tatoeba:653798",
+    "s": "Ma grand-mère {à>a} tricoté tout l'hiver.",
+    "e": "« Ma grand-mère avait tricoté » : auxiliaire avoir, « a ».",
     "id": "a-a.11"
    },
    {
@@ -160,9 +151,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ma demande {à>a} été rejetée.",
-    "e": "« Ma demande avait été rejetée » : auxiliaire avoir, « a ».",
-    "src": "tatoeba:12002914",
+    "s": "Notre équipe {à>a} été qualifiée.",
+    "e": "« Notre équipe avait été qualifiée » : auxiliaire avoir, « a ».",
     "id": "a-a.12"
    },
    {
@@ -170,9 +160,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "L'homme qui {à>a} rédigé cet ouvrage est médecin.",
-    "e": "« L'homme qui avait rédigé » : auxiliaire avoir, « a ».",
-    "src": "tatoeba:1181148",
+    "s": "La voisine qui {à>a} peint ce tableau expose demain.",
+    "e": "« La voisine qui avait peint » : auxiliaire avoir, « a ».",
     "id": "a-a.13"
    },
    {
@@ -180,9 +169,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Tout le monde {à>a} des problèmes, pas seulement toi.",
-    "e": "« Tout le monde avait des problèmes » : verbe avoir, « a ».",
-    "src": "tatoeba:12439162",
+    "s": "Chacun {à>a} ses habitudes.",
+    "e": "« Chacun avait ses habitudes » : verbe avoir, « a ».",
     "id": "a-a.14"
    },
    {
@@ -190,9 +178,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je l'ai vu il y {à>a} trois semaines.",
-    "e": "« Il y a trois semaines » (il y avait) : verbe avoir, même pour indiquer le temps.",
-    "src": "tatoeba:5628410",
+    "s": "Nous avons déménagé il y {à>a} deux ans.",
+    "e": "« Il y a deux ans » (il y avait) : verbe avoir, même pour indiquer le temps.",
     "id": "a-a.15"
    },
    {
@@ -200,9 +187,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ça {à>a} l'air vraiment délicieux.",
-    "e": "« Ça avait l'air délicieux » : verbe avoir (avoir l'air).",
-    "src": "tatoeba:10758973",
+    "s": "Ce gâteau {à>a} l'air délicieux.",
+    "e": "« Ce gâteau avait l'air délicieux » : verbe avoir (avoir l'air).",
     "id": "a-a.16"
    },
    {
@@ -210,9 +196,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Combien y {à>a}-t-il d'œufs dans la cuisine ?",
+    "s": "Combien y {à>a}-t-il de chaises dans la salle ?",
     "e": "« Combien y avait-il » : verbe avoir dans une question, « a-t-il ».",
-    "src": "tatoeba:341876",
     "id": "a-a.17"
    },
    {
@@ -220,9 +205,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "J'ai appris {a>à} leur faire confiance.",
-    "e": "Apprendre à faire quelque chose : préposition « à » devant l'infinitif.",
-    "src": "tatoeba:6116067",
+    "s": "Il a commencé {a>à} jouer du piano.",
+    "e": "Commencer à faire quelque chose : préposition « à » devant l'infinitif.",
     "id": "a-a.18"
    },
    {
@@ -230,9 +214,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je suis invitée {a>à} la fête de Tom ce soir.",
-    "e": "Invitée à quelque chose : préposition « à ».",
-    "src": "tatoeba:5306774",
+    "s": "Nous sommes invités {a>à} un mariage samedi.",
+    "e": "Invités à quelque chose : préposition « à ».",
     "id": "a-a.19"
    },
    {
@@ -240,9 +223,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Nous n'avons pas de temps {a>à} perdre.",
-    "e": "Nom + à + infinitif (du temps à perdre) : préposition.",
-    "src": "tatoeba:976810",
+    "s": "J'ai encore trois exercices {a>à} finir.",
+    "e": "Nom + à + infinitif (des exercices à finir) : préposition.",
     "id": "a-a.20"
    },
    {
@@ -250,9 +232,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle a {a>à} peu près le même âge que ma sœur aînée.",
-    "e": "Le premier « a » est le verbe (elle avait) ; le second est dans l'expression « à peu près ».",
-    "src": "tatoeba:1470885",
+    "s": "Paul a {a>à} peu près ton âge.",
+    "e": "Le premier « a » est le verbe (Paul avait) ; le second est dans l'expression « à peu près ».",
     "id": "a-a.21"
    },
    {
@@ -260,9 +241,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "La dame a {a>à} peine mangé.",
-    "e": "« A » est l'auxiliaire (elle avait mangé) ; « à peine » est une expression avec la préposition.",
-    "src": "tatoeba:13819296",
+    "s": "Le chat a {a>à} peine touché sa gamelle.",
+    "e": "« A » est l'auxiliaire (le chat avait touché) ; « à peine » est une expression avec la préposition.",
     "id": "a-a.22"
    },
    {
@@ -270,9 +250,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Qu'est-ce que ceci a {a>à} voir avec l'école ?",
-    "e": "Avoir quelque chose à voir : verbe « a » puis préposition « à ».",
-    "src": "tatoeba:7028956",
+    "s": "Ce film n'a rien {a>à} voir avec le livre.",
+    "e": "N'avoir rien à voir : verbe « a » puis préposition « à ».",
     "id": "a-a.23"
    },
    {
@@ -280,9 +259,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "J'ai trouvé ce livre facile {a>à} lire.",
-    "e": "Facile à lire : adjectif + à + infinitif.",
-    "src": "tatoeba:10544042",
+    "s": "Cette recette est simple {a>à} préparer.",
+    "e": "Simple à préparer : adjectif + à + infinitif.",
     "id": "a-a.24"
    },
    {
@@ -290,9 +268,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{A>À} quelle heure arrive le prochain train ?",
+    "s": "{A>À} quelle heure ouvre la piscine ?",
     "e": "C'est la préposition (avait quelle heure ✘) : en majuscule, elle garde son accent, « À ».",
-    "src": "tatoeba:604549",
     "id": "a-a.25"
    },
    {
@@ -300,9 +277,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{A>À} ton avis, est-ce que c'est correct ?",
-    "e": "Préposition « à ton avis » : l'accent se garde sur la majuscule, « À ».",
-    "src": "tatoeba:13884407",
+    "s": "{A>À} mon avis, il va pleuvoir.",
+    "e": "Préposition « à mon avis » : l'accent se garde sur la majuscule, « À ».",
     "id": "a-a.26"
    },
    {
@@ -310,9 +286,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il a à nouveau essayé.",
-    "e": "Correct : « a » est l'auxiliaire (il avait essayé), « à nouveau » est une expression.",
-    "src": "tatoeba:4696074",
+    "s": "Elle a à nouveau gagné la partie.",
+    "e": "Correct : « a » est l'auxiliaire (elle avait gagné), « à nouveau » est une expression.",
     "id": "a-a.27"
    },
    {
@@ -320,9 +295,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je pense que ça a bon goût.",
-    "e": "Correct : « ça a bon goût » (ça avait bon goût), verbe avoir.",
-    "src": "tatoeba:1067013",
+    "s": "Cette soupe, ça a un drôle de goût.",
+    "e": "Correct : « ça a un drôle de goût » (ça avait un drôle de goût), verbe avoir.",
     "id": "a-a.28"
    },
    {
@@ -1208,9 +1182,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je {jouai>jouais} souvent au tennis avec lui.",
-    "e": "« Il jouait souvent » : imparfait d'habitude, « je jouais ».",
-    "src": "tatoeba:7701856",
+    "s": "Enfant, je {jouai>jouais} tous les jours dans la cour.",
+    "e": "« Il jouait tous les jours » : imparfait d'habitude, « je jouais ».",
     "id": "ai-ais.1"
    },
    {
@@ -1218,9 +1191,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je {connai>connais} la personne, mais son nom m'échappe.",
+    "s": "Je {connai>connais} bien ce quartier.",
     "e": "« Il connaît » : présent du verbe connaître, « je connais ».",
-    "src": "tatoeba:13469772",
     "id": "ai-ais.2"
    },
    {
@@ -1228,9 +1200,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je n'arrive pas à croire que {j'ais>j'ai} gagné.",
+    "s": "Je suis content que {j'ais>j'ai} réussi.",
     "e": "Verbe avoir : « j'ai ». « J'ais » n'existe pas.",
-    "src": "tatoeba:1951178",
     "id": "ai-ais.3"
    },
    {
@@ -1238,9 +1209,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{J'ais>J'ai} proposé de commencer de bonne heure.",
-    "e": "Verbe avoir (il a proposé) : « j'ai ».",
-    "src": "tatoeba:2841591",
+    "s": "{J'ais>J'ai} réservé une table pour quatre.",
+    "e": "Verbe avoir (il a réservé) : « j'ai ».",
     "id": "ai-ais.4"
    },
    {
@@ -1346,9 +1316,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Si je découvrais qu'elle me trompait, je {demanderai>demanderais} le divorce.",
-    "e": "Si + imparfait → conditionnel (il demanderait) : « je demanderais ».",
-    "src": "tatoeba:11089231",
+    "s": "Si nous avions un chien, je le {promènerai>promènerais} chaque soir.",
+    "e": "Si + imparfait → conditionnel (il le promènerait) : « je le promènerais ».",
     "id": "ai-ais.12"
    },
    {
@@ -1356,9 +1325,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je {mangerai>mangerais} la pomme si j'avais faim.",
-    "e": "« Il mangerait » : conditionnel, « je mangerais ».",
-    "src": "tatoeba:13463234",
+    "s": "Je {prendrai>prendrais} un dessert si j'avais encore faim.",
+    "e": "« Il prendrait » : conditionnel, « je prendrais ».",
     "id": "ai-ais.13"
    },
    {
@@ -1435,9 +1403,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{Évidement>Évidemment}, j'ai été très choquée.",
+    "s": "{Évidement>Évidemment}, tu as raison.",
     "e": "« Évident » se termine par -ent : « évidemment », avec deux m.",
-    "src": "tatoeba:7236822",
     "id": "amment-emment.1"
    },
    {
@@ -1445,9 +1412,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Conduisez {prudement>prudemment} et bonne route !",
+    "s": "Roulez {prudement>prudemment} sous la pluie.",
     "e": "« Prudent » se termine par -ent : « prudemment ».",
-    "src": "tatoeba:1142693",
     "id": "amment-emment.2"
    },
    {
@@ -1455,9 +1421,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je parle {courament>couramment} le français.",
+    "s": "Mon cousin parle {courament>couramment} l'italien.",
     "e": "« Courant » se termine par -ant : « couramment », avec deux m.",
-    "src": "tatoeba:8737301",
     "id": "amment-emment.3"
    },
    {
@@ -1465,9 +1430,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Sa mère s'en plaint {constament>constamment}.",
+    "s": "Ce chien aboie {constament>constamment}.",
     "e": "« Constant » se termine par -ant : « constamment ».",
-    "src": "tatoeba:1031425",
     "id": "amment-emment.4"
    },
    {
@@ -1475,9 +1439,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je ne l'ai pas vu beaucoup {récement>récemment}.",
+    "s": "J'ai changé d'adresse {récement>récemment}.",
     "e": "« Récent » se termine par -ent : « récemment ».",
-    "src": "tatoeba:391007",
     "id": "amment-emment.5"
    },
    {
@@ -1485,9 +1448,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle attendit {patiament>patiemment} après lui.",
+    "s": "Il a attendu {patiament>patiemment} son tour.",
     "e": "« Patient » se termine par -ent : « patiemment ».",
-    "src": "tatoeba:809468",
     "id": "amment-emment.6"
    },
    {
@@ -1495,9 +1457,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je ne parle pas {suffisament>suffisamment} bien le français.",
+    "s": "Tu n'as pas {suffisament>suffisamment} dormi.",
     "e": "« Suffisant » se termine par -ant : « suffisamment ».",
-    "src": "tatoeba:472647",
     "id": "amment-emment.7"
    },
    {
@@ -1505,9 +1466,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il a réussi {brillament>brillamment} sa reconversion.",
+    "s": "Elle a {brillament>brillamment} réussi son examen.",
     "e": "« Brillant » se termine par -ant : « brillamment ».",
-    "src": "tatoeba:5384699",
     "id": "amment-emment.8"
    },
    {
@@ -1578,9 +1538,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il m'arrive {fréquament>fréquemment} de m'égarer en route.",
+    "s": "Je me trompe {fréquament>fréquemment} de bus.",
     "e": "« Fréquent » se termine par -ent : « fréquemment ».",
-    "src": "tatoeba:14006579",
     "id": "amment-emment.12"
    },
    {
@@ -1597,9 +1556,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Les élèves étaient assis {patiament>patiemment} sur leurs bancs.",
+    "s": "Les enfants écoutaient {patiament>patiemment} l'histoire.",
     "e": "« Patient » se termine par -ent : « patiemment ».",
-    "src": "tatoeba:1489627",
     "id": "amment-emment.14"
    },
    {
@@ -1668,9 +1626,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{Sa>Ça} ne vaut pas un clou.",
-    "e": "« Cela ne vaut pas un clou » : pronom « ça ».",
-    "src": "tatoeba:8775057",
+    "s": "{Sa>Ça} ne me dérange pas du tout.",
+    "e": "« Cela ne me dérange pas » : pronom « ça ».",
     "id": "ca-sa.1"
    },
    {
@@ -1687,9 +1644,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{Sa>Ça} vous aidera à vous garder chaud.",
-    "e": "« Cela vous aidera » : pronom « ça ».",
-    "src": "tatoeba:2251720",
+    "s": "{Sa>Ça} te fera du bien de marcher.",
+    "e": "« Cela te fera du bien » : pronom « ça ».",
     "id": "ca-sa.3"
    },
    {
@@ -1697,9 +1653,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle retourna à {ça>sa} chambre.",
-    "e": "« Elle retourna à ma chambre » : possessif devant un nom, « sa ».",
-    "src": "tatoeba:10724097",
+    "s": "Lucie range {ça>sa} chambre.",
+    "e": "« Lucie range ma chambre » : possessif devant un nom, « sa ».",
     "id": "ca-sa.4"
    },
    {
@@ -1707,9 +1662,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Cet enfant s'accrochait à {ça>sa} mère.",
-    "e": "« À ma mère » : possessif, « sa ».",
-    "src": "tatoeba:9815274",
+    "s": "Le petit tenait la main de {ça>sa} sœur.",
+    "e": "« De ma sœur » : possessif, « sa ».",
     "id": "ca-sa.5"
    },
    {
@@ -1717,9 +1671,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle a beaucoup souffert dans {ça>sa} vie.",
-    "e": "« Dans ma vie » : possessif, « sa ».",
-    "src": "tatoeba:11578234",
+    "s": "Il a passé toute {ça>sa} jeunesse à la campagne.",
+    "e": "« Toute ma jeunesse » : possessif, « sa ».",
     "id": "ca-sa.6"
    },
    {
@@ -1807,9 +1760,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il est allé en Égypte et en a ramené {ça>sa} fille.",
-    "e": "« Il en a ramené ma fille » : possessif, « sa ».",
-    "src": "tatoeba:14017107",
+    "s": "Elle a prêté {ça>sa} voiture à un ami.",
+    "e": "« Elle a prêté ma voiture » : possessif, « sa ».",
     "id": "ca-sa.12"
    },
    {
@@ -1817,9 +1769,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il y a une autre façon de vivre {ça>sa} vie.",
-    "e": "« Vivre ma vie » : possessif, « sa ».",
-    "src": "tatoeba:10821700",
+    "s": "Chacun doit trouver {ça>sa} place.",
+    "e": "« Trouver ma place » : possessif, « sa ».",
     "id": "ca-sa.13"
    },
    {
@@ -1827,9 +1778,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Aïe, c'est insupportable, {sa>ça} me gratte partout !",
-    "e": "« Cela me gratte » : pronom « ça ».",
-    "src": "tatoeba:836388",
+    "s": "Ouvre la fenêtre, {sa>ça} sent le brûlé !",
+    "e": "« Cela sent le brûlé » : pronom « ça ».",
     "id": "ca-sa.14"
    },
    {
@@ -1846,9 +1796,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ça a été un beau moment.",
-    "e": "Correct : « cela a été » : le pronom « ça » suivi du verbe avoir.",
-    "src": "tatoeba:13618030",
+    "s": "Ça a duré toute la soirée.",
+    "e": "Correct : « cela a duré » : le pronom « ça » suivi du verbe avoir.",
     "id": "ca-sa.16"
    },
    {
@@ -2084,9 +2033,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{C'est>Ce sont} vos enfants ?",
-    "e": "Devant un pluriel (vos enfants), à l'écrit : « ce sont ».",
-    "src": "tatoeba:7761124",
+    "s": "{C'est>Ce sont} tes chaussures ?",
+    "e": "Devant un pluriel (tes chaussures), à l'écrit : « ce sont ».",
     "id": "cest-ce-sont.1"
    },
    {
@@ -2094,9 +2042,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{C'est>Ce sont} les gens qui habitent à côté.",
-    "e": "Devant un pluriel (les gens) : « ce sont ».",
-    "src": "tatoeba:820357",
+    "s": "{C'est>Ce sont} les voisins du dessus.",
+    "e": "Devant un pluriel (les voisins) : « ce sont ».",
     "id": "cest-ce-sont.2"
    },
    {
@@ -2104,9 +2051,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{C'est>Ce sont} ses oncles paternels.",
-    "e": "Devant un pluriel (ses oncles) : « ce sont ».",
-    "src": "tatoeba:12650770",
+    "s": "{C'est>Ce sont} mes cousins de Bretagne.",
+    "e": "Devant un pluriel (mes cousins) : « ce sont ».",
     "id": "cest-ce-sont.3"
    },
    {
@@ -2114,9 +2060,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{C'est>Ce sont} les meilleures amies.",
+    "s": "{C'est>Ce sont} les plus belles roses du jardin.",
     "e": "Devant un pluriel : « ce sont ».",
-    "src": "tatoeba:9159557",
     "id": "cest-ce-sont.4"
    },
    {
@@ -2222,9 +2167,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{C'est>Ce sont} les délais de facturation.",
+    "s": "{C'est>Ce sont} les horaires d'été.",
     "e": "Devant un pluriel : « ce sont ».",
-    "src": "tatoeba:12044020",
     "id": "cest-ce-sont.12"
    },
    {
@@ -2282,9 +2226,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{C'est>Ce sont} les personnes qui ont assisté à l'explosion.",
-    "e": "Devant un pluriel (les personnes) : « ce sont ».",
-    "src": "tatoeba:1982645",
+    "s": "{C'est>Ce sont} les élèves qui ont gagné le concours.",
+    "e": "Devant un pluriel (les élèves) : « ce sont ».",
     "id": "cest-ce-sont.18"
    },
    {
@@ -2776,9 +2719,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je sais que {j'aurai>j'aurais} dû faire ça.",
+    "s": "Je sais que {j'aurai>j'aurais} dû t'appeler.",
     "e": "Un regret : conditionnel passé (nous aurions dû) → « j'aurais ».",
-    "src": "tatoeba:5799736",
     "id": "conditionnel-passe.1"
    },
    {
@@ -2786,9 +2728,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je pense que {j'aurai>j'aurais} pu mieux faire.",
+    "s": "Je pense que {j'aurai>j'aurais} pu courir plus vite.",
     "e": "Un regret : « nous aurions pu » → « j'aurais ».",
-    "src": "tatoeba:5804847",
     "id": "conditionnel-passe.2"
    },
    {
@@ -2796,9 +2737,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Si tu m'avais aidé, {j'aurai>j'aurais} pu faire le travail.",
+    "s": "Si tu m'avais prévenu, {j'aurai>j'aurais} pu venir.",
     "e": "Hypothèse non réalisée (si + plus-que-parfait) : conditionnel passé, « j'aurais ».",
-    "src": "tatoeba:427670",
     "id": "conditionnel-passe.3"
    },
    {
@@ -2806,9 +2746,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ben, {tu auras>tu aurais} pu me prévenir.",
+    "s": "Franchement, {tu auras>tu aurais} pu ranger !",
     "e": "Un reproche : conditionnel passé, « tu aurais pu ».",
-    "src": "tatoeba:13362644",
     "id": "conditionnel-passe.4"
    },
    {
@@ -2816,9 +2755,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je crois que {j'aurai>j'aurais} dû acheter davantage de nourriture.",
+    "s": "Je crois que {j'aurai>j'aurais} dû prendre un parapluie.",
     "e": "Un regret : « j'aurais dû ».",
-    "src": "tatoeba:12323364",
     "id": "conditionnel-passe.5"
    },
    {
@@ -2915,9 +2853,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "J'imagine que {j'aurai>j'aurais} dû le lire plus attentivement.",
+    "s": "J'avoue que {j'aurai>j'aurais} dû relire ma lettre.",
     "e": "Un regret : « j'aurais dû ».",
-    "src": "tatoeba:2048528",
     "id": "conditionnel-passe.12"
    },
    {
@@ -2943,9 +2880,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je sais ce que {tu auras>tu aurais} pu faire.",
+    "s": "Imagine ce que {tu auras>tu aurais} pu manquer !",
     "e": "Une possibilité passée qui ne s'est pas réalisée : « tu aurais pu ».",
-    "src": "tatoeba:5743819",
     "id": "conditionnel-passe.15"
    },
    {
@@ -5723,9 +5659,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je suis sûr que la police finira par attraper le voleur.",
+    "s": "Le chat a fini par attraper la balle.",
     "e": "Correct : « attraper » (verbe en at-, deux t).",
-    "src": "tatoeba:7032355",
     "id": "consonnes-doubles.9"
    },
    {
@@ -6284,9 +6219,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle a des yeux {marrons>marron}.",
+    "s": "Il porte des chaussures {marrons>marron}.",
     "e": "« Marron » est un nom (la couleur du marron) : invariable.",
-    "src": "tatoeba:7723517",
     "id": "couleurs.1"
    },
    {
@@ -6294,9 +6228,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Maria a de longs cheveux noirs et les yeux {marrons>marron}.",
+    "s": "Sophie a des cheveux noirs et des yeux {marrons>marron}.",
     "e": "« Marron » est un nom employé comme couleur : invariable. « Noirs », adjectif simple, s'accorde.",
-    "src": "tatoeba:2518665",
     "id": "couleurs.2"
    },
    {
@@ -6508,9 +6441,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Attends une {demie-heure>demi-heure}, s'il te plaît.",
+    "s": "Patiente une {demie-heure>demi-heure}, j'arrive.",
     "e": "« Demi » est placé avant le nom, avec un trait d'union : invariable.",
-    "src": "tatoeba:494164",
     "id": "demi-nu.1"
    },
    {
@@ -6518,9 +6450,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ça fait une {demie-heure>demi-heure} qu'elle l'attend.",
+    "s": "Le film a commencé il y a une {demie-heure>demi-heure}.",
     "e": "Avant le nom, « demi » ne s'accorde pas.",
-    "src": "tatoeba:1977993",
     "id": "demi-nu.2"
    },
    {
@@ -6528,9 +6459,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je reviendrai à six heures {et demi>et demie}.",
+    "s": "Le train part à huit heures {et demi>et demie}.",
     "e": "Après le nom, « demi » s'accorde en genre avec « heure » (féminin) : « et demie ».",
-    "src": "tatoeba:789752",
     "id": "demi-nu.3"
    },
    {
@@ -6538,9 +6468,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Nous avons une réservation pour six heures {et demi>et demie}.",
+    "s": "Le magasin ferme à sept heures {et demi>et demie}.",
     "e": "« Heure » est féminin : « et demie ».",
-    "src": "tatoeba:1496388",
     "id": "demi-nu.4"
    },
    {
@@ -6725,9 +6654,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "J'espère que vous avez trouvé tout ce {que>dont} vous avez besoin.",
+    "s": "Tu as tout ce {que>dont} tu as besoin ?",
     "e": "On a besoin DE quelque chose : « ce dont vous avez besoin ».",
-    "src": "tatoeba:6966084",
     "id": "dont-que.1"
    },
    {
@@ -6735,9 +6663,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je sais précisément ce {que>dont} tu as besoin.",
+    "s": "Voici exactement ce {que>dont} j'ai besoin.",
     "e": "Avoir besoin DE : « dont ».",
-    "src": "tatoeba:1842908",
     "id": "dont-que.2"
    },
    {
@@ -6745,9 +6672,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "C'est ce {que>dont} nous parlons.",
-    "e": "On parle DE quelque chose : « ce dont nous parlons ».",
-    "src": "tatoeba:5289310",
+    "s": "C'est le film {que>dont} tout le monde parle.",
+    "e": "On parle DE ce film : « dont ».",
     "id": "dont-que.3"
    },
    {
@@ -6755,9 +6681,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je voudrais pouvoir vous donner l'argent {que>dont} vous avez besoin.",
-    "e": "Avoir besoin DE l'argent : « dont ».",
-    "src": "tatoeba:5347358",
+    "s": "Prends les outils {que>dont} tu as besoin.",
+    "e": "Avoir besoin DES outils : « dont ».",
     "id": "dont-que.4"
    },
    {
@@ -6863,9 +6788,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je n'arrive pas à supporter la manière {que>dont} il parle.",
-    "e": "« Il parle d'une manière » : « la manière dont ».",
-    "src": "tatoeba:1109724",
+    "s": "J'aime la façon {que>dont} elle chante.",
+    "e": "« Elle chante d'une façon » : « la façon dont ».",
     "id": "dont-que.12"
    },
    {
@@ -6873,9 +6797,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Tout ce {que>dont} tu as besoin, c'est d'un permis de conduire.",
-    "e": "Avoir besoin DE : « ce dont ».",
-    "src": "tatoeba:749421",
+    "s": "Ce {que>dont} j'ai envie, c'est d'un bon bain.",
+    "e": "Avoir envie DE : « ce dont ».",
     "id": "dont-que.13"
    },
    {
@@ -6952,9 +6875,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "La situation {et>est} pire que je ne le pensais.",
-    "e": "« La situation était pire » : verbe être, « est ».",
-    "src": "tatoeba:11596101",
+    "s": "La route {et>est} glissante ce soir.",
+    "e": "« La route était glissante » : verbe être, « est ».",
     "id": "et-est.1"
    },
    {
@@ -6962,9 +6884,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle {et>est} arrivée cinquième à la course.",
-    "e": "« Elle était arrivée » : auxiliaire être, « est ».",
-    "src": "tatoeba:913524",
+    "s": "Ma sœur {et>est} partie en avance.",
+    "e": "« Ma sœur était partie » : auxiliaire être, « est ».",
     "id": "et-est.2"
    },
    {
@@ -6972,9 +6893,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il {et>est} occupé depuis ce matin.",
-    "e": "« Il était occupé » : verbe être, « est ».",
-    "src": "tatoeba:11656291",
+    "s": "Le magasin {et>est} fermé le lundi.",
+    "e": "« Le magasin était fermé » : verbe être, « est ».",
     "id": "et-est.3"
    },
    {
@@ -6982,9 +6902,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Tu devrais passer plus de temps dehors {est>et} moins à l'intérieur.",
-    "e": "« Dehors était moins à l'intérieur » ne veut rien dire : on ajoute, « et ».",
-    "src": "tatoeba:1129066",
+    "s": "Il faudrait lire davantage {est>et} regarder moins la télévision.",
+    "e": "« Davantage était regarder » ne veut rien dire : on ajoute, « et ».",
     "id": "et-est.4"
    },
    {
@@ -6992,9 +6911,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "J'avais faim {est>et} tu m'as donné quelque chose à manger.",
-    "e": "On relie deux phrases (et puis tu m'as donné) : « et ».",
-    "src": "tatoeba:13078981",
+    "s": "J'avais soif {est>et} il m'a servi un verre d'eau.",
+    "e": "On relie deux phrases (et puis il m'a servi) : « et ».",
     "id": "et-est.5"
    },
    {
@@ -7002,9 +6920,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je dors, {est>et} toi ?",
+    "s": "Moi, je prends un thé, {est>et} toi ?",
     "e": "« Était toi » ne veut rien dire : c'est la conjonction « et ».",
-    "src": "tatoeba:12774639",
     "id": "et-est.6"
    },
    {
@@ -7012,9 +6929,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Mon vélo électrique {et>est} pliable.",
-    "e": "« Mon vélo était pliable » : verbe être, « est ».",
-    "src": "tatoeba:12232893",
+    "s": "Cette table {et>est} trop lourde.",
+    "e": "« Cette table était trop lourde » : verbe être, « est ».",
     "id": "et-est.7"
    },
    {
@@ -7022,9 +6938,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ma sœur n'est pas bonne cuisinière et moi non plus.",
-    "e": "Correct : « n'était pas bonne cuisinière » (verbe être), puis « et moi » (on ajoute).",
-    "src": "tatoeba:546473",
+    "s": "Mon frère n'est pas sportif et moi non plus.",
+    "e": "Correct : « n'était pas sportif » (verbe être), puis « et moi » (on ajoute).",
     "id": "et-est.8"
    },
    {
@@ -7099,9 +7014,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Tu {est>es} la première personne à qui je me confie.",
+    "s": "Tu {est>es} le meilleur ami que j'aie.",
     "e": "C'est bien le verbe être (tu étais), mais avec « tu » il s'écrit « es ».",
-    "src": "tatoeba:13036059",
     "id": "et-est.12"
    },
    {
@@ -7109,9 +7023,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "J'espère que tu {est>es} content.",
+    "s": "Je crois que tu {est>es} fatigué.",
     "e": "Verbe être avec « tu » : « tu es ».",
-    "src": "tatoeba:12483360",
     "id": "et-est.13"
    },
    {
@@ -7119,9 +7032,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Combiner les études {est>et} les activités extrascolaires est compliqué.",
-    "e": "Le premier ajoute (les études et les activités) : « et ». Le second est le verbe (était compliqué).",
-    "src": "tatoeba:9228401",
+    "s": "Concilier le travail {est>et} la famille est difficile.",
+    "e": "Le premier ajoute (le travail et la famille) : « et ». Le second est le verbe (était difficile).",
     "id": "et-est.14"
    },
    {
@@ -7129,9 +7041,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Véronique {est>et} Serge dormaient sur le talus.",
-    "e": "Le verbe « dormaient » est au pluriel : il y a deux sujets, reliés par « et ».",
-    "src": "tatoeba:1018752",
+    "s": "Julie {est>et} Karim jouaient aux cartes.",
+    "e": "Le verbe « jouaient » est au pluriel : il y a deux sujets, reliés par « et ».",
     "id": "et-est.15"
    },
    {
@@ -7172,9 +7083,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Lequel de ces stylos {et>est} plus long, celui-là ou celui-ci ?",
-    "e": "« Lequel était plus long » : verbe être, « est ».",
-    "src": "tatoeba:338120",
+    "s": "Laquelle de ces deux routes {et>est} la plus courte ?",
+    "e": "« Laquelle était la plus courte » : verbe être, « est ».",
     "id": "et-est.19"
    }
   ],
@@ -7645,9 +7555,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je ne sais pas {qu'est-ce que>ce que} vous voulez.",
+    "s": "Je ne sais pas {qu'est-ce que>ce que} tu cherches.",
     "e": "Question rapportée : « qu'est-ce que » devient « ce que ».",
-    "src": "tatoeba:12607221",
     "id": "interrogation-indirecte.1"
    },
    {
@@ -7655,9 +7564,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Dis-moi {qu'est-ce que>ce que} tu veux que je fasse.",
+    "s": "Dis-moi {qu'est-ce que>ce que} tu penses de mon idée.",
     "e": "Après « dis-moi » : « ce que ».",
-    "src": "tatoeba:359110",
     "id": "interrogation-indirecte.2"
    },
    {
@@ -7665,9 +7573,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je me demande {qu'est-ce que>ce que} ceci signifie.",
+    "s": "Je me demande {qu'est-ce que>ce que} veut dire ce mot.",
     "e": "Après « je me demande » : « ce que ».",
-    "src": "tatoeba:6455988",
     "id": "interrogation-indirecte.3"
    },
    {
@@ -7675,9 +7582,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Parfois je me demande {qu'est-ce qui>ce qui} se passe dans ta tête.",
+    "s": "Je me demande souvent {qu'est-ce qui>ce qui} le rend si triste.",
     "e": "« Qu'est-ce qui » devient « ce qui ».",
-    "src": "tatoeba:10594081",
     "id": "interrogation-indirecte.4"
    },
    {
@@ -7712,9 +7618,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je ne sais pas {qu'est-ce qui>ce qui} me faisait si peur.",
+    "s": "Je ne comprends pas {qu'est-ce qui>ce qui} a cassé la vitre.",
     "e": "« Qu'est-ce qui » devient « ce qui ».",
-    "src": "tatoeba:5494659",
     "id": "interrogation-indirecte.8"
    },
    {
@@ -7722,9 +7627,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je me demande comment elle va réagir.",
+    "s": "Je me demande comment il va s'en sortir.",
     "e": "Correct : sujet avant le verbe et point final.",
-    "src": "tatoeba:3487256",
     "id": "interrogation-indirecte.9"
    },
    {
@@ -7785,9 +7689,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "S'il vous plaît, dites-moi {qu'est-ce que>ce que} je dois faire en premier.",
-    "e": "Après « dites-moi » : « ce que ».",
-    "src": "tatoeba:2812759",
+    "s": "Expliquez-moi {qu'est-ce que>ce que} je dois remplir.",
+    "e": "Après « expliquez-moi » : « ce que ».",
     "id": "interrogation-indirecte.12"
    },
    {
@@ -7822,9 +7725,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je ne sais pas {qu'est-ce que>ce que} je te dois.",
+    "s": "Je ne sais pas {qu'est-ce que>ce que} je vais offrir à ma mère.",
     "e": "« Ce que » dans une question rapportée.",
-    "src": "tatoeba:2316367",
     "id": "interrogation-indirecte.16"
    },
    {
@@ -7847,9 +7749,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je me demande si elle séjourne dans cet hôtel.",
+    "s": "Je me demande si le musée est ouvert le dimanche.",
     "e": "Correct : « si » pour une question fermée, sujet avant le verbe, point final.",
-    "src": "tatoeba:1112446",
     "id": "interrogation-indirecte.18"
    },
    {
@@ -7876,9 +7777,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Regarde-nous, on est {la>là} !",
-    "e": "« On est ici » : adverbe de lieu, « là ».",
-    "src": "tatoeba:12613170",
+    "s": "Viens vite, ils sont {la>là} !",
+    "e": "« Ils sont ici » : adverbe de lieu, « là ».",
     "id": "la-la.1"
    },
    {
@@ -7886,9 +7786,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je suis encore {la>là} et je ne m'en vais pas.",
-    "e": "« Je suis encore ici » : adverbe de lieu, « là ».",
-    "src": "tatoeba:3586604",
+    "s": "Je reste {la>là} jusqu'à ton retour.",
+    "e": "« Je reste ici » : adverbe de lieu, « là ».",
     "id": "la-la.2"
    },
    {
@@ -7896,9 +7795,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ne restez pas assis {la>là} comme ça !",
-    "e": "« Ne restez pas assis ici » : adverbe de lieu, « là ».",
-    "src": "tatoeba:10536196",
+    "s": "Ne restez pas debout {la>là} sans rien faire !",
+    "e": "« Ne restez pas debout ici » : adverbe de lieu, « là ».",
     "id": "la-la.3"
    },
    {
@@ -7906,9 +7804,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle {la>l'a} attachée à la chaise.",
-    "e": "« Elle l'avait attachée » : pronom + verbe avoir, « l'a ».",
-    "src": "tatoeba:10233222",
+    "s": "Elle {la>l'a} rangée dans le tiroir.",
+    "e": "« Elle l'avait rangée » : pronom + verbe avoir, « l'a ».",
     "id": "la-la.4"
    },
    {
@@ -7916,9 +7813,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il ne {la>l'a} même pas fermé.",
-    "e": "« Il ne l'avait même pas fermé » : pronom + verbe avoir, « l'a ».",
-    "src": "tatoeba:2066151",
+    "s": "Il ne {la>l'a} même pas ouvert.",
+    "e": "« Il ne l'avait même pas ouvert » : pronom + verbe avoir, « l'a ».",
     "id": "la-la.5"
    },
    {
@@ -7926,9 +7822,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Le docteur {là>l'a} guérie de sa maladie.",
-    "e": "« Le docteur l'avait guérie » : pronom + verbe avoir, « l'a ».",
-    "src": "tatoeba:335700",
+    "s": "Le vétérinaire {là>l'a} soignée rapidement.",
+    "e": "« Le vétérinaire l'avait soignée » : pronom + verbe avoir, « l'a ».",
     "id": "la-la.6"
    },
    {
@@ -7945,9 +7840,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle {là>l'a} fait paraître facile.",
-    "e": "« Elle l'avait fait paraître facile » : « l'a ».",
-    "src": "tatoeba:4765644",
+    "s": "Mon oncle {là>l'a} fait réparer.",
+    "e": "« Mon oncle l'avait fait réparer » : « l'a ».",
     "id": "la-la.8"
    },
    {
@@ -7955,9 +7849,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "À quelle heure devriez-vous être {la>là} ?",
+    "s": "À quelle heure dois-tu être {la>là} ?",
     "e": "« Être ici » : adverbe de lieu, « là ».",
-    "src": "tatoeba:13642139",
     "id": "la-la.9"
    },
    {
@@ -8043,9 +7936,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ils n'ont pas été {la>là} pour nous.",
+    "s": "Mes amis ont toujours été {la>là} pour moi.",
     "e": "« Être là pour quelqu'un » : adverbe de lieu (être présent), « là ».",
-    "src": "tatoeba:13518015",
     "id": "la-la.14"
    },
    {
@@ -8053,9 +7945,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle ne {la>l'a} pas bien reçu.",
-    "e": "« Elle ne l'avait pas bien reçu » : « l'a ».",
-    "src": "tatoeba:13631507",
+    "s": "Il ne {la>l'a} pas encore lu.",
+    "e": "« Il ne l'avait pas encore lu » : « l'a ».",
     "id": "la-la.15"
    },
    {
@@ -8114,9 +8005,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Qu'est-ce que vous me chantez {la>là} ?",
+    "s": "Qu'est-ce que tu racontes {la>là} ?",
     "e": "« Là » renforce la question ; ce n'est ni un déterminant ni le verbe avoir.",
-    "src": "tatoeba:10507834",
     "id": "la-la.21"
    }
   ],
@@ -8134,9 +8024,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Nous {leurs>leur} avons donné de l'argent et des vêtements.",
-    "e": "Devant le verbe (nous lui avons donné) : pronom, jamais de s.",
-    "src": "tatoeba:2826455",
+    "s": "Nous {leurs>leur} avons prêté nos vélos.",
+    "e": "Devant le verbe (nous lui avons prêté) : pronom, jamais de s.",
     "id": "leur-leurs.1"
    },
    {
@@ -8144,9 +8033,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je {leurs>leur} ai tout raconté.",
-    "e": "« Je lui ai tout raconté » : pronom devant le verbe, « leur ».",
-    "src": "tatoeba:3691750",
+    "s": "Je {leurs>leur} ai expliqué le chemin.",
+    "e": "« Je lui ai expliqué » : pronom devant le verbe, « leur ».",
     "id": "leur-leurs.2"
    },
    {
@@ -8154,9 +8042,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il {leurs>leur} a écrit une lettre.",
-    "e": "« Il lui a écrit » : pronom devant le verbe, « leur ».",
-    "src": "tatoeba:7492199",
+    "s": "Elle {leurs>leur} a envoyé une carte postale.",
+    "e": "« Elle lui a envoyé » : pronom devant le verbe, « leur ».",
     "id": "leur-leurs.3"
    },
    {
@@ -8164,9 +8051,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elles ont oublié d'éteindre {leur>leurs} micros.",
-    "e": "Devant le nom « micros », au pluriel : « leurs ».",
-    "src": "tatoeba:12197723",
+    "s": "Ils ont rangé {leur>leurs} jouets.",
+    "e": "Devant le nom « jouets », au pluriel : « leurs ».",
     "id": "leur-leurs.4"
    },
    {
@@ -8174,9 +8060,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ils ont gardé {leur>leurs} découvertes secrètes.",
-    "e": "Devant le nom « découvertes », au pluriel : « leurs ».",
-    "src": "tatoeba:11961288",
+    "s": "Elles ont rendu {leur>leurs} devoirs à temps.",
+    "e": "Devant le nom « devoirs », au pluriel : « leurs ».",
     "id": "leur-leurs.5"
    },
    {
@@ -8184,9 +8069,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je ne souligne pas {leur>leurs} erreurs.",
-    "e": "Devant le nom « erreurs », au pluriel : « leurs ».",
-    "src": "tatoeba:1934274",
+    "s": "Je corrige {leur>leurs} copies ce soir.",
+    "e": "Devant le nom « copies », au pluriel : « leurs ».",
     "id": "leur-leurs.6"
    },
    {
@@ -8288,9 +8172,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Pourquoi ne {leurs>leur} a-t-il pas pardonné ?",
-    "e": "« Pourquoi ne lui a-t-il pas pardonné » : pronom devant le verbe, « leur ».",
-    "src": "tatoeba:12067055",
+    "s": "Pourquoi ne {leurs>leur} a-t-elle pas répondu ?",
+    "e": "« Pourquoi ne lui a-t-elle pas répondu » : pronom devant le verbe, « leur ».",
     "id": "leur-leurs.13"
    },
    {
@@ -8298,9 +8181,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ils t'ont rendu ce que tu {leurs>leur} as donné.",
-    "e": "« Ce que tu lui as donné » : pronom devant le verbe, « leur ».",
-    "src": "tatoeba:8083983",
+    "s": "Rends-moi ce que tu {leurs>leur} as pris.",
+    "e": "« Ce que tu lui as pris » : pronom devant le verbe, « leur ».",
     "id": "leur-leurs.14"
    },
    {
@@ -8358,9 +8240,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Nombreux sont ceux qui font {leur>leurs} achats ici.",
-    "e": "Devant le nom « achats », au pluriel : « leurs ».",
-    "src": "tatoeba:4579670",
+    "s": "Beaucoup de gens font {leur>leurs} courses le samedi.",
+    "e": "Devant le nom « courses », au pluriel : « leurs ».",
     "id": "leur-leurs.20"
    }
   ],
@@ -8387,9 +8268,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Le {Français>français} est-il facile ?",
+    "s": "Le {Français>français} est-il difficile à apprendre ?",
     "e": "Il s'agit de la langue : minuscule.",
-    "src": "tatoeba:8737101",
     "id": "majuscules.2"
    },
    {
@@ -8397,9 +8277,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Votre {Français>français} est meilleur que le mien.",
+    "s": "Ton {Français>français} a fait des progrès.",
     "e": "La langue : minuscule.",
-    "src": "tatoeba:5794181",
     "id": "majuscules.3"
    },
    {
@@ -8407,9 +8286,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle parle {Anglais>anglais} ainsi que français.",
+    "s": "Il parle {Espagnol>espagnol} et portugais.",
     "e": "Une langue : minuscule.",
-    "src": "tatoeba:331021",
     "id": "majuscules.4"
    },
    {
@@ -8417,9 +8295,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je dois passer un examen en {Janvier>janvier}.",
+    "s": "Les soldes commencent en {Janvier>janvier}.",
     "e": "Les mois prennent une minuscule.",
-    "src": "tatoeba:678710",
     "id": "majuscules.5"
    },
    {
@@ -8427,9 +8304,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "J'espère être de retour {Lundi>lundi} prochain.",
+    "s": "Je te rappelle {Mardi>mardi} soir.",
     "e": "Les jours prennent une minuscule.",
-    "src": "tatoeba:1291285",
     "id": "majuscules.6"
    },
    {
@@ -8604,9 +8480,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je sais que tu le vois, {mes>mais} le regardes-tu vraiment ?",
+    "s": "Je l'ai invité, {mes>mais} il n'est pas venu.",
     "e": "Opposition, on peut dire « pourtant » : « mais ».",
-    "src": "tatoeba:1309606",
     "id": "mes-mais-met.1"
    },
    {
@@ -8614,9 +8489,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "L'argent ne fait pas le bonheur, {mes>mais} il y contribue.",
+    "s": "Ce pull est joli, {mes>mais} il est trop petit.",
     "e": "Opposition, on peut dire « cependant » : « mais ».",
-    "src": "tatoeba:10490514",
     "id": "mes-mais-met.2"
    },
    {
@@ -8624,9 +8498,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il {mes>met} trop de sucre dans son thé.",
+    "s": "Il {mes>met} du beurre sur ses tartines.",
     "e": "Verbe mettre, « il mettait » : « il met ».",
-    "src": "tatoeba:2295992",
     "id": "mes-mais-met.3"
    },
    {
@@ -8634,9 +8507,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je {mais>mets} toutes mes recettes en ligne sur mon blog.",
+    "s": "Je {mais>mets} toujours mes clés dans ce bol.",
     "e": "Verbe mettre, « je mettais » : « je mets », avec un s.",
-    "src": "tatoeba:10270518",
     "id": "mes-mais-met.4"
    },
    {
@@ -8644,9 +8516,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ne {mais>mets} rien sur la boîte.",
+    "s": "Ne {mais>mets} pas tes pieds sur le canapé.",
     "e": "Verbe mettre à l'impératif : « mets ».",
-    "src": "tatoeba:5923176",
     "id": "mes-mais-met.5"
    },
    {
@@ -8663,9 +8534,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Cet homme se {mes>met} souvent en colère.",
+    "s": "Mon père se {mes>met} à courir chaque matin.",
     "e": "Verbe se mettre, « il se mettait » : « il se met ».",
-    "src": "tatoeba:12587074",
     "id": "mes-mais-met.7"
    },
    {
@@ -9286,9 +9156,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{Je sais pas>Je ne sais pas} où est l'arrêt d'autobus.",
+    "s": "{Je sais pas>Je ne sais pas} quand il rentre.",
     "e": "À l'écrit, la négation a deux parties : « ne… pas ».",
-    "src": "tatoeba:13030631",
     "id": "negation-ne.1"
    },
    {
@@ -9296,9 +9165,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{Personne a>Personne n'a} été assez courageux pour le lui dire.",
+    "s": "{Personne a>Personne n'a} répondu à mon message.",
     "e": "« Personne » en début de phrase demande aussi « ne » : « personne n'a ».",
-    "src": "tatoeba:8583199",
     "id": "negation-ne.2"
    },
    {
@@ -9306,9 +9174,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{Rien est>Rien n'est} plus méprisable qu'un respect basé sur la crainte.",
+    "s": "{Rien est>Rien n'est} plus agréable qu'une sieste.",
     "e": "« Rien » en début de phrase demande « ne » : « rien n'est ».",
-    "src": "tatoeba:2024793",
     "id": "negation-ne.3"
    },
    {
@@ -9343,9 +9210,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Êtes-vous sûrs que {personne est>personne n'est} blessé ?",
+    "s": "Tu es sûr que {personne est>personne n'est} resté dans la salle ?",
     "e": "Avec « personne », il faut « ne » : « personne n'est ».",
-    "src": "tatoeba:8064862",
     "id": "negation-ne.7"
    },
    {
@@ -9362,9 +9228,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je ne sais pas ce que demain m'apportera.",
+    "s": "Je ne sais pas ce que nous ferons demain.",
     "e": "Correct : la négation a ses deux parties, « ne… pas ».",
-    "src": "tatoeba:10498076",
     "id": "negation-ne.9"
    },
    {
@@ -9512,9 +9377,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il {ni>n'y} a rien à craindre.",
+    "s": "Il {ni>n'y} a plus de lait.",
     "e": "Sans négation : « il y a » : ne + y, « n'y ».",
-    "src": "tatoeba:2867509",
     "id": "ni-n-y.1"
    },
    {
@@ -9522,9 +9386,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il {ni>n'y} a personne à l'intérieur.",
+    "s": "Il {ni>n'y} a personne dans la cuisine.",
     "e": "« Il y a quelqu'un » : « n'y ».",
-    "src": "tatoeba:10062019",
     "id": "ni-n-y.2"
    },
    {
@@ -9532,9 +9395,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il {ni>n'y} a pas de rose sans épines.",
-    "e": "« Il y a des roses » : « n'y ».",
-    "src": "tatoeba:1069756",
+    "s": "Il {ni>n'y} a pas de fumée sans feu.",
+    "e": "« Il y a de la fumée » : « n'y ».",
     "id": "ni-n-y.3"
    },
    {
@@ -9542,9 +9404,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je ne bois {n'y>ni} ne fume.",
-    "e": "« ni » relie deux verbes niés (je bois et je fume).",
-    "src": "tatoeba:1100231",
+    "s": "Il ne chante {n'y>ni} ne danse.",
+    "e": "« ni » relie deux verbes niés (il chante et il danse).",
     "id": "ni-n-y.4"
    },
    {
@@ -9552,9 +9413,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je n'ai pas besoin de toi {n'y>ni} de quiconque d'autre.",
+    "s": "Je n'ai besoin ni de sucre {n'y>ni} de lait.",
     "e": "« ni » relie deux éléments niés.",
-    "src": "tatoeba:2322876",
     "id": "ni-n-y.5"
    },
    {
@@ -9562,9 +9422,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{N'y>Ni} l'or ni la grandeur ne nous rendent heureux.",
-    "e": "« Ni l'or ni la grandeur » : l'or et la grandeur, niés.",
-    "src": "tatoeba:920941",
+    "s": "{N'y>Ni} le vent ni la pluie ne l'arrêtent.",
+    "e": "« Ni le vent ni la pluie » : le vent et la pluie, niés.",
     "id": "ni-n-y.6"
    },
    {
@@ -9652,9 +9511,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il {ni>n'y} avait presque personne autour de moi.",
+    "s": "Il {ni>n'y} avait aucun bruit dans la maison.",
     "e": "« Il y avait » : « n'y ».",
-    "src": "tatoeba:13626743",
     "id": "ni-n-y.12"
    },
    {
@@ -9662,9 +9520,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Alain n'est pas heureux {n'y>ni} satisfait de son mariage.",
+    "s": "Paul n'est pas pressé {n'y>ni} inquiet.",
     "e": "« ni » relie deux adjectifs niés, après « ne … pas ».",
-    "src": "tatoeba:524498",
     "id": "ni-n-y.13"
    },
    {
@@ -9713,9 +9570,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il {ni>n'y} a pas d'autre possibilité.",
-    "e": "« Il y a une autre possibilité » : « n'y ».",
-    "src": "tatoeba:1815996",
+    "s": "Il {ni>n'y} a pas d'autre solution.",
+    "e": "« Il y a une autre solution » : « n'y ».",
     "id": "ni-n-y.18"
    }
   ],
@@ -9733,9 +9589,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ils {on>ont} complètement détruit la ville.",
-    "e": "« Ils avaient détruit » : auxiliaire avoir, « ont ».",
-    "src": "tatoeba:12169983",
+    "s": "Ils {on>ont} repeint la cuisine.",
+    "e": "« Ils avaient repeint » : auxiliaire avoir, « ont ».",
     "id": "on-ont.1"
    },
    {
@@ -9743,9 +9598,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Les infirmières {on>ont} été très gentilles avec moi.",
-    "e": "« Les infirmières avaient été gentilles » : auxiliaire avoir, « ont ».",
-    "src": "tatoeba:4093019",
+    "s": "Les pompiers {on>ont} été très rapides.",
+    "e": "« Les pompiers avaient été rapides » : auxiliaire avoir, « ont ».",
     "id": "on-ont.2"
    },
    {
@@ -9753,9 +9607,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Mes parents {on>ont} été fiers de moi.",
-    "e": "« Mes parents avaient été fiers » : auxiliaire avoir, « ont ».",
-    "src": "tatoeba:2200140",
+    "s": "Mes grands-parents {on>ont} été ravis de nous voir.",
+    "e": "« Mes grands-parents avaient été ravis » : auxiliaire avoir, « ont ».",
     "id": "on-ont.3"
    },
    {
@@ -9763,9 +9616,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{Ont>On} tombe malade facilement avec un climat comme celui-là.",
-    "e": "« Il tombe malade » : pronom « on ».",
-    "src": "tatoeba:2878692",
+    "s": "{Ont>On} attrape vite froid en hiver.",
+    "e": "« Il attrape vite froid » : pronom « on ».",
     "id": "on-ont.4"
    },
    {
@@ -9773,9 +9625,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je sais comment {ont>on} pourrait s'amuser.",
-    "e": "« Comment il pourrait s'amuser » : pronom « on ».",
-    "src": "tatoeba:3474154",
+    "s": "Je sais où {ont>on} pourrait pique-niquer.",
+    "e": "« Où il pourrait pique-niquer » : pronom « on ».",
     "id": "on-ont.5"
    },
    {
@@ -9783,9 +9634,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{Ont>On} dirait qu'aujourd'hui n'est pas mon jour de chance.",
+    "s": "{Ont>On} dirait qu'il va neiger.",
     "e": "« Il dirait » : pronom « on ».",
-    "src": "tatoeba:8114341",
     "id": "on-ont.6"
    },
    {
@@ -9793,9 +9643,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Est-ce qu'elles {on>ont} les yeux bleus ?",
-    "e": "« Elles avaient les yeux bleus » : verbe avoir, « ont ».",
-    "src": "tatoeba:13623157",
+    "s": "Est-ce qu'ils {on>ont} un jardin ?",
+    "e": "« Ils avaient un jardin » : verbe avoir, « ont ».",
     "id": "on-ont.7"
    },
    {
@@ -9879,9 +9728,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{On a>On n'a} plus le temps.",
-    "e": "Phrase négative (plus) : « il n'a plus le temps ». On entend le « n' » avec « il » : il faut l'écrire avec « on ».",
-    "src": "tatoeba:3444263",
+    "s": "{On a>On n'a} plus de farine.",
+    "e": "Phrase négative (plus) : « il n'a plus de farine ». On entend le « n' » avec « il » : il faut l'écrire avec « on ».",
     "id": "on-ont.12"
    },
    {
@@ -9889,9 +9737,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{On est>On n'est} jamais trop prudent.",
-    "e": "Phrase négative (jamais) : « il n'est jamais trop prudent » → « on n'est ».",
-    "src": "tatoeba:911104",
+    "s": "{On est>On n'est} jamais trop poli.",
+    "e": "Phrase négative (jamais) : « il n'est jamais trop poli » → « on n'est ».",
     "id": "on-ont.13"
    },
    {
@@ -9899,9 +9746,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{On avait>On n'avait} rien à se reprocher.",
-    "e": "Phrase négative (rien) : « il n'avait rien à se reprocher » → « on n'avait ».",
-    "src": "tatoeba:13306404",
+    "s": "{On avait>On n'avait} rien prévu pour ce soir.",
+    "e": "Phrase négative (rien) : « il n'avait rien prévu » → « on n'avait ».",
     "id": "on-ont.14"
    },
    {
@@ -9918,9 +9764,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "D'autres noms {on>ont} été évoqués.",
-    "e": "« D'autres noms avaient été évoqués » : auxiliaire avoir, « ont ».",
-    "src": "tatoeba:10613229",
+    "s": "D'autres idées {on>ont} été proposées.",
+    "e": "« D'autres idées avaient été proposées » : auxiliaire avoir, « ont ».",
     "id": "on-ont.16"
    },
    {
@@ -9928,9 +9773,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ils n'{on>ont} pas été détruits.",
-    "e": "« Ils n'avaient pas été détruits » : auxiliaire avoir, « ont ».",
-    "src": "tatoeba:13306653",
+    "s": "Ils n'{on>ont} pas été prévenus.",
+    "e": "« Ils n'avaient pas été prévenus » : auxiliaire avoir, « ont ».",
     "id": "on-ont.17"
    },
    {
@@ -9971,9 +9815,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je te suivrai partout {ou>où} tu iras.",
-    "e": "« Partout ou bien tu iras » ne veut rien dire : c'est le lieu, « où ».",
-    "src": "tatoeba:338026",
+    "s": "Je t'attendrai là {ou>où} tu voudras.",
+    "e": "« Là ou bien tu voudras » ne veut rien dire : c'est le lieu, « où ».",
     "id": "ou-ou.1"
    },
    {
@@ -9981,9 +9824,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je peux me cacher n'importe {ou>où}.",
+    "s": "On peut s'asseoir n'importe {ou>où}.",
     "e": "« N'importe où » indique un lieu : « où ».",
-    "src": "tatoeba:1786620",
     "id": "ou-ou.2"
    },
    {
@@ -9991,9 +9833,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "J'ai enfin trouvé un lieu {ou>où} nous pouvons être seuls.",
-    "e": "« Un lieu où… » : pronom relatif de lieu, « où ».",
-    "src": "tatoeba:5801846",
+    "s": "C'est la ville {ou>où} j'ai grandi.",
+    "e": "« La ville où… » : pronom relatif de lieu, « où ».",
     "id": "ou-ou.3"
    },
    {
@@ -10001,9 +9842,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Dépêchez-vous, {où>ou} vous manquerez le train.",
-    "e": "« Ou bien vous manquerez le train » fonctionne : « ou ».",
-    "src": "tatoeba:9271",
+    "s": "Habille-toi, {où>ou} tu vas être en retard.",
+    "e": "« Ou bien tu vas être en retard » fonctionne : « ou ».",
     "id": "ou-ou.4"
    },
    {
@@ -10011,9 +9851,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "À la bouteille {où>ou} au verre ?",
-    "e": "« À la bouteille ou bien au verre » : un choix, « ou ».",
-    "src": "tatoeba:13342",
+    "s": "Tu veux de l'eau {où>ou} du jus ?",
+    "e": "« De l'eau ou bien du jus » : un choix, « ou ».",
     "id": "ou-ou.5"
    },
    {
@@ -10021,9 +9860,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Es-tu pour {où>ou} contre notre plan ?",
-    "e": "« Pour ou bien contre » : un choix, « ou ».",
-    "src": "tatoeba:8977",
+    "s": "Tu préfères la mer {où>ou} la montagne ?",
+    "e": "« La mer ou bien la montagne » : un choix, « ou ».",
     "id": "ou-ou.6"
    },
    {
@@ -10031,9 +9869,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "La plupart des Suisses parlent deux {où>ou} trois langues.",
-    "e": "« Deux ou bien trois langues » : « ou ».",
-    "src": "tatoeba:428964",
+    "s": "Il faut deux {où>ou} trois œufs pour ce gâteau.",
+    "e": "« Deux ou bien trois œufs » : « ou ».",
     "id": "ou-ou.7"
    },
    {
@@ -10041,9 +9878,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Pourriez-vous me montrer {ou>où} il a été trouvé ?",
+    "s": "Peux-tu me dire {ou>où} tu as garé la voiture ?",
     "e": "On demande un lieu (à quel endroit) : « où ».",
-    "src": "tatoeba:12858738",
     "id": "ou-ou.8"
    },
    {
@@ -10127,9 +9963,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il y a quelques points {ou>où} tu te trompes.",
-    "e": "« Des points où… » (sur lesquels) : pronom relatif, « où ».",
-    "src": "tatoeba:119846",
+    "s": "Il y a des jours {ou>où} tout va mal.",
+    "e": "« Des jours où… » (pendant lesquels) : pronom relatif, « où ».",
     "id": "ou-ou.13"
    },
    {
@@ -10137,9 +9972,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Nous n'allons pas là {ou>où} nous voulons.",
+    "s": "Pose ce carton là {ou>où} il y a de la place.",
     "e": "« Là où » indique un lieu : « où ».",
-    "src": "tatoeba:12367423",
     "id": "ou-ou.14"
    },
    {
@@ -10147,9 +9981,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Vous devez prendre ce médicament, que vous le vouliez {où>ou} non.",
-    "e": "« Que vous le vouliez ou bien non » : « ou ».",
-    "src": "tatoeba:1174514",
+    "s": "Il faudra y aller, que tu le veuilles {où>ou} non.",
+    "e": "« Que tu le veuilles ou bien non » : « ou ».",
     "id": "ou-ou.15"
    },
    {
@@ -10175,9 +10008,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il lui a demandé par {ou>où} commencer.",
+    "s": "Elle ne savait pas par {ou>où} commencer.",
     "e": "« Par où » (par quel endroit) : « où ».",
-    "src": "tatoeba:13845418",
     "id": "ou-ou.18"
    },
    {
@@ -10792,9 +10624,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je ne comprends pas comment on {peu>peut} aimer cela.",
-    "e": "« Comment on pouvait aimer cela » : verbe pouvoir, « peut ».",
-    "src": "tatoeba:7070834",
+    "s": "Je ne vois pas comment on {peu>peut} dormir avec ce bruit.",
+    "e": "« Comment on pouvait dormir » : verbe pouvoir, « peut ».",
     "id": "peu-peut.1"
    },
    {
@@ -10802,9 +10633,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Est-ce qu'on {peu>peut} rester amies quand même ?",
-    "e": "« Est-ce qu'on pouvait rester amies » : verbe pouvoir, « peut ».",
-    "src": "tatoeba:13629609",
+    "s": "Est-ce qu'on {peu>peut} entrer ?",
+    "e": "« Est-ce qu'on pouvait entrer » : verbe pouvoir, « peut ».",
     "id": "peu-peut.2"
    },
    {
@@ -10812,9 +10642,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Cela ne {peu>peut} être autorisé.",
-    "e": "« Cela ne pouvait être autorisé » : verbe pouvoir, « peut ».",
-    "src": "tatoeba:5899606",
+    "s": "Cette porte ne {peu>peut} pas rester ouverte.",
+    "e": "« Cette porte ne pouvait pas rester ouverte » : verbe pouvoir, « peut ».",
     "id": "peu-peut.3"
    },
    {
@@ -10822,9 +10651,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je suis fatigué, je vais me reposer un {peut>peu}.",
+    "s": "Attends-moi un {peut>peu}, j'arrive.",
     "e": "« Un peu » : petite quantité. « Un pouvait » ne veut rien dire.",
-    "src": "tatoeba:13458485",
     "id": "peu-peut.4"
    },
    {
@@ -10832,9 +10660,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Fais bouillir un {peut>peu} d'eau.",
-    "e": "« Un peu d'eau » : petite quantité, « peu ».",
-    "src": "tatoeba:332240",
+    "s": "Ajoute un {peut>peu} de sel.",
+    "e": "« Un peu de sel » : petite quantité, « peu ».",
     "id": "peu-peut.5"
    },
    {
@@ -10842,9 +10669,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je ne veux qu'un {peut>peu} plus de temps.",
+    "s": "Il me faut un {peut>peu} plus de patience.",
     "e": "« Un peu plus » : quantité, « peu ».",
-    "src": "tatoeba:2447883",
     "id": "peu-peut.6"
    },
    {
@@ -10852,9 +10678,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "L'amitié {peu>peut} vous donner un sentiment de communauté et d'appartenance.",
-    "e": "« L'amitié pouvait vous donner » : verbe pouvoir, « peut ».",
-    "src": "tatoeba:11615719",
+    "s": "Le sport {peu>peut} aider à mieux dormir.",
+    "e": "« Le sport pouvait aider » : verbe pouvoir, « peut ».",
     "id": "peu-peut.7"
    },
    {
@@ -10862,9 +10687,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Cela a coûté {peut>peu} cher.",
+    "s": "Ce restaurant est {peut>peu} cher.",
     "e": "« Peu cher » = pas très cher : adverbe, « peu ».",
-    "src": "tatoeba:5136726",
     "id": "peu-peut.8"
    },
    {
@@ -10948,9 +10772,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je sais que je {peut>peux} compter sur toi.",
+    "s": "Je sais que je {peut>peux} y arriver.",
     "e": "Verbe pouvoir (je pouvais), mais avec « je » il s'écrit « peux ».",
-    "src": "tatoeba:8085905",
     "id": "peu-peut.13"
    },
    {
@@ -10958,9 +10781,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Si tu as un problème, tu {peut>peux} le dire.",
+    "s": "Si tu as froid, tu {peut>peux} prendre mon pull.",
     "e": "Verbe pouvoir avec « tu » : « tu peux ».",
-    "src": "tatoeba:10473581",
     "id": "peu-peut.14"
    },
    {
@@ -10968,9 +10790,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle déclara qu'elle le suivrait, {peut>peu} importe où il aille.",
+    "s": "Il viendra, {peut>peu} importe l'heure.",
     "e": "Expression « peu importe » : « peu ».",
-    "src": "tatoeba:1395636",
     "id": "peu-peut.15"
    },
    {
@@ -11010,9 +10831,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Tu {peut>peux} parler aussi un peu de français.",
+    "s": "Tu {peut>peux} m'aider un peu ?",
     "e": "Verbe pouvoir avec « tu » : « tu peux ». Le second mot est bien « peu » (un peu).",
-    "src": "tatoeba:2341386",
     "id": "peu-peut.19"
    },
    {
@@ -11039,9 +10859,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Les {chevals>chevaux} sont des animaux sympathiques.",
+    "s": "Les {chevals>chevaux} galopent dans le pré.",
     "e": "Les noms en -al font leur pluriel en -aux : un cheval, des chevaux.",
-    "src": "tatoeba:9159531",
     "id": "pluriel-noms.1"
    },
    {
@@ -11049,9 +10868,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Où sont les {journals>journaux} ?",
+    "s": "Les {journals>journaux} sont sur la table.",
     "e": "Les noms en -al font leur pluriel en -aux : un journal, des journaux.",
-    "src": "tatoeba:7250922",
     "id": "pluriel-noms.2"
    },
    {
@@ -11059,9 +10877,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il enferma ses {bijous>bijoux} dans le coffre.",
+    "s": "Elle range ses {bijous>bijoux} dans une boîte.",
     "e": "« Bijou » fait partie des sept noms en -ou qui prennent un x.",
-    "src": "tatoeba:181670",
     "id": "pluriel-noms.3"
    },
    {
@@ -11069,9 +10886,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "J'ai mal aux {genous>genoux}, je ne peux pas courir.",
+    "s": "Il s'est écorché les {genous>genoux} en tombant.",
     "e": "« Genou » fait partie des sept noms en -ou qui prennent un x.",
-    "src": "tatoeba:11497794",
     "id": "pluriel-noms.4"
    },
    {
@@ -11079,9 +10895,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Les adolescents adorent jouer aux {jeus>jeux} vidéo.",
+    "s": "Les enfants inventent de nouveaux {jeus>jeux}.",
     "e": "Les noms en -eu prennent un x : des jeux.",
-    "src": "tatoeba:3639483",
     "id": "pluriel-noms.5"
    },
    {
@@ -11089,9 +10904,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "C'est l'un des plus gros {festivaux>festivals} de musique estivaux.",
+    "s": "Cet été, nous irons à deux {festivaux>festivals}.",
     "e": "« Festival » est une exception : il prend un s (des festivals).",
-    "src": "tatoeba:1270492",
     "id": "pluriel-noms.6"
    },
    {
@@ -11099,9 +10913,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Les {pneux>pneus} de la voiture étaient couverts de boue séchée.",
+    "s": "Il faut vérifier les {pneux>pneus} du vélo.",
     "e": "« Pneu » est une exception : il prend un s (des pneus).",
-    "src": "tatoeba:799829",
     "id": "pluriel-noms.7"
    },
    {
@@ -11109,9 +10922,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je ne suis pas intéressé par les {détaux>détails}.",
+    "s": "Raconte-moi tout, avec les {détaux>détails}.",
     "e": "« Détail » suit la règle générale des noms en -ail : un s.",
-    "src": "tatoeba:8379034",
     "id": "pluriel-noms.8"
    },
    {
@@ -11181,9 +10993,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Pourriez-vous me donner un devis avant de commencer les {travails>travaux} ?",
+    "s": "Les {travails>travaux} de la cuisine dureront un mois.",
     "e": "« Travail » est une exception : des travaux.",
-    "src": "tatoeba:3273827",
     "id": "pluriel-noms.12"
    },
    {
@@ -11191,9 +11002,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ils ont ramassé des {caillous>cailloux} pour construire un mur.",
+    "s": "Le petit lance des {caillous>cailloux} dans l'eau.",
     "e": "« Caillou » fait partie des sept noms en -ou qui prennent un x.",
-    "src": "tatoeba:12846687",
     "id": "pluriel-noms.13"
    },
    {
@@ -11271,9 +11081,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Tu aurais dû venir {plutôt>plus tôt}.",
-    "e": "« Tu aurais dû venir plus tard » fonctionne : c'est le temps, « plus tôt ».",
-    "src": "tatoeba:335469",
+    "s": "Tu aurais dû me le dire {plutôt>plus tôt}.",
+    "e": "« Tu aurais dû me le dire plus tard » fonctionne : c'est le temps, « plus tôt ».",
     "id": "plutot-plus-tot.1"
    },
    {
@@ -11281,9 +11090,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je me suis réveillé {plutôt>plus tôt} pour te voir.",
+    "s": "Je suis parti {plutôt>plus tôt} pour éviter les bouchons.",
     "e": "Contraire de « plus tard » : « plus tôt ».",
-    "src": "tatoeba:7701677",
     "id": "plutot-plus-tot.2"
    },
    {
@@ -11291,9 +11099,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Vous auriez dû partir une demi-heure {plutôt>plus tôt}.",
-    "e": "« Une demi-heure plus tard » fonctionne : c'est le temps, « plus tôt ».",
-    "src": "tatoeba:822391",
+    "s": "Il fallait arriver dix minutes {plutôt>plus tôt}.",
+    "e": "« Dix minutes plus tard » fonctionne : c'est le temps, « plus tôt ».",
     "id": "plutot-plus-tot.3"
    },
    {
@@ -11301,9 +11108,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Les prix ici sont {plus tôt>plutôt} raisonnables.",
-    "e": "« Assez raisonnables » : « plutôt », en un mot.",
-    "src": "tatoeba:4983680",
+    "s": "Ce quartier est {plus tôt>plutôt} calme.",
+    "e": "« Assez calme » : « plutôt », en un mot.",
     "id": "plutot-plus-tot.4"
    },
    {
@@ -11311,9 +11117,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ce livre est {plus tôt>plutôt} bon.",
+    "s": "Ton idée est {plus tôt>plutôt} bonne.",
     "e": "« Assez bon » : « plutôt », en un mot.",
-    "src": "tatoeba:9774048",
     "id": "plutot-plus-tot.5"
    },
    {
@@ -11321,9 +11126,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je préférerais que vous veniez vendredi {plus tôt>plutôt} que jeudi.",
-    "e": "Une préférence (vendredi de préférence à jeudi) : « plutôt que ».",
-    "src": "tatoeba:1184051",
+    "s": "Je prendrai le train {plus tôt>plutôt} que la voiture.",
+    "e": "Une préférence (le train de préférence à la voiture) : « plutôt que ».",
     "id": "plutot-plus-tot.6"
    },
    {
@@ -11331,9 +11135,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Peux-tu envoyer quelqu'un pour le réparer le {plutôt>plus tôt} possible ?",
+    "s": "Réponds-moi le {plutôt>plus tôt} possible.",
     "e": "« Le plus tôt possible » : le temps, en deux mots.",
-    "src": "tatoeba:2049048",
     "id": "plutot-plus-tot.7"
    },
    {
@@ -11426,9 +11229,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Plus tôt on commencera, {plutôt>plus tôt} on aura terminé.",
-    "e": "« Plus tard on commencera, plus tard on aura terminé » : le temps, deux fois « plus tôt ».",
-    "src": "tatoeba:11735693",
+    "s": "Plus tôt tu partiras, {plutôt>plus tôt} tu arriveras.",
+    "e": "« Plus tard tu partiras, plus tard tu arriveras » : le temps, deux fois « plus tôt ».",
     "id": "plutot-plus-tot.13"
    },
    {
@@ -11436,9 +11238,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je sais que j'aurais dû arriver ici {plutôt>plus tôt}.",
-    "e": "Contraire de « plus tard » : « plus tôt ».",
-    "src": "tatoeba:6463918",
+    "s": "Le spectacle a commencé {plutôt>plus tôt} que prévu.",
+    "e": "« Plus tard que prévu » fonctionne : c'est le temps, « plus tôt ».",
     "id": "plutot-plus-tot.14"
    },
    {
@@ -12215,9 +12016,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il a {prit>pris} notre argent.",
+    "s": "Il a {prit>pris} le dernier bus.",
     "e": "Une chose « prise » : le participe s'écrit « pris ».",
-    "src": "tatoeba:13842022",
     "id": "pp-terminaison.1"
    },
    {
@@ -12225,9 +12025,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "J'ai {finit>fini} d'écrire une lettre en anglais.",
+    "s": "J'ai {finit>fini} mon puzzle.",
     "e": "Une tâche « finie » : pas de consonne, « fini ».",
-    "src": "tatoeba:6794",
     "id": "pp-terminaison.2"
    },
    {
@@ -12235,9 +12034,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Vous avez {dis>dit} que vous n'aviez pas compris.",
+    "s": "Tu as {dis>dit} la vérité.",
     "e": "Une chose « dite » : « dit ».",
-    "src": "tatoeba:2285536",
     "id": "pp-terminaison.3"
    },
    {
@@ -12245,9 +12043,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il a {mit>mis} un timbre sur la lettre.",
+    "s": "Elle a {mit>mis} son manteau rouge.",
     "e": "Une chose « mise » : « mis ».",
-    "src": "tatoeba:132539",
     "id": "pp-terminaison.4"
    },
    {
@@ -12255,9 +12052,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elles ont {écris>écrit} des romans.",
-    "e": "Une lettre « écrite » : « écrit ».",
-    "src": "tatoeba:12942715",
+    "s": "Ils ont {écris>écrit} une chanson.",
+    "e": "Une chanson « écrite » : « écrit ».",
     "id": "pp-terminaison.5"
    },
    {
@@ -12265,9 +12061,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Nous avons {finit>fini} de nettoyer notre salle de classe.",
+    "s": "Nous avons {finit>fini} de ranger le garage.",
     "e": "Une tâche « finie » : « fini ».",
-    "src": "tatoeba:4294402",
     "id": "pp-terminaison.6"
    },
    {
@@ -12275,9 +12070,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "J'ai {comprit>compris} que quelque chose n'allait pas.",
+    "s": "J'ai enfin {comprit>compris} l'exercice.",
     "e": "Une chose « comprise » : « compris ».",
-    "src": "tatoeba:10625141",
     "id": "pp-terminaison.7"
    },
    {
@@ -12285,9 +12079,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "C'est le chemin que j'ai {choisit>choisi}.",
+    "s": "C'est le gâteau que nous avons {choisit>choisi}.",
     "e": "Une chose « choisie » : « choisi ».",
-    "src": "tatoeba:11930767",
     "id": "pp-terminaison.8"
    },
    {
@@ -12358,9 +12151,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Venir jusqu'ici n'a {prit>pris} que dix minutes.",
+    "s": "Le trajet n'a {prit>pris} qu'un quart d'heure.",
     "e": "Après « avoir », le participe : « pris ».",
-    "src": "tatoeba:1248185",
     "id": "pp-terminaison.12"
    },
    {
@@ -12368,9 +12160,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "J'ai {réussit>réussi} à atteindre le sommet de la montagne.",
+    "s": "J'ai {réussit>réussi} mon permis de conduire.",
     "e": "Une chose « réussie » : « réussi ».",
-    "src": "tatoeba:6350",
     "id": "pp-terminaison.13"
    },
    {
@@ -12378,9 +12169,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Tu as {conduis>conduit} cette voiture pendant dix ans.",
+    "s": "Tu as {conduis>conduit} toute la nuit.",
     "e": "Une voiture « conduite » : « conduit ».",
-    "src": "tatoeba:4601735",
     "id": "pp-terminaison.14"
    },
    {
@@ -12388,9 +12178,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle m'a {permit>permis} d'aller là-bas.",
+    "s": "Ses parents lui ont {permit>permis} de sortir.",
     "e": "Une chose « permise » : « permis ».",
-    "src": "tatoeba:13914577",
     "id": "pp-terminaison.15"
    },
    {
@@ -12431,9 +12220,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Pourrais-tu me répéter où tu as {mit>mis} la clé ?",
+    "s": "Où as-tu {mit>mis} mes lunettes ?",
     "e": "Une chose « mise » : « mis ».",
-    "src": "tatoeba:1393174",
     "id": "pp-terminaison.19"
    }
   ],
@@ -12451,9 +12239,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ils vivent {prêt>près} de l'aéroport.",
-    "e": "« Loin de l'aéroport » : proximité, « près ».",
-    "src": "tatoeba:12203003",
+    "s": "Nous habitons {prêt>près} de l'école.",
+    "e": "« Loin de l'école » : proximité, « près ».",
     "id": "pres-pret.1"
    },
    {
@@ -12461,9 +12248,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il vit {prêt>près} de la plage.",
-    "e": "« Loin de la plage » : « près ».",
-    "src": "tatoeba:3642554",
+    "s": "La boulangerie est {prêt>près} de la mairie.",
+    "e": "« Loin de la mairie » : « près ».",
     "id": "pres-pret.2"
    },
    {
@@ -12471,9 +12257,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je m'assis {prêt>près} de lui.",
-    "e": "À côté de lui : « près ».",
-    "src": "tatoeba:1313177",
+    "s": "Viens t'asseoir {prêt>près} de moi.",
+    "e": "À côté de moi : « près ».",
     "id": "pres-pret.3"
    },
    {
@@ -12481,9 +12266,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Es-tu {près>prêt} à y aller ?",
-    "e": "« Es-tu préparé à y aller ? » : « prêt ».",
-    "src": "tatoeba:986823",
+    "s": "Tu es {près>prêt} à partir ?",
+    "e": "« Tu es préparé à partir ? » : « prêt ».",
     "id": "pres-pret.4"
    },
    {
@@ -12491,9 +12275,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je suis {près>prêt} à agrandir notre projet.",
+    "s": "Je suis {près>prêt} à t'aider.",
     "e": "Disposé à : « prêt ».",
-    "src": "tatoeba:12252653",
     "id": "pres-pret.5"
    },
    {
@@ -12501,9 +12284,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ces prunes sont {près>prêtes} à être mangées.",
-    "e": "Préparées à : « prêt », accordé avec « prunes » : « prêtes ».",
-    "src": "tatoeba:13329352",
+    "s": "Les tomates sont {près>prêtes} à être cueillies.",
+    "e": "Préparées à : « prêt », accordé avec « tomates » : « prêtes ».",
     "id": "pres-pret.6"
    },
    {
@@ -12511,9 +12293,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Nous sommes {près>prêts} à faire tout ce qui est nécessaire.",
+    "s": "Nous sommes {près>prêts} à recommencer.",
     "e": "Disposés à : « prêt », accordé au pluriel : « prêts ».",
-    "src": "tatoeba:11589919",
     "id": "pres-pret.7"
    },
    {
@@ -12661,9 +12442,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "C'est pratique d'habiter si {prêt>près} de la station.",
-    "e": "« Si loin de la station » : « près ».",
-    "src": "tatoeba:373729",
+    "s": "C'est pratique de vivre si {prêt>près} du marché.",
+    "e": "« Si loin du marché » : « près ».",
     "id": "pres-pret.19"
    }
   ],
@@ -12904,9 +12684,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ne m'appelez pas {quant>quand} je suis au bureau.",
-    "e": "« Lorsque je suis au bureau » : le temps, « quand ».",
-    "src": "tatoeba:8065",
+    "s": "Appelle-moi {quant>quand} tu seras rentré.",
+    "e": "« Lorsque tu seras rentré » : le temps, « quand ».",
     "id": "quand-quant.1"
    },
    {
@@ -12914,9 +12693,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{Quant>Quand} tu reviendras, je ne serai plus là.",
-    "e": "« Lorsque tu reviendras » : le temps, « quand ».",
-    "src": "tatoeba:590114",
+    "s": "{Quant>Quand} il pleut, je prends le bus.",
+    "e": "« Lorsqu'il pleut » : le temps, « quand ».",
     "id": "quand-quant.2"
    },
    {
@@ -12924,9 +12702,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je ne sais pas {quant>quand} je ferai ça.",
-    "e": "« À quel moment je ferai ça » : le temps, « quand ».",
-    "src": "tatoeba:8377736",
+    "s": "Je ne sais pas {quant>quand} il reviendra.",
+    "e": "« À quel moment il reviendra » : le temps, « quand ».",
     "id": "quand-quant.3"
    },
    {
@@ -12934,9 +12711,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{Quand>Quant} à moi, je veux recommencer.",
-    "e": "« En ce qui me concerne » : « quant à ».",
-    "src": "tatoeba:2470710",
+    "s": "{Quand>Quant} à toi, tu restes ici.",
+    "e": "« En ce qui te concerne » : « quant à ».",
     "id": "quand-quant.4"
    },
    {
@@ -12944,9 +12720,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Quelle est votre théorie {quand>quant} à ce qui est arrivé ?",
-    "e": "« Au sujet de ce qui est arrivé » : « quant à ».",
-    "src": "tatoeba:4134384",
+    "s": "Il hésite {quand>quant} à son choix.",
+    "e": "« Au sujet de son choix » : « quant à ».",
     "id": "quand-quant.5"
    },
    {
@@ -12954,9 +12729,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{Quant>Quand} c'est non, c'est non.",
-    "e": "« Lorsque c'est non » : le temps, « quand ».",
-    "src": "tatoeba:5365364",
+    "s": "{Quant>Quand} on veut, on peut.",
+    "e": "« Lorsqu'on veut » : « quand ».",
     "id": "quand-quant.6"
    },
    {
@@ -13058,9 +12832,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Tu ne trouveras la paix {quand>qu'en} toi.",
-    "e": "« Ne… que » (seulement) + « en toi » : « qu'en ».",
-    "src": "tatoeba:428798",
+    "s": "Il n'a confiance {quand>qu'en} lui-même.",
+    "e": "« Ne… que » (seulement) + « en lui-même » : « qu'en ».",
     "id": "quand-quant.13"
    },
    {
@@ -13068,9 +12841,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "On ne triomphe de la nature {quand>qu'en} lui obéissant.",
-    "e": "« Ne… que » (seulement) + « en lui obéissant » : « qu'en ».",
-    "src": "tatoeba:6297451",
+    "s": "On n'apprend à nager {quand>qu'en} nageant.",
+    "e": "« Ne… que » (seulement) + « en nageant » : « qu'en ».",
     "id": "quand-quant.14"
    },
    {
@@ -13078,9 +12850,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Et d'abord, {quand>qu'en} sais-tu ?",
-    "e": "« Que sais-tu de cela ? » : « que » + « en », « qu'en ».",
-    "src": "tatoeba:2306695",
+    "s": "Et toi, {quand>qu'en} penses-tu ?",
+    "e": "« Que penses-tu de cela ? » : « que » + « en », « qu'en ».",
     "id": "quand-quant.15"
    },
    {
@@ -13130,9 +12901,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il me disait {quand>qu'en} juin, il irait en France.",
-    "e": "« Il me disait que, en juin, il irait… » : « que » + « en », « qu'en ».",
-    "src": "tatoeba:2182265",
+    "s": "Il m'a dit {quand>qu'en} mai, il déménagerait.",
+    "e": "« Il m'a dit que, en mai, il déménagerait » : « que » + « en », « qu'en ».",
     "id": "quand-quant.20"
    }
   ],
@@ -13507,9 +13277,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je {sait>sais} ce que tu veux dire.",
+    "s": "Je {sait>sais} où tu habites.",
     "e": "Verbe savoir avec « je » : « je sais ».",
-    "src": "tatoeba:8728",
     "id": "sais-sait.1"
    },
    {
@@ -13517,9 +13286,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je {sait>sais} que je ne vais pas aimer faire ça.",
+    "s": "Je {sait>sais} que tu as raison.",
     "e": "Avec « je » : « je sais ».",
-    "src": "tatoeba:13674689",
     "id": "sais-sait.2"
    },
    {
@@ -13527,9 +13295,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il {sais>sait} manger avec des baguettes.",
+    "s": "Il {sais>sait} nager depuis l'âge de cinq ans.",
     "e": "Verbe savoir avec « il » : « il sait ».",
-    "src": "tatoeba:8165595",
     "id": "sais-sait.3"
    },
    {
@@ -13537,9 +13304,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle {sais>sait} faire de la magie.",
+    "s": "Elle {sais>sait} jouer de la guitare.",
     "e": "Avec « elle » : « elle sait ».",
-    "src": "tatoeba:8709113",
     "id": "sais-sait.4"
    },
    {
@@ -13547,9 +13313,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je {c'est>sais} de quoi ils ont l'air.",
-    "e": "« Je savais de quoi… » : verbe savoir, « je sais ».",
-    "src": "tatoeba:2385927",
+    "s": "Je {c'est>sais} comment ça marche.",
+    "e": "« Je savais comment… » : verbe savoir, « je sais ».",
     "id": "sais-sait.5"
    },
    {
@@ -13557,9 +13322,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je {c'est>sais} que j'ai fait quelque chose de mal.",
+    "s": "Je {c'est>sais} que je suis en retard.",
     "e": "Après « je », c'est le verbe savoir : « je sais ».",
-    "src": "tatoeba:13378053",
     "id": "sais-sait.6"
    },
    {
@@ -13657,9 +13421,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il {sais>sait} ce qu'il dit.",
+    "s": "Il {sais>sait} toujours quoi répondre.",
     "e": "Avec « il » : « il sait ».",
-    "src": "tatoeba:9550914",
     "id": "sais-sait.13"
    },
    {
@@ -13736,9 +13499,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il vaut mieux {sans>s'en} aller d'ici.",
-    "e": "« Il vaut mieux que je m'en aille » : se + en, « s'en ».",
-    "src": "tatoeba:13250031",
+    "s": "Il est temps de {sans>s'en} aller.",
+    "e": "« Il est temps que je m'en aille » : se + en, « s'en ».",
     "id": "sans-s-en.1"
    },
    {
@@ -13746,9 +13508,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il est trop tôt pour {sans>s'en} aller.",
-    "e": "« Trop tôt pour m'en aller » : « s'en ».",
-    "src": "tatoeba:3501587",
+    "s": "Il est trop tard pour {sans>s'en} plaindre.",
+    "e": "« Trop tard pour m'en plaindre » : « s'en ».",
     "id": "sans-s-en.2"
    },
    {
@@ -13756,9 +13517,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle {sans>s'en} est assez bien sortie.",
-    "e": "« Je m'en suis sortie » : « s'en ».",
-    "src": "tatoeba:3587643",
+    "s": "Elle {sans>s'en} est très bien tirée.",
+    "e": "« Je m'en suis tirée » : « s'en ».",
     "id": "sans-s-en.3"
    },
    {
@@ -13766,9 +13526,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Les clients mécontents {sans>s'en} vont.",
+    "s": "Les invités {sans>s'en} vont après minuit.",
     "e": "« Je m'en vais » : « s'en ».",
-    "src": "tatoeba:5523936",
     "id": "sans-s-en.4"
    },
    {
@@ -13776,9 +13535,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Voulez-vous une robe {s'en>sans} manches ?",
-    "e": "Le contraire de « avec manches » : « sans ».",
-    "src": "tatoeba:12733678",
+    "s": "Je voudrais un café {s'en>sans} sucre.",
+    "e": "Le contraire de « avec sucre » : « sans ».",
     "id": "sans-s-en.5"
    },
    {
@@ -13786,9 +13544,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "On dit qu'il est capable de parler {s'en>sans} notes.",
-    "e": "Le contraire de « avec des notes » : « sans ».",
-    "src": "tatoeba:127988",
+    "s": "Elle récite son poème {s'en>sans} hésiter.",
+    "e": "Le contraire de « en hésitant » : « sans ».",
     "id": "sans-s-en.6"
    },
    {
@@ -13796,9 +13553,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Nous nous téléphonions {s'en>sans} arrêt.",
+    "s": "Le bébé a pleuré {s'en>sans} arrêt.",
     "e": "« Sans arrêt » : le contraire de « avec des arrêts », « sans ».",
-    "src": "tatoeba:8628514",
     "id": "sans-s-en.7"
    },
    {
@@ -13806,9 +13562,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il ne {sans>s'en} cache plus.",
-    "e": "« Je ne m'en cache plus » : « s'en ».",
-    "src": "tatoeba:11906245",
+    "s": "Il ne {sans>s'en} souvient plus.",
+    "e": "« Je ne m'en souviens plus » : « s'en ».",
     "id": "sans-s-en.8"
    },
    {
@@ -13878,9 +13633,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "La vie passe sans qu'on {sans>s'en} aperçoive.",
-    "e": "« Sans que je m'en aperçoive » : le second mot est « s'en ».",
-    "src": "tatoeba:12980044",
+    "s": "Les années passent sans qu'on {sans>s'en} rende compte.",
+    "e": "« Sans que je m'en rende compte » : le second mot est « s'en ».",
     "id": "sans-s-en.12"
    },
    {
@@ -13888,9 +13642,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Aucun des passagers ne {sans>s'en} est sorti indemne.",
-    "e": "« Je ne m'en suis pas sorti » : « s'en ».",
-    "src": "tatoeba:11792353",
+    "s": "Personne ne {sans>s'en} est aperçu.",
+    "e": "« Je ne m'en suis pas aperçu » : « s'en ».",
     "id": "sans-s-en.13"
    },
    {
@@ -13967,9 +13720,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle {si>s'y} rendra à vélo.",
+    "s": "Elle {si>s'y} rendra en train.",
     "e": "« Je m'y rendrai » : se + y, « s'y ».",
-    "src": "tatoeba:8693186",
     "id": "si-s-y.1"
    },
    {
@@ -13977,9 +13729,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il {si>s'y} est aventuré seul.",
-    "e": "« Je m'y suis aventuré » : « s'y ».",
-    "src": "tatoeba:8676842",
+    "s": "Il {si>s'y} est installé l'été dernier.",
+    "e": "« Je m'y suis installé » : « s'y ».",
     "id": "si-s-y.2"
    },
    {
@@ -13987,9 +13738,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ils ne savent pas {si>s'y} prendre.",
+    "s": "Ils ne savent pas {si>s'y} prendre avec les enfants.",
     "e": "« Je ne sais pas m'y prendre » : « s'y ».",
-    "src": "tatoeba:9466762",
     "id": "si-s-y.3"
    },
    {
@@ -13997,9 +13747,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il a décidé de ne pas {si>s'y} rendre.",
-    "e": "« J'ai décidé de ne pas m'y rendre » : « s'y ».",
-    "src": "tatoeba:1921030",
+    "s": "Elle a décidé de ne pas {si>s'y} inscrire.",
+    "e": "« J'ai décidé de ne pas m'y inscrire » : « s'y ».",
     "id": "si-s-y.4"
    },
    {
@@ -14007,9 +13756,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{S'y>Si} on mélange du bleu et du rouge, on obtient du violet.",
+    "s": "{S'y>Si} on chauffe la glace, elle fond.",
     "e": "Condition, on ne peut pas dire « m'y » : « si ».",
-    "src": "tatoeba:2382243",
     "id": "si-s-y.5"
    },
    {
@@ -14017,9 +13765,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{S'y>Si} j'étais riche, j'irais à l'étranger.",
+    "s": "{S'y>Si} j'avais un jardin, j'y planterais des fleurs.",
     "e": "Condition : « si ».",
-    "src": "tatoeba:416899",
     "id": "si-s-y.6"
    },
    {
@@ -14177,9 +13924,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il oublia sa promesse de {si>s'y} rendre.",
-    "e": "« Ma promesse de m'y rendre » : « s'y ».",
-    "src": "tatoeba:1015418",
+    "s": "Il a promis de {si>s'y} rendre demain.",
+    "e": "« J'ai promis de m'y rendre » : « s'y ».",
     "id": "si-s-y.19"
    }
   ],
@@ -14197,9 +13943,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Les hérissons {son>sont} très utiles.",
-    "e": "« Les hérissons étaient très utiles » : verbe être, « sont ».",
-    "src": "tatoeba:13129839",
+    "s": "Les abeilles {son>sont} indispensables aux fleurs.",
+    "e": "« Les abeilles étaient indispensables » : verbe être, « sont ».",
     "id": "son-sont.1"
    },
    {
@@ -14207,9 +13952,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ils se {son>sont} amusés à la fête.",
-    "e": "« Ils s'étaient amusés » : auxiliaire être, « sont ».",
-    "src": "tatoeba:355159",
+    "s": "Ils se {son>sont} bien reposés.",
+    "e": "« Ils s'étaient reposés » : auxiliaire être, « sont ».",
     "id": "son-sont.2"
    },
    {
@@ -14217,9 +13961,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle a acheté un cadeau pour {sont>son} fils.",
-    "e": "« Pour mon fils » : déterminant possessif, « son ».",
-    "src": "tatoeba:10599284",
+    "s": "Il a préparé un gâteau pour {sont>son} anniversaire.",
+    "e": "« Pour mon anniversaire » : déterminant possessif, « son ».",
     "id": "son-sont.3"
    },
    {
@@ -14227,9 +13970,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il vit dans {sont>son} véhicule.",
-    "e": "« Dans mon véhicule » : déterminant possessif, « son ».",
-    "src": "tatoeba:1838888",
+    "s": "Elle cherche {sont>son} téléphone partout.",
+    "e": "« Mon téléphone » : déterminant possessif, « son ».",
     "id": "son-sont.4"
    },
    {
@@ -14237,9 +13979,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle ne veut pas parler de {sont>son} passé.",
-    "e": "« De mon passé » : déterminant possessif, « son ».",
-    "src": "tatoeba:11716410",
+    "s": "Il n'aime pas parler de {sont>son} travail.",
+    "e": "« De mon travail » : déterminant possessif, « son ».",
     "id": "son-sont.5"
    },
    {
@@ -14247,9 +13988,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Quelles {son>sont} vos attentes en termes de rémunération ?",
-    "e": "« Quelles étaient vos attentes » : verbe être, « sont ».",
-    "src": "tatoeba:8359180",
+    "s": "Quels {son>sont} tes films préférés ?",
+    "e": "« Quels étaient tes films préférés » : verbe être, « sont ».",
     "id": "son-sont.6"
    },
    {
@@ -14257,9 +13997,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Ils {son>sont} en train d'ouvrir la fenêtre.",
+    "s": "Ils {son>sont} en train de cuisiner.",
     "e": "« Ils étaient en train » : verbe être, « sont ».",
-    "src": "tatoeba:4193482",
     "id": "son-sont.7"
    },
    {
@@ -14267,9 +14006,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il se dispute tout le temps avec {sont>son} chef.",
-    "e": "« Avec mon chef » : déterminant possessif, « son ».",
-    "src": "tatoeba:393411",
+    "s": "Il s'entend bien avec {sont>son} voisin.",
+    "e": "« Avec mon voisin » : déterminant possessif, « son ».",
     "id": "son-sont.8"
    },
    {
@@ -14353,9 +14091,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Tous les sons {son>sont} des vibrations.",
-    "e": "« Les sons » est le nom ; ensuite « étaient des vibrations » : verbe être, « sont ».",
-    "src": "tatoeba:12495228",
+    "s": "Tous ces sons {son>sont} trop forts.",
+    "e": "« Ces sons » est le nom ; ensuite « étaient trop forts » : verbe être, « sont ».",
     "id": "son-sont.13"
    },
    {
@@ -14372,9 +14109,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Elle gaspille tout {sont>son} argent dans des vêtements.",
+    "s": "Il dépense tout {sont>son} argent en livres.",
     "e": "« Tout mon argent » : déterminant possessif, « son ».",
-    "src": "tatoeba:8517039",
     "id": "son-sont.15"
    },
    {
@@ -14405,9 +14141,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Les conseilleurs ne {son>sont} pas les payeurs.",
-    "e": "« Les conseilleurs n'étaient pas les payeurs » : verbe être, « sont ».",
-    "src": "tatoeba:965276",
+    "s": "Les chemins les plus courts ne {son>sont} pas toujours les meilleurs.",
+    "e": "« Les chemins n'étaient pas les meilleurs » : verbe être, « sont ».",
     "id": "son-sont.18"
    },
    {
@@ -14641,9 +14376,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je me demande si je devrais {peut être>peut-être} y aller.",
+    "s": "Il viendra {peut être>peut-être} demain.",
     "e": "« Sans doute » : adverbe « peut-être », avec un trait d'union.",
-    "src": "tatoeba:4835693",
     "id": "trait-union.1"
    },
    {
@@ -14660,9 +14394,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Mon père étudie l'astronomie, {c'est à dire>c'est-à-dire} la science des étoiles.",
+    "s": "Il est polyglotte, {c'est à dire>c'est-à-dire} qu'il parle plusieurs langues.",
     "e": "« C'est-à-dire » prend deux traits d'union.",
-    "src": "tatoeba:12965460",
     "id": "trait-union.3"
    },
    {
@@ -14670,9 +14403,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{Dis moi>Dis-moi} pourquoi je devrais faire ça.",
+    "s": "{Dis moi>Dis-moi} ce que tu en penses.",
     "e": "Impératif suivi de son pronom : « dis-moi ».",
-    "src": "tatoeba:7763318",
     "id": "trait-union.4"
    },
    {
@@ -14680,9 +14412,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "{Est ce>Est-ce} que c'est ta chanson préférée ?",
+    "s": "{Est ce>Est-ce} que le musée est ouvert ?",
     "e": "Le sujet « ce » est placé après le verbe : « est-ce ».",
-    "src": "tatoeba:138646",
     "id": "trait-union.5"
    },
    {
@@ -14825,9 +14556,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Mais qu'{est ce>est-ce} que ça veut dire ?",
+    "s": "Alors, qu'{est ce>est-ce} que tu en dis ?",
     "e": "Inversion : « est-ce ».",
-    "src": "tatoeba:11485008",
     "id": "trait-union.17"
    },
    {
@@ -14868,9 +14598,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Tu {mange>manges} quoi au petit-déjeuner ?",
+    "s": "Tu {mange>manges} à la cantine ce midi ?",
     "e": "Avec « tu », le verbe se termine par s : « tu manges ».",
-    "src": "tatoeba:8302975",
     "id": "tu-s.1"
    },
    {
@@ -14878,9 +14607,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Tu {pense>penses} encore à quitter ton travail ?",
+    "s": "Tu {pense>penses} à acheter du pain ?",
     "e": "Avec « tu » : « tu penses ».",
-    "src": "tatoeba:10487099",
     "id": "tu-s.2"
    },
    {
@@ -14888,9 +14616,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Est-ce que tu {aime>aimes} la cuisine ?",
+    "s": "Est-ce que tu {aime>aimes} le chocolat ?",
     "e": "Avec « tu » : « tu aimes ».",
-    "src": "tatoeba:12421366",
     "id": "tu-s.3"
    },
    {
@@ -14898,9 +14625,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Tu {sait>sais} conduire une manuelle ?",
+    "s": "Tu {sait>sais} faire du vélo ?",
     "e": "Avec « tu », le verbe savoir s'écrit « tu sais ».",
-    "src": "tatoeba:12476259",
     "id": "tu-s.4"
    },
    {
@@ -14908,9 +14634,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Tu {va>vas} être en retard.",
+    "s": "Tu {va>vas} rater ton bus.",
     "e": "Avec « tu », le verbe aller s'écrit « tu vas ».",
-    "src": "tatoeba:13236582",
     "id": "tu-s.5"
    },
    {
@@ -14918,9 +14643,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Tu {veut>veux} une tranche de pain grillé ?",
+    "s": "Tu {veut>veux} un verre d'eau ?",
     "e": "« Vouloir » fait partie des trois verbes en x : « tu veux ».",
-    "src": "tatoeba:8774303",
     "id": "tu-s.6"
    },
    {
@@ -14928,9 +14652,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Je pensais que tu {était>étais} contre cette proposition.",
+    "s": "Je croyais que tu {était>étais} malade.",
     "e": "À l'imparfait aussi, « tu » demande un s : « tu étais ».",
-    "src": "tatoeba:2227113",
     "id": "tu-s.7"
    },
    {
@@ -14938,9 +14661,8 @@ window.PLUME_REGLES = [
     "avance": false,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Tu {pourrait>pourrais} faire des efforts.",
+    "s": "Tu {pourrait>pourrais} m'aider à porter ça ?",
     "e": "Au conditionnel, « tu » demande un s : « tu pourrais ».",
-    "src": "tatoeba:11214607",
     "id": "tu-s.8"
    },
    {
@@ -15010,9 +14732,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Avec un peu plus de patience, tu {pourrait>pourrais} réussir.",
+    "s": "Avec un peu d'entraînement, tu {pourrait>pourrais} gagner.",
     "e": "Au conditionnel : « tu pourrais ».",
-    "src": "tatoeba:1680532",
     "id": "tu-s.12"
    },
    {
@@ -15020,9 +14741,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "L'homme que tu {cherche>cherches} vient vers nous.",
-    "e": "Le sujet de « cherches » est « tu » (et non « l'homme ») : « tu cherches ».",
-    "src": "tatoeba:12135964",
+    "s": "Le livre que tu {cherche>cherches} est sur l'étagère.",
+    "e": "Le sujet de « cherches » est « tu » (et non « le livre ») : « tu cherches ».",
     "id": "tu-s.13"
    },
    {
@@ -15030,9 +14750,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il faut que tu {mange>manges}.",
-    "e": "Au subjonctif aussi, « tu » demande un s : « que tu manges ».",
-    "src": "tatoeba:4594499",
+    "s": "Il faut que tu {dorme>dormes}.",
+    "e": "Au subjonctif aussi, « tu » demande un s : « que tu dormes ».",
     "id": "tu-s.14"
    },
    {

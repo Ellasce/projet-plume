@@ -48,32 +48,26 @@ Niveau : collège.
 
 ## Exercices essentiels
 
-1. Je sais que tu le vois, [mes → mais] le regardes-tu vraiment ?
+1. Je l'ai invité, [mes → mais] il n'est pas venu.
    Pourquoi : Opposition, on peut dire « pourtant » : « mais ».
-   Source : Tatoeba n° 1309606
 
-2. L'argent ne fait pas le bonheur, [mes → mais] il y contribue.
+2. Ce pull est joli, [mes → mais] il est trop petit.
    Pourquoi : Opposition, on peut dire « cependant » : « mais ».
-   Source : Tatoeba n° 10490514
 
-3. Il [mes → met] trop de sucre dans son thé.
+3. Il [mes → met] du beurre sur ses tartines.
    Pourquoi : Verbe mettre, « il mettait » : « il met ».
-   Source : Tatoeba n° 2295992
 
-4. Je [mais → mets] toutes mes recettes en ligne sur mon blog.
+4. Je [mais → mets] toujours mes clés dans ce bol.
    Pourquoi : Verbe mettre, « je mettais » : « je mets », avec un s.
-   Source : Tatoeba n° 10270518
 
-5. Ne [mais → mets] rien sur la boîte.
+5. Ne [mais → mets] pas tes pieds sur le canapé.
    Pourquoi : Verbe mettre à l'impératif : « mets ».
-   Source : Tatoeba n° 5923176
 
 6. J'ai oublié [mais → mes] clés chez toi.
    Pourquoi : Les clés qui sont à moi, « tes clés » : « mes ».
 
-7. Cet homme se [mes → met] souvent en colère.
+7. Mon père se [mes → met] à courir chaque matin.
    Pourquoi : Verbe se mettre, « il se mettait » : « il se met ».
-   Source : Tatoeba n° 12587074
 
 8. Je téléphone à [mais → mes] parents tous les dimanches.
    Pourquoi : Les parents qui sont à moi, « tes parents » : « mes ».

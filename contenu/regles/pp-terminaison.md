@@ -44,37 +44,29 @@ Le participe passé se termine souvent par une **lettre muette** : pris, mis, di
 
 ## Exercices essentiels
 
-1. Il a [prit → pris] notre argent.
+1. Il a [prit → pris] le dernier bus.
    Pourquoi : Une chose « prise » : le participe s'écrit « pris ».
-   Source : Tatoeba n° 13842022
 
-2. J'ai [finit → fini] d'écrire une lettre en anglais.
+2. J'ai [finit → fini] mon puzzle.
    Pourquoi : Une tâche « finie » : pas de consonne, « fini ».
-   Source : Tatoeba n° 6794
 
-3. Vous avez [dis → dit] que vous n'aviez pas compris.
+3. Tu as [dis → dit] la vérité.
    Pourquoi : Une chose « dite » : « dit ».
-   Source : Tatoeba n° 2285536
 
-4. Il a [mit → mis] un timbre sur la lettre.
+4. Elle a [mit → mis] son manteau rouge.
    Pourquoi : Une chose « mise » : « mis ».
-   Source : Tatoeba n° 132539
 
-5. Elles ont [écris → écrit] des romans.
-   Pourquoi : Une lettre « écrite » : « écrit ».
-   Source : Tatoeba n° 12942715
+5. Ils ont [écris → écrit] une chanson.
+   Pourquoi : Une chanson « écrite » : « écrit ».
 
-6. Nous avons [finit → fini] de nettoyer notre salle de classe.
+6. Nous avons [finit → fini] de ranger le garage.
    Pourquoi : Une tâche « finie » : « fini ».
-   Source : Tatoeba n° 4294402
 
-7. J'ai [comprit → compris] que quelque chose n'allait pas.
+7. J'ai enfin [comprit → compris] l'exercice.
    Pourquoi : Une chose « comprise » : « compris ».
-   Source : Tatoeba n° 10625141
 
-8. C'est le chemin que j'ai [choisit → choisi].
+8. C'est le gâteau que nous avons [choisit → choisi].
    Pourquoi : Une chose « choisie » : « choisi ».
-   Source : Tatoeba n° 11930767
 
 9. Il a pris son manteau, a dit au revoir et est parti.
    Pourquoi : Correct : « pris » (prise), « dit » (dite), « parti » (partie).
@@ -95,21 +87,17 @@ Le participe passé se termine souvent par une **lettre muette** : pris, mis, di
 
 ## Exercices avancés
 
-12. Venir jusqu'ici n'a [prit → pris] que dix minutes.
+12. Le trajet n'a [prit → pris] qu'un quart d'heure.
     Pourquoi : Après « avoir », le participe : « pris ».
-    Source : Tatoeba n° 1248185
 
-13. J'ai [réussit → réussi] à atteindre le sommet de la montagne.
+13. J'ai [réussit → réussi] mon permis de conduire.
     Pourquoi : Une chose « réussie » : « réussi ».
-    Source : Tatoeba n° 6350
 
-14. Tu as [conduis → conduit] cette voiture pendant dix ans.
+14. Tu as [conduis → conduit] toute la nuit.
     Pourquoi : Une voiture « conduite » : « conduit ».
-    Source : Tatoeba n° 4601735
 
-15. Elle m'a [permit → permis] d'aller là-bas.
+15. Ses parents lui ont [permit → permis] de sortir.
     Pourquoi : Une chose « permise » : « permis ».
-    Source : Tatoeba n° 13914577
 
 16. Le service est [inclu → inclus] dans le prix.
     Pourquoi : Une boisson « incluse » : « inclus ».
@@ -121,6 +109,5 @@ Le participe passé se termine souvent par une **lettre muette** : pris, mis, di
     Choix : **lu** / lut / lus
     Pourquoi : Une chose « lue » : « lu ».
 
-19. Pourrais-tu me répéter où tu as [mit → mis] la clé ?
+19. Où as-tu [mit → mis] mes lunettes ?
     Pourquoi : Une chose « mise » : « mis ».
-    Source : Tatoeba n° 1393174

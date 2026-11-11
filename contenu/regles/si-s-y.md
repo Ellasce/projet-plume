@@ -48,29 +48,23 @@ Niveau : collège.
 
 ## Exercices essentiels
 
-1. Elle [si → s'y] rendra à vélo.
+1. Elle [si → s'y] rendra en train.
    Pourquoi : « Je m'y rendrai » : se + y, « s'y ».
-   Source : Tatoeba n° 8693186
 
-2. Il [si → s'y] est aventuré seul.
-   Pourquoi : « Je m'y suis aventuré » : « s'y ».
-   Source : Tatoeba n° 8676842
+2. Il [si → s'y] est installé l'été dernier.
+   Pourquoi : « Je m'y suis installé » : « s'y ».
 
-3. Ils ne savent pas [si → s'y] prendre.
+3. Ils ne savent pas [si → s'y] prendre avec les enfants.
    Pourquoi : « Je ne sais pas m'y prendre » : « s'y ».
-   Source : Tatoeba n° 9466762
 
-4. Il a décidé de ne pas [si → s'y] rendre.
-   Pourquoi : « J'ai décidé de ne pas m'y rendre » : « s'y ».
-   Source : Tatoeba n° 1921030
+4. Elle a décidé de ne pas [si → s'y] inscrire.
+   Pourquoi : « J'ai décidé de ne pas m'y inscrire » : « s'y ».
 
-5. [S'y → Si] on mélange du bleu et du rouge, on obtient du violet.
+5. [S'y → Si] on chauffe la glace, elle fond.
    Pourquoi : Condition, on ne peut pas dire « m'y » : « si ».
-   Source : Tatoeba n° 2382243
 
-6. [S'y → Si] j'étais riche, j'irais à l'étranger.
+6. [S'y → Si] j'avais un jardin, j'y planterais des fleurs.
    Pourquoi : Condition : « si ».
-   Source : Tatoeba n° 416899
 
 7. Prends celui-[si → ci], il est plus solide.
    Pourquoi : « Celui-ci » = celui qui est ici : « ci ».
@@ -119,6 +113,5 @@ Niveau : collège.
     Choix : **s'y** / si / ci
     Pourquoi : « Je m'y promène » : « s'y ».
 
-19. Il oublia sa promesse de [si → s'y] rendre.
-    Pourquoi : « Ma promesse de m'y rendre » : « s'y ».
-    Source : Tatoeba n° 1015418
+19. Il a promis de [si → s'y] rendre demain.
+    Pourquoi : « J'ai promis de m'y rendre » : « s'y ».

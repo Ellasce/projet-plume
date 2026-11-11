@@ -21,7 +21,7 @@ Sans compte GitHub, vous pouvez écrire à **projet-plume@proton.me**.
 
 Quelques principes :
 - **une seule bonne réponse** par exercice, sans ambiguïté ;
-- des phrases naturelles, de préférence **réelles** (Tatoeba, avec son numéro) ;
+- des phrases naturelles, **écrites par vous** ;
 - **rien de copié** d'ouvrages, de sites ou de manuels protégés : seulement des sources sous licence libre (voir [SOURCES.md](SOURCES.md)) ou vos propres phrases.
 
 ## Modifier les fichiers directement

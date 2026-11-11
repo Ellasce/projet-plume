@@ -57,7 +57,7 @@ window.PLUME_PAGES = {
 <ul>
 <li>Code du site : <a href="/COPYING">GNU GPL version 3</a> ou ultérieure.</li>
 <li>Fiches, explications et exercices rédigés pour le projet : Creative Commons BY-SA 4.0.</li>
-<li>Phrases issues de Tatoeba : CC BY 2.0 FR. Phrases issues de LanguageTool : LGPL 2.1 ou ultérieure. Conjugaisons vérifiées avec Verbiste (Pierre Sarrazin) : GPL 2 ou ultérieure. Chaque exercice repris indique sa source sous la correction.</li>
+<li>Les phrases d'exercice sont écrites pour le projet. Phrases issues de LanguageTool : LGPL 2.1 ou ultérieure. Conjugaisons vérifiées avec Verbiste (Pierre Sarrazin) : GPL 2 ou ultérieure. Chaque exercice repris indique sa source sous la correction.</li>
 </ul>
 <p>Seules des ressources sous licence libre sont utilisées. La terminologie suit le document officiel <em>Grammaire du français — Terminologie grammaticale</em> (Éduscol, 2020). Les rectifications orthographiques de 1990 sont acceptées.</p>
 

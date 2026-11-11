@@ -46,29 +46,23 @@ Niveau : lycée.
 
 ## Exercices essentiels
 
-1. Ne m'appelez pas [quant → quand] je suis au bureau.
-   Pourquoi : « Lorsque je suis au bureau » : le temps, « quand ».
-   Source : Tatoeba n° 8065
+1. Appelle-moi [quant → quand] tu seras rentré.
+   Pourquoi : « Lorsque tu seras rentré » : le temps, « quand ».
 
-2. [Quant → Quand] tu reviendras, je ne serai plus là.
-   Pourquoi : « Lorsque tu reviendras » : le temps, « quand ».
-   Source : Tatoeba n° 590114
+2. [Quant → Quand] il pleut, je prends le bus.
+   Pourquoi : « Lorsqu'il pleut » : le temps, « quand ».
 
-3. Je ne sais pas [quant → quand] je ferai ça.
-   Pourquoi : « À quel moment je ferai ça » : le temps, « quand ».
-   Source : Tatoeba n° 8377736
+3. Je ne sais pas [quant → quand] il reviendra.
+   Pourquoi : « À quel moment il reviendra » : le temps, « quand ».
 
-4. [Quand → Quant] à moi, je veux recommencer.
-   Pourquoi : « En ce qui me concerne » : « quant à ».
-   Source : Tatoeba n° 2470710
+4. [Quand → Quant] à toi, tu restes ici.
+   Pourquoi : « En ce qui te concerne » : « quant à ».
 
-5. Quelle est votre théorie [quand → quant] à ce qui est arrivé ?
-   Pourquoi : « Au sujet de ce qui est arrivé » : « quant à ».
-   Source : Tatoeba n° 4134384
+5. Il hésite [quand → quant] à son choix.
+   Pourquoi : « Au sujet de son choix » : « quant à ».
 
-6. [Quant → Quand] c'est non, c'est non.
-   Pourquoi : « Lorsque c'est non » : le temps, « quand ».
-   Source : Tatoeba n° 5365364
+6. [Quant → Quand] on veut, on peut.
+   Pourquoi : « Lorsqu'on veut » : « quand ».
 
 7. [Quand → Quant] aux résultats, ils seront publiés lundi.
    Pourquoi : « En ce qui concerne les résultats » : « quant aux ».
@@ -99,17 +93,14 @@ Niveau : lycée.
 
 ## Exercices avancés
 
-13. Tu ne trouveras la paix [quand → qu'en] toi.
-    Pourquoi : « Ne… que » (seulement) + « en toi » : « qu'en ».
-    Source : Tatoeba n° 428798
+13. Il n'a confiance [quand → qu'en] lui-même.
+    Pourquoi : « Ne… que » (seulement) + « en lui-même » : « qu'en ».
 
-14. On ne triomphe de la nature [quand → qu'en] lui obéissant.
-    Pourquoi : « Ne… que » (seulement) + « en lui obéissant » : « qu'en ».
-    Source : Tatoeba n° 6297451
+14. On n'apprend à nager [quand → qu'en] nageant.
+    Pourquoi : « Ne… que » (seulement) + « en nageant » : « qu'en ».
 
-15. Et d'abord, [quand → qu'en] sais-tu ?
-    Pourquoi : « Que sais-tu de cela ? » : « que » + « en », « qu'en ».
-    Source : Tatoeba n° 2306695
+15. Et toi, [quand → qu'en] penses-tu ?
+    Pourquoi : « Que penses-tu de cela ? » : « que » + « en », « qu'en ».
 
 16. [Quand → Qu'en] pensez-vous ?
     Pourquoi : « Que pensez-vous de cela ? » : « qu'en ».
@@ -124,6 +115,5 @@ Niveau : lycée.
     Choix : quand / quant / **qu'en**
     Pourquoi : « Il ne voyage que… en train » (seulement en train) : « qu'en ».
 
-20. Il me disait [quand → qu'en] juin, il irait en France.
-    Pourquoi : « Il me disait que, en juin, il irait… » : « que » + « en », « qu'en ».
-    Source : Tatoeba n° 2182265
+20. Il m'a dit [quand → qu'en] mai, il déménagerait.
+    Pourquoi : « Il m'a dit que, en mai, il déménagerait » : « que » + « en », « qu'en ».

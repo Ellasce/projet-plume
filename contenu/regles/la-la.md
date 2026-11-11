@@ -47,40 +47,32 @@ Niveau : collège.
 
 ## Exercices essentiels
 
-1. Regarde-nous, on est [la → là] !
-   Pourquoi : « On est ici » : adverbe de lieu, « là ».
-   Source : Tatoeba n° 12613170
+1. Viens vite, ils sont [la → là] !
+   Pourquoi : « Ils sont ici » : adverbe de lieu, « là ».
 
-2. Je suis encore [la → là] et je ne m'en vais pas.
-   Pourquoi : « Je suis encore ici » : adverbe de lieu, « là ».
-   Source : Tatoeba n° 3586604
+2. Je reste [la → là] jusqu'à ton retour.
+   Pourquoi : « Je reste ici » : adverbe de lieu, « là ».
 
-3. Ne restez pas assis [la → là] comme ça !
-   Pourquoi : « Ne restez pas assis ici » : adverbe de lieu, « là ».
-   Source : Tatoeba n° 10536196
+3. Ne restez pas debout [la → là] sans rien faire !
+   Pourquoi : « Ne restez pas debout ici » : adverbe de lieu, « là ».
 
-4. Elle [la → l'a] attachée à la chaise.
-   Pourquoi : « Elle l'avait attachée » : pronom + verbe avoir, « l'a ».
-   Source : Tatoeba n° 10233222
+4. Elle [la → l'a] rangée dans le tiroir.
+   Pourquoi : « Elle l'avait rangée » : pronom + verbe avoir, « l'a ».
 
-5. Il ne [la → l'a] même pas fermé.
-   Pourquoi : « Il ne l'avait même pas fermé » : pronom + verbe avoir, « l'a ».
-   Source : Tatoeba n° 2066151
+5. Il ne [la → l'a] même pas ouvert.
+   Pourquoi : « Il ne l'avait même pas ouvert » : pronom + verbe avoir, « l'a ».
 
-6. Le docteur [là → l'a] guérie de sa maladie.
-   Pourquoi : « Le docteur l'avait guérie » : pronom + verbe avoir, « l'a ».
-   Source : Tatoeba n° 335700
+6. Le vétérinaire [là → l'a] soignée rapidement.
+   Pourquoi : « Le vétérinaire l'avait soignée » : pronom + verbe avoir, « l'a ».
 
 7. Ferme [là → la] porte, s'il te plaît.
    Pourquoi : Devant un nom : déterminant « la » (comme « le » portail).
 
-8. Elle [là → l'a] fait paraître facile.
-   Pourquoi : « Elle l'avait fait paraître facile » : « l'a ».
-   Source : Tatoeba n° 4765644
+8. Mon oncle [là → l'a] fait réparer.
+   Pourquoi : « Mon oncle l'avait fait réparer » : « l'a ».
 
-9. À quelle heure devriez-vous être [la → là] ?
+9. À quelle heure dois-tu être [la → là] ?
    Pourquoi : « Être ici » : adverbe de lieu, « là ».
-   Source : Tatoeba n° 13642139
 
 10. La voisine l'a vu là-bas.
     Pourquoi : Correct : « la voisine » (déterminant), « l'avait vu » (verbe avoir), « là-bas » (lieu).
@@ -105,13 +97,11 @@ Niveau : collège.
 
 ## Exercices avancés
 
-14. Ils n'ont pas été [la → là] pour nous.
+14. Mes amis ont toujours été [la → là] pour moi.
     Pourquoi : « Être là pour quelqu'un » : adverbe de lieu (être présent), « là ».
-    Source : Tatoeba n° 13518015
 
-15. Elle ne [la → l'a] pas bien reçu.
-    Pourquoi : « Elle ne l'avait pas bien reçu » : « l'a ».
-    Source : Tatoeba n° 13631507
+15. Il ne [la → l'a] pas encore lu.
+    Pourquoi : « Il ne l'avait pas encore lu » : « l'a ».
 
 16. Tu [la → l'as] déjà rencontrée ?
     Pourquoi : « Tu l'avais déjà rencontrée » : verbe avoir. Avec « tu », il s'écrit « as ».
@@ -129,6 +119,5 @@ Niveau : collège.
     Choix : **las** / la / là
     Pourquoi : « Las » signifie fatigué : il est las (elle est lasse).
 
-21. Qu'est-ce que vous me chantez [la → là] ?
+21. Qu'est-ce que tu racontes [la → là] ?
     Pourquoi : « Là » renforce la question ; ce n'est ni un déterminant ni le verbe avoir.
-    Source : Tatoeba n° 10507834

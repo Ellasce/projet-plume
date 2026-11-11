@@ -45,37 +45,29 @@ Trois verbes prennent un **x** : **tu peux, tu veux, tu vaux**.
 
 ## Exercices essentiels
 
-1. Tu [mange → manges] quoi au petit-déjeuner ?
+1. Tu [mange → manges] à la cantine ce midi ?
    Pourquoi : Avec « tu », le verbe se termine par s : « tu manges ».
-   Source : Tatoeba n° 8302975
 
-2. Tu [pense → penses] encore à quitter ton travail ?
+2. Tu [pense → penses] à acheter du pain ?
    Pourquoi : Avec « tu » : « tu penses ».
-   Source : Tatoeba n° 10487099
 
-3. Est-ce que tu [aime → aimes] la cuisine ?
+3. Est-ce que tu [aime → aimes] le chocolat ?
    Pourquoi : Avec « tu » : « tu aimes ».
-   Source : Tatoeba n° 12421366
 
-4. Tu [sait → sais] conduire une manuelle ?
+4. Tu [sait → sais] faire du vélo ?
    Pourquoi : Avec « tu », le verbe savoir s'écrit « tu sais ».
-   Source : Tatoeba n° 12476259
 
-5. Tu [va → vas] être en retard.
+5. Tu [va → vas] rater ton bus.
    Pourquoi : Avec « tu », le verbe aller s'écrit « tu vas ».
-   Source : Tatoeba n° 13236582
 
-6. Tu [veut → veux] une tranche de pain grillé ?
+6. Tu [veut → veux] un verre d'eau ?
    Pourquoi : « Vouloir » fait partie des trois verbes en x : « tu veux ».
-   Source : Tatoeba n° 8774303
 
-7. Je pensais que tu [était → étais] contre cette proposition.
+7. Je croyais que tu [était → étais] malade.
    Pourquoi : À l'imparfait aussi, « tu » demande un s : « tu étais ».
-   Source : Tatoeba n° 2227113
 
-8. Tu [pourrait → pourrais] faire des efforts.
+8. Tu [pourrait → pourrais] m'aider à porter ça ?
    Pourquoi : Au conditionnel, « tu » demande un s : « tu pourrais ».
-   Source : Tatoeba n° 11214607
 
 9. Tu chantes, tu danses et tu ris toute la journée.
    Pourquoi : Correct : chaque verbe conjugué avec « tu » se termine par s.
@@ -96,17 +88,14 @@ Trois verbes prennent un **x** : **tu peux, tu veux, tu vaux**.
 
 ## Exercices avancés
 
-12. Avec un peu plus de patience, tu [pourrait → pourrais] réussir.
+12. Avec un peu d'entraînement, tu [pourrait → pourrais] gagner.
     Pourquoi : Au conditionnel : « tu pourrais ».
-    Source : Tatoeba n° 1680532
 
-13. L'homme que tu [cherche → cherches] vient vers nous.
-    Pourquoi : Le sujet de « cherches » est « tu » (et non « l'homme ») : « tu cherches ».
-    Source : Tatoeba n° 12135964
+13. Le livre que tu [cherche → cherches] est sur l'étagère.
+    Pourquoi : Le sujet de « cherches » est « tu » (et non « le livre ») : « tu cherches ».
 
-14. Il faut que tu [mange → manges].
-    Pourquoi : Au subjonctif aussi, « tu » demande un s : « que tu manges ».
-    Source : Tatoeba n° 4594499
+14. Il faut que tu [dorme → dormes].
+    Pourquoi : Au subjonctif aussi, « tu » demande un s : « que tu dormes ».
 
 15. Que [veut → veux]-tu faire ce soir ?
     Pourquoi : Le sujet « tu » est placé après le verbe : « veux-tu ».

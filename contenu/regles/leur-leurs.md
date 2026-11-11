@@ -47,29 +47,23 @@ Niveau : collège.
 
 ## Exercices essentiels
 
-1. Nous [leurs → leur] avons donné de l'argent et des vêtements.
-   Pourquoi : Devant le verbe (nous lui avons donné) : pronom, jamais de s.
-   Source : Tatoeba n° 2826455
+1. Nous [leurs → leur] avons prêté nos vélos.
+   Pourquoi : Devant le verbe (nous lui avons prêté) : pronom, jamais de s.
 
-2. Je [leurs → leur] ai tout raconté.
-   Pourquoi : « Je lui ai tout raconté » : pronom devant le verbe, « leur ».
-   Source : Tatoeba n° 3691750
+2. Je [leurs → leur] ai expliqué le chemin.
+   Pourquoi : « Je lui ai expliqué » : pronom devant le verbe, « leur ».
 
-3. Il [leurs → leur] a écrit une lettre.
-   Pourquoi : « Il lui a écrit » : pronom devant le verbe, « leur ».
-   Source : Tatoeba n° 7492199
+3. Elle [leurs → leur] a envoyé une carte postale.
+   Pourquoi : « Elle lui a envoyé » : pronom devant le verbe, « leur ».
 
-4. Elles ont oublié d'éteindre [leur → leurs] micros.
-   Pourquoi : Devant le nom « micros », au pluriel : « leurs ».
-   Source : Tatoeba n° 12197723
+4. Ils ont rangé [leur → leurs] jouets.
+   Pourquoi : Devant le nom « jouets », au pluriel : « leurs ».
 
-5. Ils ont gardé [leur → leurs] découvertes secrètes.
-   Pourquoi : Devant le nom « découvertes », au pluriel : « leurs ».
-   Source : Tatoeba n° 11961288
+5. Elles ont rendu [leur → leurs] devoirs à temps.
+   Pourquoi : Devant le nom « devoirs », au pluriel : « leurs ».
 
-6. Je ne souligne pas [leur → leurs] erreurs.
-   Pourquoi : Devant le nom « erreurs », au pluriel : « leurs ».
-   Source : Tatoeba n° 1934274
+6. Je corrige [leur → leurs] copies ce soir.
+   Pourquoi : Devant le nom « copies », au pluriel : « leurs ».
 
 7. Les voisins ont repeint [leurs → leur] maison.
    Pourquoi : Devant le nom « maison », au singulier : « leur ».
@@ -100,13 +94,11 @@ Niveau : collège.
 
 ## Exercices avancés
 
-13. Pourquoi ne [leurs → leur] a-t-il pas pardonné ?
-    Pourquoi : « Pourquoi ne lui a-t-il pas pardonné » : pronom devant le verbe, « leur ».
-    Source : Tatoeba n° 12067055
+13. Pourquoi ne [leurs → leur] a-t-elle pas répondu ?
+    Pourquoi : « Pourquoi ne lui a-t-elle pas répondu » : pronom devant le verbe, « leur ».
 
-14. Ils t'ont rendu ce que tu [leurs → leur] as donné.
-    Pourquoi : « Ce que tu lui as donné » : pronom devant le verbe, « leur ».
-    Source : Tatoeba n° 8083983
+14. Rends-moi ce que tu [leurs → leur] as pris.
+    Pourquoi : « Ce que tu lui as pris » : pronom devant le verbe, « leur ».
 
 15. Ces livres sont les [leur → leurs].
     Pourquoi : « Les leurs » remplace plusieurs livres : pronom possessif au pluriel.
@@ -124,6 +116,5 @@ Niveau : collège.
     Choix : **leur** / leurs
     Pourquoi : Elles ont une seule mère : nom au singulier, « leur ».
 
-20. Nombreux sont ceux qui font [leur → leurs] achats ici.
-    Pourquoi : Devant le nom « achats », au pluriel : « leurs ».
-    Source : Tatoeba n° 4579670
+20. Beaucoup de gens font [leur → leurs] courses le samedi.
+    Pourquoi : Devant le nom « courses », au pluriel : « leurs ».

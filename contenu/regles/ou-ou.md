@@ -47,37 +47,29 @@ Niveau : collège.
 
 ## Exercices essentiels
 
-1. Je te suivrai partout [ou → où] tu iras.
-   Pourquoi : « Partout ou bien tu iras » ne veut rien dire : c'est le lieu, « où ».
-   Source : Tatoeba n° 338026
+1. Je t'attendrai là [ou → où] tu voudras.
+   Pourquoi : « Là ou bien tu voudras » ne veut rien dire : c'est le lieu, « où ».
 
-2. Je peux me cacher n'importe [ou → où].
+2. On peut s'asseoir n'importe [ou → où].
    Pourquoi : « N'importe où » indique un lieu : « où ».
-   Source : Tatoeba n° 1786620
 
-3. J'ai enfin trouvé un lieu [ou → où] nous pouvons être seuls.
-   Pourquoi : « Un lieu où… » : pronom relatif de lieu, « où ».
-   Source : Tatoeba n° 5801846
+3. C'est la ville [ou → où] j'ai grandi.
+   Pourquoi : « La ville où… » : pronom relatif de lieu, « où ».
 
-4. Dépêchez-vous, [où → ou] vous manquerez le train.
-   Pourquoi : « Ou bien vous manquerez le train » fonctionne : « ou ».
-   Source : Tatoeba n° 9271
+4. Habille-toi, [où → ou] tu vas être en retard.
+   Pourquoi : « Ou bien tu vas être en retard » fonctionne : « ou ».
 
-5. À la bouteille [où → ou] au verre ?
-   Pourquoi : « À la bouteille ou bien au verre » : un choix, « ou ».
-   Source : Tatoeba n° 13342
+5. Tu veux de l'eau [où → ou] du jus ?
+   Pourquoi : « De l'eau ou bien du jus » : un choix, « ou ».
 
-6. Es-tu pour [où → ou] contre notre plan ?
-   Pourquoi : « Pour ou bien contre » : un choix, « ou ».
-   Source : Tatoeba n° 8977
+6. Tu préfères la mer [où → ou] la montagne ?
+   Pourquoi : « La mer ou bien la montagne » : un choix, « ou ».
 
-7. La plupart des Suisses parlent deux [où → ou] trois langues.
-   Pourquoi : « Deux ou bien trois langues » : « ou ».
-   Source : Tatoeba n° 428964
+7. Il faut deux [où → ou] trois œufs pour ce gâteau.
+   Pourquoi : « Deux ou bien trois œufs » : « ou ».
 
-8. Pourriez-vous me montrer [ou → où] il a été trouvé ?
+8. Peux-tu me dire [ou → où] tu as garé la voiture ?
    Pourquoi : On demande un lieu (à quel endroit) : « où ».
-   Source : Tatoeba n° 12858738
 
 9. Où veux-tu aller : à la mer ou à la montagne ?
    Pourquoi : Correct : « où » demande le lieu ; « ou » propose un choix (ou bien à la montagne).
@@ -102,17 +94,14 @@ Niveau : collège.
 
 ## Exercices avancés
 
-13. Il y a quelques points [ou → où] tu te trompes.
-    Pourquoi : « Des points où… » (sur lesquels) : pronom relatif, « où ».
-    Source : Tatoeba n° 119846
+13. Il y a des jours [ou → où] tout va mal.
+    Pourquoi : « Des jours où… » (pendant lesquels) : pronom relatif, « où ».
 
-14. Nous n'allons pas là [ou → où] nous voulons.
+14. Pose ce carton là [ou → où] il y a de la place.
     Pourquoi : « Là où » indique un lieu : « où ».
-    Source : Tatoeba n° 12367423
 
-15. Vous devez prendre ce médicament, que vous le vouliez [où → ou] non.
-    Pourquoi : « Que vous le vouliez ou bien non » : « ou ».
-    Source : Tatoeba n° 1174514
+15. Il faudra y aller, que tu le veuilles [où → ou] non.
+    Pourquoi : « Que tu le veuilles ou bien non » : « ou ».
 
 16. Au moment [ou → où] il est entré, tout le monde s'est tu.
     Pourquoi : « Au moment où » indique le temps : « où ».
@@ -120,9 +109,8 @@ Niveau : collège.
 17. D'[ou → où] vient ce bruit ?
     Pourquoi : « D'où » (de quel endroit) : le lieu, « où ».
 
-18. Il lui a demandé par [ou → où] commencer.
+18. Elle ne savait pas par [ou → où] commencer.
     Pourquoi : « Par où » (par quel endroit) : « où ».
-    Source : Tatoeba n° 13845418
 
 19. Le jour où tu viendras, préviens-moi un jour ou deux avant.
     Pourquoi : Correct : « le jour où » (le moment), puis « un jour ou bien deux » (un choix).

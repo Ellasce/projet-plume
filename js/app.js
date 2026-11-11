@@ -1299,16 +1299,12 @@
     panneau.querySelector('[data-action="suivant"]').focus();
   }
 
-  // Mention de la source sous la correction (obligation des licences CC BY, GPL, LGPL).
+  // Mention de la source sous la correction (obligation des licences GPL et LGPL).
   function creditSource(src) {
     if (!src) return "";
     var texte;
     if (src === "verbiste") texte = "Conjugaison : Verbiste, de Pierre Sarrazin (licence GPL).";
-    else if (/^tatoeba:\d+$/.test(src)) {
-      var n = src.slice(8);
-      texte = 'Phrase d\'origine : <a href="https://tatoeba.org/fr/sentences/show/' + n + '" target="_blank" rel="noopener">Tatoeba n° ' + n + "</a> (licence CC BY 2.0 FR), modifiée pour l'exercice.";
-      return '<p class="source">' + texte + "</p>";
-    } else texte = "Phrase issue de LanguageTool (licence LGPL).";
+    else texte = "Phrase issue de LanguageTool (licence LGPL).";
     return '<p class="source">' + esc(texte) + "</p>";
   }
 

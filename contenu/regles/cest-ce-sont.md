@@ -47,21 +47,17 @@ Niveau : lycée.
 
 ## Exercices essentiels
 
-1. [C'est → Ce sont] vos enfants ?
-   Pourquoi : Devant un pluriel (vos enfants), à l'écrit : « ce sont ».
-   Source : Tatoeba n° 7761124
+1. [C'est → Ce sont] tes chaussures ?
+   Pourquoi : Devant un pluriel (tes chaussures), à l'écrit : « ce sont ».
 
-2. [C'est → Ce sont] les gens qui habitent à côté.
-   Pourquoi : Devant un pluriel (les gens) : « ce sont ».
-   Source : Tatoeba n° 820357
+2. [C'est → Ce sont] les voisins du dessus.
+   Pourquoi : Devant un pluriel (les voisins) : « ce sont ».
 
-3. [C'est → Ce sont] ses oncles paternels.
-   Pourquoi : Devant un pluriel (ses oncles) : « ce sont ».
-   Source : Tatoeba n° 12650770
+3. [C'est → Ce sont] mes cousins de Bretagne.
+   Pourquoi : Devant un pluriel (mes cousins) : « ce sont ».
 
-4. [C'est → Ce sont] les meilleures amies.
+4. [C'est → Ce sont] les plus belles roses du jardin.
    Pourquoi : Devant un pluriel : « ce sont ».
-   Source : Tatoeba n° 9159557
 
 5. [Ce sont → C'est] mon frère qui a appelé.
    Pourquoi : Devant un singulier (mon frère) : « c'est ».
@@ -94,9 +90,8 @@ Niveau : lycée.
 
 ## Exercices avancés
 
-12. [C'est → Ce sont] les délais de facturation.
+12. [C'est → Ce sont] les horaires d'été.
     Pourquoi : Devant un pluriel : « ce sont ».
-    Source : Tatoeba n° 12044020
 
 13. [Ce sont → C'est] vous qui décidez.
     Pourquoi : Avec « vous », on garde toujours « c'est ».
@@ -114,9 +109,8 @@ Niveau : lycée.
     Choix : C'est / **Ce sont**
     Pourquoi : Avec « elles », on écrit « ce sont ».
 
-18. [C'est → Ce sont] les personnes qui ont assisté à l'explosion.
-    Pourquoi : Devant un pluriel (les personnes) : « ce sont ».
-    Source : Tatoeba n° 1982645
+18. [C'est → Ce sont] les élèves qui ont gagné le concours.
+    Pourquoi : Devant un pluriel (les élèves) : « ce sont ».
 
 19. Si tu venais, [ce serait → ce seraient] de vraies vacances.
     Pourquoi : Devant un pluriel, au conditionnel : « ce seraient ».

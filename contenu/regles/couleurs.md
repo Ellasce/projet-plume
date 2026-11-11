@@ -44,13 +44,11 @@ Niveau : lycée.
 
 ## Exercices essentiels
 
-1. Elle a des yeux [marrons → marron].
+1. Il porte des chaussures [marrons → marron].
    Pourquoi : « Marron » est un nom (la couleur du marron) : invariable.
-   Source : Tatoeba n° 7723517
 
-2. Maria a de longs cheveux noirs et les yeux [marrons → marron].
+2. Sophie a des cheveux noirs et des yeux [marrons → marron].
    Pourquoi : « Marron » est un nom employé comme couleur : invariable. « Noirs », adjectif simple, s'accorde.
-   Source : Tatoeba n° 2518665
 
 3. Les volets de la maison sont [vert → verts].
    Pourquoi : « Vert » est un adjectif simple : il s'accorde avec « volets », « verts ».

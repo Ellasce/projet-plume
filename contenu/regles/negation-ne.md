@@ -46,17 +46,14 @@ Devant une voyelle, **ne** devient **n'** : je **n'**aime pas.
 
 ## Exercices essentiels
 
-1. [Je sais pas → Je ne sais pas] où est l'arrêt d'autobus.
+1. [Je sais pas → Je ne sais pas] quand il rentre.
    Pourquoi : À l'écrit, la négation a deux parties : « ne… pas ».
-   Source : Tatoeba n° 13030631
 
-2. [Personne a → Personne n'a] été assez courageux pour le lui dire.
+2. [Personne a → Personne n'a] répondu à mon message.
    Pourquoi : « Personne » en début de phrase demande aussi « ne » : « personne n'a ».
-   Source : Tatoeba n° 8583199
 
-3. [Rien est → Rien n'est] plus méprisable qu'un respect basé sur la crainte.
+3. [Rien est → Rien n'est] plus agréable qu'une sieste.
    Pourquoi : « Rien » en début de phrase demande « ne » : « rien n'est ».
-   Source : Tatoeba n° 2024793
 
 4. Il [vient plus → ne vient plus] nous voir.
    Pourquoi : « Ne… plus » : il faut les deux parties.
@@ -67,16 +64,14 @@ Devant une voyelle, **ne** devient **n'** : je **n'**aime pas.
 6. [Aucun élève a → Aucun élève n'a] répondu à la question.
    Pourquoi : « Aucun » demande aussi « ne » : « aucun élève n'a ».
 
-7. Êtes-vous sûrs que [personne est → personne n'est] blessé ?
+7. Tu es sûr que [personne est → personne n'est] resté dans la salle ?
    Pourquoi : Avec « personne », il faut « ne » : « personne n'est ».
-   Source : Tatoeba n° 8064862
 
 8. [C'est pas → Ce n'est pas] grave.
    Pourquoi : À l'écrit : « ce n'est pas ».
 
-9. Je ne sais pas ce que demain m'apportera.
+9. Je ne sais pas ce que nous ferons demain.
    Pourquoi : Correct : la négation a ses deux parties, « ne… pas ».
-   Source : Tatoeba n° 10498076
 
 10. Il ___ mange jamais de viande.
     Choix : **ne** / n'

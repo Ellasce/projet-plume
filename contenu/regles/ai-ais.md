@@ -44,21 +44,17 @@ Avec **je**, plusieurs temps se terminent par un son proche : **-ai** ou **-ais*
 
 ## Exercices essentiels
 
-1. Je [jouai → jouais] souvent au tennis avec lui.
-   Pourquoi : « Il jouait souvent » : imparfait d'habitude, « je jouais ».
-   Source : Tatoeba n° 7701856
+1. Enfant, je [jouai → jouais] tous les jours dans la cour.
+   Pourquoi : « Il jouait tous les jours » : imparfait d'habitude, « je jouais ».
 
-2. Je [connai → connais] la personne, mais son nom m'échappe.
+2. Je [connai → connais] bien ce quartier.
    Pourquoi : « Il connaît » : présent du verbe connaître, « je connais ».
-   Source : Tatoeba n° 13469772
 
-3. Je n'arrive pas à croire que [j'ais → j'ai] gagné.
+3. Je suis content que [j'ais → j'ai] réussi.
    Pourquoi : Verbe avoir : « j'ai ». « J'ais » n'existe pas.
-   Source : Tatoeba n° 1951178
 
-4. [J'ais → J'ai] proposé de commencer de bonne heure.
-   Pourquoi : Verbe avoir (il a proposé) : « j'ai ».
-   Source : Tatoeba n° 2841591
+4. [J'ais → J'ai] réservé une table pour quatre.
+   Pourquoi : Verbe avoir (il a réservé) : « j'ai ».
 
 5. Quand j'étais petit, je [mangeai → mangeais] beaucoup de bonbons.
    Pourquoi : « Il mangeait » : imparfait, « je mangeais ».
@@ -91,13 +87,11 @@ Avec **je**, plusieurs temps se terminent par un son proche : **-ai** ou **-ais*
 
 ## Exercices avancés
 
-12. Si je découvrais qu'elle me trompait, je [demanderai → demanderais] le divorce.
-    Pourquoi : Si + imparfait → conditionnel (il demanderait) : « je demanderais ».
-    Source : Tatoeba n° 11089231
+12. Si nous avions un chien, je le [promènerai → promènerais] chaque soir.
+    Pourquoi : Si + imparfait → conditionnel (il le promènerait) : « je le promènerais ».
 
-13. Je [mangerai → mangerais] la pomme si j'avais faim.
-    Pourquoi : « Il mangerait » : conditionnel, « je mangerais ».
-    Source : Tatoeba n° 13463234
+13. Je [prendrai → prendrais] un dessert si j'avais encore faim.
+    Pourquoi : « Il prendrait » : conditionnel, « je prendrais ».
 
 14. J'ouvris la porte et j'[entrais → entrai] sans bruit.
     Pourquoi : Récit au passé simple (j'ouvris, il entra) : « j'entrai ».

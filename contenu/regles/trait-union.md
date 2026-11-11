@@ -48,24 +48,20 @@ On met un **trait d'union** :
 
 ## Exercices essentiels
 
-1. Je me demande si je devrais [peut être → peut-être] y aller.
+1. Il viendra [peut être → peut-être] demain.
    Pourquoi : « Sans doute » : adverbe « peut-être », avec un trait d'union.
-   Source : Tatoeba n° 4835693
 
 2. Tu as [peut être → peut-être] raison, mais je ne suis pas d'accord.
    Pourquoi : « Tu as sans doute raison » : « peut-être ».
 
-3. Mon père étudie l'astronomie, [c'est à dire → c'est-à-dire] la science des étoiles.
+3. Il est polyglotte, [c'est à dire → c'est-à-dire] qu'il parle plusieurs langues.
    Pourquoi : « C'est-à-dire » prend deux traits d'union.
-   Source : Tatoeba n° 12965460
 
-4. [Dis moi → Dis-moi] pourquoi je devrais faire ça.
+4. [Dis moi → Dis-moi] ce que tu en penses.
    Pourquoi : Impératif suivi de son pronom : « dis-moi ».
-   Source : Tatoeba n° 7763318
 
-5. [Est ce → Est-ce] que c'est ta chanson préférée ?
+5. [Est ce → Est-ce] que le musée est ouvert ?
    Pourquoi : Le sujet « ce » est placé après le verbe : « est-ce ».
-   Source : Tatoeba n° 138646
 
 6. J'avais [vingt trois → vingt-trois] ans quand j'ai peint cette toile.
    Pourquoi : Nombre composé inférieur à cent : « vingt-trois ».
@@ -111,9 +107,8 @@ On met un **trait d'union** :
 16. Viens me voir demain.
     Pourquoi : Correct : « me » dépend de « voir », pas de « viens » : pas de trait d'union.
 
-17. Mais qu'[est ce → est-ce] que ça veut dire ?
+17. Alors, qu'[est ce → est-ce] que tu en dis ?
     Pourquoi : Inversion : « est-ce ».
-    Source : Tatoeba n° 11485008
 
 18. Après la pluie, un ___ est apparu.
     Choix : arc en ciel / **arc-en-ciel**

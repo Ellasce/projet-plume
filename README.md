@@ -119,7 +119,6 @@ CLAUDE.md                      consignes pour Claude (renvoie vers la procédure
 outils/construire.py           construit contenu/genere/regles.js à partir des .md (et vérifie leur format)
 outils/verifier_contenu.js     vérifie la cohérence de tout le contenu
 outils/appliquer_relectures.py reporte les décisions de la page Relecture dans les .md
-outils/chercher_tatoeba.py     cherche des phrases réelles dans Tatoeba
 outils/extraire_languagetool.py    extrait les phrases d'exemple de LanguageTool (→ outils/lt-candidats.json)
 outils/verbiste/               données de Verbiste (vérification des conjugaisons) et licence
 outils/anciens-identifiants.json   correspondance avec les anciennes versions (progression conservée)
@@ -161,7 +160,7 @@ La liste des règles à créer, par thème et par priorité, est dans [docs/FEUI
 
 ## Puiser de nouvelles phrases
 
-- **Tatoeba** : voir la procédure (outil `chercher_tatoeba.py`).
+- **Phrases originales** : la source principale. On n'utilise que des contenus dont la réutilisation est certaine (voir la procédure).
 - **LanguageTool** : télécharger `grammar.xml` depuis le dépôt de LanguageTool (`languagetool-language-modules/fr/src/main/resources/org/languagetool/rules/fr/grammar.xml`), puis :
   ```bash
   python -I outils/extraire_languagetool.py chemin/grammar.xml outils/lt-candidats.json
@@ -173,6 +172,6 @@ La liste des règles à créer, par thème et par priorité, est dans [docs/FEUI
 
 - Code : **GPL-3.0-or-later**.
 - Contenu rédigé : **CC BY-SA 4.0**.
-- Phrases issues de Tatoeba : **CC BY 2.0 FR** ; de LanguageTool : **LGPL 2.1+** ; formes vérifiées avec Verbiste : **GPL 2+**. Chaque exercice indique sa source.
+- Phrases issues de LanguageTool : **LGPL 2.1+** ; formes vérifiées avec Verbiste : **GPL 2+**. Chaque exercice indique sa source.
 
 Voir [LICENCES.md](LICENCES.md) et [SOURCES.md](SOURCES.md).

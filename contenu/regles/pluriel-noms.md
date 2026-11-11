@@ -47,37 +47,29 @@ Niveau : collège.
 
 ## Exercices essentiels
 
-1. Les [chevals → chevaux] sont des animaux sympathiques.
+1. Les [chevals → chevaux] galopent dans le pré.
    Pourquoi : Les noms en -al font leur pluriel en -aux : un cheval, des chevaux.
-   Source : Tatoeba n° 9159531
 
-2. Où sont les [journals → journaux] ?
+2. Les [journals → journaux] sont sur la table.
    Pourquoi : Les noms en -al font leur pluriel en -aux : un journal, des journaux.
-   Source : Tatoeba n° 7250922
 
-3. Il enferma ses [bijous → bijoux] dans le coffre.
+3. Elle range ses [bijous → bijoux] dans une boîte.
    Pourquoi : « Bijou » fait partie des sept noms en -ou qui prennent un x.
-   Source : Tatoeba n° 181670
 
-4. J'ai mal aux [genous → genoux], je ne peux pas courir.
+4. Il s'est écorché les [genous → genoux] en tombant.
    Pourquoi : « Genou » fait partie des sept noms en -ou qui prennent un x.
-   Source : Tatoeba n° 11497794
 
-5. Les adolescents adorent jouer aux [jeus → jeux] vidéo.
+5. Les enfants inventent de nouveaux [jeus → jeux].
    Pourquoi : Les noms en -eu prennent un x : des jeux.
-   Source : Tatoeba n° 3639483
 
-6. C'est l'un des plus gros [festivaux → festivals] de musique estivaux.
+6. Cet été, nous irons à deux [festivaux → festivals].
    Pourquoi : « Festival » est une exception : il prend un s (des festivals).
-   Source : Tatoeba n° 1270492
 
-7. Les [pneux → pneus] de la voiture étaient couverts de boue séchée.
+7. Il faut vérifier les [pneux → pneus] du vélo.
    Pourquoi : « Pneu » est une exception : il prend un s (des pneus).
-   Source : Tatoeba n° 799829
 
-8. Je ne suis pas intéressé par les [détaux → détails].
+8. Raconte-moi tout, avec les [détaux → détails].
    Pourquoi : « Détail » suit la règle générale des noms en -ail : un s.
-   Source : Tatoeba n° 8379034
 
 9. Ces deux montres ont le même prix.
    Pourquoi : Correct : « prix » se termine par x, il ne change pas.
@@ -98,13 +90,11 @@ Niveau : collège.
 
 ## Exercices avancés
 
-12. Pourriez-vous me donner un devis avant de commencer les [travails → travaux] ?
+12. Les [travails → travaux] de la cuisine dureront un mois.
     Pourquoi : « Travail » est une exception : des travaux.
-    Source : Tatoeba n° 3273827
 
-13. Ils ont ramassé des [caillous → cailloux] pour construire un mur.
+13. Le petit lance des [caillous → cailloux] dans l'eau.
     Pourquoi : « Caillou » fait partie des sept noms en -ou qui prennent un x.
-    Source : Tatoeba n° 12846687
 
 14. Les [vitrails → vitraux] de la cathédrale ont été restaurés.
     Pourquoi : « Vitrail » est une exception en -ail : des vitraux.

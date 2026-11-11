@@ -51,37 +51,29 @@ Couverture : chaque cas a au moins 2 exercices ; ~15 % de phrases correctes.
 
 ## Exercices essentiels
 
-1. Elle [à → a] peur de lui.
-   Pourquoi : « Elle avait peur » : verbe avoir, « a ».
-   Source : Tatoeba n° 9682891
+1. Léa [à → a] froid aux mains.
+   Pourquoi : « Léa avait froid » : verbe avoir, « a ».
 
-2. Elle [à → a] oublié de lui écrire.
-   Pourquoi : « Elle avait oublié » : auxiliaire avoir, « a ».
-   Source : Tatoeba n° 1330162
+2. Mon frère [à → a] perdu son écharpe.
+   Pourquoi : « Mon frère avait perdu » : auxiliaire avoir, « a ».
 
-3. Il n'y [à → a] aucune voiture dans la rue.
-   Pourquoi : « Il n'y avait aucune voiture » : « il y a » contient le verbe avoir.
-   Source : Tatoeba n° 12429750
+3. Il n'y [à → a] plus de pain à la maison.
+   Pourquoi : « Il n'y avait plus de pain » : « il y a » contient le verbe avoir.
 
-4. Ça [à → a] été un désastre complet.
-   Pourquoi : « Ça avait été un désastre » : après « ça », c'est le verbe avoir.
-   Source : Tatoeba n° 1599315
+4. Ça [à → a] coûté bien trop cher.
+   Pourquoi : « Ça avait coûté » : après « ça », c'est le verbe avoir.
 
-5. Je me suis réveillé [a → à] cinq heures du matin.
-   Pourquoi : « Réveillé avait cinq heures » ne veut rien dire : préposition « à » (le moment).
-   Source : Tatoeba n° 1813264
+5. Le cours commence [a → à] huit heures.
+   Pourquoi : « Commence avait huit heures » ne veut rien dire : préposition « à » (le moment).
 
-6. J'ai mal [a → à] la dent de sagesse.
-   Pourquoi : « Mal avait la dent » ne veut rien dire : préposition « à ».
-   Source : Tatoeba n° 13087542
+6. J'ai mal [a → à] la tête depuis ce matin.
+   Pourquoi : « Mal avait la tête » ne veut rien dire : préposition « à ».
 
-7. Nous aimons marcher [a → à] pied.
-   Pourquoi : Expression « à pied » : préposition.
-   Source : Tatoeba n° 13406904
+7. Nous rentrons [a → à] vélo.
+   Pourquoi : Expression « à vélo » : préposition.
 
-8. Mets ces chaussettes dans la machine [a → à] laver.
-   Pourquoi : Une machine à laver : nom + à + infinitif.
-   Source : Tatoeba n° 3856726
+8. Range la brosse [a → à] dents dans le placard.
+   Pourquoi : Une brosse à dents : nom + à + nom, préposition.
 
 9. Tu as vu ? Ça ___ marché du premier coup !
    Choix : **a** / à
@@ -99,77 +91,59 @@ Couverture : chaque cas a au moins 2 exercices ; ~15 % de phrases correctes.
 
 ## Exercices avancés
 
-11. Mon père [à → a] dormi tout le long du film.
-   Pourquoi : « Mon père avait dormi » : auxiliaire avoir, « a ».
-   Source : Tatoeba n° 653798
+11. Ma grand-mère [à → a] tricoté tout l'hiver.
+   Pourquoi : « Ma grand-mère avait tricoté » : auxiliaire avoir, « a ».
 
-12. Ma demande [à → a] été rejetée.
-   Pourquoi : « Ma demande avait été rejetée » : auxiliaire avoir, « a ».
-   Source : Tatoeba n° 12002914
+12. Notre équipe [à → a] été qualifiée.
+   Pourquoi : « Notre équipe avait été qualifiée » : auxiliaire avoir, « a ».
 
-13. L'homme qui [à → a] rédigé cet ouvrage est médecin.
-   Pourquoi : « L'homme qui avait rédigé » : auxiliaire avoir, « a ».
-   Source : Tatoeba n° 1181148
+13. La voisine qui [à → a] peint ce tableau expose demain.
+   Pourquoi : « La voisine qui avait peint » : auxiliaire avoir, « a ».
 
-14. Tout le monde [à → a] des problèmes, pas seulement toi.
-   Pourquoi : « Tout le monde avait des problèmes » : verbe avoir, « a ».
-   Source : Tatoeba n° 12439162
+14. Chacun [à → a] ses habitudes.
+   Pourquoi : « Chacun avait ses habitudes » : verbe avoir, « a ».
 
-15. Je l'ai vu il y [à → a] trois semaines.
-   Pourquoi : « Il y a trois semaines » (il y avait) : verbe avoir, même pour indiquer le temps.
-   Source : Tatoeba n° 5628410
+15. Nous avons déménagé il y [à → a] deux ans.
+   Pourquoi : « Il y a deux ans » (il y avait) : verbe avoir, même pour indiquer le temps.
 
-16. Ça [à → a] l'air vraiment délicieux.
-   Pourquoi : « Ça avait l'air délicieux » : verbe avoir (avoir l'air).
-   Source : Tatoeba n° 10758973
+16. Ce gâteau [à → a] l'air délicieux.
+   Pourquoi : « Ce gâteau avait l'air délicieux » : verbe avoir (avoir l'air).
 
-17. Combien y [à → a]-t-il d'œufs dans la cuisine ?
+17. Combien y [à → a]-t-il de chaises dans la salle ?
    Pourquoi : « Combien y avait-il » : verbe avoir dans une question, « a-t-il ».
-   Source : Tatoeba n° 341876
 
-18. J'ai appris [a → à] leur faire confiance.
-   Pourquoi : Apprendre à faire quelque chose : préposition « à » devant l'infinitif.
-   Source : Tatoeba n° 6116067
+18. Il a commencé [a → à] jouer du piano.
+   Pourquoi : Commencer à faire quelque chose : préposition « à » devant l'infinitif.
 
-19. Je suis invitée [a → à] la fête de Tom ce soir.
-   Pourquoi : Invitée à quelque chose : préposition « à ».
-   Source : Tatoeba n° 5306774
+19. Nous sommes invités [a → à] un mariage samedi.
+   Pourquoi : Invités à quelque chose : préposition « à ».
 
-20. Nous n'avons pas de temps [a → à] perdre.
-   Pourquoi : Nom + à + infinitif (du temps à perdre) : préposition.
-   Source : Tatoeba n° 976810
+20. J'ai encore trois exercices [a → à] finir.
+   Pourquoi : Nom + à + infinitif (des exercices à finir) : préposition.
 
-21. Elle a [a → à] peu près le même âge que ma sœur aînée.
-   Pourquoi : Le premier « a » est le verbe (elle avait) ; le second est dans l'expression « à peu près ».
-   Source : Tatoeba n° 1470885
+21. Paul a [a → à] peu près ton âge.
+   Pourquoi : Le premier « a » est le verbe (Paul avait) ; le second est dans l'expression « à peu près ».
 
-22. La dame a [a → à] peine mangé.
-   Pourquoi : « A » est l'auxiliaire (elle avait mangé) ; « à peine » est une expression avec la préposition.
-   Source : Tatoeba n° 13819296
+22. Le chat a [a → à] peine touché sa gamelle.
+   Pourquoi : « A » est l'auxiliaire (le chat avait touché) ; « à peine » est une expression avec la préposition.
 
-23. Qu'est-ce que ceci a [a → à] voir avec l'école ?
-   Pourquoi : Avoir quelque chose à voir : verbe « a » puis préposition « à ».
-   Source : Tatoeba n° 7028956
+23. Ce film n'a rien [a → à] voir avec le livre.
+   Pourquoi : N'avoir rien à voir : verbe « a » puis préposition « à ».
 
-24. J'ai trouvé ce livre facile [a → à] lire.
-   Pourquoi : Facile à lire : adjectif + à + infinitif.
-   Source : Tatoeba n° 10544042
+24. Cette recette est simple [a → à] préparer.
+   Pourquoi : Simple à préparer : adjectif + à + infinitif.
 
-25. [A → À] quelle heure arrive le prochain train ?
+25. [A → À] quelle heure ouvre la piscine ?
    Pourquoi : C'est la préposition (avait quelle heure ✘) : en majuscule, elle garde son accent, « À ».
-   Source : Tatoeba n° 604549
 
-26. [A → À] ton avis, est-ce que c'est correct ?
-   Pourquoi : Préposition « à ton avis » : l'accent se garde sur la majuscule, « À ».
-   Source : Tatoeba n° 13884407
+26. [A → À] mon avis, il va pleuvoir.
+   Pourquoi : Préposition « à mon avis » : l'accent se garde sur la majuscule, « À ».
 
-27. Il a à nouveau essayé.
-   Pourquoi : Correct : « a » est l'auxiliaire (il avait essayé), « à nouveau » est une expression.
-   Source : Tatoeba n° 4696074
+27. Elle a à nouveau gagné la partie.
+   Pourquoi : Correct : « a » est l'auxiliaire (elle avait gagné), « à nouveau » est une expression.
 
-28. Je pense que ça a bon goût.
-   Pourquoi : Correct : « ça a bon goût » (ça avait bon goût), verbe avoir.
-   Source : Tatoeba n° 1067013
+28. Cette soupe, ça a un drôle de goût.
+   Pourquoi : Correct : « ça a un drôle de goût » (ça avait un drôle de goût), verbe avoir.
 
 29. À demain, et bon courage pour ton examen !
    Pourquoi : Correct : préposition, avec l'accent sur la majuscule.

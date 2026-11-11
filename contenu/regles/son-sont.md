@@ -45,37 +45,29 @@ Niveau : collège.
 
 ## Exercices essentiels
 
-1. Les hérissons [son → sont] très utiles.
-   Pourquoi : « Les hérissons étaient très utiles » : verbe être, « sont ».
-   Source : Tatoeba n° 13129839
+1. Les abeilles [son → sont] indispensables aux fleurs.
+   Pourquoi : « Les abeilles étaient indispensables » : verbe être, « sont ».
 
-2. Ils se [son → sont] amusés à la fête.
-   Pourquoi : « Ils s'étaient amusés » : auxiliaire être, « sont ».
-   Source : Tatoeba n° 355159
+2. Ils se [son → sont] bien reposés.
+   Pourquoi : « Ils s'étaient reposés » : auxiliaire être, « sont ».
 
-3. Elle a acheté un cadeau pour [sont → son] fils.
-   Pourquoi : « Pour mon fils » : déterminant possessif, « son ».
-   Source : Tatoeba n° 10599284
+3. Il a préparé un gâteau pour [sont → son] anniversaire.
+   Pourquoi : « Pour mon anniversaire » : déterminant possessif, « son ».
 
-4. Il vit dans [sont → son] véhicule.
-   Pourquoi : « Dans mon véhicule » : déterminant possessif, « son ».
-   Source : Tatoeba n° 1838888
+4. Elle cherche [sont → son] téléphone partout.
+   Pourquoi : « Mon téléphone » : déterminant possessif, « son ».
 
-5. Elle ne veut pas parler de [sont → son] passé.
-   Pourquoi : « De mon passé » : déterminant possessif, « son ».
-   Source : Tatoeba n° 11716410
+5. Il n'aime pas parler de [sont → son] travail.
+   Pourquoi : « De mon travail » : déterminant possessif, « son ».
 
-6. Quelles [son → sont] vos attentes en termes de rémunération ?
-   Pourquoi : « Quelles étaient vos attentes » : verbe être, « sont ».
-   Source : Tatoeba n° 8359180
+6. Quels [son → sont] tes films préférés ?
+   Pourquoi : « Quels étaient tes films préférés » : verbe être, « sont ».
 
-7. Ils [son → sont] en train d'ouvrir la fenêtre.
+7. Ils [son → sont] en train de cuisiner.
    Pourquoi : « Ils étaient en train » : verbe être, « sont ».
-   Source : Tatoeba n° 4193482
 
-8. Il se dispute tout le temps avec [sont → son] chef.
-   Pourquoi : « Avec mon chef » : déterminant possessif, « son ».
-   Source : Tatoeba n° 393411
+8. Il s'entend bien avec [sont → son] voisin.
+   Pourquoi : « Avec mon voisin » : déterminant possessif, « son ».
 
 9. Ses parents sont fiers de son travail.
    Pourquoi : Correct : « ses parents étaient fiers » (verbe être) de « mon travail » (possessif).
@@ -100,16 +92,14 @@ Niveau : collège.
 
 ## Exercices avancés
 
-13. Tous les sons [son → sont] des vibrations.
-    Pourquoi : « Les sons » est le nom ; ensuite « étaient des vibrations » : verbe être, « sont ».
-    Source : Tatoeba n° 12495228
+13. Tous ces sons [son → sont] trop forts.
+    Pourquoi : « Ces sons » est le nom ; ensuite « étaient trop forts » : verbe être, « sont ».
 
 14. Le son de sa voix et son sourire sont inoubliables.
     Pourquoi : Correct : « le son » (nom), « mon sourire » (possessif), « étaient inoubliables » (verbe être).
 
-15. Elle gaspille tout [sont → son] argent dans des vêtements.
+15. Il dépense tout [sont → son] argent en livres.
     Pourquoi : « Tout mon argent » : déterminant possessif, « son ».
-    Source : Tatoeba n° 8517039
 
 16. Ce [son → sont] des erreurs très fréquentes.
     Pourquoi : « C'étaient des erreurs » : « ce sont », avec le verbe être.
@@ -118,9 +108,8 @@ Niveau : collège.
     Choix : son / **sont**
     Pourquoi : « Où étaient passés mes gants » : auxiliaire être, placé avant le sujet dans la question.
 
-18. Les conseilleurs ne [son → sont] pas les payeurs.
-    Pourquoi : « Les conseilleurs n'étaient pas les payeurs » : verbe être, « sont ».
-    Source : Tatoeba n° 965276
+18. Les chemins les plus courts ne [son → sont] pas toujours les meilleurs.
+    Pourquoi : « Les chemins n'étaient pas les meilleurs » : verbe être, « sont ».
 
 19. [Sont → Son] arrivée a surpris tout le monde.
     Pourquoi : « Mon arrivée » : possessif. Devant un nom féminin commençant par une voyelle, on dit « son » et non « sa ».

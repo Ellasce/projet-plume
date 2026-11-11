@@ -25,5 +25,5 @@ body:
     id: source
     attributes:
       label: Source de la phrase
-      description: Phrase personnelle, ou numéro Tatoeba. Rien de copié d'un ouvrage ou d'un site protégé.
-      placeholder: "Phrase personnelle / Tatoeba n° 12345"
+      description: Écrivez votre propre phrase. Rien de copié d'un livre, d'un site ou d'une autre base de phrases.
+      placeholder: "Phrase personnelle"

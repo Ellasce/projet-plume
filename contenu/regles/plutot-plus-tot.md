@@ -46,33 +46,26 @@ Niveau : lycée.
 
 ## Exercices essentiels
 
-1. Tu aurais dû venir [plutôt → plus tôt].
-   Pourquoi : « Tu aurais dû venir plus tard » fonctionne : c'est le temps, « plus tôt ».
-   Source : Tatoeba n° 335469
+1. Tu aurais dû me le dire [plutôt → plus tôt].
+   Pourquoi : « Tu aurais dû me le dire plus tard » fonctionne : c'est le temps, « plus tôt ».
 
-2. Je me suis réveillé [plutôt → plus tôt] pour te voir.
+2. Je suis parti [plutôt → plus tôt] pour éviter les bouchons.
    Pourquoi : Contraire de « plus tard » : « plus tôt ».
-   Source : Tatoeba n° 7701677
 
-3. Vous auriez dû partir une demi-heure [plutôt → plus tôt].
-   Pourquoi : « Une demi-heure plus tard » fonctionne : c'est le temps, « plus tôt ».
-   Source : Tatoeba n° 822391
+3. Il fallait arriver dix minutes [plutôt → plus tôt].
+   Pourquoi : « Dix minutes plus tard » fonctionne : c'est le temps, « plus tôt ».
 
-4. Les prix ici sont [plus tôt → plutôt] raisonnables.
-   Pourquoi : « Assez raisonnables » : « plutôt », en un mot.
-   Source : Tatoeba n° 4983680
+4. Ce quartier est [plus tôt → plutôt] calme.
+   Pourquoi : « Assez calme » : « plutôt », en un mot.
 
-5. Ce livre est [plus tôt → plutôt] bon.
+5. Ton idée est [plus tôt → plutôt] bonne.
    Pourquoi : « Assez bon » : « plutôt », en un mot.
-   Source : Tatoeba n° 9774048
 
-6. Je préférerais que vous veniez vendredi [plus tôt → plutôt] que jeudi.
-   Pourquoi : Une préférence (vendredi de préférence à jeudi) : « plutôt que ».
-   Source : Tatoeba n° 1184051
+6. Je prendrai le train [plus tôt → plutôt] que la voiture.
+   Pourquoi : Une préférence (le train de préférence à la voiture) : « plutôt que ».
 
-7. Peux-tu envoyer quelqu'un pour le réparer le [plutôt → plus tôt] possible ?
+7. Réponds-moi le [plutôt → plus tôt] possible.
    Pourquoi : « Le plus tôt possible » : le temps, en deux mots.
-   Source : Tatoeba n° 2049048
 
 8. Prends [plus tôt → plutôt] le train, c'est plus rapide.
    Pourquoi : « Prends de préférence le train » : « plutôt ».
@@ -100,13 +93,11 @@ Niveau : lycée.
 
 ## Exercices avancés
 
-13. Plus tôt on commencera, [plutôt → plus tôt] on aura terminé.
-    Pourquoi : « Plus tard on commencera, plus tard on aura terminé » : le temps, deux fois « plus tôt ».
-    Source : Tatoeba n° 11735693
+13. Plus tôt tu partiras, [plutôt → plus tôt] tu arriveras.
+    Pourquoi : « Plus tard tu partiras, plus tard tu arriveras » : le temps, deux fois « plus tôt ».
 
-14. Je sais que j'aurais dû arriver ici [plutôt → plus tôt].
-    Pourquoi : Contraire de « plus tard » : « plus tôt ».
-    Source : Tatoeba n° 6463918
+14. Le spectacle a commencé [plutôt → plus tôt] que prévu.
+    Pourquoi : « Plus tard que prévu » fonctionne : c'est le temps, « plus tôt ».
 
 15. [Plus tôt → Plutôt] que de te plaindre, cherche une solution.
     Pourquoi : « Au lieu de te plaindre » : « plutôt que de ».

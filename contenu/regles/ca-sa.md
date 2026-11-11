@@ -44,28 +44,23 @@ Niveau : collège.
 
 ## Exercices essentiels
 
-1. [Sa → Ça] ne vaut pas un clou.
-   Pourquoi : « Cela ne vaut pas un clou » : pronom « ça ».
-   Source : Tatoeba n° 8775057
+1. [Sa → Ça] ne me dérange pas du tout.
+   Pourquoi : « Cela ne me dérange pas » : pronom « ça ».
 
 2. [Sa → Ça] me fait bien rire.
    Pourquoi : « Cela me fait rire » : pronom « ça ».
 
-3. [Sa → Ça] vous aidera à vous garder chaud.
-   Pourquoi : « Cela vous aidera » : pronom « ça ».
-   Source : Tatoeba n° 2251720
+3. [Sa → Ça] te fera du bien de marcher.
+   Pourquoi : « Cela te fera du bien » : pronom « ça ».
 
-4. Elle retourna à [ça → sa] chambre.
-   Pourquoi : « Elle retourna à ma chambre » : possessif devant un nom, « sa ».
-   Source : Tatoeba n° 10724097
+4. Lucie range [ça → sa] chambre.
+   Pourquoi : « Lucie range ma chambre » : possessif devant un nom, « sa ».
 
-5. Cet enfant s'accrochait à [ça → sa] mère.
-   Pourquoi : « À ma mère » : possessif, « sa ».
-   Source : Tatoeba n° 9815274
+5. Le petit tenait la main de [ça → sa] sœur.
+   Pourquoi : « De ma sœur » : possessif, « sa ».
 
-6. Elle a beaucoup souffert dans [ça → sa] vie.
-   Pourquoi : « Dans ma vie » : possessif, « sa ».
-   Source : Tatoeba n° 11578234
+6. Il a passé toute [ça → sa] jeunesse à la campagne.
+   Pourquoi : « Toute ma jeunesse » : possessif, « sa ».
 
 7. J'adore [sa → ça] !
    Pourquoi : « J'adore cela » : pronom « ça ».
@@ -92,24 +87,20 @@ Niveau : collège.
 
 ## Exercices avancés
 
-12. Il est allé en Égypte et en a ramené [ça → sa] fille.
-    Pourquoi : « Il en a ramené ma fille » : possessif, « sa ».
-    Source : Tatoeba n° 14017107
+12. Elle a prêté [ça → sa] voiture à un ami.
+    Pourquoi : « Elle a prêté ma voiture » : possessif, « sa ».
 
-13. Il y a une autre façon de vivre [ça → sa] vie.
-    Pourquoi : « Vivre ma vie » : possessif, « sa ».
-    Source : Tatoeba n° 10821700
+13. Chacun doit trouver [ça → sa] place.
+    Pourquoi : « Trouver ma place » : possessif, « sa ».
 
-14. Aïe, c'est insupportable, [sa → ça] me gratte partout !
-    Pourquoi : « Cela me gratte » : pronom « ça ».
-    Source : Tatoeba n° 836388
+14. Ouvre la fenêtre, [sa → ça] sent le brûlé !
+    Pourquoi : « Cela sent le brûlé » : pronom « ça ».
 
 15. Des fleurs sauvages poussaient [ça → çà] et là.
     Pourquoi : « Çà et là » (ici et là) : adverbe, avec un accent grave.
 
-16. Ça a été un beau moment.
-    Pourquoi : Correct : « cela a été » : le pronom « ça » suivi du verbe avoir.
-    Source : Tatoeba n° 13618030
+16. Ça a duré toute la soirée.
+    Pourquoi : Correct : « cela a duré » : le pronom « ça » suivi du verbe avoir.
 
 17. Il a raconté ___ version de l'histoire.
     Choix : ça / **sa** / çà

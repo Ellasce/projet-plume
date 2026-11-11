@@ -42,21 +42,17 @@ Une **question rapportée** (après demander, savoir, dire, ignorer…) change d
 
 ## Exercices essentiels
 
-1. Je ne sais pas [qu'est-ce que → ce que] vous voulez.
+1. Je ne sais pas [qu'est-ce que → ce que] tu cherches.
    Pourquoi : Question rapportée : « qu'est-ce que » devient « ce que ».
-   Source : Tatoeba n° 12607221
 
-2. Dis-moi [qu'est-ce que → ce que] tu veux que je fasse.
+2. Dis-moi [qu'est-ce que → ce que] tu penses de mon idée.
    Pourquoi : Après « dis-moi » : « ce que ».
-   Source : Tatoeba n° 359110
 
-3. Je me demande [qu'est-ce que → ce que] ceci signifie.
+3. Je me demande [qu'est-ce que → ce que] veut dire ce mot.
    Pourquoi : Après « je me demande » : « ce que ».
-   Source : Tatoeba n° 6455988
 
-4. Parfois je me demande [qu'est-ce qui → ce qui] se passe dans ta tête.
+4. Je me demande souvent [qu'est-ce qui → ce qui] le rend si triste.
    Pourquoi : « Qu'est-ce qui » devient « ce qui ».
-   Source : Tatoeba n° 10594081
 
 5. Je me demande [est-ce qu'il → s'il] viendra.
    Pourquoi : Question à laquelle on répond par oui ou non : « est-ce que » devient « si ».
@@ -67,13 +63,11 @@ Une **question rapportée** (après demander, savoir, dire, ignorer…) change d
 7. Dites-moi pourquoi [êtes-vous → vous êtes] en retard.
    Pourquoi : Pas d'inversion : « pourquoi vous êtes en retard ».
 
-8. Je ne sais pas [qu'est-ce qui → ce qui] me faisait si peur.
+8. Je ne comprends pas [qu'est-ce qui → ce qui] a cassé la vitre.
    Pourquoi : « Qu'est-ce qui » devient « ce qui ».
-   Source : Tatoeba n° 5494659
 
-9. Je me demande comment elle va réagir.
+9. Je me demande comment il va s'en sortir.
    Pourquoi : Correct : sujet avant le verbe et point final.
-   Source : Tatoeba n° 3487256
 
 10. Je voudrais savoir ___ tu as fait hier.
     Choix : **ce que** / qu'est-ce que
@@ -91,9 +85,8 @@ Une **question rapportée** (après demander, savoir, dire, ignorer…) change d
 
 ## Exercices avancés
 
-12. S'il vous plaît, dites-moi [qu'est-ce que → ce que] je dois faire en premier.
-    Pourquoi : Après « dites-moi » : « ce que ».
-    Source : Tatoeba n° 2812759
+12. Expliquez-moi [qu'est-ce que → ce que] je dois remplir.
+    Pourquoi : Après « expliquez-moi » : « ce que ».
 
 13. Je me demande [si il → s'il] fera beau demain.
     Pourquoi : « Si » devant « il » s'élide : « s'il ».
@@ -104,17 +97,15 @@ Une **question rapportée** (après demander, savoir, dire, ignorer…) change d
 15. Il m'a demandé [est-ce que → si] j'avais faim.
     Pourquoi : Question rapportée fermée : « si ».
 
-16. Je ne sais pas [qu'est-ce que → ce que] je te dois.
+16. Je ne sais pas [qu'est-ce que → ce que] je vais offrir à ma mère.
     Pourquoi : « Ce que » dans une question rapportée.
-    Source : Tatoeba n° 2316367
 
 17. Sais-tu ___ il habite ?
     Choix : **où** / où est-ce qu' / où qu'
     Pourquoi : « Où » reste tel quel ; pas de « est-ce que » dans une question rapportée.
 
-18. Je me demande si elle séjourne dans cet hôtel.
+18. Je me demande si le musée est ouvert le dimanche.
     Pourquoi : Correct : « si » pour une question fermée, sujet avant le verbe, point final.
-    Source : Tatoeba n° 1112446
 
 19. Explique-moi comment [fonctionne-t-elle → elle fonctionne].
     Pourquoi : Pas d'inversion dans une question rapportée : « comment elle fonctionne ».

@@ -44,37 +44,29 @@ Niveau : collège.
 
 ## Exercices essentiels
 
-1. Il vaut mieux [sans → s'en] aller d'ici.
-   Pourquoi : « Il vaut mieux que je m'en aille » : se + en, « s'en ».
-   Source : Tatoeba n° 13250031
+1. Il est temps de [sans → s'en] aller.
+   Pourquoi : « Il est temps que je m'en aille » : se + en, « s'en ».
 
-2. Il est trop tôt pour [sans → s'en] aller.
-   Pourquoi : « Trop tôt pour m'en aller » : « s'en ».
-   Source : Tatoeba n° 3501587
+2. Il est trop tard pour [sans → s'en] plaindre.
+   Pourquoi : « Trop tard pour m'en plaindre » : « s'en ».
 
-3. Elle [sans → s'en] est assez bien sortie.
-   Pourquoi : « Je m'en suis sortie » : « s'en ».
-   Source : Tatoeba n° 3587643
+3. Elle [sans → s'en] est très bien tirée.
+   Pourquoi : « Je m'en suis tirée » : « s'en ».
 
-4. Les clients mécontents [sans → s'en] vont.
+4. Les invités [sans → s'en] vont après minuit.
    Pourquoi : « Je m'en vais » : « s'en ».
-   Source : Tatoeba n° 5523936
 
-5. Voulez-vous une robe [s'en → sans] manches ?
-   Pourquoi : Le contraire de « avec manches » : « sans ».
-   Source : Tatoeba n° 12733678
+5. Je voudrais un café [s'en → sans] sucre.
+   Pourquoi : Le contraire de « avec sucre » : « sans ».
 
-6. On dit qu'il est capable de parler [s'en → sans] notes.
-   Pourquoi : Le contraire de « avec des notes » : « sans ».
-   Source : Tatoeba n° 127988
+6. Elle récite son poème [s'en → sans] hésiter.
+   Pourquoi : Le contraire de « en hésitant » : « sans ».
 
-7. Nous nous téléphonions [s'en → sans] arrêt.
+7. Le bébé a pleuré [s'en → sans] arrêt.
    Pourquoi : « Sans arrêt » : le contraire de « avec des arrêts », « sans ».
-   Source : Tatoeba n° 8628514
 
-8. Il ne [sans → s'en] cache plus.
-   Pourquoi : « Je ne m'en cache plus » : « s'en ».
-   Source : Tatoeba n° 11906245
+8. Il ne [sans → s'en] souvient plus.
+   Pourquoi : « Je ne m'en souviens plus » : « s'en ».
 
 9. Il est parti sans un mot et ne s'en excuse pas.
    Pourquoi : Correct : « sans un mot » (avec un mot) ; « s'en excuse » (je m'en excuse).
@@ -95,13 +87,11 @@ Niveau : collège.
 
 ## Exercices avancés
 
-12. La vie passe sans qu'on [sans → s'en] aperçoive.
-    Pourquoi : « Sans que je m'en aperçoive » : le second mot est « s'en ».
-    Source : Tatoeba n° 12980044
+12. Les années passent sans qu'on [sans → s'en] rende compte.
+    Pourquoi : « Sans que je m'en rende compte » : le second mot est « s'en ».
 
-13. Aucun des passagers ne [sans → s'en] est sorti indemne.
-    Pourquoi : « Je ne m'en suis pas sorti » : « s'en ».
-    Source : Tatoeba n° 11792353
+13. Personne ne [sans → s'en] est aperçu.
+    Pourquoi : « Je ne m'en suis pas aperçu » : « s'en ».
 
 14. Ils [sans → s'en] souviendront longtemps.
     Pourquoi : « Je m'en souviendrai » : « s'en ».

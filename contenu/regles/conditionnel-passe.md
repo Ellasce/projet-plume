@@ -46,25 +46,20 @@ On l'entend comme le futur antérieur (j'**aurai** fini). Passez à **nous** : n
 
 ## Exercices essentiels
 
-1. Je sais que [j'aurai → j'aurais] dû faire ça.
+1. Je sais que [j'aurai → j'aurais] dû t'appeler.
    Pourquoi : Un regret : conditionnel passé (nous aurions dû) → « j'aurais ».
-   Source : Tatoeba n° 5799736
 
-2. Je pense que [j'aurai → j'aurais] pu mieux faire.
+2. Je pense que [j'aurai → j'aurais] pu courir plus vite.
    Pourquoi : Un regret : « nous aurions pu » → « j'aurais ».
-   Source : Tatoeba n° 5804847
 
-3. Si tu m'avais aidé, [j'aurai → j'aurais] pu faire le travail.
+3. Si tu m'avais prévenu, [j'aurai → j'aurais] pu venir.
    Pourquoi : Hypothèse non réalisée (si + plus-que-parfait) : conditionnel passé, « j'aurais ».
-   Source : Tatoeba n° 427670
 
-4. Ben, [tu auras → tu aurais] pu me prévenir.
+4. Franchement, [tu auras → tu aurais] pu ranger !
    Pourquoi : Un reproche : conditionnel passé, « tu aurais pu ».
-   Source : Tatoeba n° 13362644
 
-5. Je crois que [j'aurai → j'aurais] dû acheter davantage de nourriture.
+5. Je crois que [j'aurai → j'aurais] dû prendre un parapluie.
    Pourquoi : Un regret : « j'aurais dû ».
-   Source : Tatoeba n° 12323364
 
 6. Si j'avais su, je [serai → serais] venu plus tôt.
    Pourquoi : Hypothèse non réalisée : « nous serions venus » → « je serais ».
@@ -94,9 +89,8 @@ On l'entend comme le futur antérieur (j'**aurai** fini). Passez à **nous** : n
 
 ## Exercices avancés
 
-12. J'imagine que [j'aurai → j'aurais] dû le lire plus attentivement.
+12. J'avoue que [j'aurai → j'aurais] dû relire ma lettre.
     Pourquoi : Un regret : « j'aurais dû ».
-    Source : Tatoeba n° 2048528
 
 13. [Si j'aurais → Si j'avais] su, je ne serais pas venu.
     Pourquoi : Après « si », on emploie le plus-que-parfait : « si j'avais su ».
@@ -104,9 +98,8 @@ On l'entend comme le futur antérieur (j'**aurai** fini). Passez à **nous** : n
 14. Elle [aurait → serait] partie si elle avait pu.
     Pourquoi : « Partir » se conjugue avec être : « elle serait partie ».
 
-15. Je sais ce que [tu auras → tu aurais] pu faire.
+15. Imagine ce que [tu auras → tu aurais] pu manquer !
     Pourquoi : Une possibilité passée qui ne s'est pas réalisée : « tu aurais pu ».
-    Source : Tatoeba n° 5743819
 
 16. Il se [serai → serait] trompé de route.
     Pourquoi : Avec « il », le conditionnel passé s'écrit « il se serait ».

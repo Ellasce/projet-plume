@@ -45,37 +45,29 @@ Dans tous les cas, il y a **deux m**.
 
 ## Exercices essentiels
 
-1. [Évidement → Évidemment], j'ai été très choquée.
+1. [Évidement → Évidemment], tu as raison.
    Pourquoi : « Évident » se termine par -ent : « évidemment », avec deux m.
-   Source : Tatoeba n° 7236822
 
-2. Conduisez [prudement → prudemment] et bonne route !
+2. Roulez [prudement → prudemment] sous la pluie.
    Pourquoi : « Prudent » se termine par -ent : « prudemment ».
-   Source : Tatoeba n° 1142693
 
-3. Je parle [courament → couramment] le français.
+3. Mon cousin parle [courament → couramment] l'italien.
    Pourquoi : « Courant » se termine par -ant : « couramment », avec deux m.
-   Source : Tatoeba n° 8737301
 
-4. Sa mère s'en plaint [constament → constamment].
+4. Ce chien aboie [constament → constamment].
    Pourquoi : « Constant » se termine par -ant : « constamment ».
-   Source : Tatoeba n° 1031425
 
-5. Je ne l'ai pas vu beaucoup [récement → récemment].
+5. J'ai changé d'adresse [récement → récemment].
    Pourquoi : « Récent » se termine par -ent : « récemment ».
-   Source : Tatoeba n° 391007
 
-6. Elle attendit [patiament → patiemment] après lui.
+6. Il a attendu [patiament → patiemment] son tour.
    Pourquoi : « Patient » se termine par -ent : « patiemment ».
-   Source : Tatoeba n° 809468
 
-7. Je ne parle pas [suffisament → suffisamment] bien le français.
+7. Tu n'as pas [suffisament → suffisamment] dormi.
    Pourquoi : « Suffisant » se termine par -ant : « suffisamment ».
-   Source : Tatoeba n° 472647
 
-8. Il a réussi [brillament → brillamment] sa reconversion.
+8. Elle a [brillament → brillamment] réussi son examen.
    Pourquoi : « Brillant » se termine par -ant : « brillamment ».
-   Source : Tatoeba n° 5384699
 
 9. Elle parle couramment l'anglais et répond toujours poliment.
    Pourquoi : Correct : « couramment » (de courant) ; « poliment » vient de « poli », qui ne se termine ni par -ant ni par -ent.
@@ -96,16 +88,14 @@ Dans tous les cas, il y a **deux m**.
 
 ## Exercices avancés
 
-12. Il m'arrive [fréquament → fréquemment] de m'égarer en route.
+12. Je me trompe [fréquament → fréquemment] de bus.
     Pourquoi : « Fréquent » se termine par -ent : « fréquemment ».
-    Source : Tatoeba n° 14006579
 
 13. La tortue avance [lemment → lentement].
     Pourquoi : « Lent » est une exception : « lentement ».
 
-14. Les élèves étaient assis [patiament → patiemment] sur leurs bancs.
+14. Les enfants écoutaient [patiament → patiemment] l'histoire.
     Pourquoi : « Patient » se termine par -ent : « patiemment ».
-    Source : Tatoeba n° 1489627
 
 15. Elle a [intelligeamment → intelligemment] résolu le problème.
     Pourquoi : « Intelligent » se termine par -ent : « intelligemment ».

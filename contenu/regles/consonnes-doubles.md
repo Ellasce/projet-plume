@@ -72,9 +72,8 @@ Exceptions courantes : **ap**ercevoir, **ap**aiser, **ap**latir, **ac**heter, **
 8. Notre [chiene → chienne] a eu trois chiots.
    Pourquoi : Féminin en -enne : « chienne ».
 
-9. Je suis sûr que la police finira par attraper le voleur.
+9. Le chat a fini par attraper la balle.
    Pourquoi : Correct : « attraper » (verbe en at-, deux t).
-   Source : Tatoeba n° 7032355
 
 10. J'ai aperçu une ___ dans le jardin.
     Choix : **carotte** / carrote / carote

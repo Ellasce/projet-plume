@@ -68,7 +68,6 @@ Chaque exercice commence par **son numéro**, en début de ligne. Les numéros s
 ```
 1. Elle était [tout → toute] rouge de honte.
    Pourquoi : adverbe devant un adjectif féminin commençant par une consonne.
-   Source : Tatoeba n° 123456
 
 2. Ils sont tout étonnés de la nouvelle.
    Pourquoi : correct, l'adverbe reste invariable devant une voyelle.
@@ -106,20 +105,16 @@ Composition visée (sur l'ensemble) : environ 70 % de phrases avec faute, 10 à 
 
 ### Sources de phrases
 
-1. **Tatoeba** (CC BY 2.0 FR), en priorité : ce sont des phrases réelles et variées. Télécharger
-   `https://downloads.tatoeba.org/exports/per_language/fra/fra_sentences.tsv.bz2` dans le dossier temporaire, le décompresser, puis :
-   ```bash
-   python -I outils/chercher_tatoeba.py fra.tsv "\b(a)\b" --fautif à --nombre 40 --exclure "\bà\b|[A-Z]{2}|\d|Tom|Mary"
-   ```
-   Lancer **une recherche par cas** de l'analyse (motif ciblé : `"\by (a)\b"` pour « il y a », `"^(À)\s"` pour la majuscule…). Écrire `Source : Tatoeba n° <numéro>` : l'attribution est obligatoire et l'application l'affiche.
+1. **Phrases originales**, en priorité : écrites pour le projet, elles sont publiées sous CC BY-SA 4.0 comme le reste du contenu (pas de ligne `Source`). Varier les situations de la vie courante ; ne pas recopier ni paraphraser une phrase trouvée ailleurs.
 2. **LanguageTool** (LGPL) : `outils/lt-candidats.json` contient environ 7 000 phrases fautives (le README explique comment le régénérer). Écrire `Source : LanguageTool (<identifiant>)`.
-3. **Phrases originales**, pour les cas que Tatoeba ne couvre pas (pas de ligne Source).
+
+**Règle absolue : n'utiliser que des contenus dont la réutilisation est certaine et sans condition difficile à respecter.** En cas de doute sur une licence, ne pas utiliser la phrase. Les phrases de **Tatoeba** ne sont plus utilisées : leur licence (CC BY 2.0 FR) impose de citer l'auteur de chaque phrase. La construction refuse toute ligne `Source : Tatoeba`.
 
 ### Trier les phrases candidates (le plus important)
 
 Écarter toute phrase qui :
 - a **une autre réponse défendable**, par exemple un sujet de genre inconnu (« Je suis allé(e) ») ou un pronom ambigu (« Je l'ai vu(e) ») ;
-- contient **une autre faute**, un tic oral, une tournure vieillie ou une traduction maladroite (Tatoeba en contient) ;
+- contient **une autre faute**, un tic oral, une tournure vieillie ou une traduction maladroite ;
 - repose sur des **noms propres exotiques** ou des références obscures ;
 - est **trop longue** (plus de 15 mots) ou **trop facile** (la faute saute aux yeux sans réfléchir) ;
 - est **politiquement ou émotionnellement chargée** (violence, maladie…) ;

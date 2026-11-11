@@ -69,7 +69,7 @@ regles.filter((r) => !cible || r.id === cible).forEach((r) => {
   let correctes = 0;
   r.exercices.forEach((e, i) => {
     if (!e.e) err(ou(i) + " : explication (e) manquante");
-    if (e.src && !/^(tatoeba:\d+|verbiste|[A-Z0-9_]+\[\d+\]#\d+)$/.test(e.src)) err(ou(i) + " : source mal formée « " + e.src + " »");
+    if (e.src && !/^(verbiste|[A-Z0-9_]+\[\d+\]#\d+)$/.test(e.src)) err(ou(i) + " : source mal formée « " + e.src + " »");
     const cle = e.t + "|" + (e.s || e.consigne || e.v + e.pr + e.temps);
     if (vues.has(cle)) err(ou(i) + " : exercice en double");
     vues.add(cle);

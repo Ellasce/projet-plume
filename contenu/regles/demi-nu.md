@@ -46,21 +46,17 @@ Niveau : lycée.
 
 ## Exercices essentiels
 
-1. Attends une [demie-heure → demi-heure], s'il te plaît.
+1. Patiente une [demie-heure → demi-heure], j'arrive.
    Pourquoi : « Demi » est placé avant le nom, avec un trait d'union : invariable.
-   Source : Tatoeba n° 494164
 
-2. Ça fait une [demie-heure → demi-heure] qu'elle l'attend.
+2. Le film a commencé il y a une [demie-heure → demi-heure].
    Pourquoi : Avant le nom, « demi » ne s'accorde pas.
-   Source : Tatoeba n° 1977993
 
-3. Je reviendrai à six heures [et demi → et demie].
+3. Le train part à huit heures [et demi → et demie].
    Pourquoi : Après le nom, « demi » s'accorde en genre avec « heure » (féminin) : « et demie ».
-   Source : Tatoeba n° 789752
 
-4. Nous avons une réservation pour six heures [et demi → et demie].
+4. Le magasin ferme à sept heures [et demi → et demie].
    Pourquoi : « Heure » est féminin : « et demie ».
-   Source : Tatoeba n° 1496388
 
 5. Il marche [pieds nu → pieds nus] sur la plage.
    Pourquoi : « Nu » est placé après le nom : il s'accorde avec « pieds », « nus ».

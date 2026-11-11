@@ -46,21 +46,17 @@ Niveau : lycée.
 
 ## Exercices essentiels
 
-1. J'espère que vous avez trouvé tout ce [que → dont] vous avez besoin.
+1. Tu as tout ce [que → dont] tu as besoin ?
    Pourquoi : On a besoin DE quelque chose : « ce dont vous avez besoin ».
-   Source : Tatoeba n° 6966084
 
-2. Je sais précisément ce [que → dont] tu as besoin.
+2. Voici exactement ce [que → dont] j'ai besoin.
    Pourquoi : Avoir besoin DE : « dont ».
-   Source : Tatoeba n° 1842908
 
-3. C'est ce [que → dont] nous parlons.
-   Pourquoi : On parle DE quelque chose : « ce dont nous parlons ».
-   Source : Tatoeba n° 5289310
+3. C'est le film [que → dont] tout le monde parle.
+   Pourquoi : On parle DE ce film : « dont ».
 
-4. Je voudrais pouvoir vous donner l'argent [que → dont] vous avez besoin.
-   Pourquoi : Avoir besoin DE l'argent : « dont ».
-   Source : Tatoeba n° 5347358
+4. Prends les outils [que → dont] tu as besoin.
+   Pourquoi : Avoir besoin DES outils : « dont ».
 
 5. Le film [dont → que] j'ai vu hier était excellent.
    Pourquoi : On voit quelque chose (sans « de ») : « que ».
@@ -93,13 +89,11 @@ Niveau : lycée.
 
 ## Exercices avancés
 
-12. Je n'arrive pas à supporter la manière [que → dont] il parle.
-    Pourquoi : « Il parle d'une manière » : « la manière dont ».
-    Source : Tatoeba n° 1109724
+12. J'aime la façon [que → dont] elle chante.
+    Pourquoi : « Elle chante d'une façon » : « la façon dont ».
 
-13. Tout ce [que → dont] tu as besoin, c'est d'un permis de conduire.
-    Pourquoi : Avoir besoin DE : « ce dont ».
-    Source : Tatoeba n° 749421
+13. Ce [que → dont] j'ai envie, c'est d'un bon bain.
+    Pourquoi : Avoir envie DE : « ce dont ».
 
 14. C'est un arbre [que → dont] les feuilles tombent tôt.
     Pourquoi : Les feuilles DE l'arbre : « dont ».

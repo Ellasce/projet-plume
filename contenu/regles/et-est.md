@@ -49,37 +49,29 @@ Niveau : collège.
 
 ## Exercices essentiels
 
-1. La situation [et → est] pire que je ne le pensais.
-   Pourquoi : « La situation était pire » : verbe être, « est ».
-   Source : Tatoeba n° 11596101
+1. La route [et → est] glissante ce soir.
+   Pourquoi : « La route était glissante » : verbe être, « est ».
 
-2. Elle [et → est] arrivée cinquième à la course.
-   Pourquoi : « Elle était arrivée » : auxiliaire être, « est ».
-   Source : Tatoeba n° 913524
+2. Ma sœur [et → est] partie en avance.
+   Pourquoi : « Ma sœur était partie » : auxiliaire être, « est ».
 
-3. Il [et → est] occupé depuis ce matin.
-   Pourquoi : « Il était occupé » : verbe être, « est ».
-   Source : Tatoeba n° 11656291
+3. Le magasin [et → est] fermé le lundi.
+   Pourquoi : « Le magasin était fermé » : verbe être, « est ».
 
-4. Tu devrais passer plus de temps dehors [est → et] moins à l'intérieur.
-   Pourquoi : « Dehors était moins à l'intérieur » ne veut rien dire : on ajoute, « et ».
-   Source : Tatoeba n° 1129066
+4. Il faudrait lire davantage [est → et] regarder moins la télévision.
+   Pourquoi : « Davantage était regarder » ne veut rien dire : on ajoute, « et ».
 
-5. J'avais faim [est → et] tu m'as donné quelque chose à manger.
-   Pourquoi : On relie deux phrases (et puis tu m'as donné) : « et ».
-   Source : Tatoeba n° 13078981
+5. J'avais soif [est → et] il m'a servi un verre d'eau.
+   Pourquoi : On relie deux phrases (et puis il m'a servi) : « et ».
 
-6. Je dors, [est → et] toi ?
+6. Moi, je prends un thé, [est → et] toi ?
    Pourquoi : « Était toi » ne veut rien dire : c'est la conjonction « et ».
-   Source : Tatoeba n° 12774639
 
-7. Mon vélo électrique [et → est] pliable.
-   Pourquoi : « Mon vélo était pliable » : verbe être, « est ».
-   Source : Tatoeba n° 12232893
+7. Cette table [et → est] trop lourde.
+   Pourquoi : « Cette table était trop lourde » : verbe être, « est ».
 
-8. Ma sœur n'est pas bonne cuisinière et moi non plus.
-   Pourquoi : Correct : « n'était pas bonne cuisinière » (verbe être), puis « et moi » (on ajoute).
-   Source : Tatoeba n° 546473
+8. Mon frère n'est pas sportif et moi non plus.
+   Pourquoi : Correct : « n'était pas sportif » (verbe être), puis « et moi » (on ajoute).
 
 9. Le café ___ prêt.
    Choix : et / **est**
@@ -101,21 +93,17 @@ Niveau : collège.
 
 ## Exercices avancés
 
-12. Tu [est → es] la première personne à qui je me confie.
+12. Tu [est → es] le meilleur ami que j'aie.
     Pourquoi : C'est bien le verbe être (tu étais), mais avec « tu » il s'écrit « es ».
-    Source : Tatoeba n° 13036059
 
-13. J'espère que tu [est → es] content.
+13. Je crois que tu [est → es] fatigué.
     Pourquoi : Verbe être avec « tu » : « tu es ».
-    Source : Tatoeba n° 12483360
 
-14. Combiner les études [est → et] les activités extrascolaires est compliqué.
-    Pourquoi : Le premier ajoute (les études et les activités) : « et ». Le second est le verbe (était compliqué).
-    Source : Tatoeba n° 9228401
+14. Concilier le travail [est → et] la famille est difficile.
+    Pourquoi : Le premier ajoute (le travail et la famille) : « et ». Le second est le verbe (était difficile).
 
-15. Véronique [est → et] Serge dormaient sur le talus.
-    Pourquoi : Le verbe « dormaient » est au pluriel : il y a deux sujets, reliés par « et ».
-    Source : Tatoeba n° 1018752
+15. Julie [est → et] Karim jouaient aux cartes.
+    Pourquoi : Le verbe « jouaient » est au pluriel : il y a deux sujets, reliés par « et ».
 
 16. Où [et → est]-ce que tu as rangé les clés ?
     Pourquoi : « Est-ce que » contient le verbe être.
@@ -127,6 +115,5 @@ Niveau : collège.
 18. Il est tard et tout le monde est parti.
     Pourquoi : Correct : « il était tard » et « tout le monde était parti » (verbe être), reliés par « et ».
 
-19. Lequel de ces stylos [et → est] plus long, celui-là ou celui-ci ?
-    Pourquoi : « Lequel était plus long » : verbe être, « est ».
-    Source : Tatoeba n° 338120
+19. Laquelle de ces deux routes [et → est] la plus courte ?
+    Pourquoi : « Laquelle était la plus courte » : verbe être, « est ».

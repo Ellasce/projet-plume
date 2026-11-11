@@ -45,37 +45,29 @@ Niveau : collège.
 
 ## Exercices essentiels
 
-1. Je ne comprends pas comment on [peu → peut] aimer cela.
-   Pourquoi : « Comment on pouvait aimer cela » : verbe pouvoir, « peut ».
-   Source : Tatoeba n° 7070834
+1. Je ne vois pas comment on [peu → peut] dormir avec ce bruit.
+   Pourquoi : « Comment on pouvait dormir » : verbe pouvoir, « peut ».
 
-2. Est-ce qu'on [peu → peut] rester amies quand même ?
-   Pourquoi : « Est-ce qu'on pouvait rester amies » : verbe pouvoir, « peut ».
-   Source : Tatoeba n° 13629609
+2. Est-ce qu'on [peu → peut] entrer ?
+   Pourquoi : « Est-ce qu'on pouvait entrer » : verbe pouvoir, « peut ».
 
-3. Cela ne [peu → peut] être autorisé.
-   Pourquoi : « Cela ne pouvait être autorisé » : verbe pouvoir, « peut ».
-   Source : Tatoeba n° 5899606
+3. Cette porte ne [peu → peut] pas rester ouverte.
+   Pourquoi : « Cette porte ne pouvait pas rester ouverte » : verbe pouvoir, « peut ».
 
-4. Je suis fatigué, je vais me reposer un [peut → peu].
+4. Attends-moi un [peut → peu], j'arrive.
    Pourquoi : « Un peu » : petite quantité. « Un pouvait » ne veut rien dire.
-   Source : Tatoeba n° 13458485
 
-5. Fais bouillir un [peut → peu] d'eau.
-   Pourquoi : « Un peu d'eau » : petite quantité, « peu ».
-   Source : Tatoeba n° 332240
+5. Ajoute un [peut → peu] de sel.
+   Pourquoi : « Un peu de sel » : petite quantité, « peu ».
 
-6. Je ne veux qu'un [peut → peu] plus de temps.
+6. Il me faut un [peut → peu] plus de patience.
    Pourquoi : « Un peu plus » : quantité, « peu ».
-   Source : Tatoeba n° 2447883
 
-7. L'amitié [peu → peut] vous donner un sentiment de communauté et d'appartenance.
-   Pourquoi : « L'amitié pouvait vous donner » : verbe pouvoir, « peut ».
-   Source : Tatoeba n° 11615719
+7. Le sport [peu → peut] aider à mieux dormir.
+   Pourquoi : « Le sport pouvait aider » : verbe pouvoir, « peut ».
 
-8. Cela a coûté [peut → peu] cher.
+8. Ce restaurant est [peut → peu] cher.
    Pourquoi : « Peu cher » = pas très cher : adverbe, « peu ».
-   Source : Tatoeba n° 5136726
 
 9. Il peut venir un peu plus tard.
    Pourquoi : Correct : « il pouvait venir » (verbe pouvoir), puis « un peu » (quantité).
@@ -100,17 +92,14 @@ Niveau : collège.
 
 ## Exercices avancés
 
-13. Je sais que je [peut → peux] compter sur toi.
+13. Je sais que je [peut → peux] y arriver.
     Pourquoi : Verbe pouvoir (je pouvais), mais avec « je » il s'écrit « peux ».
-    Source : Tatoeba n° 8085905
 
-14. Si tu as un problème, tu [peut → peux] le dire.
+14. Si tu as froid, tu [peut → peux] prendre mon pull.
     Pourquoi : Verbe pouvoir avec « tu » : « tu peux ».
-    Source : Tatoeba n° 10473581
 
-15. Elle déclara qu'elle le suivrait, [peut → peu] importe où il aille.
+15. Il viendra, [peut → peu] importe l'heure.
     Pourquoi : Expression « peu importe » : « peu ».
-    Source : Tatoeba n° 1395636
 
 16. Il est [peut être → peut-être] déjà parti.
     Pourquoi : On peut dire « il est sans doute déjà parti » : adverbe « peut-être », avec un trait d'union.
@@ -122,9 +111,8 @@ Niveau : collège.
     Choix : **Peu** / Peut
     Pourquoi : Expression « peu à peu » (petit à petit).
 
-19. Tu [peut → peux] parler aussi un peu de français.
+19. Tu [peut → peux] m'aider un peu ?
     Pourquoi : Verbe pouvoir avec « tu » : « tu peux ». Le second mot est bien « peu » (un peu).
-    Source : Tatoeba n° 2341386
 
 20. Ce film est quelque [peut → peu] ennuyeux.
     Pourquoi : Expression « quelque peu » (un peu) : « peu ».
