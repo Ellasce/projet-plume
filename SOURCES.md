@@ -2,14 +2,14 @@
 
 Principe : **uniquement des ressources sous licence libre et ouverte, réutilisables sans demander d'autorisation.**
 
-## Utilisé dans le prototype
+## Utilisé aujourd'hui
 
 | Ressource | Usage | Licence |
 |---|---|---|
-| Textes originaux du projet | Toutes les fiches, toutes les explications et les exercices sans ligne « Source » | CC BY-SA 4.0 |
+| Textes originaux du projet | Toutes les fiches, toutes les explications et la quasi-totalité des phrases d'exercice (toutes celles sans ligne « Source ») | CC BY-SA 4.0 |
 | *Grammaire du français — Terminologie grammaticale* (Éduscol, 2020) | Vocabulaire grammatical (noms des notions uniquement, aucun texte copié) | Document public du ministère |
 | Rectifications orthographiques de 1990 (Journal officiel) | Graphies acceptées (nombres, « laissé » + infinitif) | Texte officiel |
-| **LanguageTool** — règles françaises (`grammar.xml`) | 71 phrases fautives et leur correction, relues une à une, parfois adaptées. Indiquées par `Source : LanguageTool (…)` | LGPL 2.1+ (vérifié dans l'en-tête du fichier) |
+| **LanguageTool** — règles françaises (`grammar.xml`) | 68 phrases fautives et leur correction, relues une à une, parfois adaptées. Indiquées par `Source : LanguageTool (…)` | LGPL 2.1+ (vérifié dans l'en-tête du fichier) |
 | **Verbiste** (Pierre Sarrazin) — `verbs-fr.xml`, `conjugation-fr.xml` | Formes des exercices de conjugaison, vérifiées automatiquement à chaque construction. Données d'origine dans `outils/verbiste/` | GPL 2+ (vérifié dans l'en-tête des fichiers et dans `debian/copyright`) |
 
 ## Retenu pour la suite (licence libre vérifiée)

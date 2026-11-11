@@ -15684,8 +15684,8 @@ window.PLUME_REGLES = [
     "avance": true,
     "statut": "a-relire",
     "t": "faute",
-    "s": "Il a fait tous les efforts qu'il a pu.",
-    "e": "Correct : « pu » (faire) sous-entendu, invariable.",
+    "s": "Elle a lu tous les livres qu'elle a pu.",
+    "e": "Correct : « pu » (lire) est sous-entendu, le participe reste invariable.",
     "id": "pp-infinitif.10"
    },
    {

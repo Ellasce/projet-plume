@@ -57,8 +57,8 @@ Résumé : La maison qu'il a fait construire ; les musiciens que j'ai entendus j
 9. Il n'a pas obtenu toutes les réponses qu'il aurait [voulues → voulu].
    Pourquoi : Infinitif sous-entendu (voulu obtenir) : invariable.
 
-10. Il a fait tous les efforts qu'il a pu.
-   Pourquoi : Correct : « pu » (faire) sous-entendu, invariable.
+10. Elle a lu tous les livres qu'elle a pu.
+    Pourquoi : Correct : « pu » (lire) est sous-entendu, le participe reste invariable.
 
 11. Les ponts que j'ai [vus → vu] construire sont déjà fissurés.
    Pourquoi : Les ponts ne construisent pas, ils sont construits : « vu » reste invariable.

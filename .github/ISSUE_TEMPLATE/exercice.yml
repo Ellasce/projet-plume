@@ -10,6 +10,15 @@ body:
       placeholder: "a ou à"
     validations:
       required: true
+  - type: dropdown
+    id: niveau
+    attributes:
+      label: Niveau visé
+      options:
+        - Collège
+        - Lycée
+        - Supérieur
+        - Je ne sais pas
   - type: textarea
     id: exercice
     attributes:

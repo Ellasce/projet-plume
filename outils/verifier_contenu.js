@@ -102,6 +102,14 @@ regles.filter((r) => !cible || r.id === cible).forEach((r) => {
       types.conj = (types.conj || 0) + 1;
     } else err(ou(i) + " : type inconnu « " + e.t + " »");
   });
+  // Phrases trop proches l'une de l'autre dans la même règle (même cadre, un ou deux mots changés) :
+  // l'exercice n'apprend rien de plus, et le joueur croit revoir la même question.
+  const mots = (s) => new Set(s.replace(RE_FAUTE, "$2").toLowerCase().split(/[^a-zà-ÿœæ']+/).filter((w) => w.length > 2));
+  const phrases = r.exercices.map((e, i) => (e.t === "faute" ? { i, m: mots(e.s) } : null)).filter((x) => x && x.m.size >= 4);
+  phrases.forEach((a, k) => phrases.slice(k + 1).forEach((b) => {
+    const communs = [...a.m].filter((w) => b.m.has(w)).length;
+    if (communs / new Set([...a.m, ...b.m]).size >= 0.75) att(ou(a.i) + " et " + ou(b.i) + " : phrases presque identiques");
+  }));
   const n = r.exercices.length;
   const nAv = r.exercices.filter((e) => e.avance).length, nEss = n - nAv;
   // Socle essentiel : ce qui suffit pour « règle acquise ». Avancés : « Aller plus loin ».

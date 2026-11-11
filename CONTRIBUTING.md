@@ -21,7 +21,8 @@ Sans compte GitHub, vous pouvez écrire à **projet-plume@proton.me**.
 
 Quelques principes :
 - **une seule bonne réponse** par exercice, sans ambiguïté ;
-- des phrases naturelles, **écrites par vous** ;
+- des phrases naturelles, **écrites par vous**, et différentes des autres exercices de la règle (pas le même cadre avec un mot changé) ;
+- un **niveau** adapté : collège, lycée ou supérieur ;
 - **rien de copié** d'ouvrages, de sites ou de manuels protégés : seulement des sources sous licence libre (voir [SOURCES.md](SOURCES.md)) ou vos propres phrases.
 
 ## Modifier les fichiers directement

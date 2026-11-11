@@ -15,9 +15,10 @@ Quand l'utilisateur envoie simplement un thème (« et / est », « leur / leurs
 ## Règles du projet
 
 - **Licences libres uniquement**, réutilisables sans demander d'autorisation : LanguageTool (LGPL), Verbiste (GPL). Les exercices sont des **phrases originales** ; **plus de Tatoeba** (sa licence CC BY impose de citer l'auteur de chaque phrase). En cas de doute sur une licence, ne pas utiliser. Ne rien copier d'ouvrages ou de sites protégés (grammaires, dictionnaires, sites d'entraînement commerciaux, manuels scolaires).
+- **Ne nommer aucun site, application ou ouvrage commercial** dans le projet (ni pour s'en inspirer, ni pour s'en démarquer).
 - **Toujours créditer la source** d'une phrase reprise (ligne `Source : LanguageTool (…)` ou `Source : Verbiste`).
 - **Peu de « trouve la faute »** : l'utilisateur les trouve moyens. On privilégie le trou, la saisie et le tri.
-- **Une règle = une décision**, avec un socle essentiel de 8 à 12 exercices (pour valider la règle) et des exercices avancés marqués `avance: true` (« Aller plus loin »). Une seule bonne réponse possible par exercice.
+- **Une règle = une décision**, avec un socle essentiel de 8 à 12 exercices (pour valider la règle) et des exercices avancés marqués `avance: true` (« Aller plus loin »). Une seule bonne réponse possible par exercice, et pas deux phrases presque identiques dans une même règle (`verifier_contenu.js` le signale).
 - **Les règles s'écrivent dans `contenu/regles/<règle>.md`** (texte lisible, sans code), puis `python -I outils/construire.py`. Ne jamais modifier `contenu/genere/` à la main.
 - **Avant de dire qu'un ajout est terminé** : `python -I outils/construire.py` puis `node outils/verifier_contenu.js` sans erreur, puis une session jouée dans le navigateur.
 - **Tester le site** : `python -I outils/construire.py` construit `publication/` ; `python -I outils/servir.py` le sert sur http://localhost:8000 (adresses propres, comme Cloudflare Pages). Les textes des pages Accueil, Projet et Progression sont dans `contenu/pages.js` ; le gabarit HTML commun est `gabarit.html`.

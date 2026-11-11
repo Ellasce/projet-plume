@@ -1,6 +1,6 @@
 # Licences
 
-## Code (`index.html`, `css/`, `js/`, `sw.js`, `manifest.webmanifest`, `img/`)
+## Code (`gabarit.html`, `css/`, `js/`, `sw.js`, `manifest.webmanifest`, `img/`, `outils/`)
 
 Copyright © 2026 les contributeurs du Projet Plume.
 
@@ -13,7 +13,7 @@ Le texte officiel est fourni dans le fichier [`COPYING`](COPYING).
 
 ## Contenu pédagogique (`contenu/regles/*.md`, `contenu/structure.js`, `contenu/genere/regles.js`)
 
-Les fiches de règles, les explications et les exercices rédigés pour le projet sont placés sous licence **Creative Commons Attribution – Partage dans les mêmes conditions 4.0 International (CC BY-SA 4.0)**.
+Les fiches de règles, les explications et les exercices rédigés pour le projet (la quasi-totalité des phrases d'exercice) sont placés sous licence **Creative Commons Attribution – Partage dans les mêmes conditions 4.0 International (CC BY-SA 4.0)**.
 
 Vous pouvez les copier, les modifier et les redistribuer, y compris commercialement, à condition de citer le Projet Plume et de publier vos modifications sous la même licence.
 
