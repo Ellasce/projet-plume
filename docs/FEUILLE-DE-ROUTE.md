@@ -14,7 +14,7 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 3. L'orthographe d'usage (consonnes doubles, accents, -amment / -emment, majuscules, trait d'union) : la catégorie entièrement absente.
 4. La ponctuation, puis les règles 🟢.
 
-## Déjà réalisées (69 règles)
+## Déjà réalisées (74 règles)
 
 - [x] a / à — `a-a`
 - [x] Infinitif ou participe passé : -er, -é, -ez — `infinitif-participe`
@@ -86,6 +86,11 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 - [x] ni / n'y — `ni-n-y`
 - [x] près / prêt — `pres-pret`
 - [x] sans / s'en / sang / cent — `sans-s-en`
+- [x] ma / m'a, ta / t'a, mon / m'ont, ton / t'ont — `ma-m-a`
+- [x] ce / ceux — `ce-ceux`
+- [x] ce / cet / cette — `cet-cette`
+- [x] du / dû, sur / sûr, mur / mûr — `du-du`
+- [x] parce que / par ce que — `parce-que`
 
 ## 1. Homophones
 
@@ -191,12 +196,12 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 ## 9. Ajouts proposés (absents de la première liste)
 
 Homophones
-- [ ] 🟠 ma / m'a, ta / t'a, mon / m'ont, ton / t'ont — collège
-- [ ] 🟠 ce / ceux — collège
-- [ ] 🟠 cet / cette — collège
+- [x] 🟠 ma / m'a, ta / t'a, mon / m'ont, ton / t'ont — collège → `ma-m-a`
+- [x] 🟠 ce / ceux — collège → `ce-ceux`
+- [x] 🟠 cet / cette — collège → `cet-cette`
 - [ ] 🟠 notre / nôtre, votre / vôtre — lycée
-- [ ] 🟠 du / dû, sur / sûr, mur / mûr — lycée
-- [ ] 🟠 parce que / par ce que — lycée
+- [x] 🟠 du / dû, sur / sûr, mur / mûr — lycée → `du-du`
+- [x] 🟠 parce que / par ce que — lycée → `parce-que`
 - [ ] 🟠 a / as, es / est, ai / aie / ait (les formes d'être et d'avoir qui se ressemblent) — collège
 - [ ] 🟢 or / hors, cour / cours / court, vers / vert / verre, compte / conte / comte — collège
 - [ ] 🟢 différent / différend, fond / fonds / fonts, pause / pose, repaire / repère — supérieur

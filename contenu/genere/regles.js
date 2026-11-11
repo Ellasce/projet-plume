@@ -1828,6 +1828,218 @@ window.PLUME_REGLES = [
   "bref": "- **ça** veut dire **cela** : **ça** marche (cela marche).\n- **sa** indique à qui est la chose, devant un nom féminin : **sa** voiture (la sienne). On peut dire **ma**.\n\n> Ça me plaît. → Cela me plaît ✔ → **ça**\n> Il cherche sa clé. → Il cherche ma clé ✔ → **sa**"
  },
  {
+  "id": "ce-ceux",
+  "titre": "ce ou ceux",
+  "resume": "Ce livre, ce que tu dis (une chose) ; ceux qui sont venus (des personnes ou des choses, au pluriel).",
+  "niveau": "college",
+  "fiche": "- **ceux** est un pronom **pluriel** : il remplace des personnes ou des choses déjà citées. **Ceux** qui ont fini peuvent sortir. Mes enfants et **ceux** de mon frère.\n- **ce** se place devant un **nom** (**ce** livre) ou devant **qui, que, dont** pour dire « la chose » : **ce** qui compte, **ce** que tu dis.\n\n**Le test** : mettez au singulier.\n> Ceux qui ont fini peuvent sortir. → Celui qui a fini peut sortir ✔ → **ceux**.\n> Je ne comprends pas ce que tu dis. → Celui que tu dis ✘ → **ce**.\n\n**Les pièges** :\n- **ceux de** : mes gâteaux sont meilleurs que **ceux de** la boulangerie.\n- **ceux-ci**, **ceux-là** : toujours au pluriel.\n\n**Pour aller plus loin**\n- **ceux d'entre vous** qui le souhaitent…\n- **ce dont** = la chose dont : **ce dont** je rêve, c'est d'un voyage.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Ce>Ceux} qui ont fini peuvent sortir.",
+    "e": "« Celui qui a fini » : pronom pluriel, « ceux ».",
+    "id": "ce-ceux.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Tes gâteaux sont meilleurs que {ce>ceux} de la boulangerie.",
+    "e": "« Ceux » remplace « les gâteaux » : au singulier, on dirait « celui de la boulangerie ».",
+    "id": "ce-ceux.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Prends {ceux>ce} livre, il est passionnant.",
+    "e": "Devant le nom « livre » : déterminant, « ce ».",
+    "id": "ce-ceux.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je ne comprends pas {ceux>ce} que tu dis.",
+    "e": "« La chose que tu dis » : « ce ».",
+    "id": "ce-ceux.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Ceux>Ce} qui compte, c'est d'essayer.",
+    "e": "« La chose qui compte » : « ce ».",
+    "id": "ce-ceux.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Mes enfants et {ce>ceux} de mon frère jouent ensemble.",
+    "e": "« Ceux » remplace « les enfants » : « ceux de mon frère ».",
+    "id": "ce-ceux.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Merci à tous {ce>ceux} qui sont venus.",
+    "e": "« Celui qui est venu » : « ceux ».",
+    "id": "ce-ceux.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Ce>Ceux} qui arrivent en retard attendront dehors.",
+    "e": "« Celui qui arrive en retard » : « ceux ».",
+    "id": "ce-ceux.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce que je préfère, ce sont ceux qui sont au chocolat.",
+    "e": "Correct : « ce que » (la chose que), « ceux qui » (les gâteaux qui).",
+    "id": "ce-ceux.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Range ___ que tu as sorti.",
+    "o": [
+     "ce",
+     "ceux"
+    ],
+    "a": 0,
+    "e": "« La chose que tu as sortie » : « ce ».",
+    "id": "ce-ceux.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "ce ou ceux ?",
+    "c": [
+     "ce",
+     "ceux"
+    ],
+    "items": [
+     [
+      "___ matin, il pleut.",
+      0
+     ],
+     [
+      "___ qui le veulent peuvent venir.",
+      1
+     ],
+     [
+      "Dis-moi ___ que tu penses.",
+      0
+     ],
+     [
+      "Mes livres et ___ de Paul.",
+      1
+     ],
+     [
+      "___ chien est gentil.",
+      0
+     ],
+     [
+      "___-ci sont plus mûrs.",
+      1
+     ]
+    ],
+    "e": "Si l'on peut dire « celui » au singulier, c'est « ceux ». Sinon, « ce ».",
+    "id": "ce-ceux.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Ce>Ceux} d'entre vous qui le souhaitent peuvent partir.",
+    "e": "« Celui d'entre vous qui le souhaite » : « ceux ».",
+    "id": "ce-ceux.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Ceux>Ce} dont je rêve, c'est d'un long voyage.",
+    "e": "« La chose dont je rêve » : « ce dont ».",
+    "id": "ce-ceux.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces gants sont plus chauds que {ce>ceux} que j'avais avant.",
+    "e": "« Ceux » remplace « les gants » : au singulier, on dirait « celui que j'avais ».",
+    "id": "ce-ceux.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ceux qui l'ont vu disent que ce film est très drôle.",
+    "e": "Correct : « ceux qui » (les personnes qui), « ce film » (devant un nom).",
+    "id": "ce-ceux.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Parmi ces gâteaux, ___ au citron sont mes préférés.",
+    "o": [
+     "ceux",
+     "ce"
+    ],
+    "a": 0,
+    "e": "« Ceux » remplace « les gâteaux » : « ceux au citron ».",
+    "id": "ce-ceux.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Tout {ceux>ce} qui brille n'est pas or.",
+    "e": "« Toute chose qui brille » : « ce ».",
+    "id": "ce-ceux.17"
+   },
+   {
+    "num": 18,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces abricots-ci sont sucrés ; {ce>ceux}-là sont acides.",
+    "e": "« Ceux-là » remplace « les abricots » : pronom pluriel (celui-là au singulier).",
+    "id": "ce-ceux.18"
+   }
+  ],
+  "bref": "- **ceux** remplace des noms au **pluriel** : **ceux** qui sont venus → **celui** qui est venu.\n- **ce** est devant un nom (**ce** livre) ou veut dire « la chose » (**ce** que tu dis)."
+ },
+ {
   "id": "ce-se-ces-ses",
   "titre": "Ce, se, ces, ses, c'est, s'est",
   "resume": "Six mots qui se prononcent presque pareil.",
@@ -2241,6 +2453,228 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "- Devant un **singulier** : **c'est** mon ami.\n- Devant un **pluriel**, à l'écrit soigné : **ce sont** mes amis.\n\n« C'est des… » s'entend souvent à l'oral, mais il faut écrire **ce sont**."
+ },
+ {
+  "id": "cet-cette",
+  "titre": "ce, cet ou cette",
+  "resume": "Cet arbre (masculin), cette idée (féminin) : cet et cette se prononcent pareil.",
+  "niveau": "college",
+  "fiche": "- **cette** se place devant un nom **féminin** : **cette** idée, **cette** année.\n- **cet** se place devant un nom **masculin** qui commence par une **voyelle** ou un **h muet** : **cet** arbre, **cet** hôtel, **cet** été.\n- **ce** se place devant un nom **masculin** qui commence par une **consonne** : **ce** garçon.\n\n**Le test** : remplacez par « un » ou « une ».\n> Cet arbre → un arbre ✔ → masculin, **cet**.\n> Cette idée → une idée ✔ → féminin, **cette**.\n\n**Les pièges** :\n- Des noms masculins qu'on croit féminins : **un** horaire, **un** incendie → **cet** horaire, **cet** incendie.\n- Des noms féminins qu'on croit masculins : **une** espèce, **une** erreur → **cette** espèce, **cette** erreur.\n\n**Pour aller plus loin**\n- C'est le **mot qui suit** qui compte : **cet** énorme chien (voyelle), mais **ce** chien.\n- Devant un **h aspiré** (pas de liaison), on écrit **ce** : **ce** héros, **ce** hibou.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Regarde {cette>cet} arbre immense.",
+    "e": "« Un arbre » : masculin, devant une voyelle, « cet ».",
+    "id": "cet-cette.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'ai lu {cet>cette} histoire hier soir.",
+    "e": "« Une histoire » : féminin, « cette ».",
+    "id": "cet-cette.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Ce>Cet} hôtel est complet.",
+    "e": "« Un hôtel » : masculin, devant un h muet, « cet ».",
+    "id": "cet-cette.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Cet>Cette} année, nous partons à la mer.",
+    "e": "« Une année » : féminin, « cette ».",
+    "id": "cet-cette.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Qui est {cette>cet} homme ?",
+    "e": "« Un homme » : masculin, devant un h muet, « cet ».",
+    "id": "cet-cette.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Cet>Cette} idée est excellente.",
+    "e": "« Une idée » : féminin, « cette ».",
+    "id": "cet-cette.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Cette>Cet} été, il a fait très chaud.",
+    "e": "« Un été » : masculin, devant une voyelle, « cet ».",
+    "id": "cet-cette.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Cet>Ce} garçon court très vite.",
+    "e": "« Un garçon » : masculin, devant une consonne, « ce ».",
+    "id": "cet-cette.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cet oiseau s'est posé sur cette branche.",
+    "e": "Correct : « un oiseau » (cet), « une branche » (cette).",
+    "id": "cet-cette.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "___ ordinateur est trop lent.",
+    "o": [
+     "Cet",
+     "Cette",
+     "Ce"
+    ],
+    "a": 0,
+    "e": "« Un ordinateur » : masculin, devant une voyelle, « cet ».",
+    "id": "cet-cette.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "cet ou cette ?",
+    "c": [
+     "cet",
+     "cette"
+    ],
+    "items": [
+     [
+      "___ arbre",
+      0
+     ],
+     [
+      "___ affiche",
+      1
+     ],
+     [
+      "___ hôpital",
+      0
+     ],
+     [
+      "___ heure",
+      1
+     ],
+     [
+      "___ ami",
+      0
+     ],
+     [
+      "___ amie",
+      1
+     ]
+    ],
+    "e": "« un » → cet ; « une » → cette.",
+    "id": "cet-cette.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Cette>Cet} horaire ne me convient pas.",
+    "e": "« Un horaire » : le nom est masculin, « cet ».",
+    "id": "cet-cette.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Cet>Cette} erreur m'a coûté cher.",
+    "e": "« Une erreur » : le nom est féminin, « cette ».",
+    "id": "cet-cette.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'adore {cette>cet} endroit.",
+    "e": "« Un endroit » : masculin, devant une voyelle, « cet ».",
+    "id": "cet-cette.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Ce>Cet} énorme chien me fait peur.",
+    "e": "Le mot qui suit (« énorme ») commence par une voyelle : « cet ».",
+    "id": "cet-cette.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Cet>Ce} héros est très courageux.",
+    "e": "« Héros » commence par un h aspiré (on dit « le héros », sans liaison) : « ce ».",
+    "id": "cet-cette.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "___ espèce d'oiseau est rare.",
+    "o": [
+     "Cette",
+     "Cet"
+    ],
+    "a": 0,
+    "e": "« Une espèce » : le nom est féminin, « cette ».",
+    "id": "cet-cette.17"
+   },
+   {
+    "num": 18,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Cette>Cet} incendie a détruit la forêt.",
+    "e": "« Un incendie » : le nom est masculin, « cet ».",
+    "id": "cet-cette.18"
+   },
+   {
+    "num": 19,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cet hiver, cette amie viendra nous voir.",
+    "e": "Correct : « un hiver » (cet), « une amie » (cette).",
+    "id": "cet-cette.19"
+   }
+  ],
+  "bref": "- **cet** et **cette** se prononcent pareil : regardez le **genre** du nom.\n- **une** → **cette** : **cette** idée. **un** → **cet** devant une voyelle (**cet** arbre), sinon **ce** (**ce** garçon)."
  },
  {
   "id": "cod-coi",
@@ -6864,6 +7298,228 @@ window.PLUME_REGLES = [
   "bref": "- **dont** remplace un complément construit avec **de** : avoir besoin **de** → ce **dont** j'ai besoin.\n- **que** remplace un complément **sans préposition** : vouloir quelque chose → ce **que** je veux.\n\n**Le test** : refaites la phrase simple. J'ai besoin **de** ce livre → le livre **dont** j'ai besoin."
  },
  {
+  "id": "du-du",
+  "titre": "du ou dû, sur ou sûr, mur ou mûr",
+  "resume": "J'ai dû partir (devoir), je suis sûr (certain), un fruit mûr (à point) : l'accent change le sens.",
+  "niveau": "lycee",
+  "fiche": "- **dû** est le participe passé de **devoir** : j'ai **dû** partir (je **dois** partir). **du** est un article : je bois **du** lait.\n- **sûr** veut dire **certain** : je suis **sûr** qu'il viendra. **sur** indique une position : le vase est **sur** la table.\n- **mûr** veut dire **à point**, **prêt** : ces bananes sont **mûres**. **mur** est un nom : il a peint le **mur**.\n\n**Le test** : remplacez par « certain », « à point » ou le verbe « devoir ».\n> Es-tu sûr de toi ? → Es-tu certain de toi ? ✔ → **sûr**.\n> Pose le vase sur la table. → Pose le vase certain la table ✘ → **sur**.\n\n**Les pièges** :\n- **dû** perd son accent au féminin et au pluriel : la somme **due**, les impôts **dus**.\n- **sûr** et **mûr** gardent leur accent : elle est **sûre**, des fruits **mûrs**.\n\n**Pour aller plus loin**\n- **bien sûr** et **à coup sûr** s'écrivent avec l'accent (certainement).\n- Un fromage **mûr**, une idée **mûre** : « à point », « bien réfléchie ».",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'ai {du>dû} partir plus tôt.",
+    "e": "Verbe devoir (je dois partir) : participe « dû ».",
+    "id": "du-du.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a {du>dû} se tromper de route.",
+    "e": "Verbe devoir (il doit se tromper) : « dû ».",
+    "id": "du-du.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je bois {dû>du} lait le matin.",
+    "e": "Article (du lait, de l'eau) : « du », sans accent.",
+    "id": "du-du.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Es-tu {sur>sûr} de toi ?",
+    "e": "« Es-tu certain de toi ? » : « sûr ».",
+    "id": "du-du.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Pose le vase {sûr>sur} la table.",
+    "e": "Une position (« sur la table ») : « sur », sans accent.",
+    "id": "du-du.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces bananes ne sont pas encore {mures>mûres}.",
+    "e": "« À point » : « mûr », qui garde son accent au féminin pluriel, « mûres ».",
+    "id": "du-du.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a peint le {mûr>mur} en bleu.",
+    "e": "Le nom « le mur » (la paroi) : sans accent.",
+    "id": "du-du.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je suis {sur>sûr} qu'il viendra.",
+    "e": "« Je suis certain qu'il viendra » : « sûr ».",
+    "id": "du-du.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'ai dû acheter du pain sur le chemin.",
+    "e": "Correct : « dû » (devoir), « du pain » (article), « sur le chemin » (position).",
+    "id": "du-du.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Elle est ___ de gagner.",
+    "o": [
+     "sûre",
+     "sure",
+     "sur"
+    ],
+    "a": 0,
+    "e": "« Elle est certaine » : « sûr » au féminin, avec l'accent, « sûre ».",
+    "id": "du-du.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "avec ou sans accent ?",
+    "c": [
+     "avec accent (dû, sûr, mûr)",
+     "sans accent (du, sur, mur)"
+    ],
+    "items": [
+     [
+      "Il a ___ attendre.",
+      0
+     ],
+     [
+      "Le chat dort ___ le lit.",
+      1
+     ],
+     [
+      "Je suis ___ de moi.",
+      0
+     ],
+     [
+      "Un ___ de briques.",
+      1
+     ],
+     [
+      "Ce melon est bien ___.",
+      0
+     ],
+     [
+      "Je mange ___ fromage.",
+      1
+     ]
+    ],
+    "e": "Avec accent : devoir (dû), certain (sûr), à point (mûr). Sans accent : l'article, la préposition, le nom.",
+    "id": "du-du.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La somme {dûe>due} sera remboursée.",
+    "e": "« Dû » perd son accent au féminin : « due ».",
+    "id": "du-du.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les impôts {dûs>dus} doivent être payés avant juin.",
+    "e": "« Dû » perd son accent au pluriel : « dus ».",
+    "id": "du-du.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Bien sur>Bien sûr}, je viendrai.",
+    "e": "« Bien sûr » (certainement) prend l'accent.",
+    "id": "du-du.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce fromage est bien {mur>mûr}.",
+    "e": "« À point » : « mûr », avec l'accent.",
+    "id": "du-du.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle a {du>dû} attendre une heure.",
+    "e": "Verbe devoir (elle doit attendre) : « dû ».",
+    "id": "du-du.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "À coup sûr, ce mur sera repeint.",
+    "e": "Correct : « à coup sûr » (certainement), « ce mur » (le nom).",
+    "id": "du-du.17"
+   },
+   {
+    "num": 18,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ces poires sont trop ___.",
+    "o": [
+     "mûres",
+     "mures"
+    ],
+    "a": 0,
+    "e": "« À point » : « mûr » garde l'accent au féminin pluriel, « mûres ».",
+    "id": "du-du.18"
+   },
+   {
+    "num": 19,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous sommes {surs>sûrs} de notre choix.",
+    "e": "« Certains de notre choix » : « sûr » garde l'accent au pluriel, « sûrs ».",
+    "id": "du-du.19"
+   }
+  ],
+  "bref": "- **dû** (avec accent) vient du verbe **devoir** : j'ai **dû** partir. Sinon, **du** : **du** pain.\n- **sûr** = **certain** : je suis **sûr**. Sinon, **sur** : **sur** la table.\n- **mûr** = **à point** : un fruit **mûr**. Sinon, **mur** : le **mur**."
+ },
+ {
   "id": "et-est",
   "titre": "et ou est",
   "resume": "L'addition ou le verbe être ? Le test de « était ».",
@@ -8246,6 +8902,218 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "- Devant un **verbe**, **leur** ne prend **jamais de s** : je **leur** parle. On peut dire **lui**.\n- Devant un **nom**, on regarde le nom : **leur** maison (une seule), **leurs** enfants (plusieurs).\n\n> Je leur écris. → Je lui écris ✔ → **leur**\n> Ils rangent leurs affaires. → « affaires » est au pluriel → **leurs**"
+ },
+ {
+  "id": "ma-m-a",
+  "titre": "ma ou m'a, ta ou t'a, mon ou m'ont, ton ou t'ont",
+  "resume": "Ma veste (la mienne) ; il m'a prêté (me + a, verbe avoir).",
+  "niveau": "college",
+  "fiche": "- **ma, ta, mon, ton** annoncent un **nom** : **ma** veste, **ta** note, **mon** bureau, **ton** sac.\n- **m'a, t'a** sont formés de **me / te** et du verbe **avoir** (au singulier) : il **m'a** prêté son stylo, qui **t'a** dit ça ?\n- **m'ont, t'ont** sont formés de **me / te** et du verbe **avoir** (au pluriel) : mes amis **m'ont** offert un livre.\n\n**Le test** : mettez le verbe à l'imparfait.\n> Il m'a prêté son stylo. → Il m'avait prêté son stylo ✔ → **m'a**.\n> J'ai oublié ma veste. → J'ai oublié m'avait veste ✘ → **ma**.\n\n**Les pièges** :\n- Avec un sujet pluriel, c'est **m'ont / t'ont** : ils **m'ont** prévenu → ils **m'avaient** prévenu.\n- Dans une question, le sujet passe après : **t'a**-t-il répondu ? **m'ont**-ils vu ?\n\n**Pour aller plus loin**\n- Les questions avec inversion : **T'ont**-ils répondu ? **M'a**-t-elle reconnu ?\n- Ne pas confondre avec **ton / t'on** : « on t'a dit » s'écrit avec **t'a**.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il {ma>m'a} prêté son stylo.",
+    "e": "« Il m'avait prêté » : me + avoir, « m'a ».",
+    "id": "ma-m-a.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ma tante {ma>m'a} téléphoné hier soir.",
+    "e": "« Ma tante m'avait téléphoné » : « m'a ».",
+    "id": "ma-m-a.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'ai oublié {m'a>ma} veste au bureau.",
+    "e": "Devant le nom « veste » : déterminant possessif, « ma ».",
+    "id": "ma-m-a.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Tu as vu {t'a>ta} note de français ?",
+    "e": "Devant le nom « note » : déterminant possessif, « ta ».",
+    "id": "ma-m-a.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Qui {ta>t'a} dit ça ?",
+    "e": "« Qui t'avait dit ça ? » : te + avoir, « t'a ».",
+    "id": "ma-m-a.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Mes amis {mon>m'ont} offert un livre.",
+    "e": "« Mes amis m'avaient offert » : me + avoir au pluriel, « m'ont ».",
+    "id": "ma-m-a.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Tes parents {ton>t'ont} laissé un message.",
+    "e": "« Tes parents t'avaient laissé un message » : « t'ont ».",
+    "id": "ma-m-a.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'ai enfin rangé {m'ont>mon} bureau.",
+    "e": "Devant le nom « bureau » : déterminant possessif, « mon ».",
+    "id": "ma-m-a.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ma sœur m'a prêté ta guitare.",
+    "e": "Correct : « ma sœur » et « ta guitare » (devant un nom), « m'a prêté » (m'avait prêté).",
+    "id": "ma-m-a.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Le dentiste ___ donné rendez-vous lundi.",
+    "o": [
+     "m'a",
+     "ma"
+    ],
+    "a": 0,
+    "e": "« Le dentiste m'avait donné rendez-vous » : « m'a ».",
+    "id": "ma-m-a.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "déterminant ou pronom + avoir ?",
+    "c": [
+     "ma, ta, mon, ton",
+     "m'a, t'a, m'ont, t'ont"
+    ],
+    "items": [
+     [
+      "J'ai perdu ___ clé.",
+      0
+     ],
+     [
+      "Elle ___ souri.",
+      1
+     ],
+     [
+      "Ils ___ invité à dîner.",
+      1
+     ],
+     [
+      "Range ___ chambre !",
+      0
+     ],
+     [
+      "Qui ___ prévenu ?",
+      1
+     ],
+     [
+      "J'ai fêté ___ anniversaire.",
+      0
+     ]
+    ],
+    "e": "Devant un nom : ma, ta, mon, ton. Si l'on peut dire « m'avait » ou « t'avait », c'est me / te + avoir.",
+    "id": "ma-m-a.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Ton>T'ont}-ils répondu ?",
+    "e": "« T'avaient-ils répondu ? » : te + avoir au pluriel, « t'ont ».",
+    "id": "ma-m-a.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce film {ma>m'a} beaucoup plu.",
+    "e": "« Ce film m'avait plu » : « m'a ».",
+    "id": "ma-m-a.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Où as-tu mis {t'ont>ton} sac ?",
+    "e": "Devant le nom « sac » : déterminant possessif, « ton ».",
+    "id": "ma-m-a.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils {mon>m'ont} tout expliqué.",
+    "e": "« Ils m'avaient tout expliqué » : « m'ont ».",
+    "id": "ma-m-a.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ton frère t'a laissé un mot sur la table.",
+    "e": "Correct : « ton frère » (devant un nom), « t'a laissé » (t'avait laissé).",
+    "id": "ma-m-a.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Mes voisins ___ prêté leur camion.",
+    "o": [
+     "m'ont",
+     "mon"
+    ],
+    "a": 0,
+    "e": "« Mes voisins m'avaient prêté » : me + avoir au pluriel, « m'ont ».",
+    "id": "ma-m-a.17"
+   },
+   {
+    "num": 18,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Ta>T'a}-t-il rendu ton livre ?",
+    "e": "« T'avait-il rendu ton livre ? » : te + avoir, « t'a ».",
+    "id": "ma-m-a.18"
+   }
+  ],
+  "bref": "- **ma, ta, mon, ton** sont devant un **nom** : **ma** veste, **ton** sac.\n- **m'a, t'a, m'ont, t'ont** = **me / te + avoir** : il **m'a** prêté → il **m'avait** prêté."
  },
  {
   "id": "majuscules",
@@ -10037,6 +10905,209 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "- **ou** (sans accent) propose un choix : fromage **ou** dessert. On peut dire **ou bien**.\n- **où** (avec accent) indique un lieu ou un moment : **où** vas-tu ? le jour **où** il est parti.\n\n> Tu viens ou tu restes ? → ou bien tu restes ✔ → **ou**\n> La ville où j'habite. → la ville ou bien j'habite ✘ → **où**"
+ },
+ {
+  "id": "parce-que",
+  "titre": "parce que ou par ce que",
+  "resume": "Je reste parce que je suis malade (= car) ; je suis touché par ce que tu dis (= par la chose que).",
+  "niveau": "lycee",
+  "fiche": "- **parce que** (deux mots) exprime la **cause**. On peut le remplacer par **car** : il est en retard **parce qu'**il a raté le bus.\n- **par ce que** (trois mots) veut dire **par la chose que** : je suis étonné **par ce que** tu m'apprends.\n\n**Le test** : remplacez par « car ».\n> Je reste à la maison parce que je suis malade. → car je suis malade ✔ → **parce que**.\n> Commence par ce que tu préfères. → Commence car tu préfères ✘ → **par ce que**.\n\n**Les pièges** :\n- Devant une voyelle : **parce qu'**il, **par ce qu'**elle.\n- Après **par ce que**, le verbe a besoin d'un complément : ce que tu **dis**, ce qu'il **ressent**.\n\n**Pour aller plus loin**\n- « Pourquoi ? — **Parce que** ! » : employé seul, c'est toujours **parce que**.\n- Les deux peuvent se suivre : je t'appelle **parce que** je suis bouleversé **par ce que** j'ai vu.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je reste à la maison {par ce que>parce que} je suis malade.",
+    "e": "« Car je suis malade » : la cause, « parce que ».",
+    "id": "parce-que.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il est en retard {par ce qu'il>parce qu'il} a raté le bus.",
+    "e": "« Car il a raté le bus » : « parce qu'il ».",
+    "id": "parce-que.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Commence {parce que>par ce que} tu préfères.",
+    "e": "« Commence par la chose que tu préfères » : « par ce que ».",
+    "id": "parce-que.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je suis étonné {parce que>par ce que} tu viens de m'apprendre.",
+    "e": "« Étonné par la chose que tu viens de m'apprendre » : « par ce que ».",
+    "id": "parce-que.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous sortons {par ce que>parce que} le soleil brille.",
+    "e": "« Car le soleil brille » : « parce que ».",
+    "id": "parce-que.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle sourit {par ce qu'elle>parce qu'elle} est heureuse.",
+    "e": "« Car elle est heureuse » : « parce qu'elle ».",
+    "id": "parce-que.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il se laisse guider {parce qu'il>par ce qu'il} ressent.",
+    "e": "« Par la chose qu'il ressent » : « par ce qu'il ».",
+    "id": "parce-que.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "On se baigne {par ce qu'il>parce qu'il} fait chaud.",
+    "e": "« Car il fait chaud » : « parce qu'il ».",
+    "id": "parce-que.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je t'appelle parce que je suis bouleversé par ce que j'ai vu.",
+    "e": "Correct : « parce que » (car), puis « par ce que » (par la chose que).",
+    "id": "parce-que.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il a réussi ___ il a beaucoup travaillé.",
+    "o": [
+     "parce qu'",
+     "par ce qu'"
+    ],
+    "a": 0,
+    "e": "« Car il a beaucoup travaillé » : « parce qu' ».",
+    "id": "parce-que.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "parce que ou par ce que ?",
+    "c": [
+     "parce que (car)",
+     "par ce que (par la chose que)"
+    ],
+    "items": [
+     [
+      "Je me couvre ___ il fait froid.",
+      0
+     ],
+     [
+      "Je suis ému ___ tu me confies.",
+      1
+     ],
+     [
+      "Il rit ___ la blague est drôle.",
+      0
+     ],
+     [
+      "Commence ___ tu connais le mieux.",
+      1
+     ],
+     [
+      "Elle part ___ elle est pressée.",
+      0
+     ],
+     [
+      "Je suis inquiet ___ tu m'annonces.",
+      1
+     ]
+    ],
+    "e": "Si l'on peut dire « car », c'est « parce que ». Si l'on peut dire « par la chose que », c'est « par ce que ».",
+    "id": "parce-que.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Par ce que>Parce que} tu le veux, nous irons.",
+    "e": "« Puisque tu le veux » : la cause, « parce que ».",
+    "id": "parce-que.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je me suis laissé convaincre {parce qu'il>par ce qu'il} disait.",
+    "e": "« Convaincre par la chose qu'il disait » : « par ce qu'il ».",
+    "id": "parce-que.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "« Pourquoi ? — {Par ce que>Parce que} ! »",
+    "e": "Employé seul, en réponse : toujours « parce que ».",
+    "id": "parce-que.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a été déçu par ce que le directeur a annoncé.",
+    "e": "Correct : « déçu par la chose que le directeur a annoncée » : « par ce que ».",
+    "id": "parce-que.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Je suis surpris ___ tu proposes.",
+    "o": [
+     "par ce que",
+     "parce que"
+    ],
+    "a": 0,
+    "e": "« Surpris par la chose que tu proposes » : « par ce que ».",
+    "id": "parce-que.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle a pleuré {par ce que>parce que} son chat s'était perdu.",
+    "e": "« Car son chat s'était perdu » : « parce que ».",
+    "id": "parce-que.17"
+   }
+  ],
+  "bref": "- **parce que** donne une **cause** : je reste **parce que** je suis malade → **car** je suis malade.\n- **par ce que** = **par la chose que** : commence **par ce que** tu préfères."
  },
  {
   "id": "paronymes",
