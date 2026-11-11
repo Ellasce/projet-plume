@@ -23,6 +23,7 @@
   var SEULEMENT_VALIDES = false; // true : le site ne montre que les exercices marqués ✔
   var REGLES = [];          // liste à plat, dans l'ordre du parcours
   var REGLE_PAR_ID = {};
+  var TAILLE_TEST = 15; // nombre maximal de questions du test de positionnement
   var EXO_PAR_ID = {};
 
   (window.PLUME_REGLES || []).forEach(function (regle) {
@@ -458,8 +459,8 @@
       + '<a class="stat" href="/progres"><strong>' + serieActuelle() + " j</strong><span>série</span></a></div>";
 
     if (!etat.testFait) {
-      html += '<div class="encart"><p><strong>Nouveau ici ?</strong> Le test de positionnement (' + REGLES.length
-        + " questions) repère ce que vous savez déjà, pour ne pas le refaire.</p>" + lien("/test", "Passer le test", "bouton") + "</div>";
+      html += '<div class="encart"><p><strong>Nouveau ici ?</strong> Le test de positionnement (' + Math.min(TAILLE_TEST, REGLES.length)
+        + " questions, quelques minutes) repère ce que vous savez déjà, pour ne pas le refaire.</p>" + lien("/test", "Passer le test", "bouton") + "</div>";
     }
 
     html += '<h2 class="titre-section">Parcours conseillé</h2><p class="note">Un ordre progressif qui mélange les thèmes. Vous pouvez aussi choisir librement dans l\'onglet Cours.</p><ol class="parcours">';
@@ -780,7 +781,7 @@
       html += "</ul></div>";
     });
 
-    html += '<div class="encart"><h2>Test de positionnement</h2><p>' + (etat.testFait ? "Vous l'avez déjà passé. Vous pouvez le refaire pour mettre à jour votre parcours." : "Une question par règle, pour repérer ce que vous savez déjà.")
+    html += '<div class="encart"><h2>Test de positionnement</h2><p>' + (etat.testFait ? "Vous l'avez déjà passé. Vous pouvez le refaire pour mettre à jour votre parcours." : "Quinze questions sur l'ensemble des thèmes, pour repérer ce que vous savez déjà.")
       + "</p>" + lien("/test", etat.testFait ? "Refaire le test" : "Passer le test", "bouton") + "</div>";
 
     html += PAGES.progression.html;
@@ -1019,8 +1020,8 @@
     } else if (mode === "revisions") {
       exos = melanger(revisionsDues(null)).slice(0, TAILLE_SESSION);
     } else if (mode === "test") {
-      // Une phrase « trouve la faute » par règle : moins de chances de répondre au hasard.
-      exos = REGLES.map(function (r) {
+      // Une phrase « trouve la faute » par règle testée : moins de chances de répondre au hasard.
+      exos = reglesDuTest().map(function (r) {
         var candidats = essentiels(r).filter(function (e) { return e.t === "faute" && /\{/.test(e.s); });
         return melanger(candidats.length ? candidats : essentiels(r).slice())[0];
       });
@@ -1342,6 +1343,35 @@
     vueQuestion();
   }
 
+  // Test de positionnement : TAILLE_TEST règles au plus, prises à tour de rôle dans
+  // chaque sous-thème (au hasard à l'intérieur), puis remises dans l'ordre du parcours.
+  function reglesDuTest() {
+    var groupes = [];
+    CATEGORIES.forEach(function (c) {
+      c.sous.forEach(function (s) {
+        var rs = s.regles.map(function (r) { return typeof r === "string" ? REGLE_PAR_ID[r] : r; }).filter(Boolean);
+        if (rs.length) { melanger(rs).categorie = c.id; groupes.push(rs); }
+      });
+    });
+    // Plus de sous-thèmes que de questions : on en retire dans les thèmes qui en ont le plus,
+    // pour que chaque thème reste représenté.
+    while (groupes.length > TAILLE_TEST) {
+      var parCat = {};
+      groupes.forEach(function (g) { parCat[g.categorie] = (parCat[g.categorie] || 0) + 1; });
+      var max = Math.max.apply(null, Object.keys(parCat).map(function (k) { return parCat[k]; }));
+      var candidats = groupes.filter(function (g) { return parCat[g.categorie] === max; });
+      groupes.splice(groupes.indexOf(melanger(candidats)[0]), 1);
+    }
+    melanger(groupes);
+    var choisies = [];
+    for (var tour = 0; choisies.length < TAILLE_TEST && groupes.some(function (g) { return g.length > tour; }); tour++) {
+      groupes.forEach(function (g) {
+        if (choisies.length < TAILLE_TEST && g[tour] && choisies.indexOf(g[tour]) === -1) choisies.push(g[tour]);
+      });
+    }
+    return choisies.sort(function (a, b) { return REGLES.indexOf(a) - REGLES.indexOf(b); });
+  }
+
   function vueBilan() {
     var s = session;
     var html = '<section class="bilan"><h1>' + (s.mode === "test" ? "Résultat du test" : "Session terminée") + "</h1>"
@@ -1350,7 +1380,8 @@
     if (s.mode === "test") {
       etat.testFait = true;
       html += '<p>Les règles réussies sont marquées « Validées au test ». Le parcours commence par les autres ; vous pouvez toujours ouvrir une règle validée pour vous y entraîner.</p><ul class="liste-test">';
-      REGLES.forEach(function (r) {
+      // Seules les règles testées changent : les autres gardent leur résultat précédent.
+      REGLES.filter(function (r) { return r.id in s.resultatsTest; }).forEach(function (r) {
         var ok = s.resultatsTest[r.id];
         if (ok) etat.regles[r.id] = { test: true };
         else delete etat.regles[r.id];

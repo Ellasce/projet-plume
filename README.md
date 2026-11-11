@@ -98,7 +98,7 @@ S'y ajoutent les **choix multiples** rédigés à la main et les exercices de **
 - **Fiche par règle**, consultable avant l'exercice et depuis la correction.
 - **Répétition espacée** : chaque exercice a une « boîte » (0 à 6). Une bonne réponse le fait monter d'une boîte et l'espace davantage (1, 3, 7, 14, 30, 60 jours). Une erreur le renvoie à zéro : il revient plus loin dans la même session, présenté autrement.
 - **Règle acquise** quand le socle essentiel (8 à 12 exercices) a été réussi deux fois de suite ; les exercices avancés se font ensuite depuis la fiche (« Aller plus loin »).
-- **Test de positionnement** : une phrase par règle, pour ne pas refaire ce qu'on sait déjà.
+- **Test de positionnement** : 15 questions au plus, une par sous-thème (règle tirée au hasard), pour ne pas refaire ce qu'on sait déjà. Chaque règle réussie est marquée « Validée au test ».
 - **Clavier** : `1`, `2`, `3` pour les choix ; `A` pour « Aucune faute » ; `Entrée` pour valider et continuer.
 - **Export et import** de la progression (fichier JSON).
 
