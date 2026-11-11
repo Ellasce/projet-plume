@@ -309,7 +309,9 @@
     { id: "reviser", href: "/reviser", titre: "Réviser",
       icone: icone('<path d="M20 11.5A8 8 0 0 0 6 6.3L4 8.5"/><path d="M4 3.5v5h5"/><path d="M4 12.5a8 8 0 0 0 14 5.2l2-2.2"/><path d="M20 20.5v-5h-5"/>') },
     { id: "progres", href: "/progres", titre: "Progrès",
-      icone: icone('<path d="M3 20.5h18"/><path d="M6.5 17v-5M12 17V6.5M17.5 17v-8"/>') }
+      icone: icone('<path d="M3 20.5h18"/><path d="M6.5 17v-5M12 17V6.5M17.5 17v-8"/>') },
+    { id: "projet", href: "/projet", titre: "Le projet",
+      icone: icone('<circle cx="12" cy="12" r="9"/><path d="M12 11v5.5"/><path d="M12 7.5h.01"/>') }
   ];
 
   function majOnglets(actif) {
@@ -913,7 +915,7 @@
   }
 
   function vueProjet() {
-    afficher('<article class="fiche page-projet">' + PAGES.projet.html + "</article>", "");
+    afficher('<article class="fiche page-projet">' + PAGES.projet.html + "</article>", "projet");
   }
 
   /* ---------- Sessions d'exercices ---------- */

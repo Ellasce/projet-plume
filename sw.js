@@ -1,6 +1,6 @@
 /* Projet Plume — mode hors ligne (GPL-3.0-or-later).
  * Changez VERSION à chaque mise à jour pour rafraîchir le cache. */
-var VERSION = "plume-v10";
+var VERSION = "plume-v11";
 var FICHIERS = [
   "/",
   "/css/style.css",
