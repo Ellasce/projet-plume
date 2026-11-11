@@ -14,7 +14,7 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 3. L'orthographe d'usage (consonnes doubles, accents, -amment / -emment, majuscules, trait d'union) : la catégorie entièrement absente.
 4. La ponctuation, puis les règles 🟢.
 
-## Déjà réalisées (89 règles)
+## Déjà réalisées (94 règles)
 
 - [x] a / à — `a-a`
 - [x] Infinitif ou participe passé : -er, -é, -ez — `infinitif-participe`
@@ -106,6 +106,11 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 - [x] Noms en -é, -ée, -té, -tié — `noms-ee-te`
 - [x] Mots invariables courants — `mots-invariables`
 - [x] L'élision — `elision`
+- [x] Plus-que-parfait et futur antérieur — `pqp-futur-anterieur`
+- [x] Imparfait ou passé simple — `imparfait-passe-simple`
+- [x] Subjonctif passé — `subjonctif-passe`
+- [x] Impératif + pronoms — `imperatif-pronoms`
+- [x] Verbes pronominaux : conjugaison — `pronominaux-conj`
 
 ## 1. Homophones
 
@@ -146,12 +151,12 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 
 ## 3. Conjugaison
 
-- [ ] 🟠 Plus-que-parfait et futur antérieur — collège
-- [ ] 🟠 Imparfait ou passé simple dans un récit — collège
-- [ ] 🟠 Subjonctif passé — lycée
+- [x] 🟠 Plus-que-parfait et futur antérieur — collège → `pqp-futur-anterieur`
+- [x] 🟠 Imparfait ou passé simple dans un récit — collège → `imparfait-passe-simple`
+- [x] 🟠 Subjonctif passé — lycée → `subjonctif-passe`
 - [ ] 🟠 Verbes en -indre et -soudre (complet) — lycée
 - [ ] 🟠 Passif et voix pronominale — lycée
-- [ ] 🟠 Impératif + pronoms (donne-le-moi, vas-y, manges-en) — lycée
+- [x] 🟠 Impératif + pronoms (donne-le-moi, vas-y, manges-en) — lycée → `imperatif-pronoms`
 - [ ] 🟢 Verbes défectifs (falloir, pleuvoir, clore, frire) — supérieur
 - [ ] 🟢 Subjonctif imparfait (reconnaître, lire) — supérieur
 
@@ -227,7 +232,7 @@ Accords et grammaire
 - [ ] 🟠 Adjectif ou adverbe (des fleurs qui sentent bon, ils parlent fort) — lycée
 
 Conjugaison
-- [ ] 🟠 Verbes pronominaux : conjugaison et auxiliaire être — collège
+- [x] 🟠 Verbes pronominaux : conjugaison et auxiliaire être — collège → `pronominaux-conj`
 - [ ] 🟠 Imparfait et subjonctif des verbes en -ier, -yer, -gner, -iller (nous criions, nous payions) — lycée
 
 Fonctions du site (ce ne sont pas des règles)

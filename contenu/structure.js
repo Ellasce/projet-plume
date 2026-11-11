@@ -56,11 +56,11 @@ window.PLUME_STRUCTURE = {
         { id: "bases-conjugaison", titre: "Les bases : les trois groupes",
           regles: ["conj-groupes", "conj-base-present", "tu-s", "verbes-cer-ger", "conj-base-imparfait", "conj-base-futur"] },
         { id: "temps-composes", titre: "Temps composés",
-          regles: ["pc-auxiliaire", "pp-terminaison", "conditionnel-passe"] },
+          regles: ["pc-auxiliaire", "pronominaux-conj", "pp-terminaison", "pqp-futur-anterieur", "conditionnel-passe", "subjonctif-passe"] },
         { id: "formes-verbes", titre: "Formes pièges",
-          regles: ["conj-present", "conj-futur", "conj-subjonctif", "conj-imperatif", "conj-passe-simple", "conj-participe"] },
+          regles: ["conj-present", "conj-futur", "conj-subjonctif", "conj-imperatif", "imperatif-pronoms", "conj-passe-simple", "conj-participe"] },
         { id: "choisir-mode", titre: "Choisir le mode",
-          regles: ["modes-conjonctions", "concordance-temps"] }
+          regles: ["imparfait-passe-simple", "modes-conjonctions", "concordance-temps"] }
       ]
     },
     {
@@ -107,17 +107,22 @@ window.PLUME_STRUCTURE = {
   // les valide d'emblée pour ceux qui les maîtrisent.
   parcours: [
     "a-a", "et-est", "on-ont", "son-sont", "ou-ou", "la-la", "leur-leurs", "peu-peut",
-    "ca-sa", "sais-sait", "mes-mais-met", "pres-pret", "ma-m-a", "cet-cette", "accord-gn", "accord-sujet-verbe", "pluriel-noms", "feminin", "chaque-chacun", "tu-s", "verbes-cer-ger", "pc-auxiliaire", "pp-terminaison", "cod-coi", "consonnes-doubles", "m-devant-mbp", "son-s", "noms-ee-te", "mots-invariables", "accents",
-    "conj-groupes", "conj-base-present", "conj-base-imparfait", "conj-base-futur",
+    "ca-sa", "sais-sait", "mes-mais-met", "pres-pret", "ma-m-a", "cet-cette", "accord-gn", "accord-sujet-verbe", "pluriel-noms", "feminin", "chaque-chacun", "tu-s", "verbes-cer-ger", "pc-auxiliaire", "pronominaux-conj", "pp-terminaison", "cod-coi", "consonnes-doubles", "m-devant-mbp", "son-s", "noms-ee-te", "mots-invariables", "accents",
+    "conj-groupes", "conj-base-present", "conj-base-imparfait", "conj-base-futur", "pqp-futur-anterieur", "imparfait-passe-simple",
     "infinitif-participe", "ce-se-ces-ses", "si-s-y", "ni-n-y", "sans-s-en", "ce-ceux", "quel-quelle-qu-elle", "pp-etre-avoir",
     "conj-present", "futur-conditionnel", "conj-futur", "pp-cod-avant",
-    "tout", "noms-composes", "meme", "accord-on-vous", "conj-imperatif", "vingt-cent-mille", "couleurs", "demi-nu", "amment-emment", "dont-que", "cest-ce-sont", "negation-ne", "trait-union", "elision", "majuscules", "conditionnel-passe", "ai-ais", "du-du", "parce-que", "notre-notre", "interrogation-indirecte", "mots-difficiles", "pronoms-relatifs", "virgule", "concordance-temps", "constructions-verbes", "conj-subjonctif",
+    "tout", "noms-composes", "meme", "accord-on-vous", "conj-imperatif", "imperatif-pronoms", "vingt-cent-mille", "couleurs", "demi-nu", "amment-emment", "dont-que", "cest-ce-sont", "negation-ne", "trait-union", "elision", "majuscules", "conditionnel-passe", "ai-ais", "du-du", "parce-que", "notre-notre", "interrogation-indirecte", "mots-difficiles", "pronoms-relatifs", "virgule", "concordance-temps", "constructions-verbes", "conj-subjonctif", "subjonctif-passe",
     "accords-sujet-delicats", "modes-conjonctions", "pp-pronominaux", "quelque-quel-que",
     "quand-quant", "plutot-plus-tot", "quoique", "davantage", "voir-voire", "cense-sense", "participe-present-adjectif", "pp-infinitif", "conj-participe", "conj-passe-simple",
     "constructions-fautives", "paronymes"
   ],
 
   liens: {
+    "pqp-futur-anterieur": ["conditionnel-passe", "concordance-temps"],
+    "imparfait-passe-simple": ["conj-passe-simple", "ai-ais"],
+    "subjonctif-passe": ["conj-subjonctif", "modes-conjonctions"],
+    "imperatif-pronoms": ["conj-imperatif", "trait-union"],
+    "pronominaux-conj": ["pc-auxiliaire", "pp-pronominaux"],
     "son-s": ["verbes-cer-ger"],
     "mots-invariables": ["mots-difficiles"],
     "elision": ["trait-union", "si-s-y"],

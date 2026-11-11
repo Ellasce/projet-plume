@@ -9176,6 +9176,414 @@ window.PLUME_REGLES = [
   ]
  },
  {
+  "id": "imparfait-passe-simple",
+  "titre": "Imparfait ou passé simple dans un récit",
+  "resume": "Il pleuvait (le décor) quand, soudain, le téléphone sonna (l'action).",
+  "niveau": "college",
+  "fiche": "**L'imparfait** décrit ce qui dure ou se répète :\n- le **décor**, la description : la maison **était** grande ; le soleil **brillait** ;\n- une action **en cours** : pendant qu'il **lisait**…\n- une **habitude** : chaque matin, il **prenait** le bus.\n\n**Le passé simple** raconte les **actions** qui font avancer l'histoire :\n- une action **soudaine** : tout à coup, un chien **aboya** ;\n- des actions **qui se suivent** : elle ouvrit la porte, **entra** et s'assit.\n\n**Le test** : demandez-vous si c'est le décor (imparfait) ou un événement (passé simple).\n\n**Les pièges** :\n- Les mots **soudain, tout à coup, ce jour-là** annoncent souvent le passé simple.\n- Les mots **chaque jour, autrefois, souvent, pendant que** annoncent l'imparfait.\n\n**Pour aller plus loin**\n- Une action **en cours** est souvent interrompue par une action **soudaine** : il traversait la rue quand une voiture **surgit**.\n- Une **cause** ou une **circonstance** se met à l'imparfait : comme il **faisait** froid, il mit son manteau.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il pleuvait quand, soudain, le téléphone {sonnait>sonna}.",
+    "e": "« Soudain » : une action brève qui fait avancer le récit, passé simple.",
+    "id": "imparfait-passe-simple.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Chaque matin, il {prit>prenait} le bus de huit heures.",
+    "e": "« Chaque matin » : une habitude, imparfait.",
+    "id": "imparfait-passe-simple.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le soleil {brilla>brillait} et les oiseaux chantaient.",
+    "e": "Le décor (comme « chantaient ») : imparfait.",
+    "id": "imparfait-passe-simple.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle ouvrit la porte, {entrait>entra} et s'assit.",
+    "e": "Des actions qui se suivent : passé simple.",
+    "id": "imparfait-passe-simple.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Pendant qu'il {lut>lisait}, sa sœur dessinait.",
+    "e": "« Pendant que » : une action en cours, imparfait.",
+    "id": "imparfait-passe-simple.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Autrefois, nous {allâmes>allions} à la mer tous les étés.",
+    "e": "« Autrefois, tous les étés » : une habitude, imparfait.",
+    "id": "imparfait-passe-simple.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Tout à coup, un chien {aboyait>aboya}.",
+    "e": "« Tout à coup » : une action soudaine, passé simple.",
+    "id": "imparfait-passe-simple.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La maison {fut>était} grande et silencieuse.",
+    "e": "Une description : imparfait.",
+    "id": "imparfait-passe-simple.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il faisait nuit ; soudain, une lumière s'alluma.",
+    "e": "Correct : le décor à l'imparfait, l'action soudaine au passé simple.",
+    "id": "imparfait-passe-simple.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ce jour-là, il ___ trois fois à la porte.",
+    "o": [
+     "frappa",
+     "frappait"
+    ],
+    "a": 0,
+    "e": "« Ce jour-là » : un événement précis, passé simple.",
+    "id": "imparfait-passe-simple.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "imparfait ou passé simple ?",
+    "c": [
+     "imparfait (décor, habitude)",
+     "passé simple (action)"
+    ],
+    "items": [
+     [
+      "Il faisait beau.",
+      0
+     ],
+     [
+      "Soudain, il cria.",
+      1
+     ],
+     [
+      "Chaque soir, elle lisait.",
+      0
+     ],
+     [
+      "Il se leva et partit.",
+      1
+     ],
+     [
+      "La rue était calme.",
+      0
+     ],
+     [
+      "Tout à coup, la porte claqua.",
+      1
+     ]
+    ],
+    "e": "Le décor et les habitudes : imparfait. Les événements soudains ou qui se suivent : passé simple.",
+    "id": "imparfait-passe-simple.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il {marchait>marcha} une heure, puis il s'arrêta.",
+    "e": "Des actions qui se suivent (puis il s'arrêta) : passé simple.",
+    "id": "imparfait-passe-simple.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Comme il {fit>faisait} froid, il mit son manteau.",
+    "e": "Une circonstance, la cause : imparfait.",
+    "id": "imparfait-passe-simple.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Au moment où il {traversa>traversait} la rue, une voiture surgit.",
+    "e": "Une action en cours, interrompue par une autre : imparfait.",
+    "id": "imparfait-passe-simple.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les enfants jouaient dans la cour quand la cloche sonna.",
+    "e": "Correct : l'action en cours à l'imparfait, l'événement au passé simple.",
+    "id": "imparfait-passe-simple.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Tous les dimanches, ils ___ chez leur grand-mère.",
+    "o": [
+     "dînaient",
+     "dînèrent"
+    ],
+    "a": 0,
+    "e": "« Tous les dimanches » : une habitude, imparfait.",
+    "id": "imparfait-passe-simple.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il {éteignait>éteignit} la lampe, ferma les yeux et s'endormit.",
+    "e": "Trois actions qui se suivent : passé simple.",
+    "id": "imparfait-passe-simple.17"
+   }
+  ],
+  "bref": "Dans un récit au passé :\n- **imparfait** pour le **décor** et les **habitudes** : il **pleuvait** ; chaque matin, il **prenait** le bus ;\n- **passé simple** pour les **actions** qui font avancer l'histoire : soudain, le téléphone **sonna**."
+ },
+ {
+  "id": "imperatif-pronoms",
+  "titre": "L'impératif avec des pronoms : donne-le-moi, vas-y",
+  "resume": "Donne-le-moi, vas-y, manges-en, dis-lui : l'ordre des pronoms et les traits d'union.",
+  "niveau": "lycee",
+  "fiche": "À l'impératif **affirmatif**, les pronoms se placent **après** le verbe et sont reliés par des **traits d'union** :\n> dis-lui, prends-en, allons-y, donne-le-moi\n\n**L'ordre** : le pronom complément direct (**le, la, les**) passe **avant** l'autre (**moi, toi, lui, nous, leur**).\n> donne-le-moi, envoie-la-lui, rends-les-leur\n\n**Le s devant en et y** : les verbes en -er et le verbe aller, qui n'ont pas de s à l'impératif, en prennent un devant **en** et **y**, pour la liaison.\n> va → **vas-y** ; mange → **manges-en** ; cueille → **cueilles-en**\n\n**Les pièges** :\n- Pas de s devant les autres pronoms : **parle-lui**, **mange-le**.\n- À la forme **négative**, les pronoms repassent devant le verbe, sans trait d'union : **ne me le donne pas**.\n\n**Pour aller plus loin**\n- **moi** + **en** devient **m'en** : donne-**m'en** (et non « donne-moi-en »).\n- **va-t'en** : « t' » est le pronom « te » (et non le -t- de « a-t-il »).",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Donne moi le>Donne-le-moi}, s'il te plaît.",
+    "e": "Le complément direct (le) avant « moi », avec des traits d'union.",
+    "id": "imperatif-pronoms.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Va-y>Vas-y}, je te suis.",
+    "e": "Devant « y », le verbe aller prend un s : « vas-y ».",
+    "id": "imperatif-pronoms.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Des pommes ? {Mange-en>Manges-en} une.",
+    "e": "Devant « en », un verbe en -er prend un s : « manges-en ».",
+    "id": "imperatif-pronoms.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Dis lui>Dis-lui} de venir.",
+    "e": "Le pronom suit l'impératif : trait d'union, « dis-lui ».",
+    "id": "imperatif-pronoms.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces livres, {rends-leur-les>rends-les-leur}.",
+    "e": "« Les » (complément direct) passe avant « leur ».",
+    "id": "imperatif-pronoms.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Donne-moi-le>Donne-le-moi} tout de suite.",
+    "e": "L'ordre est « le » puis « moi » : « donne-le-moi ».",
+    "id": "imperatif-pronoms.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Ne donne-le-moi pas>Ne me le donne pas}.",
+    "e": "À la forme négative, les pronoms se placent devant le verbe.",
+    "id": "imperatif-pronoms.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Parles-lui>Parle-lui} gentiment.",
+    "e": "Pas de s devant « lui » : seul « en » ou « y » l'appelle.",
+    "id": "imperatif-pronoms.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Prends-en deux et donne-les-lui.",
+    "e": "Correct : « prends-en » (trait d'union), « donne-les-lui » (les avant lui).",
+    "id": "imperatif-pronoms.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Cette lettre, ___ demain.",
+    "o": [
+     "envoie-la-lui",
+     "envoie-lui-la",
+     "envoie-la lui"
+    ],
+    "a": 0,
+    "e": "« La » avant « lui », avec deux traits d'union.",
+    "id": "imperatif-pronoms.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "faut-il ajouter un s ?",
+    "c": [
+     "avec s (devant en, y)",
+     "sans s"
+    ],
+    "items": [
+     [
+      "mange…-en",
+      0
+     ],
+     [
+      "parle…-lui",
+      1
+     ],
+     [
+      "va…-y",
+      0
+     ],
+     [
+      "cherche…-le",
+      1
+     ],
+     [
+      "cueille…-en",
+      0
+     ],
+     [
+      "apporte…-moi",
+      1
+     ]
+    ],
+    "e": "Le s s'ajoute seulement devant « en » et « y ».",
+    "id": "imperatif-pronoms.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Du pain ? {Donne-moi-en>Donne-m'en}.",
+    "e": "« Moi » + « en » devient « m'en ».",
+    "id": "imperatif-pronoms.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Allons y>Allons-y} !",
+    "e": "Pronom après l'impératif : trait d'union, « allons-y ».",
+    "id": "imperatif-pronoms.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Penses-y avant de répondre.",
+    "e": "Correct : devant « y », « pense » prend un s.",
+    "id": "imperatif-pronoms.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces fleurs, {offre lui les>offre-les-lui}.",
+    "e": "« Les » avant « lui », avec des traits d'union.",
+    "id": "imperatif-pronoms.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "___, il est tard !",
+    "o": [
+     "Va-t'en",
+     "Va-t-en",
+     "Vas-t'en"
+    ],
+    "a": 0,
+    "e": "« T' » est le pronom « te » élidé : apostrophe, « va-t'en ».",
+    "id": "imperatif-pronoms.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Des cerises ? {Achète en>Achètes-en} un kilo.",
+    "e": "Devant « en » : s et trait d'union, « achètes-en ».",
+    "id": "imperatif-pronoms.17"
+   }
+  ],
+  "bref": "- Les pronoms se placent **après** le verbe, avec des **traits d'union** : **dis-lui**, **donne-le-moi**.\n- L'ordre : **le, la, les** d'abord, puis **moi, lui, leur** : donne-**le-moi**, rends-**les-leur**.\n- Devant **en** et **y**, on ajoute un **s** : **vas-y**, **manges-en**."
+ },
+ {
   "id": "infinitif-participe",
   "titre": "Infinitif ou participe passé : -er, -é, -ez",
   "resume": "Manger, mangé ou mangez ? Le test du verbe « prendre ».",
@@ -15749,6 +16157,211 @@ window.PLUME_REGLES = [
   "bref": "Pour trouver la dernière lettre du participe passé, **mettez-le au féminin** :\n> une chose **prise** → j'ai **pris** ; une lettre **écrite** → j'ai **écrit** ; une tâche **finie** → j'ai **fini**.\n\nAprès **avoir**, c'est toujours le participe : j'ai **pris** (et non « prit »), j'ai **fini** (et non « finit »)."
  },
  {
+  "id": "pqp-futur-anterieur",
+  "titre": "Plus-que-parfait et futur antérieur",
+  "resume": "J'avais fini (avant un moment passé) ; j'aurai fini (avant un moment futur).",
+  "niveau": "college",
+  "fiche": "**Le plus-que-parfait** : avoir ou être à l'**imparfait** + participe passé.\n> j'avais fini, tu avais mangé, elle était partie, nous étions rentrés\nIl exprime une action **terminée avant une autre action passée** : quand je suis arrivé, le film **avait** déjà **commencé**.\n\n**Le futur antérieur** : avoir ou être au **futur** + participe passé.\n> j'aurai fini, tu auras mangé, elle sera partie, nous serons rentrés\nIl exprime une action **terminée avant une autre action future** : quand tu **auras fini**, tu pourras jouer.\n\n**Le test** : situez l'action sur une ligne du temps.\n> avant un moment passé → **avais, étais** (plus-que-parfait) ;\n> avant un moment futur → **aurai, serai** (futur antérieur).\n\n**Les pièges** :\n- Après **quand, dès que, lorsque**, si la suite est au futur, on écrit le futur antérieur : dès que j'**aurai reçu** ta lettre, je te répondrai.\n- L'auxiliaire est le même qu'au passé composé : elle **est** partie → elle **était** partie → elle **sera** partie.\n\n**Pour aller plus loin**\n- Le futur antérieur peut aussi annoncer un fait accompli à une date future : dans un an, ils **auront terminé** leurs études.\n- Le plus-que-parfait s'emploie après « si » pour une hypothèse passée : si j'**avais su**…",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Quand tu {as>auras} fini tes devoirs, tu pourras jouer.",
+    "e": "Action terminée avant une action future (tu pourras) : futur antérieur, « auras fini ».",
+    "id": "pqp-futur-anterieur.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Dès que j'{ai>aurai} reçu ta lettre, je te répondrai.",
+    "e": "Avant une action future (je répondrai) : « aurai reçu ».",
+    "id": "pqp-futur-anterieur.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Hier, j'ai retrouvé le livre que j'{ai>avais} perdu la semaine précédente.",
+    "e": "Action terminée avant une autre action passée (j'ai retrouvé) : plus-que-parfait, « avais perdu ».",
+    "id": "pqp-futur-anterieur.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle {aura>avait} déjà mangé quand je suis arrivé.",
+    "e": "Avant un moment passé (quand je suis arrivé) : « avait mangé ».",
+    "id": "pqp-futur-anterieur.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Demain à cette heure-ci, nous {sommes partis>serons partis}.",
+    "e": "Action terminée avant un moment futur (demain à cette heure-ci) : « serons partis ».",
+    "id": "pqp-futur-anterieur.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Quand la pluie a commencé, nous {sommes déjà rentrés>étions déjà rentrés}.",
+    "e": "Avant un moment passé : plus-que-parfait, « étions rentrés ».",
+    "id": "pqp-futur-anterieur.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Lorsque vous {avez>aurez} terminé, vous rendrez vos copies.",
+    "e": "Avant une action future (vous rendrez) : « aurez terminé ».",
+    "id": "pqp-futur-anterieur.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils {ont>avaient} déjà vendu la maison quand nous l'avons visitée.",
+    "e": "Avant un moment passé (quand nous l'avons visitée) : « avaient vendu ».",
+    "id": "pqp-futur-anterieur.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Quand il aura fini, il rangera ce qu'il avait sorti.",
+    "e": "Correct : « aura fini » (avant « il rangera »), « avait sorti » (avant, dans le passé).",
+    "id": "pqp-futur-anterieur.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Le train ___ déjà quand je suis arrivé à la gare.",
+    "o": [
+     "était parti",
+     "est parti",
+     "sera parti"
+    ],
+    "a": 0,
+    "e": "Avant un moment passé : plus-que-parfait, « était parti ».",
+    "id": "pqp-futur-anterieur.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "plus-que-parfait ou futur antérieur ?",
+    "c": [
+     "plus-que-parfait",
+     "futur antérieur"
+    ],
+    "items": [
+     [
+      "j'avais fini",
+      0
+     ],
+     [
+      "tu auras mangé",
+      1
+     ],
+     [
+      "elle était venue",
+      0
+     ],
+     [
+      "nous serons rentrés",
+      1
+     ],
+     [
+      "ils avaient compris",
+      0
+     ],
+     [
+      "vous aurez lu",
+      1
+     ]
+    ],
+    "e": "Auxiliaire à l'imparfait (avais, était) : plus-que-parfait. Auxiliaire au futur (auras, serons) : futur antérieur.",
+    "id": "pqp-futur-anterieur.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je croyais qu'il {est>était} parti depuis longtemps.",
+    "e": "Action antérieure à un moment passé (je croyais) : « était parti ».",
+    "id": "pqp-futur-anterieur.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Dans un an, ils {ont>auront} terminé leurs études.",
+    "e": "Fait accompli à une date future : « auront terminé ».",
+    "id": "pqp-futur-anterieur.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous {sommes>serons} arrivés avant la nuit, je te le promets.",
+    "e": "Une promesse pour l'avenir : futur antérieur, « serons arrivés ».",
+    "id": "pqp-futur-anterieur.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle avait oublié ses clés : elle a donc attendu dehors.",
+    "e": "Correct : l'oubli a eu lieu avant l'attente, d'où le plus-que-parfait.",
+    "id": "pqp-futur-anterieur.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Dès que vous ___ la réponse, vous lèverez la main.",
+    "o": [
+     "aurez trouvé",
+     "avez trouvé",
+     "aviez trouvé"
+    ],
+    "a": 0,
+    "e": "Avant une action future (vous lèverez) : futur antérieur.",
+    "id": "pqp-futur-anterieur.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Quand je suis rentré, mes parents {ont>avaient} déjà dîné.",
+    "e": "Avant un moment passé (quand je suis rentré) : « avaient dîné ».",
+    "id": "pqp-futur-anterieur.17"
+   }
+  ],
+  "bref": "- **Plus-que-parfait** = auxiliaire à l'**imparfait** : j'**avais** fini, elle **était** partie. C'est **avant** un moment **passé**.\n- **Futur antérieur** = auxiliaire au **futur** : j'**aurai** fini, nous **serons** partis. C'est **avant** un moment **futur**."
+ },
+ {
   "id": "pres-pret",
   "titre": "près ou prêt",
   "resume": "Près de la gare (à côté) ; prêt à partir (préparé). Prêt s'accorde, près jamais.",
@@ -15969,6 +16582,212 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "- **près** = à côté, le contraire de « loin » : **près** de la gare → **loin** de la gare.\n- **prêt** = préparé, et il s'accorde : elle est **prête** à partir."
+ },
+ {
+  "id": "pronominaux-conj",
+  "titre": "Conjuguer les verbes pronominaux",
+  "resume": "Je me lève, nous nous promenons, je me suis trompé : le pronom change avec le sujet.",
+  "niveau": "college",
+  "fiche": "- Le pronom réfléchi suit le **sujet** :\n> je **me** lave, tu **te** laves, il **se** lave, nous **nous** lavons, vous **vous** lavez, ils **se** lavent\n- Aux temps composés, l'auxiliaire est **toujours être** :\n> je **me suis** trompé, tu **t'es** trompé, ils **se sont** disputés\n- Après un autre verbe, l'infinitif garde le pronom du sujet :\n> je vais **me** coucher, nous allons **nous** baigner\n\n**Le test** : regardez le sujet, puis choisissez le pronom qui lui correspond.\n\n**Les pièges** :\n- On entend « tu t'as trompé » : il faut écrire **tu t'es trompé**.\n- On entend « je vais se coucher » : il faut écrire **je vais me coucher**.\n\n**Pour aller plus loin**\n- À l'**impératif**, le pronom suit le verbe : **lève-toi**, **levons-nous**. À la forme négative, il revient devant : **ne te lève pas**.\n- **s'asseoir** à l'impératif : **assieds-toi** (ou assois-toi).",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je {se>me} lève à sept heures.",
+    "e": "Avec « je », le pronom est « me ».",
+    "id": "pronominaux-conj.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous {se>nous} sommes promenés au parc.",
+    "e": "Avec « nous », le pronom est « nous ».",
+    "id": "pronominaux-conj.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Tu {t'as>t'es} trompé de chemin.",
+    "e": "Les verbes pronominaux prennent l'auxiliaire être : « tu t'es ».",
+    "id": "pronominaux-conj.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je vais {se>me} coucher.",
+    "e": "L'infinitif garde le pronom du sujet « je » : « me coucher ».",
+    "id": "pronominaux-conj.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils {s'ont>se sont} disputés.",
+    "e": "Auxiliaire être : « ils se sont ».",
+    "id": "pronominaux-conj.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Vous {se>vous} êtes bien amusés ?",
+    "e": "Avec « vous », le pronom est « vous ».",
+    "id": "pronominaux-conj.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Lève-te>Lève-toi}, il est tard !",
+    "e": "À l'impératif, « te » devient « toi » après le verbe.",
+    "id": "pronominaux-conj.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous allons {se>nous} baigner.",
+    "e": "L'infinitif garde le pronom du sujet « nous ».",
+    "id": "pronominaux-conj.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Tu te laves les mains et nous nous mettons à table.",
+    "e": "Correct : « tu te », « nous nous ».",
+    "id": "pronominaux-conj.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il faut que tu ___ dépêches.",
+    "o": [
+     "te",
+     "se"
+    ],
+    "a": 0,
+    "e": "Le sujet est « tu » : « que tu te dépêches ».",
+    "id": "pronominaux-conj.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "quel pronom ?",
+    "c": [
+     "me",
+     "nous"
+    ],
+    "items": [
+     [
+      "je … lave",
+      0
+     ],
+     [
+      "nous … promenons",
+      1
+     ],
+     [
+      "je vais … coucher",
+      0
+     ],
+     [
+      "nous allons … reposer",
+      1
+     ],
+     [
+      "je … suis trompé",
+      0
+     ],
+     [
+      "nous … sommes levés",
+      1
+     ]
+    ],
+    "e": "Le pronom suit le sujet : « je » → me, « nous » → nous.",
+    "id": "pronominaux-conj.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Assis-toi>Assieds-toi}, je t'en prie.",
+    "e": "L'impératif de « s'asseoir » est « assieds-toi » (ou « assois-toi »).",
+    "alt": [
+     "Assois-toi"
+    ],
+    "id": "pronominaux-conj.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Ne lève-toi pas>Ne te lève pas} !",
+    "e": "À la forme négative, le pronom revient devant le verbe : « ne te lève pas ».",
+    "id": "pronominaux-conj.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elles {s'avaient>s'étaient} perdues dans la forêt.",
+    "e": "Auxiliaire être, ici au plus-que-parfait : « s'étaient ».",
+    "id": "pronominaux-conj.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Calme-toi et assieds-toi.",
+    "e": "Correct : à l'impératif, « toi » suit le verbe.",
+    "id": "pronominaux-conj.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Nous allons ___ reposer un peu.",
+    "o": [
+     "nous",
+     "se"
+    ],
+    "a": 0,
+    "e": "Le sujet est « nous » : « nous reposer ».",
+    "id": "pronominaux-conj.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je {m'ai>me suis} fait mal au genou.",
+    "e": "Auxiliaire être : « je me suis fait mal ».",
+    "id": "pronominaux-conj.17"
+   }
+  ],
+  "bref": "- Le **pronom** change avec le sujet : je **me** lève, tu **te** lèves, nous **nous** levons.\n- Au passé composé, toujours **être** : je **me suis** trompé (et non « je m'ai »).\n- Avec un infinitif : je vais **me** coucher, nous allons **nous** baigner."
  },
  {
   "id": "pronoms-relatifs",
@@ -18084,6 +18903,211 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "- **son** indique à qui est la chose : son vélo (le sien). On peut dire **mon**.\n- **sont** est le verbe **être** au pluriel : ils sont là. On peut dire **étaient**.\n\n> Il range son sac. → Il range mon sac ✔ → **son**\n> Les sacs sont lourds. → Les sacs étaient lourds ✔ → **sont**"
+ },
+ {
+  "id": "subjonctif-passe",
+  "titre": "Le subjonctif passé : que j'aie fini",
+  "resume": "Je suis content que tu aies réussi, qu'elle soit venue : aie, ait, aient, soit.",
+  "niveau": "lycee",
+  "fiche": "**Formation** : l'auxiliaire au **subjonctif présent** + le participe passé.\n> avoir : que j'**aie**, que tu **aies**, qu'il **ait**, que nous **ayons**, que vous **ayez**, qu'ils **aient** fini\n> être : que je **sois**, que tu **sois**, qu'il **soit**, que nous **soyons**, que vous **soyez**, qu'ils **soient** partis\n\n**Emploi** : après les mêmes mots que le subjonctif présent (il faut que, bien que, je suis content que, je doute que…), quand l'action est **déjà accomplie**.\n> Je regrette qu'elle **soit** partie si tôt.\n\n**Le piège** : on écrit souvent l'indicatif par erreur.\n> que tu **as** réussi ✘ → que tu **aies** réussi ✔\n> qu'elle **est** partie ✘ → qu'elle **soit** partie ✔\n\n**Pour aller plus loin**\n- L'auxiliaire est le même qu'au passé composé : elle **est** tombée → qu'elle **soit** tombée.\n- Après un superlatif, on emploie souvent le subjonctif : c'est le plus beau film que j'**aie** vu.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je suis content que tu {as>aies} réussi.",
+    "e": "« Être content que » demande le subjonctif : « que tu aies réussi ».",
+    "id": "subjonctif-passe.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il faut que vous {avez>ayez} terminé avant midi.",
+    "e": "« Il faut que » + subjonctif : « ayez ».",
+    "id": "subjonctif-passe.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Bien qu'il {a>ait} travaillé, il a échoué.",
+    "e": "« Bien que » + subjonctif : « qu'il ait travaillé ».",
+    "id": "subjonctif-passe.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je regrette qu'elle {est>soit} partie si tôt.",
+    "e": "« Regretter que » + subjonctif : « qu'elle soit partie ».",
+    "id": "subjonctif-passe.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je doute qu'ils {ont>aient} compris.",
+    "e": "« Douter que » + subjonctif : « qu'ils aient compris ».",
+    "id": "subjonctif-passe.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous sommes ravis que vous {êtes>soyez} venus.",
+    "e": "« Être ravi que » + subjonctif : « soyez venus ».",
+    "id": "subjonctif-passe.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il est possible qu'elle {ait>soit} tombée.",
+    "e": "« Tomber » se conjugue avec être : « qu'elle soit tombée ».",
+    "id": "subjonctif-passe.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je ne crois pas qu'il {a>ait} dit la vérité.",
+    "e": "« Je ne crois pas que » + subjonctif : « qu'il ait dit ».",
+    "id": "subjonctif-passe.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je suis heureux que tu sois venu et que tu aies aimé le repas.",
+    "e": "Correct : « sois venu » (venir, avec être) et « aies aimé » (aimer, avec avoir).",
+    "id": "subjonctif-passe.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il faut que j'___ fini avant ce soir.",
+    "o": [
+     "aie",
+     "ai",
+     "aies"
+    ],
+    "a": 0,
+    "e": "Subjonctif du verbe avoir avec « je » : « que j'aie ».",
+    "id": "subjonctif-passe.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "quel auxiliaire au subjonctif passé ?",
+    "c": [
+     "avoir (aie, ait…)",
+     "être (sois, soit…)"
+    ],
+    "items": [
+     [
+      "que tu (partir)",
+      1
+     ],
+     [
+      "qu'il (manger)",
+      0
+     ],
+     [
+      "que nous (arriver)",
+      1
+     ],
+     [
+      "qu'elle (lire)",
+      0
+     ],
+     [
+      "qu'ils (tomber)",
+      1
+     ],
+     [
+      "que vous (finir)",
+      0
+     ]
+    ],
+    "e": "Le même auxiliaire qu'au passé composé : être pour partir, arriver, tomber ; avoir pour les autres.",
+    "id": "subjonctif-passe.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Avant qu'il {a>ait} fini sa phrase, tout le monde applaudissait.",
+    "e": "« Avant que » + subjonctif : « qu'il ait fini ».",
+    "id": "subjonctif-passe.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je suis surpris que tu ne l'{as>aies} pas vu.",
+    "e": "« Être surpris que » + subjonctif : « que tu l'aies vu ».",
+    "id": "subjonctif-passe.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Bien qu'elles se {sont>soient} dépêchées, elles ont raté le bus.",
+    "e": "« Bien que » + subjonctif, verbe pronominal (avec être) : « se soient dépêchées ».",
+    "id": "subjonctif-passe.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "C'est le plus beau film que j'aie vu.",
+    "e": "Correct : après un superlatif, le subjonctif « que j'aie vu ».",
+    "id": "subjonctif-passe.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Je doute qu'il ___ parti.",
+    "o": [
+     "soit",
+     "ait",
+     "est"
+    ],
+    "a": 0,
+    "e": "« Partir » se conjugue avec être, et « douter que » demande le subjonctif : « soit ».",
+    "id": "subjonctif-passe.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je ne pense pas qu'ils {sont>soient} déjà arrivés.",
+    "e": "« Je ne pense pas que » + subjonctif ; « arriver » se conjugue avec être : « soient ».",
+    "id": "subjonctif-passe.17"
+   }
+  ],
+  "bref": "Le subjonctif passé se forme avec **avoir** ou **être au subjonctif** + le participe passé :\n- que j'**aie**, que tu **aies**, qu'il **ait**, qu'ils **aient** fini ;\n- que je **sois**, qu'elle **soit**, qu'ils **soient** partis.\n\n> Je suis content que tu **aies** réussi (et non « que tu as réussi »)."
  },
  {
   "id": "tout",
