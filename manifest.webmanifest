@@ -1,0 +1,14 @@
+{
+  "name": "Projet Plume — orthographe libre",
+  "short_name": "Projet Plume",
+  "description": "Exercices gratuits et libres d'orthographe, de grammaire et de conjugaison française.",
+  "lang": "fr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f5f0",
+  "theme_color": "#2f5d50",
+  "icons": [
+    { "src": "/img/icone.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

@@ -1,0 +1,10 @@
+# Fichier de travail volumineux (6 Mo), régénérable avec outils/extraire_languagetool.py
+outils/lt-candidats.json
+publication/
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example

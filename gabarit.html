@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>{{TITRE}}</title>
+  <meta name="description" content="{{DESCRIPTION}}">
+  <link rel="canonical" href="{{CANONIQUE}}">
+  <meta name="robots" content="{{ROBOTS}}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Projet Plume">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:title" content="{{TITRE}}">
+  <meta property="og:description" content="{{DESCRIPTION}}">
+  <meta property="og:url" content="{{CANONIQUE}}">
+  <meta property="og:image" content="{{IMAGE}}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{TITRE}}">
+  <meta name="twitter:description" content="{{DESCRIPTION}}">
+  <meta name="twitter:image" content="{{IMAGE}}">
+  <meta name="theme-color" content="#2f5d50">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="icon" href="/img/icone.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header class="barre">
+    <a href="/" class="logo" aria-label="Accueil">
+      <img src="/img/icone.svg" alt="" width="28" height="28">
+      <span>Projet Plume</span>
+    </a>
+    <nav id="onglets" class="onglets" aria-label="Navigation principale">
+      <a href="/">Accueil</a>
+      <a href="/cours">Cours</a>
+      <a href="/regles">Règles</a>
+      <a href="/reviser">Réviser</a>
+      <a href="/progres">Progrès</a>
+    </nav>
+    <span id="serie" class="serie" title="Jours d'entraînement consécutifs"></span>
+  </header>
+
+  <!-- Contenu lisible sans JavaScript ; l'application le remplace ensuite par la version interactive. -->
+  <main id="app" tabindex="-1">
+{{CONTENU}}
+  </main>
+
+  <footer class="pied">
+    <p><strong>Projet Plume</strong> — le savoir libre, pour tous. Libre, gratuit, sans collecte de données.</p>
+    <p><a href="/projet">Le projet</a> · <a href="/progres">Ma progression</a> · <a href="/COPYING">Licence GPL-3.0</a>{{GITHUB}}</p>
+  </footer>
+
+  <!-- Règles assemblées depuis contenu/regles/*.md par outils/construire.py -->
+  <script src="/js/fiche.js"></script>
+  <script src="/contenu/genere/regles.js"></script>
+  <script src="/contenu/structure.js"></script>
+  <script src="/contenu/pages.js"></script>
+  <script src="/js/app.js"></script>
+</body>
+</html>
