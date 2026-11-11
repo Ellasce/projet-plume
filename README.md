@@ -66,7 +66,7 @@ Cinq onglets. Ils sont en haut de la page sur ordinateur, en bas de l'écran sur
 
 | Onglet | Contenu |
 |---|---|
-| 🏠 **Accueil** | Bouton « Continuer » (prochaine règle du parcours conseillé), révisions du jour, série de jours, test de positionnement, parcours conseillé complet |
+| 🏠 **Accueil** | Bouton « Continuer » (prochaine règle du parcours choisi), révisions du jour, série de jours, test de positionnement, et quatre parcours au choix : **Collège**, **Lycée**, **Supérieur**, ou **Mon parcours**, construit d'après le test (les règles des sous-thèmes où il a révélé une erreur) |
 | 📚 **Cours** | Les thèmes (Homophones, Accords, Conjugaison, Bien écrire), puis leurs sous-thèmes et leurs règles avec la progression. On peut s'entraîner sur une règle, une sous-catégorie ou un thème entier. |
 | 📖 **Règles** | Toutes les fiches à consulter **sans exercices** : sommaire, recherche dans le texte des fiches, règles précédente et suivante, règles liées |
 | 🔁 **Réviser** | Révisions dues, « Mes erreurs » (exercices ratés à refaire), entraînement mélangé par thème |

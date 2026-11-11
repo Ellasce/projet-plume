@@ -89,7 +89,7 @@
   var stockage = { ok: true, persistant: null, demande: false };
 
   function etatVide() {
-    return { version: VERSION_DONNEES, exos: {}, regles: {}, xp: 0, serie: 0, dernierJour: null, testFait: false, derniere: null };
+    return { version: VERSION_DONNEES, exos: {}, regles: {}, xp: 0, serie: 0, dernierJour: null, testFait: false, derniere: null, parcours: null, test: null };
   }
 
   // Complète et convertit des données lues (stockage ou fichier importé).
@@ -222,10 +222,38 @@
     return commence ? "en-cours" : "nouvelle";
   }
 
+  /* --- Parcours : un par niveau, ou « Mon parcours » construit d'après le test --- */
+  var PARCOURS = [
+    { id: "perso", titre: "Mon parcours" },
+    { id: "college", titre: "Collège" },
+    { id: "lycee", titre: "Lycée" },
+    { id: "superieur", titre: "Supérieur" }
+  ];
+  function parcoursChoisi() {
+    var p = etat.parcours || (etat.test ? "perso" : "college");
+    if (p === "perso" && !etat.test) p = "college";
+    return PARCOURS.some(function (x) { return x.id === p; }) ? p : "college";
+  }
+  // « Mon parcours » : toutes les règles des sous-thèmes où le test a révélé une erreur,
+  // dans l'ordre conseillé. Les règles réussies au test restent marquées « Validée au test ».
+  function reglesDuParcours(p) {
+    p = p || parcoursChoisi();
+    if (p === "perso") {
+      var sous = {};
+      ((etat.test && etat.test.rates) || []).forEach(function (id) {
+        var r = REGLE_PAR_ID[id];
+        if (r) sous[r.sous.id] = true;
+      });
+      return REGLES.filter(function (r) { return sous[r.sous.id]; });
+    }
+    return REGLES.filter(function (r) { return r.niveau === p; });
+  }
+
   function regleSuivante() {
-    for (var i = 0; i < REGLES.length; i++) {
-      var st = statut(REGLES[i]);
-      if (st !== "acquise" && st !== "test") return REGLES[i];
+    var liste = reglesDuParcours();
+    for (var i = 0; i < liste.length; i++) {
+      var st = statut(liste[i]);
+      if (st !== "acquise" && st !== "test") return liste[i];
     }
     return null;
   }
@@ -427,7 +455,7 @@
   // Règle à proposer : celle qu'on travaillait la dernière fois, sinon la suivante du parcours.
   function regleAReprendre() {
     var d = etat.derniere && REGLE_PAR_ID[etat.derniere.regle];
-    if (d && statut(d) === "en-cours") return d;
+    if (d && statut(d) === "en-cours" && reglesDuParcours().indexOf(d) !== -1) return d;
     return regleSuivante();
   }
 
@@ -450,7 +478,9 @@
         + lien("/regle/" + encodeURIComponent(suivante.id), "Lire la fiche", "bouton")
         + (debutant ? lien("/projet", "Découvrir le projet", "bouton") : "") + "</div></div>";
     } else {
-      html += '<div class="carte-continuer"><h2>Bravo !</h2><p class="bravo">Tout le parcours est acquis. Continuez les révisions pour l\'ancrer.</p></div>';
+      html += '<div class="carte-continuer"><h2>Bravo !</h2><p class="bravo">' + (parcoursChoisi() === "perso"
+        ? "Votre parcours personnalisé est terminé. Choisissez maintenant le parcours de votre niveau, plus bas."
+        : "Tout ce parcours est acquis. Continuez les révisions, ou choisissez un autre parcours plus bas.") + "</p></div>";
     }
 
     html += '<div class="stats">'
@@ -463,8 +493,18 @@
         + " questions, quelques minutes) repère ce que vous savez déjà, pour ne pas le refaire.</p>" + lien("/test", "Passer le test", "bouton") + "</div>";
     }
 
-    html += '<h2 class="titre-section">Parcours conseillé</h2><p class="note">Un ordre progressif qui mélange les thèmes. Vous pouvez aussi choisir librement dans l\'onglet Cours.</p><ol class="parcours">';
-    REGLES.forEach(function (r, i) {
+    var pc = parcoursChoisi(), listeParcours = reglesDuParcours(pc);
+    html += '<h2 class="titre-section" id="parcours">Parcours conseillé</h2>'
+      + '<div class="filtres" role="group" aria-label="Choisir un parcours">'
+      + PARCOURS.map(function (p) {
+        if (p.id === "perso" && !etat.test) return '<a class="puce" href="/test">Mon parcours (après le test)</a>';
+        return '<button class="puce' + (pc === p.id ? " active" : "") + '" data-parcours="' + p.id + '" aria-pressed="' + (pc === p.id) + '">' + esc(p.titre) + "</button>";
+      }).join("") + "</div>"
+      + '<p class="note">' + (pc === "perso"
+        ? "Les règles des thèmes où le test a révélé une erreur (" + listeParcours.length + " règles). Refaites le test pour mettre ce parcours à jour."
+        : "Les " + listeParcours.length + " règles de ce niveau, dans un ordre progressif qui mélange les thèmes.")
+      + " Vous pouvez aussi choisir librement dans l'onglet Cours.</p><ol class=\"parcours\">";
+    listeParcours.forEach(function (r, i) {
       var st = statut(r);
       html += '<li class="st-' + st + (r === suivante ? " courante" : "") + '"><a href="/regle/' + encodeURIComponent(r.id) + '">'
         + '<span class="pastille" aria-hidden="true">' + (st === "acquise" || st === "test" ? "✔" : i + 1) + "</span>"
@@ -1375,7 +1415,12 @@
 
     if (s.mode === "test") {
       etat.testFait = true;
-      html += '<p>Les règles réussies sont marquées « Validées au test ». Le parcours commence par les autres ; vous pouvez toujours ouvrir une règle validée pour vous y entraîner.</p><ul class="liste-test">';
+      var rates = Object.keys(s.resultatsTest).filter(function (id) { return !s.resultatsTest[id]; });
+      etat.test = { date: Date.now(), rates: rates };
+      etat.parcours = "perso";
+      html += '<p>Les règles réussies sont marquées « Validées au test ». ' + (rates.length
+        ? "<strong>Votre parcours personnalisé est prêt</strong> : il reprend les thèmes où vous avez fait une erreur. Retrouvez-le sur l'accueil, sous « Mon parcours »."
+        : "Aucune erreur : choisissez le parcours de votre niveau sur l'accueil.") + '</p><ul class="liste-test">';
       // Seules les règles testées changent : les autres gardent leur résultat précédent.
       REGLES.filter(function (r) { return r.id in s.resultatsTest; }).forEach(function (r) {
         var ok = s.resultatsTest[r.id];
@@ -1448,6 +1493,14 @@
     }
     if (session && action === "commencer") return commencerExercices();
     if (session && action === "suivant") return suivant();
+    if (cible.hasAttribute("data-parcours")) {
+      etat.parcours = cible.getAttribute("data-parcours");
+      sauver();
+      var yp = window.scrollY;
+      router();
+      window.scrollTo(0, yp);
+      return;
+    }
     if (cible.hasAttribute("data-niveau")) {
       choisirNiveau(cible.getAttribute("data-niveau"));
       var y = window.scrollY;
