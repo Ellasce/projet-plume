@@ -1,0 +1,29 @@
+name: Proposer un exercice
+description: Une phrase à ajouter à une règle existante.
+title: "[Exercice] "
+labels: ["proposition"]
+body:
+  - type: input
+    id: regle
+    attributes:
+      label: Règle concernée
+      placeholder: "a ou à"
+    validations:
+      required: true
+  - type: textarea
+    id: exercice
+    attributes:
+      label: L'exercice
+      description: La phrase, la bonne réponse et une courte explication. Une seule bonne réponse possible.
+      placeholder: |
+        Phrase : Elle était tout rouge de honte.
+        Correction : toute
+        Pourquoi : adverbe devant un adjectif féminin commençant par une consonne.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source de la phrase
+      description: Phrase personnelle, ou numéro Tatoeba. Rien de copié d'un ouvrage ou d'un site protégé.
+      placeholder: "Phrase personnelle / Tatoeba n° 12345"

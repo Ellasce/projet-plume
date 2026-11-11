@@ -1,0 +1,36 @@
+name: Signaler une erreur
+description: Une faute, une explication fausse ou une phrase ambiguë dans une règle ou un exercice.
+title: "[Erreur] "
+labels: ["erreur de contenu"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci ! Sous chaque correction, le site affiche une ligne comme « Règle « a ou à » · exercice 7 (contenu/regles/a-a.md) ». Recopiez-la ci-dessous.
+  - type: input
+    id: reference
+    attributes:
+      label: Règle et numéro de l'exercice
+      placeholder: "Règle « a ou à » · exercice 7 (contenu/regles/a-a.md)"
+    validations:
+      required: true
+  - type: dropdown
+    id: nature
+    attributes:
+      label: Type de problème
+      options:
+        - Faute d'orthographe ou de grammaire
+        - Mauvaise réponse attendue
+        - Explication fausse ou confuse
+        - Phrase ambiguë (plusieurs réponses possibles)
+        - Niveau mal choisi
+        - Autre
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Ce qui ne va pas
+      description: Et, si possible, la correction que vous proposez (avec une source si vous en avez une).
+    validations:
+      required: true
