@@ -25,7 +25,7 @@ Application **gratuite et libre** d'entraînement à l'orthographe, à la gramma
 Il faut **Python 3** et **Node.js**. Sur Windows, macOS ou Linux :
 
 ```bash
-git clone https://github.com/Allesca/projet-plume.git
+git clone https://github.com/Ellasce/projet-plume.git
 cd projet-plume
 python -I outils/construire.py
 python -I outils/servir.py

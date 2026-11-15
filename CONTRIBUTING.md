@@ -9,7 +9,7 @@ Les contenus sont publiés sous licence CC BY-SA 4.0 et le code sous GPL-3.0. En
 C'est la contribution la plus précieuse, en particulier de la part des enseignants.
 
 1. Sous chaque correction, sur le site, une ligne indique **la règle, le numéro de l'exercice et le fichier**, par exemple « Règle « a ou à » · exercice 7 (contenu/regles/a-a.md) ».
-2. Ouvrez une issue avec le modèle **[Signaler une erreur](https://github.com/Allesca/projet-plume/issues/new?template=erreur.yml)** et recopiez cette ligne.
+2. Ouvrez une issue avec le modèle **[Signaler une erreur](https://github.com/Ellasce/projet-plume/issues/new?template=erreur.yml)** et recopiez cette ligne.
 3. Dites ce qui ne va pas : faute, explication fausse ou confuse, phrase ambiguë (deux réponses possibles), niveau mal choisi…
 
 Sans compte GitHub, vous pouvez écrire à **projet-plume@proton.me**.
