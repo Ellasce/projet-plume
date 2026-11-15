@@ -6,7 +6,7 @@ Projet Plume — met le site en ligne (Cloudflare Pages).
 
 1. construit le site dans publication/ (outils/construire.py : règles, pages
    statiques, sitemap) ;
-2. l'envoie sur Cloudflare Pages (projet « projet-plume » → https://projet-plume.pages.dev).
+2. l'envoie sur Cloudflare Pages (projet « projet-plume » → https://plumedediderot.fr).
 Première fois : se connecter avec « npx wrangler login ».
 """
 import os

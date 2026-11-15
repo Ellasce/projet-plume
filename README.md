@@ -2,7 +2,7 @@
 
 *Projet Plume — l'orthographe libre et gratuite*
 
-**Essayer en ligne : https://projet-plume.pages.dev**
+**Essayer en ligne : https://plumedediderot.fr**
 
 <p align="center">
   <img src="docs/captures/accueil.png" alt="Page d'accueil du Projet Plume" width="32%">
@@ -44,7 +44,7 @@ Une erreur dans une règle, un exercice à proposer, une relecture ? Voir **[CON
 
 ## Site en ligne
 
-**https://projet-plume.pages.dev** (Cloudflare Pages, offre gratuite).
+**https://plumedediderot.fr** (Cloudflare Pages, offre gratuite ; nom de domaine chez OVH).
 
 Pour republier après une modification :
 ```bash
