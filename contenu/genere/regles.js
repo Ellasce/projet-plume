@@ -8702,6 +8702,209 @@ window.PLUME_REGLES = [
   "bref": "- **Avant** le nom, avec un trait d'union, **demi** et **nu** ne changent pas : une **demi**-heure, **nu**-pieds.\n- **Après** le nom, ils s'accordent : deux heures et **demie**, les pieds **nus**.\n\n> une demi-journée → trois jours et demi → deux heures et demie"
  },
  {
+  "id": "deux-points",
+  "titre": "Les deux-points et le point-virgule",
+  "resume": "Les deux-points annoncent (une explication, une liste, une citation) ; le point-virgule relie deux phrases proches.",
+  "niveau": "lycee",
+  "fiche": "Les **deux-points** annoncent ce qui suit :\n- une **explication**, une **cause** : elle n'est pas venue **:** elle était malade ;\n- une **énumération** : il faut trois ingrédients **:** de la farine, des œufs et du lait ;\n- une **citation** : il a dit **:** « Je reviens. »\n\nLe **point-virgule** relie deux phrases **de même importance**, souvent parallèles ou opposées :\n> Les uns lisaient **;** les autres jouaient aux cartes.\n\n**Après** les deux-points ou le point-virgule, on continue en **minuscule** (sauf pour une citation ou un nom propre).\n\n**Le test** : ce qui suit explique-t-il ou détaille-t-il ce qui précède ? → deux-points. Est-ce une seconde phrase parallèle ? → point-virgule.\n\n**Pour aller plus loin**\n- En typographie française, on met une **espace avant** les deux-points et le point-virgule.\n- Dans certaines phrases, les deux sont possibles : le sens change légèrement (explication ou simple juxtaposition).",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a acheté trois {choses ; du>choses : du} pain, du lait et des œufs.",
+    "e": "On annonce une énumération : deux-points.",
+    "id": "deux-points.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle n'est pas venue {; elle>: elle} était malade.",
+    "e": "On annonce une explication (la cause) : deux-points.",
+    "id": "deux-points.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a dit {; « Je>: « Je} reviens. »",
+    "e": "On annonce une citation : deux-points.",
+    "id": "deux-points.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Voici ma réponse : {Non>non}.",
+    "e": "Après les deux-points, on continue en minuscule.",
+    "id": "deux-points.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le matin, il court {: l'après-midi>; l'après-midi}, il nage.",
+    "e": "Deux phrases parallèles, de même importance : point-virgule.",
+    "id": "deux-points.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il pleuvait ; {Nous>nous} sommes restés à la maison.",
+    "e": "Après un point-virgule, on continue en minuscule.",
+    "id": "deux-points.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ma mère m'a demandé {; « As-tu>: « As-tu} fini ? »",
+    "e": "On annonce une citation : deux-points.",
+    "id": "deux-points.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je n'ai qu'une {envie ; dormir>envie : dormir}.",
+    "e": "On annonce ce qu'est cette envie : deux-points.",
+    "id": "deux-points.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les uns lisaient ; les autres jouaient aux cartes.",
+    "e": "Correct : deux phrases parallèles reliées par un point-virgule.",
+    "id": "deux-points.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il a tout prévu ___ les billets, l'hôtel et la voiture.",
+    "o": [
+     ":",
+     ";"
+    ],
+    "a": 0,
+    "e": "On annonce une énumération : deux-points.",
+    "id": "deux-points.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "deux-points ou point-virgule ?",
+    "c": [
+     "deux-points",
+     "point-virgule"
+    ],
+    "items": [
+     [
+      "annoncer une explication",
+      0
+     ],
+     [
+      "relier deux phrases parallèles",
+      1
+     ],
+     [
+      "annoncer une énumération",
+      0
+     ],
+     [
+      "introduire une citation",
+      0
+     ],
+     [
+      "opposer deux phrases de même importance",
+      1
+     ],
+     [
+      "séparer « les uns… » et « les autres… »",
+      1
+     ]
+    ],
+    "e": "Les deux-points annoncent ; le point-virgule relie des phrases de même importance.",
+    "id": "deux-points.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Paul aime la mer {: Julie>; Julie} préfère la montagne.",
+    "e": "Deux phrases parallèles qui s'opposent : point-virgule.",
+    "id": "deux-points.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le résultat est clair {; nous>: nous} avons gagné.",
+    "e": "Ce qui suit explique ce qui précède : deux-points.",
+    "id": "deux-points.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a prononcé ces mots {; « Merci>: « Merci} à tous. »",
+    "e": "On annonce une citation : deux-points.",
+    "id": "deux-points.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il faut trois ingrédients : de la farine, des œufs et du lait.",
+    "e": "Correct : les deux-points annoncent une énumération.",
+    "id": "deux-points.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Les enfants jouaient dehors ___ les parents préparaient le repas.",
+    "o": [
+     ";",
+     ":"
+    ],
+    "a": 0,
+    "e": "Deux phrases parallèles, de même importance : point-virgule.",
+    "id": "deux-points.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Attention ; le>Attention : le} sol est glissant.",
+    "e": "Ce qui suit explique l'avertissement : deux-points.",
+    "id": "deux-points.17"
+   }
+  ],
+  "bref": "- **Deux-points** ( : ) pour **annoncer** : une explication, une liste, une citation → elle n'est pas venue **:** elle était malade.\n- **Point-virgule** ( ; ) pour **relier** deux phrases de même importance → les uns lisaient **;** les autres jouaient.\n- Après l'un ou l'autre, **minuscule**."
+ },
+ {
   "id": "dont-que",
   "titre": "dont ou que",
   "resume": "« Dont » remplace un complément introduit par « de ».",
@@ -9346,6 +9549,209 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "- Devant une **voyelle** ou un **h muet**, on remplace la voyelle par une **apostrophe** : **l'**hôpital, **lorsqu'**il, **jusqu'**à.\n- **Pas d'élision** devant un **h aspiré** : **le** héros, **le** hoquet.\n- **si** ne s'élide que devant **il** : **s'il**, mais **si elle**."
+ },
+ {
+  "id": "en-y",
+  "titre": "Les pronoms en et y",
+  "resume": "J'en veux (de) ; j'y pense (à) ; mais je lui parle (à une personne).",
+  "niveau": "college",
+  "fiche": "- **en** remplace un complément introduit par **de** (une chose) :\n> Du pain ? J'**en** veux. Ce film ? Tout le monde **en** parle. Ton aide ? J'**en** ai besoin.\n- **y** remplace un complément introduit par **à** (une chose) ou un **lieu** :\n> Ton voyage ? J'**y** pense. Paris ? Nous **y** allons demain.\n- Pour une **personne** introduite par **à**, on emploie **lui** ou **leur** :\n> Mon frère ? Je **lui** téléphone.\n\n**Le test** : refaites la phrase complète et regardez la préposition.\n> Je pense **à** ce projet → j'**y** pense. Je rêve **de** ce voyage → j'**en** rêve.\n\n**Le piège** : avec une quantité, c'est **en** : des pommes, il **en** a mangé trois.\n\n**Pour aller plus loin**\n- **s'intéresser à** → je m'**y** intéresse ; **être fier de** → il **en** est fier.\n- **répondre à** une lettre → j'**y** ai répondu ; **répondre à** quelqu'un → je **lui** ai répondu.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Du pain ? J'{y>en} veux encore.",
+    "e": "« Vouloir du pain » : complément avec de, « en ».",
+    "id": "en-y.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ton voyage ? J'{en>y} pense souvent.",
+    "e": "« Penser à ton voyage » : « y ».",
+    "id": "en-y.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Paris ? Nous {en>y} allons demain.",
+    "e": "Un lieu où l'on va : « y ».",
+    "id": "en-y.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Des pommes ? Il {y>en} a mangé trois.",
+    "e": "Une quantité de pommes : « en ».",
+    "id": "en-y.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce problème ? Je m'{en>y} intéresse beaucoup.",
+    "e": "« S'intéresser à ce problème » : « y ».",
+    "id": "en-y.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce film ? Tout le monde {y>en} parle.",
+    "e": "« Parler de ce film » : « en ».",
+    "id": "en-y.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Mon frère ? Je {y>lui} téléphone chaque soir.",
+    "e": "Une personne (téléphoner à mon frère) : « lui ».",
+    "id": "en-y.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le jardin ? Elle {en>y} travaille tous les jours.",
+    "e": "Un lieu (travailler dans le jardin) : « y ».",
+    "id": "en-y.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Des livres, j'en ai beaucoup, et j'y tiens.",
+    "e": "Correct : « en » (beaucoup de livres), « y » (tenir à mes livres).",
+    "id": "en-y.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ce projet ? J'___ réfléchis.",
+    "o": [
+     "y",
+     "en"
+    ],
+    "a": 0,
+    "e": "« Réfléchir à ce projet » : « y ».",
+    "id": "en-y.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "en ou y ?",
+    "c": [
+     "en",
+     "y"
+    ],
+    "items": [
+     [
+      "avoir besoin d'un outil",
+      0
+     ],
+     [
+      "penser à ses vacances",
+      1
+     ],
+     [
+      "parler d'un livre",
+      0
+     ],
+     [
+      "aller à Paris",
+      1
+     ],
+     [
+      "se souvenir d'un voyage",
+      0
+     ],
+     [
+      "répondre à une lettre",
+      1
+     ]
+    ],
+    "e": "« de » + chose → en ; « à » + chose ou lieu → y.",
+    "id": "en-y.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ses amis ? Il {y>leur} parle souvent.",
+    "e": "Des personnes (parler à ses amis) : « leur ».",
+    "id": "en-y.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce succès ? Il {y>en} est très fier.",
+    "e": "« Être fier de ce succès » : « en ».",
+    "id": "en-y.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cette lettre ? J'{en>y} ai répondu hier.",
+    "e": "« Répondre à cette lettre » : « y ».",
+    "id": "en-y.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce cadeau ? J'en rêve et j'y pense jour et nuit.",
+    "e": "Correct : « rêver de » → en ; « penser à » → y.",
+    "id": "en-y.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ton aide ? J'___ ai vraiment besoin.",
+    "o": [
+     "en",
+     "y"
+    ],
+    "a": 0,
+    "e": "« Avoir besoin de ton aide » : « en ».",
+    "id": "en-y.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce gâteau ? Je n'{y>en} veux plus.",
+    "e": "« Vouloir de ce gâteau » : « en ».",
+    "id": "en-y.17"
+   }
+  ],
+  "bref": "- **en** remplace **de** + une chose : du pain → j'**en** veux ; parler **de** ce film → j'**en** parle.\n- **y** remplace **à** + une chose, ou un **lieu** : penser **à** ton voyage → j'**y** pense ; aller **à** Paris → j'**y** vais.\n- Pour une **personne** avec à : **lui, leur** → je **lui** téléphone."
  },
  {
   "id": "et-est",
@@ -10191,6 +10597,299 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "Certains noms trompent par leur forme. Il faut **retenir** leur genre :\n- **masculins** : un astérisque, un armistice, un tentacule, un haltère, un intervalle, un apogée, un en-tête ;\n- **féminins** : une oasis, une acné, une échappatoire, une anagramme, une épithète, une orbite."
+ },
+ {
+  "id": "ier-yer-gner",
+  "titre": "Nous criions, nous payions, nous gagnions : verbes en -ier, -yer, -gner, -iller",
+  "resume": "À l'imparfait et au subjonctif, nous et vous ajoutent -ions, -iez au radical : cri-ions, pay-ions, gagn-ions.",
+  "niveau": "lycee",
+  "fiche": "À l'**imparfait** (et au **subjonctif présent**), « nous » et « vous » se terminent par **-ions, -iez**. On les ajoute au **radical**, même s'il se termine déjà par **i**, **y**, **gn** ou **ill**.\n> crier : radical **cri-** → nous cri**ions**, vous cri**iez**\n> payer : radical **pay-** → nous pay**ions**, vous pay**iez**\n> gagner : radical **gagn-** → nous gagn**ions**, vous gagn**iez**\n> travailler : radical **travaill-** → nous travaill**ions**, vous travaill**iez**\n\n**Le test** : comparez avec un verbe simple. Nous chant**ions** → nous cri**ions** (le radical « cri » + « ions »).\n\n**Le piège** : au **présent**, pas de i ajouté → nous **crions**, nous **payons**, nous **gagnons**. Seul le i distingue « nous crions » (aujourd'hui) de « nous criions » (autrefois).\n\n**Pour aller plus loin**\n- Le subjonctif présent a les mêmes formes avec nous et vous : il faut que nous **étudiions**, que vous **essuyiez**.\n- Les rectifications de 1990 ne changent rien à ces formes.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "conj",
+    "v": "crier",
+    "temps": "à l'imparfait de l'indicatif",
+    "r": "criions",
+    "pr": "nous",
+    "o": [
+     "crions",
+     "criyons"
+    ],
+    "e": "« crier » à l'imparfait de l'indicatif : je criais, tu criais, il criait, nous criions, vous criiez, ils criaient.",
+    "src": "verbiste",
+    "id": "ier-yer-gner.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "conj",
+    "v": "payer",
+    "temps": "à l'imparfait de l'indicatif",
+    "r": "payiez",
+    "pr": "vous",
+    "o": [
+     "payez",
+     "paiiez"
+    ],
+    "e": "« payer » à l'imparfait de l'indicatif : je payais, tu payais, il payait, nous payions, vous payiez, ils payaient.",
+    "src": "verbiste",
+    "id": "ier-yer-gner.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "conj",
+    "v": "gagner",
+    "temps": "à l'imparfait de l'indicatif",
+    "r": "gagnions",
+    "pr": "nous",
+    "o": [
+     "gagnons",
+     "gagniions"
+    ],
+    "e": "« gagner » à l'imparfait de l'indicatif : je gagnais, tu gagnais, il gagnait, nous gagnions, vous gagniez, ils gagnaient.",
+    "src": "verbiste",
+    "id": "ier-yer-gner.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "conj",
+    "v": "travailler",
+    "temps": "à l'imparfait de l'indicatif",
+    "r": "travaillions",
+    "pr": "nous",
+    "o": [
+     "travaillons",
+     "travailions"
+    ],
+    "e": "« travailler » à l'imparfait de l'indicatif : je travaillais, tu travaillais, il travaillait, nous travaillions, vous travailliez, ils travaillaient.",
+    "src": "verbiste",
+    "id": "ier-yer-gner.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "conj",
+    "v": "oublier",
+    "temps": "à l'imparfait de l'indicatif",
+    "r": "oubliiez",
+    "pr": "vous",
+    "o": [
+     "oubliez",
+     "oublyiez"
+    ],
+    "e": "« oublier » à l'imparfait de l'indicatif : j'oubliais, tu oubliais, il oubliait, nous oubliions, vous oubliiez, ils oubliaient.",
+    "src": "verbiste",
+    "id": "ier-yer-gner.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "conj",
+    "v": "essuyer",
+    "temps": "au subjonctif présent",
+    "r": "essuyions",
+    "pr": "que nous",
+    "o": [
+     "essuyons",
+     "essuiions"
+    ],
+    "e": "« essuyer » au subjonctif présent : que j'essuie, que tu essuies, qu'il essuie, que nous essuyions, que vous essuyiez, qu'ils essuient.",
+    "src": "verbiste",
+    "id": "ier-yer-gner.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "conj",
+    "v": "signer",
+    "temps": "au subjonctif présent",
+    "r": "signiez",
+    "pr": "que vous",
+    "o": [
+     "signez",
+     "signiiez"
+    ],
+    "e": "« signer » au subjonctif présent : que je signe, que tu signes, qu'il signe, que nous signions, que vous signiez, qu'ils signent.",
+    "src": "verbiste",
+    "id": "ier-yer-gner.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "conj",
+    "v": "étudier",
+    "temps": "au subjonctif présent",
+    "r": "étudiions",
+    "pr": "que nous",
+    "o": [
+     "étudions",
+     "étudiyons"
+    ],
+    "e": "« étudier » au subjonctif présent : que j'étudie, que tu étudies, qu'il étudie, que nous étudiions, que vous étudiiez, qu'ils étudient.",
+    "src": "verbiste",
+    "id": "ier-yer-gner.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Autrefois, nous {crions>criions} de joie à chaque but.",
+    "e": "Imparfait (autrefois) : radical « cri- » + « -ions », deux i.",
+    "id": "ier-yer-gner.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il fallait que vous ___ la facture.",
+    "o": [
+     "payiez",
+     "payez",
+     "paiez"
+    ],
+    "a": 0,
+    "e": "Subjonctif après « il fallait que » : radical « pay- » + « -iez ».",
+    "id": "ier-yer-gner.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "présent ou imparfait ?",
+    "c": [
+     "présent",
+     "imparfait"
+    ],
+    "items": [
+     [
+      "nous crions",
+      0
+     ],
+     [
+      "nous criions",
+      1
+     ],
+     [
+      "nous gagnons",
+      0
+     ],
+     [
+      "nous gagnions",
+      1
+     ],
+     [
+      "vous payez",
+      0
+     ],
+     [
+      "vous payiez",
+      1
+     ]
+    ],
+    "e": "À l'imparfait, « -ions, -iez » s'ajoutent au radical ; au présent, « -ons, -ez ».",
+    "id": "ier-yer-gner.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "conj",
+    "v": "habiller",
+    "temps": "à l'imparfait de l'indicatif",
+    "r": "habilliez",
+    "pr": "vous",
+    "o": [
+     "habillez",
+     "habiliez"
+    ],
+    "e": "« habiller » à l'imparfait de l'indicatif : j'habillais, tu habillais, il habillait, nous habillions, vous habilliez, ils habillaient.",
+    "src": "verbiste",
+    "id": "ier-yer-gner.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "conj",
+    "v": "copier",
+    "temps": "à l'imparfait de l'indicatif",
+    "r": "copiions",
+    "pr": "nous",
+    "o": [
+     "copions",
+     "copiyons"
+    ],
+    "e": "« copier » à l'imparfait de l'indicatif : je copiais, tu copiais, il copiait, nous copiions, vous copiiez, ils copiaient.",
+    "src": "verbiste",
+    "id": "ier-yer-gner.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Quand nous étions jeunes, nous {gagnons>gagnions} souvent ce tournoi.",
+    "e": "Imparfait (quand nous étions jeunes) : « gagnions ».",
+    "id": "ier-yer-gner.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il faut que vous essuyiez la table avant de servir.",
+    "e": "Correct : subjonctif, radical « essuy- » + « -iez ».",
+    "id": "ier-yer-gner.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "L'an dernier, nous ___ dans le même bureau.",
+    "o": [
+     "travaillions",
+     "travaillons",
+     "travailions"
+    ],
+    "a": 0,
+    "e": "Imparfait (l'an dernier) : radical « travaill- » + « -ions ».",
+    "id": "ier-yer-gner.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "conj",
+    "v": "envoyer",
+    "temps": "au subjonctif présent",
+    "r": "envoyions",
+    "pr": "que nous",
+    "o": [
+     "envoyons",
+     "envoiions"
+    ],
+    "e": "« envoyer » au subjonctif présent : que j'envoie, que tu envoies, qu'il envoie, que nous envoyions, que vous envoyiez, qu'ils envoient.",
+    "src": "verbiste",
+    "id": "ier-yer-gner.17"
+   }
+  ],
+  "bref": "À l'**imparfait** et au **subjonctif**, nous et vous prennent **-ions, -iez**, ajoutés au radical :\n- cri**er** → nous cri**ions** ; pay**er** → nous pay**ions** ;\n- gagn**er** → nous gagn**ions** ; travaill**er** → nous travaill**ions**.\n\nAu **présent**, il n'y a pas ce i : nous cri**ons**, nous pay**ons**."
  },
  {
   "id": "imparfait-passe-simple",
@@ -12168,6 +12867,209 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "- **ma, ta, mon, ton** sont devant un **nom** : **ma** veste, **ton** sac.\n- **m'a, t'a, m'ont, t'ont** = **me / te + avoir** : il **m'a** prêté → il **m'avait** prêté."
+ },
+ {
+  "id": "majuscules-accentuees",
+  "titre": "Les accents sur les majuscules : À, É, Ç",
+  "resume": "À bientôt, Étienne, Ça, ÉTÉ : les majuscules gardent leurs accents et leur cédille.",
+  "niveau": "college",
+  "fiche": "Une majuscule **garde son accent** et **sa cédille**. Ne pas les écrire est une faute d'orthographe, même si on l'a longtemps toléré en imprimerie.\n> **À** bientôt ! **É**tienne arrive. **Ç**a me plaît. L'**É**tat. **Ê**tes-vous prêts ?\n\nCela vaut aussi pour les mots écrits **tout en capitales** :\n> ENTR**É**E, **É**COLE, MOYEN **Â**GE.\n\n**Le test** : écrivez le mot en minuscules. S'il a un accent (à, été, ça), la majuscule le garde.\n\n**Le piège** : n'ajoutez pas d'accent qui n'existe pas : **A**près, **E**mma, **E**xemple.\n\n**Pour aller plus loin**\n- La ligature **Œ** se garde aussi en majuscule : **Œ**uvres complètes.\n- Les claviers permettent ces lettres (É, À, Ç) : leur absence n'est pas une excuse.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{A>À} bientôt, les amis !",
+    "e": "« À » (préposition) garde son accent en majuscule.",
+    "id": "majuscules-accentuees.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Etienne>Étienne} arrive demain.",
+    "e": "Le prénom s'écrit « étienne » avec un accent : « Étienne ».",
+    "id": "majuscules-accentuees.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "L'{Etat>État} a voté une nouvelle loi.",
+    "e": "« État » garde son accent en majuscule.",
+    "id": "majuscules-accentuees.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Ca>Ça} me fait plaisir.",
+    "e": "« Ça » garde sa cédille en majuscule.",
+    "id": "majuscules-accentuees.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Au-dessus de la porte, on lit : « {ENTREE>ENTRÉE} ».",
+    "e": "En capitales aussi, l'accent se garde : « ENTRÉE ».",
+    "id": "majuscules-accentuees.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Etes>Êtes}-vous prêts ?",
+    "e": "« Êtes » garde son accent circonflexe.",
+    "id": "majuscules-accentuees.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{A>À} partir de demain, le magasin ferme à midi.",
+    "e": "« À partir de » : la préposition garde son accent.",
+    "id": "majuscules-accentuees.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Evidemment>Évidemment}, tu as raison.",
+    "e": "« Évidemment » garde l'accent de la majuscule.",
+    "id": "majuscules-accentuees.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Émilie et Éric sont partis à Évreux.",
+    "e": "Correct : les majuscules gardent leurs accents.",
+    "id": "majuscules-accentuees.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "___ propos, as-tu fini ?",
+    "o": [
+     "À",
+     "A"
+    ],
+    "a": 0,
+    "e": "La préposition « à » garde son accent : « À propos ».",
+    "id": "majuscules-accentuees.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "avec ou sans accent ?",
+    "c": [
+     "avec accent",
+     "sans accent"
+    ],
+    "items": [
+     [
+      "…cole (école)",
+      0
+     ],
+     [
+      "…mma (Emma)",
+      1
+     ],
+     [
+      "… demain (à demain)",
+      0
+     ],
+     [
+      "…près (après)",
+      1
+     ],
+     [
+      "…a marche (ça marche)",
+      0
+     ],
+     [
+      "…xemple (exemple)",
+      1
+     ]
+    ],
+    "e": "La majuscule garde l'accent seulement si le mot en a un en minuscules.",
+    "id": "majuscules-accentuees.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Une exposition sur le {MOYEN AGE>MOYEN ÂGE} ouvre demain.",
+    "e": "En capitales, « ÂGE » garde son accent circonflexe.",
+    "id": "majuscules-accentuees.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a lu les {Oeuvres>Œuvres} complètes de cet auteur.",
+    "e": "La ligature « Œ » se garde en majuscule.",
+    "id": "majuscules-accentuees.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il vit aux {Etats-Unis>États-Unis}.",
+    "e": "« États-Unis » garde son accent.",
+    "id": "majuscules-accentuees.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "« ÉCOLE PRIMAIRE » est écrit au-dessus de la porte.",
+    "e": "Correct : en capitales, l'accent se garde.",
+    "id": "majuscules-accentuees.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Le panneau indique « ___ INTERDITE ».",
+    "o": [
+     "ENTRÉE",
+     "ENTREE"
+    ],
+    "a": 0,
+    "e": "L'accent se garde en capitales.",
+    "id": "majuscules-accentuees.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Ecoute>Écoute}-moi bien.",
+    "e": "« Écoute » garde son accent en majuscule.",
+    "id": "majuscules-accentuees.17"
+   }
+  ],
+  "bref": "En majuscule, **on garde les accents et la cédille** : **À** bientôt, **É**tienne, **Ç**a, **É**TÉ.\nSeules les lettres qui ont un accent en minuscule en prennent un : **A**près, **E**mma, sans accent."
  },
  {
   "id": "majuscules",
@@ -15950,6 +16852,209 @@ window.PLUME_REGLES = [
   "bref": "- **Avant** le nom ou en **tête** de phrase : **invariable** → **excepté** les enfants, **vu** les circonstances, **ci-joint** les photos.\n- **Après** le nom : **accord** → les enfants **exceptés**, la lettre **ci-jointe**, la TVA **comprise**."
  },
  {
+  "id": "passif",
+  "titre": "La voix passive",
+  "resume": "La lettre a été écrite par ma sœur : à la voix passive, le participe s'accorde avec le sujet.",
+  "niveau": "lycee",
+  "fiche": "À la **voix active**, le sujet fait l'action : ma sœur écrit la lettre.\nÀ la **voix passive**, le sujet **subit** l'action : la lettre **est écrite** par ma sœur.\n\n**Formation** : le verbe **être** au temps voulu + le **participe passé**.\n> est écrite (présent), a été écrite (passé composé), sera écrite (futur), avait été écrite (plus-que-parfait)\n\n**L'accord** : le participe passé s'accorde **toujours avec le sujet**.\n> Les voleurs ont été **arrêtés**. Elle a été **élue** présidente.\n\n**Le test** : peut-on ajouter « par quelqu'un » ? La lettre est écrite **par** ma sœur → voix passive.\n\n**Le piège** : « il est parti » n'est pas un passif, c'est le passé composé de « partir » (on ne peut pas ajouter « par quelqu'un »).\n\n**Pour aller plus loin**\n- La **voix pronominale** peut avoir un sens passif : ces fruits **se mangent** crus (ils sont mangés crus) ; le verbe s'accorde avec le sujet.\n- Le complément d'agent peut être introduit par **de** avec certains verbes : elle est aimée **de** tous.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La lettre a été {écrit>écrite} par ma sœur.",
+    "e": "Voix passive : accord avec le sujet « la lettre » : « écrite ».",
+    "id": "passif.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les voleurs ont été {arrêté>arrêtés} hier.",
+    "e": "Accord avec le sujet « les voleurs » : « arrêtés ».",
+    "id": "passif.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les résultats seront {publié>publiés} demain.",
+    "e": "Accord avec « les résultats » : « publiés ».",
+    "id": "passif.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La décision {sont>est} prise par le directeur.",
+    "e": "Le sujet est « la décision » (singulier) : « est ».",
+    "id": "passif.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces gâteaux ont été {préparé>préparés} par mon père.",
+    "e": "Accord avec « ces gâteaux » : « préparés ».",
+    "id": "passif.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle a été {élu>élue} présidente.",
+    "e": "Accord avec « elle » : « élue ».",
+    "id": "passif.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le match sera {retransmise>retransmis} à la télévision.",
+    "e": "Accord avec « le match » (masculin) : « retransmis ».",
+    "id": "passif.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les rues sont {nettoyé>nettoyées} chaque matin.",
+    "e": "Accord avec « les rues » : « nettoyées ».",
+    "id": "passif.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La salle a été décorée par les élèves.",
+    "e": "Correct : voix passive, accord avec « la salle ».",
+    "id": "passif.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ces livres ont été ___ par un même auteur.",
+    "o": [
+     "écrits",
+     "écrit"
+    ],
+    "a": 0,
+    "e": "Accord avec « ces livres » : « écrits ».",
+    "id": "passif.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "voix active ou passive ?",
+    "c": [
+     "voix active",
+     "voix passive"
+    ],
+    "items": [
+     [
+      "Le chat mange la souris.",
+      0
+     ],
+     [
+      "La souris est mangée par le chat.",
+      1
+     ],
+     [
+      "Les élèves ont rangé la salle.",
+      0
+     ],
+     [
+      "La salle a été rangée.",
+      1
+     ],
+     [
+      "Il est parti tôt.",
+      0
+     ],
+     [
+      "Elle est aimée de tous.",
+      1
+     ]
+    ],
+    "e": "À la voix passive, le sujet subit l'action (on peut ajouter « par… »). « Il est parti » est un passé composé actif.",
+    "id": "passif.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces fruits se {mange>mangent} crus.",
+    "e": "Voix pronominale à sens passif : accord avec « ces fruits ».",
+    "id": "passif.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les invités avaient été {prévenu>prévenus} la veille.",
+    "e": "Accord avec « les invités » : « prévenus ».",
+    "id": "passif.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les murs seront {repeint>repeints} la semaine prochaine.",
+    "e": "Accord avec « les murs » : « repeints ».",
+    "id": "passif.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce vin se boit frais et se sert à table.",
+    "e": "Correct : voix pronominale à sens passif, au singulier comme « ce vin ».",
+    "id": "passif.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "La porte a été ___ par le vent.",
+    "o": [
+     "ouverte",
+     "ouvert"
+    ],
+    "a": 0,
+    "e": "Accord avec « la porte » : « ouverte ».",
+    "id": "passif.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les candidates ont été {reçus>reçues} à l'examen.",
+    "e": "Accord avec « les candidates » (féminin pluriel) : « reçues ».",
+    "id": "passif.17"
+   }
+  ],
+  "bref": "À la **voix passive**, le sujet **subit** l'action : **être** + participe passé.\n> La lettre **a été écrite** par ma sœur. Les résultats **seront publiés** demain.\n\nLe participe **s'accorde avec le sujet**, comme avec être."
+ },
+ {
   "id": "pc-auxiliaire",
   "titre": "Passé composé : être ou avoir ?",
   "resume": "Presque toujours avoir ; être pour certains verbes de mouvement et les verbes pronominaux.",
@@ -16404,6 +17509,209 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "- **peut** est le verbe **pouvoir** : il **peut** venir. On peut dire **pouvait**.\n- **peu** veut dire « pas beaucoup » : un **peu** de sel.\n\n> Elle peut partir. → Elle pouvait partir ✔ → **peut**\n> Il mange peu. → Il mange pouvait ✘ → **peu**"
+ },
+ {
+  "id": "pleonasmes",
+  "titre": "Les pléonasmes : monter en haut, sortir dehors",
+  "resume": "Monter, sortir, reculer, puis… suffisent : « en haut », « dehors », « en arrière », « ensuite » répètent la même idée.",
+  "niveau": "superieur",
+  "fiche": "Un **pléonasme** est une répétition inutile : le second mot dit la même chose que le premier.\n- **monter** (en haut), **descendre** (en bas), **sortir** (dehors), **reculer** (en arrière) : la direction est déjà dans le verbe ;\n- **réunir**, **unir** (ensemble), **s'entraider** (mutuellement) : l'idée de « ensemble » est déjà là ;\n- **puis** (ensuite), **comme** (par exemple) : on choisit l'un ou l'autre ;\n- une **panacée** (universelle) : une panacée est déjà un remède universel ;\n- un (faux) **prétexte** : un prétexte est déjà une fausse raison ;\n- **importer** (de l'étranger), **devoir** (obligatoirement).\n\n**Le test** : enlevez le mot qui vous semble en trop. Si la phrase garde exactement le même sens, c'était un pléonasme.\n\n**Pour aller plus loin**\n- Certains pléonasmes sont volontaires, pour insister : « je l'ai vu de mes propres yeux ». Ils sont admis.\n- On dit **monter à l'étage**, **sortir du magasin** : ces compléments apportent une information nouvelle.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il faut {monter en haut>monter} pour voir la vue.",
+    "e": "« Monter » contient déjà l'idée « en haut ».",
+    "id": "pleonasmes.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les enfants sont {sortis dehors>sortis} jouer.",
+    "e": "« Sortir » contient déjà l'idée « dehors ».",
+    "id": "pleonasmes.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le camion a {reculé en arrière>reculé}.",
+    "e": "« Reculer » veut déjà dire aller en arrière.",
+    "id": "pleonasmes.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous avons {réuni ensemble>réuni} tous les élèves.",
+    "e": "« Réunir » contient déjà l'idée « ensemble ».",
+    "id": "pleonasmes.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a mangé, {puis ensuite>puis} il est parti.",
+    "e": "« Puis » et « ensuite » disent la même chose : un seul suffit.",
+    "id": "pleonasmes.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce remède n'est pas une {panacée universelle>panacée}.",
+    "e": "Une panacée est déjà un remède universel.",
+    "id": "pleonasmes.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elles se sont {entraidées mutuellement>entraidées}.",
+    "e": "« S'entraider » contient déjà l'idée « mutuellement ».",
+    "id": "pleonasmes.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'aime les fruits rouges, {comme par exemple>comme} les fraises.",
+    "e": "« Comme » et « par exemple » disent la même chose.",
+    "id": "pleonasmes.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il est descendu à la cave chercher du vin.",
+    "e": "Correct : « à la cave » apporte une information nouvelle.",
+    "id": "pleonasmes.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Pour ce voyage, il faut ___ les réservations.",
+    "o": [
+     "prévoir",
+     "prévoir à l'avance"
+    ],
+    "a": 0,
+    "e": "« Prévoir » veut déjà dire « voir à l'avance ».",
+    "id": "pleonasmes.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "pléonasme ou correct ?",
+    "c": [
+     "pléonasme",
+     "correct"
+    ],
+    "items": [
+     [
+      "monter en haut",
+      0
+     ],
+     [
+      "monter à l'étage",
+      1
+     ],
+     [
+      "sortir dehors",
+      0
+     ],
+     [
+      "sortir du magasin",
+      1
+     ],
+     [
+      "puis ensuite",
+      0
+     ],
+     [
+      "ensuite",
+      1
+     ]
+    ],
+    "e": "« En haut », « dehors », « ensuite » répètent une idée déjà présente. « À l'étage », « du magasin » ajoutent une information.",
+    "id": "pleonasmes.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a donné un {faux prétexte>prétexte} pour partir.",
+    "e": "Un prétexte est déjà une fausse raison.",
+    "id": "pleonasmes.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il faut {descendre en bas>descendre} pour sortir.",
+    "e": "« Descendre » contient déjà l'idée « en bas ».",
+    "id": "pleonasmes.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils ont {importé de l'étranger>importé} ces machines.",
+    "e": "« Importer » veut déjà dire faire venir de l'étranger.",
+    "id": "pleonasmes.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous avons collaboré pendant deux ans.",
+    "e": "Correct : « pendant deux ans » ajoute une information (et pas « ensemble »).",
+    "id": "pleonasmes.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ils ___ leurs efforts.",
+    "o": [
+     "ont uni",
+     "ont uni ensemble"
+    ],
+    "a": 0,
+    "e": "« Unir » contient déjà l'idée « ensemble ».",
+    "id": "pleonasmes.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a {dû obligatoirement>dû} partir plus tôt.",
+    "e": "« Devoir » exprime déjà l'obligation.",
+    "id": "pleonasmes.17"
+   }
+  ],
+  "bref": "Un **pléonasme** répète une idée déjà contenue dans le mot :\n- monter (en haut), descendre (en bas), sortir (dehors), reculer (en arrière) ;\n- réunir (ensemble), puis (ensuite), comme (par exemple), une panacée (universelle).\n\nLes mots entre parenthèses sont **en trop**."
  },
  {
   "id": "pluriel-noms",
@@ -17765,6 +19073,209 @@ window.PLUME_REGLES = [
   ]
  },
  {
+  "id": "pp-seul",
+  "titre": "Le participe passé employé seul",
+  "resume": "Arrivées en retard, mes sœurs ont manqué le début : sans auxiliaire, le participe s'accorde comme un adjectif.",
+  "niveau": "lycee",
+  "fiche": "Le participe passé **employé seul** (sans être ni avoir) se comporte comme un **adjectif** : il s'accorde en genre et en nombre avec le nom ou le pronom auquel il se rapporte.\n> Les lettres **envoyées** hier sont arrivées. Une fois la porte **fermée**, nous sommes partis.\n\n**En tête de phrase**, il se rapporte au **sujet** du verbe principal :\n> **Fatigués** par le voyage, les enfants dormaient. (Qui est fatigué ? les enfants)\n\n**Le test** : demandez-vous **qui** est « arrivé », « fatigué », « assis »… et accordez avec ce mot.\n\n**Le piège** : le mot auquel il se rapporte vient souvent **après** : **Assise** près de la fenêtre, **Léa** lisait.\n\n**Pour aller plus loin**\n- Un masculin et un féminin réunis : **masculin pluriel** (Partis tôt, Paul et sa sœur sont arrivés les premiers).\n- **excepté, vu, passé** placés avant le nom restent invariables (voir la règle dédiée).",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Arrivé>Arrivées} en retard, mes sœurs ont manqué le début.",
+    "e": "Qui est arrivé ? « mes sœurs » (féminin pluriel) : « arrivées ».",
+    "id": "pp-seul.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Fatigué>Fatigués} par le voyage, les enfants dormaient.",
+    "e": "Qui est fatigué ? « les enfants » : « fatigués ».",
+    "id": "pp-seul.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Une fois la porte {fermé>fermée}, nous sommes partis.",
+    "e": "Le participe se rapporte à « la porte » : « fermée ».",
+    "id": "pp-seul.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Assis>Assise} près de la fenêtre, Léa lisait.",
+    "e": "Qui est assis ? « Léa » : « assise ».",
+    "id": "pp-seul.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les lettres {envoyé>envoyées} hier sont arrivées.",
+    "e": "Le participe se rapporte à « les lettres » : « envoyées ».",
+    "id": "pp-seul.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Surprise>Surpris} par l'orage, les randonneurs se sont abrités.",
+    "e": "Qui est surpris ? « les randonneurs » (masculin pluriel) : « surpris ».",
+    "id": "pp-seul.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les devoirs {fini>finis}, ils sont sortis jouer.",
+    "e": "Le participe se rapporte à « les devoirs » : « finis ».",
+    "id": "pp-seul.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Né>Née} à Lyon, ma mère a grandi à Paris.",
+    "e": "Qui est né ? « ma mère » : « née ».",
+    "id": "pp-seul.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ravis de leur séjour, nos voisins sont rentrés hier.",
+    "e": "Correct : « ravis » se rapporte à « nos voisins » (masculin pluriel).",
+    "id": "pp-seul.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "___ par son erreur, elle s'est excusée.",
+    "o": [
+     "Gênée",
+     "Gêné"
+    ],
+    "a": 0,
+    "e": "Qui est gêné ? « elle » : « gênée ».",
+    "id": "pp-seul.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "accord au singulier ou au pluriel ?",
+    "c": [
+     "singulier",
+     "pluriel"
+    ],
+    "items": [
+     [
+      "(Arrivé) en avance, Paul attendait.",
+      0
+     ],
+     [
+      "(Arrivé) en avance, les élèves attendaient.",
+      1
+     ],
+     [
+      "La tarte (cuit), nous l'avons goûtée.",
+      0
+     ],
+     [
+      "Les gâteaux (cuit), nous les avons goûtés.",
+      1
+     ],
+     [
+      "(Assis) au premier rang, ma tante souriait.",
+      0
+     ],
+     [
+      "(Assis) au premier rang, mes tantes souriaient.",
+      1
+     ]
+    ],
+    "e": "Le participe s'accorde avec le mot auquel il se rapporte.",
+    "id": "pp-seul.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Partie>Partis} tôt, Paul et sa sœur sont arrivés les premiers.",
+    "e": "Un masculin et un féminin : masculin pluriel, « partis ».",
+    "id": "pp-seul.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Une fois les valises {bouclé>bouclées}, nous avons pris la route.",
+    "e": "Le participe se rapporte à « les valises » : « bouclées ».",
+    "id": "pp-seul.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Blessé>Blessée} au genou, la joueuse a quitté le terrain.",
+    "e": "Qui est blessé ? « la joueuse » : « blessée ».",
+    "id": "pp-seul.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les clés perdues ont été retrouvées.",
+    "e": "Correct : « perdues » se rapporte à « les clés ».",
+    "id": "pp-seul.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Les tâches ___, nous pouvons partir.",
+    "o": [
+     "terminées",
+     "terminé"
+    ],
+    "a": 0,
+    "e": "Le participe se rapporte à « les tâches » : « terminées ».",
+    "id": "pp-seul.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Invité>Invitées} à la fête, mes cousines ont dansé toute la nuit.",
+    "e": "Qui est invité ? « mes cousines » : « invitées ».",
+    "id": "pp-seul.17"
+   }
+  ],
+  "bref": "Sans auxiliaire, le participe passé s'accorde **comme un adjectif**, avec le mot auquel il se rapporte :\n> **Arrivées** en retard, mes sœurs ont manqué le début. Les lettres **envoyées** hier.\n\nEn tête de phrase, il se rapporte au **sujet** du verbe qui suit."
+ },
+ {
   "id": "pp-terminaison",
   "titre": "Participe passé : pris, fini, dit, mis",
   "resume": "J'ai pris (et non prit) : le test du féminin donne la lettre finale.",
@@ -18394,6 +19905,210 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "Le préfixe **in-** (= pas) change devant certaines lettres, et la consonne se **double** :\n- devant **l** → **ill-** : **ill**égal ; devant **r** → **irr-** : **irr**éel ; devant **m** → **imm-** : **imm**obile ;\n- devant **b, p** → **im-** : **im**buvable, **im**possible ;\n- devant une **voyelle** : **in-** seul → **in**utile, **in**oubliable."
+ },
+ {
+  "id": "prepositions",
+  "titre": "Les prépositions : à vélo, en voiture, au Portugal",
+  "resume": "À vélo mais en voiture ; à Paris, en France, au Portugal ; la voiture de mon père.",
+  "niveau": "lycee",
+  "fiche": "**Les moyens de transport** :\n- **à** quand on est **dessus** : **à** vélo, **à** cheval, **à** pied ;\n- **en** quand on est **dedans** : **en** voiture, **en** train, **en** avion, **en** bus.\n\n**Les lieux** :\n- **à** devant une **ville** : **à** Marseille, **à** Rome ;\n- **en** devant un pays **féminin** ou qui commence par une **voyelle** : **en** France, **en** Espagne, **en** Iran ;\n- **au** devant un pays **masculin** : **au** Portugal, **au** Canada, **au** Japon ;\n- **aux** devant un pays **pluriel** : **aux** États-Unis, **aux** Antilles.\n\n**L'appartenance** : on écrit **de** → la voiture **de** mon père (« la voiture à mon père » est familier).\n\n**Le test** : est-on dessus ou dedans ? Le pays est-il masculin (le Portugal) ou féminin (la France) ?\n\n**Pour aller plus loin**\n- Pour certains moyens de transport, l'usage hésite (à moto ou en moto, à ski ou en ski).\n- **en** Israël, **en** Iran : devant une voyelle, **en**, même pour un pays masculin.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je vais au travail {en>à} vélo.",
+    "e": "On est sur le vélo : « à vélo ».",
+    "id": "prepositions.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous partons {à>en} voiture.",
+    "e": "On est dans la voiture : « en voiture ».",
+    "id": "prepositions.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il habite {en>au} Portugal.",
+    "e": "« Le Portugal » est masculin : « au Portugal ».",
+    "id": "prepositions.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle travaille {au>en} Espagne.",
+    "e": "« L'Espagne » est féminin : « en Espagne ».",
+    "id": "prepositions.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous allons {en>à} Marseille.",
+    "e": "Devant une ville : « à ».",
+    "id": "prepositions.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "C'est la voiture {à>de} mon père.",
+    "e": "L'appartenance s'exprime par « de » à l'écrit.",
+    "id": "prepositions.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils voyagent {à>en} train.",
+    "e": "On est dans le train : « en train ».",
+    "id": "prepositions.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il est parti {au>aux} États-Unis.",
+    "e": "« Les États-Unis » est pluriel : « aux ».",
+    "id": "prepositions.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle est allée à Rome en avion, puis à vélo jusqu'à l'hôtel.",
+    "e": "Correct : « à Rome » (ville), « en avion » (dedans), « à vélo » (dessus).",
+    "id": "prepositions.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il vit ___ Canada.",
+    "o": [
+     "au",
+     "en",
+     "à"
+    ],
+    "a": 0,
+    "e": "« Le Canada » est masculin : « au ».",
+    "id": "prepositions.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "à ou en ?",
+    "c": [
+     "à",
+     "en"
+    ],
+    "items": [
+     [
+      "… vélo",
+      0
+     ],
+     [
+      "… voiture",
+      1
+     ],
+     [
+      "… Paris",
+      0
+     ],
+     [
+      "… France",
+      1
+     ],
+     [
+      "… cheval",
+      0
+     ],
+     [
+      "… bus",
+      1
+     ]
+    ],
+    "e": "« à » si l'on est dessus ou devant une ville ; « en » si l'on est dedans ou devant un pays féminin.",
+    "id": "prepositions.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je pars {en>au} Japon.",
+    "e": "« Le Japon » est masculin : « au Japon ».",
+    "id": "prepositions.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a fait tout le trajet {en>à} pied.",
+    "e": "« À pied » : la préposition « à ».",
+    "id": "prepositions.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle a vécu deux ans {au>en} Iran.",
+    "e": "Devant une voyelle, même pour un pays masculin : « en Iran ».",
+    "id": "prepositions.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous irons en Italie, puis au Mexique.",
+    "e": "Correct : « l'Italie » (féminin) → en ; « le Mexique » (masculin) → au.",
+    "id": "prepositions.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il se promène ___ cheval.",
+    "o": [
+     "à",
+     "en"
+    ],
+    "a": 0,
+    "e": "On est sur le cheval : « à cheval ».",
+    "id": "prepositions.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils sont partis {à>aux} Antilles.",
+    "e": "« Les Antilles » est pluriel : « aux ».",
+    "id": "prepositions.17"
+   }
+  ],
+  "bref": "- **à** quand on est **sur** le moyen de transport : **à** vélo, **à** cheval, **à** pied ; **en** quand on est **dedans** : **en** voiture, **en** train.\n- **à** + ville (**à** Lyon) ; **en** + pays féminin (**en** France) ; **au** + pays masculin (**au** Portugal) ; **aux** + pluriel (**aux** États-Unis)."
  },
  {
   "id": "pres-pret",

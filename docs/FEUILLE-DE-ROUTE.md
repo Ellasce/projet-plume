@@ -14,11 +14,11 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 3. L'orthographe d'usage (consonnes doubles, accents, -amment / -emment, majuscules, trait d'union) : la catégorie entièrement absente.
 4. La ponctuation, puis les règles 🟢.
 
-## Déjà réalisées (108 règles, 1923 exercices)
+## Déjà réalisées (116 règles, 2059 exercices)
 
 Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases sont originales, sauf celles qui portent une ligne `Source :` (LanguageTool, Verbiste).
 
-### Collège (58 règles)
+### Collège (60 règles)
 
 | Règle | Identifiant | Exercices (socle + avancés) |
 |---|---|---|
@@ -53,11 +53,13 @@ Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases
 | Le son « s » : s, ss, c, ç, sc | `son-s` | 11 + 6 |
 | Le trait d'union | `trait-union` | 11 + 8 |
 | Les accents : é, è, ê | `accents` | 11 + 8 |
+| Les accents sur les majuscules : À, É, Ç | `majuscules-accentuees` | 11 + 6 |
 | Les lettres muettes en fin de mot | `lettres-muettes` | 11 + 6 |
 | Les majuscules | `majuscules` | 11 + 8 |
 | Les mots en -tion, -sion, -ssion | `tion-sion` | 11 + 6 |
 | Les mots invariables courants | `mots-invariables` | 11 + 6 |
 | Les noms en -é, -ée, -té, -tié | `noms-ee-te` | 11 + 6 |
+| Les pronoms en et y | `en-y` | 11 + 6 |
 | Les trois groupes de verbes | `conj-groupes` | 8 + 8 |
 | leur ou leurs | `leur-leurs` | 12 + 8 |
 | m devant m, b, p | `m-devant-mbp` | 11 + 6 |
@@ -81,7 +83,7 @@ Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases
 | Verbes en -cer, -ger, -eler, -eter, -yer | `verbes-cer-ger` | 11 + 9 |
 | ça ou sa | `ca-sa` | 11 + 7 |
 
-### Lycée (35 règles)
+### Lycée (40 règles)
 
 | Règle | Identifiant | Exercices (socle + avancés) |
 |---|---|---|
@@ -102,15 +104,20 @@ Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases
 | La concordance des temps | `concordance-temps` | 11 + 8 |
 | La construction des verbes : à, de ou rien ? | `constructions-verbes` | 11 + 8 |
 | La virgule | `virgule` | 11 + 8 |
+| La voix passive | `passif` | 11 + 6 |
 | Le conditionnel passé : j'aurais dû | `conditionnel-passe` | 11 + 8 |
+| Le participe passé employé seul | `pp-seul` | 11 + 6 |
 | Le pluriel des noms composés | `noms-composes` | 11 + 6 |
 | Le subjonctif passé : que j'aie fini | `subjonctif-passe` | 11 + 6 |
 | Les adverbes en -amment et -emment | `amment-emment` | 11 + 8 |
+| Les deux-points et le point-virgule | `deux-points` | 11 + 6 |
 | Les mots souvent mal orthographiés | `mots-difficiles` | 11 + 8 |
 | Les pronoms relatifs : qui, que, où, lequel | `pronoms-relatifs` | 11 + 8 |
 | Les préfixes il-, ir-, im- : illégal, irréel, immobile | `prefixes-in` | 11 + 6 |
+| Les prépositions : à vélo, en voiture, au Portugal | `prepositions` | 11 + 6 |
 | même ou mêmes | `meme` | 11 + 6 |
 | notre ou nôtre, votre ou vôtre | `notre-notre` | 11 + 7 |
+| Nous criions, nous payions, nous gagnions : verbes en -ier, -yer, -gner, -iller | `ier-yer-gner` | 11 + 6 |
 | Participe passé avec avoir : le COD placé avant | `pp-cod-avant` | 9 + 7 |
 | plutôt ou plus tôt | `plutot-plus-tot` | 12 + 7 |
 | Présent : les verbes en -dre, -indre, -soudre, -cre | `conj-present` | 8 + 9 |
@@ -121,7 +128,7 @@ Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases
 | voir ou voire | `voir-voire` | 11 + 6 |
 | Écrire les nombres : vingt, cent, mille | `vingt-cent-mille` | 10 + 6 |
 
-### Supérieur (15 règles)
+### Supérieur (16 règles)
 
 | Règle | Identifiant | Exercices (socle + avancés) |
 |---|---|---|
@@ -131,6 +138,7 @@ Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases
 | Le genre des noms piégeux : un astérisque, une oasis | `genre-noms` | 11 + 6 |
 | Les paronymes | `paronymes` | 8 + 7 |
 | Les paronymes, 2e série : irruption, compréhensif, recouvrer | `paronymes-2` | 11 + 6 |
+| Les pléonasmes : monter en haut, sortir dehors | `pleonasmes` | 11 + 6 |
 | Participe passé : conclu, inclus, dû | `conj-participe` | 8 + 6 |
 | Participe passé : coûter, valoir, courir, peser, vivre et verbes impersonnels | `pp-couter-valoir` | 11 + 6 |
 | Participe passé des verbes pronominaux | `pp-pronominaux` | 8 + 8 |
@@ -166,7 +174,7 @@ Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases
 - [x] 🟠 Pluriel des noms composés (des grands-mères, des après-midi) — lycée → `noms-composes`
 - [x] 🟠 Même / mêmes (adverbe ou adjectif) — lycée → `meme`
 - [x] 🟠 Accord avec « on », le « vous » de politesse, le « nous » de modestie — lycée → `accord-on-vous`
-- [ ] 🟠 Participe passé employé seul, en tête de phrase — lycée
+- [x] 🟠 Participe passé employé seul, en tête de phrase — lycée → `pp-seul`
 - [x] 🟠 Ci-joint, ci-inclus, excepté, vu, passé — supérieur → `participes-invariables`
 - [x] 🟠 Sujets coordonnés (ou, ni, comme, ainsi que, avec) — supérieur → `sujets-coordonnes`
 - [ ] 🟠 Noms collectifs (une foule de, un grand nombre de, la moitié de) — supérieur
@@ -184,7 +192,7 @@ Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases
 - [x] 🟠 Imparfait ou passé simple dans un récit — collège → `imparfait-passe-simple`
 - [x] 🟠 Subjonctif passé — lycée → `subjonctif-passe`
 - [ ] 🟠 Verbes en -indre et -soudre (complet) — lycée
-- [ ] 🟠 Passif et voix pronominale — lycée
+- [x] 🟠 Passif et voix pronominale — lycée → `passif`
 - [x] 🟠 Impératif + pronoms (donne-le-moi, vas-y, manges-en) — lycée → `imperatif-pronoms`
 - [ ] 🟢 Verbes défectifs (falloir, pleuvoir, clore, frire) — supérieur
 - [x] 🟢 Subjonctif imparfait (reconnaître, lire) — supérieur → `subjonctif-imparfait`
@@ -210,15 +218,15 @@ Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases
 
 - [ ] 🟠 Classes de mots (nom, verbe, adjectif, adverbe, préposition…) — collège
 - [x] 🟠 Attribut du sujet — collège → `attribut-sujet`
-- [ ] 🟠 Pronoms personnels COD et COI (le, la, lui, leur, en, y) — collège
-- [ ] 🟠 Prépositions : à / de, en / dans (aller à vélo, en voiture) — lycée
+- [x] 🟠 Pronoms personnels COD et COI (le, la, lui, leur, en, y) — collège → `en-y` (le, la, lui, leur : `cod-coi`)
+- [x] 🟠 Prépositions : à / de, en / dans (aller à vélo, en voiture) — lycée → `prepositions`
 - [ ] 🟢 Discours direct et indirect — lycée
 - [ ] 🟢 Propositions subordonnées (repérage) — lycée
 
 ## 6. Ponctuation et typographie (catégorie à créer)
 
-- [ ] 🟠 Point-virgule et deux-points — lycée
-- [ ] 🟠 Les majuscules accentuées (À, É) — collège
+- [x] 🟠 Point-virgule et deux-points — lycée → `deux-points`
+- [x] 🟠 Les majuscules accentuées (À, É) — collège → `majuscules-accentuees`
 - [ ] 🟠 Espaces avant ; : ! ? et dans les guillemets « » — supérieur
 - [ ] 🟢 Guillemets et citations — lycée
 - [ ] 🟢 Points de suspension et « etc. » — lycée
@@ -226,7 +234,7 @@ Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases
 
 ## 7. Bien écrire et vocabulaire
 
-- [ ] 🟠 Pléonasmes (règle dédiée et complète) — supérieur
+- [x] 🟠 Pléonasmes (règle dédiée et complète) — supérieur → `pleonasmes`
 - [ ] 🟠 Anglicismes (« impacter », « faire sens », « en charge de ») — supérieur
 - [ ] 🟠 Barbarismes et mots déformés (règle dédiée) — supérieur
 - [x] 🟠 Paronymes, 2e série (éruption / irruption, compréhensible / compréhensif) — supérieur → `paronymes-2`
@@ -262,7 +270,7 @@ Accords et grammaire
 
 Conjugaison
 - [x] 🟠 Verbes pronominaux : conjugaison et auxiliaire être — collège → `pronominaux-conj`
-- [ ] 🟠 Imparfait et subjonctif des verbes en -ier, -yer, -gner, -iller (nous criions, nous payions) — lycée
+- [x] 🟠 Imparfait et subjonctif des verbes en -ier, -yer, -gner, -iller (nous criions, nous payions) — lycée → `ier-yer-gner`
 
 Fonctions du site (ce ne sont pas des règles)
 - [ ] Dictées courtes, lues par la synthèse vocale du navigateur

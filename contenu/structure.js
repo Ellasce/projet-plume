@@ -42,7 +42,7 @@ window.PLUME_STRUCTURE = {
         { id: "accords-base", titre: "Les bases",
           regles: ["accord-gn", "attribut-sujet", "feminin", "accord-sujet-verbe", "pluriel-noms", "noms-composes", "chaque-chacun", "cest-ce-sont"] },
         { id: "participe-passe", titre: "Participe passé",
-          regles: ["pp-etre-avoir", "pp-cod-avant", "pp-pronominaux", "pp-infinitif", "pp-couter-valoir"] },
+          regles: ["pp-etre-avoir", "pp-cod-avant", "pp-pronominaux", "pp-infinitif", "pp-couter-valoir", "pp-seul", "passif"] },
         { id: "autres-accords", titre: "Autres accords",
           regles: ["tout", "vingt-cent-mille", "couleurs", "demi-nu", "accords-sujet-delicats", "participe-present-adjectif", "meme", "accord-on-vous", "adjectif-adverbe", "aucun-nul", "participes-invariables", "sujets-coordonnes", "tel-tel-que"] }
       ]
@@ -58,7 +58,7 @@ window.PLUME_STRUCTURE = {
         { id: "temps-composes", titre: "Temps composés",
           regles: ["pc-auxiliaire", "pronominaux-conj", "pp-terminaison", "pqp-futur-anterieur", "conditionnel-passe", "subjonctif-passe"] },
         { id: "formes-verbes", titre: "Formes pièges",
-          regles: ["conj-present", "conj-futur", "conj-subjonctif", "conj-imperatif", "imperatif-pronoms", "conj-passe-simple", "subjonctif-imparfait", "conj-participe"] },
+          regles: ["conj-present", "conj-futur", "conj-subjonctif", "conj-imperatif", "imperatif-pronoms", "ier-yer-gner", "conj-passe-simple", "subjonctif-imparfait", "conj-participe"] },
         { id: "choisir-mode", titre: "Choisir le mode",
           regles: ["imparfait-passe-simple", "modes-conjonctions", "concordance-temps"] }
       ]
@@ -74,7 +74,7 @@ window.PLUME_STRUCTURE = {
         { id: "terminaisons", titre: "Terminaisons",
           regles: ["noms-ee-te", "lettres-muettes", "tion-sion", "amment-emment"] },
         { id: "majuscules-traits", titre: "Majuscules et trait d'union",
-          regles: ["majuscules", "trait-union", "elision"] }
+          regles: ["majuscules", "majuscules-accentuees", "trait-union", "elision"] }
       ]
     },
     {
@@ -84,11 +84,11 @@ window.PLUME_STRUCTURE = {
       description: "Comprendre la phrase pour bien écrire : sujet, compléments, pronoms.",
       sous: [
         { id: "fonctions", titre: "Les compléments",
-          regles: ["cod-coi", "constructions-verbes"] },
+          regles: ["cod-coi", "en-y", "constructions-verbes", "prepositions"] },
         { id: "pronoms-relatifs", titre: "Pronoms relatifs",
           regles: ["dont-que", "pronoms-relatifs"] },
         { id: "phrase", titre: "La phrase",
-          regles: ["negation-ne", "interrogation-indirecte", "virgule"] }
+          regles: ["negation-ne", "interrogation-indirecte", "virgule", "deux-points"] }
       ]
     },
     {
@@ -98,7 +98,7 @@ window.PLUME_STRUCTURE = {
       description: "Les tournures fautives et les mots qu'on confond.",
       sous: [
         { id: "usage", titre: "Usage et vocabulaire",
-          regles: ["constructions-fautives", "paronymes", "paronymes-2", "genre-noms", "voir-voire", "cense-sense"] }
+          regles: ["constructions-fautives", "pleonasmes", "paronymes", "paronymes-2", "genre-noms", "voir-voire", "cense-sense"] }
       ]
     }
   ],
@@ -108,16 +108,24 @@ window.PLUME_STRUCTURE = {
   parcours: [
     "a-a", "et-est", "on-ont", "son-sont", "ou-ou", "la-la", "leur-leurs", "peu-peut",
     "ca-sa", "sais-sait", "mes-mais-met", "pres-pret", "ma-m-a", "cet-cette", "a-as-es-est", "accord-gn", "attribut-sujet", "accord-sujet-verbe", "pluriel-noms", "feminin", "chaque-chacun", "tu-s", "verbes-cer-ger", "pc-auxiliaire", "pronominaux-conj", "pp-terminaison", "cod-coi", "consonnes-doubles", "m-devant-mbp", "son-s", "noms-ee-te", "lettres-muettes", "tion-sion", "mots-invariables", "accents",
-    "conj-groupes", "conj-base-present", "conj-base-imparfait", "conj-base-futur", "pqp-futur-anterieur", "imparfait-passe-simple",
+    "conj-groupes", "conj-base-present", "conj-base-imparfait", "conj-base-futur", "pqp-futur-anterieur", "imparfait-passe-simple", "en-y", "majuscules-accentuees",
     "infinitif-participe", "ce-se-ces-ses", "si-s-y", "ni-n-y", "sans-s-en", "ce-ceux", "quel-quelle-qu-elle", "pp-etre-avoir",
     "conj-present", "futur-conditionnel", "conj-futur", "pp-cod-avant",
-    "tout", "noms-composes", "meme", "accord-on-vous", "adjectif-adverbe", "aucun-nul", "conj-imperatif", "imperatif-pronoms", "vingt-cent-mille", "couleurs", "demi-nu", "amment-emment", "dont-que", "cest-ce-sont", "negation-ne", "trait-union", "elision", "prefixes-in", "majuscules", "conditionnel-passe", "ai-ais", "du-du", "parce-que", "notre-notre", "interrogation-indirecte", "mots-difficiles", "pronoms-relatifs", "virgule", "concordance-temps", "constructions-verbes", "conj-subjonctif", "subjonctif-passe",
+    "tout", "noms-composes", "meme", "accord-on-vous", "adjectif-adverbe", "aucun-nul", "pp-seul", "passif", "prepositions", "deux-points", "ier-yer-gner", "conj-imperatif", "imperatif-pronoms", "vingt-cent-mille", "couleurs", "demi-nu", "amment-emment", "dont-que", "cest-ce-sont", "negation-ne", "trait-union", "elision", "prefixes-in", "majuscules", "conditionnel-passe", "ai-ais", "du-du", "parce-que", "notre-notre", "interrogation-indirecte", "mots-difficiles", "pronoms-relatifs", "virgule", "concordance-temps", "constructions-verbes", "conj-subjonctif", "subjonctif-passe",
     "accords-sujet-delicats", "modes-conjonctions", "pp-pronominaux", "quelque-quel-que",
     "quand-quant", "plutot-plus-tot", "quoique", "davantage", "voir-voire", "cense-sense", "participe-present-adjectif", "pp-infinitif", "conj-participe", "conj-passe-simple",
-    "constructions-fautives", "paronymes", "pp-couter-valoir", "participes-invariables", "sujets-coordonnes", "subjonctif-imparfait", "genre-noms", "paronymes-2", "tel-tel-que"
+    "constructions-fautives", "paronymes", "pp-couter-valoir", "participes-invariables", "sujets-coordonnes", "subjonctif-imparfait", "genre-noms", "paronymes-2", "tel-tel-que", "pleonasmes"
   ],
 
   liens: {
+    "pp-seul": ["pp-etre-avoir", "participes-invariables"],
+    "passif": ["pp-etre-avoir"],
+    "prepositions": ["constructions-fautives"],
+    "en-y": ["cod-coi", "constructions-verbes"],
+    "majuscules-accentuees": ["majuscules", "accents"],
+    "deux-points": ["virgule"],
+    "pleonasmes": ["constructions-fautives"],
+    "ier-yer-gner": ["conj-base-imparfait", "conj-subjonctif"],
     "a-as-es-est": ["et-est", "a-a", "conj-subjonctif"],
     "attribut-sujet": ["accord-gn", "adjectif-adverbe"],
     "lettres-muettes": ["pluriel-noms"],

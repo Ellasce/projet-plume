@@ -82,6 +82,8 @@ regles.filter((r) => !cible || r.id === cible).forEach((r) => {
       fautes.forEach((m) => {
         if (m[1] === m[2]) err(ou(i) + " : la forme fautive est identique à la correction");
         if (!m[1].trim() || !m[2].trim()) err(ou(i) + " : forme fautive ou correction vide");
+        // La ponctuation n'est pas cliquable dans « trouvez la faute » : la faute doit contenir un mot.
+        if (!/[A-Za-zÀ-ÿŒœ]/.test(m[1])) err(ou(i) + " : la faute ne contient que de la ponctuation, inclure le mot voisin dans les crochets");
       });
       types[fautes.length ? "faute" : "correcte"] = (types[fautes.length ? "faute" : "correcte"] || 0) + 1;
     } else if (e.t === "choix") {
