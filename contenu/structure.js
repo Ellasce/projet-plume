@@ -28,7 +28,7 @@ window.PLUME_STRUCTURE = {
       description: "Des mots qui se prononcent pareil mais ne s'écrivent pas pareil.",
       sous: [
         { id: "homophones-classiques", titre: "Les classiques",
-          regles: ["a-a", "et-est", "on-ont", "son-sont", "ou-ou", "la-la", "leur-leurs", "peu-peut", "ca-sa", "mes-mais-met", "pres-pret", "ma-m-a", "cet-cette"] },
+          regles: ["a-a", "et-est", "on-ont", "son-sont", "ou-ou", "la-la", "leur-leurs", "peu-peut", "ca-sa", "mes-mais-met", "pres-pret", "ma-m-a", "cet-cette", "a-as-es-est"] },
         { id: "homophones-grammaticaux", titre: "Homophones grammaticaux",
           regles: ["infinitif-participe", "ce-se-ces-ses", "quel-quelle-qu-elle", "futur-conditionnel", "quelque-quel-que", "quand-quant", "plutot-plus-tot", "sais-sait", "ai-ais", "si-s-y", "ni-n-y", "sans-s-en", "ce-ceux", "parce-que", "notre-notre", "quoique", "davantage"] }
       ]
@@ -40,11 +40,11 @@ window.PLUME_STRUCTURE = {
       description: "Accorder le participe passé, le verbe et les mots variables.",
       sous: [
         { id: "accords-base", titre: "Les bases",
-          regles: ["accord-gn", "feminin", "accord-sujet-verbe", "pluriel-noms", "noms-composes", "chaque-chacun", "cest-ce-sont"] },
+          regles: ["accord-gn", "attribut-sujet", "feminin", "accord-sujet-verbe", "pluriel-noms", "noms-composes", "chaque-chacun", "cest-ce-sont"] },
         { id: "participe-passe", titre: "Participe passé",
           regles: ["pp-etre-avoir", "pp-cod-avant", "pp-pronominaux", "pp-infinitif", "pp-couter-valoir"] },
         { id: "autres-accords", titre: "Autres accords",
-          regles: ["tout", "vingt-cent-mille", "couleurs", "demi-nu", "accords-sujet-delicats", "participe-present-adjectif", "meme", "accord-on-vous", "participes-invariables", "sujets-coordonnes"] }
+          regles: ["tout", "vingt-cent-mille", "couleurs", "demi-nu", "accords-sujet-delicats", "participe-present-adjectif", "meme", "accord-on-vous", "adjectif-adverbe", "aucun-nul", "participes-invariables", "sujets-coordonnes", "tel-tel-que"] }
       ]
     },
     {
@@ -70,9 +70,9 @@ window.PLUME_STRUCTURE = {
       description: "L'orthographe des mots eux-mêmes : lettres doubles, accents, terminaisons.",
       sous: [
         { id: "lettres", titre: "Lettres et accents",
-          regles: ["consonnes-doubles", "m-devant-mbp", "son-s", "accents", "du-du", "mots-invariables", "mots-difficiles"] },
+          regles: ["consonnes-doubles", "m-devant-mbp", "son-s", "prefixes-in", "accents", "du-du", "mots-invariables", "mots-difficiles"] },
         { id: "terminaisons", titre: "Terminaisons",
-          regles: ["noms-ee-te", "amment-emment"] },
+          regles: ["noms-ee-te", "lettres-muettes", "tion-sion", "amment-emment"] },
         { id: "majuscules-traits", titre: "Majuscules et trait d'union",
           regles: ["majuscules", "trait-union", "elision"] }
       ]
@@ -107,17 +107,23 @@ window.PLUME_STRUCTURE = {
   // les valide d'emblée pour ceux qui les maîtrisent.
   parcours: [
     "a-a", "et-est", "on-ont", "son-sont", "ou-ou", "la-la", "leur-leurs", "peu-peut",
-    "ca-sa", "sais-sait", "mes-mais-met", "pres-pret", "ma-m-a", "cet-cette", "accord-gn", "accord-sujet-verbe", "pluriel-noms", "feminin", "chaque-chacun", "tu-s", "verbes-cer-ger", "pc-auxiliaire", "pronominaux-conj", "pp-terminaison", "cod-coi", "consonnes-doubles", "m-devant-mbp", "son-s", "noms-ee-te", "mots-invariables", "accents",
+    "ca-sa", "sais-sait", "mes-mais-met", "pres-pret", "ma-m-a", "cet-cette", "a-as-es-est", "accord-gn", "attribut-sujet", "accord-sujet-verbe", "pluriel-noms", "feminin", "chaque-chacun", "tu-s", "verbes-cer-ger", "pc-auxiliaire", "pronominaux-conj", "pp-terminaison", "cod-coi", "consonnes-doubles", "m-devant-mbp", "son-s", "noms-ee-te", "lettres-muettes", "tion-sion", "mots-invariables", "accents",
     "conj-groupes", "conj-base-present", "conj-base-imparfait", "conj-base-futur", "pqp-futur-anterieur", "imparfait-passe-simple",
     "infinitif-participe", "ce-se-ces-ses", "si-s-y", "ni-n-y", "sans-s-en", "ce-ceux", "quel-quelle-qu-elle", "pp-etre-avoir",
     "conj-present", "futur-conditionnel", "conj-futur", "pp-cod-avant",
-    "tout", "noms-composes", "meme", "accord-on-vous", "conj-imperatif", "imperatif-pronoms", "vingt-cent-mille", "couleurs", "demi-nu", "amment-emment", "dont-que", "cest-ce-sont", "negation-ne", "trait-union", "elision", "majuscules", "conditionnel-passe", "ai-ais", "du-du", "parce-que", "notre-notre", "interrogation-indirecte", "mots-difficiles", "pronoms-relatifs", "virgule", "concordance-temps", "constructions-verbes", "conj-subjonctif", "subjonctif-passe",
+    "tout", "noms-composes", "meme", "accord-on-vous", "adjectif-adverbe", "aucun-nul", "conj-imperatif", "imperatif-pronoms", "vingt-cent-mille", "couleurs", "demi-nu", "amment-emment", "dont-que", "cest-ce-sont", "negation-ne", "trait-union", "elision", "prefixes-in", "majuscules", "conditionnel-passe", "ai-ais", "du-du", "parce-que", "notre-notre", "interrogation-indirecte", "mots-difficiles", "pronoms-relatifs", "virgule", "concordance-temps", "constructions-verbes", "conj-subjonctif", "subjonctif-passe",
     "accords-sujet-delicats", "modes-conjonctions", "pp-pronominaux", "quelque-quel-que",
     "quand-quant", "plutot-plus-tot", "quoique", "davantage", "voir-voire", "cense-sense", "participe-present-adjectif", "pp-infinitif", "conj-participe", "conj-passe-simple",
-    "constructions-fautives", "paronymes", "pp-couter-valoir", "participes-invariables", "sujets-coordonnes", "subjonctif-imparfait", "genre-noms", "paronymes-2"
+    "constructions-fautives", "paronymes", "pp-couter-valoir", "participes-invariables", "sujets-coordonnes", "subjonctif-imparfait", "genre-noms", "paronymes-2", "tel-tel-que"
   ],
 
   liens: {
+    "a-as-es-est": ["et-est", "a-a", "conj-subjonctif"],
+    "attribut-sujet": ["accord-gn", "adjectif-adverbe"],
+    "lettres-muettes": ["pluriel-noms"],
+    "prefixes-in": ["consonnes-doubles", "m-devant-mbp"],
+    "aucun-nul": ["chaque-chacun"],
+    "tel-tel-que": ["quelque-quel-que"],
     "pp-couter-valoir": ["pp-cod-avant"],
     "participes-invariables": ["pp-etre-avoir"],
     "sujets-coordonnes": ["accords-sujet-delicats", "accord-sujet-verbe"],

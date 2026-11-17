@@ -357,6 +357,211 @@ window.PLUME_REGLES = [
   ]
  },
  {
+  "id": "a-as-es-est",
+  "titre": "a ou as, es ou est, ai, aie ou ait",
+  "resume": "Tu as, il a ; tu es, il est ; j'ai, que j'aie, qu'il ait : chaque personne a sa forme.",
+  "niveau": "college",
+  "fiche": "- **avoir** : j'**ai**, tu **as**, il **a** (présent) ; que j'**aie**, que tu **aies**, qu'il **ait** (subjonctif).\n- **être** : je suis, tu **es**, il **est**.\n\n**Le test** : regardez le sujet.\n> Tu as faim. → sujet « tu » → **as**. Il a faim. → sujet « il » → **a**.\n> Tu es en retard. → **es**. Il est en retard. → **est**.\n\n**Le subjonctif** : après « il faut que », « je veux que », « bien que »…, avoir s'écrit **aie, aies, ait**.\n> Il faut que j'**aie** mon billet. Je voudrais qu'il **ait** de la chance.\n\n**Les pièges** :\n- Sujet après le verbe : **as**-tu faim ? **es**-tu prêt ? **a**-t-il fini ?\n- Avec **qui** : c'est toi qui **as** gagné (tu as gagné).\n\n**Pour aller plus loin**\n- Après un verbe d'opinion (je pense, je crois), on garde l'indicatif : je pense que j'**ai** raison.\n- **aie** est aussi l'impératif : **aie** confiance !",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Tu {a>as} oublié ton sac.",
+    "e": "Avec « tu », le verbe avoir s'écrit « as ».",
+    "id": "a-as-es-est.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il {as>a} trois frères.",
+    "e": "Avec « il », le verbe avoir s'écrit « a ».",
+    "id": "a-as-es-est.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Tu {est>es} toujours en avance.",
+    "e": "Avec « tu », le verbe être s'écrit « es ».",
+    "id": "a-as-es-est.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle {es>est} partie en vacances.",
+    "e": "Avec « elle », le verbe être s'écrit « est ».",
+    "id": "a-as-es-est.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il faut que j'{ai>aie} mon billet avant samedi.",
+    "e": "Après « il faut que » : subjonctif, « que j'aie ».",
+    "id": "a-as-es-est.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je voudrais qu'il {a>ait} de la chance.",
+    "e": "Après « je voudrais que » : subjonctif, « qu'il ait ».",
+    "id": "a-as-es-est.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Est>Es}-tu prêt à partir ?",
+    "e": "Le sujet « tu » est placé après le verbe : « es-tu ».",
+    "id": "a-as-es-est.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "C'est toi qui {a>as} gagné.",
+    "e": "« Qui » remplace « toi » : « tu as gagné ».",
+    "id": "a-as-es-est.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Tu as raison : il est tard et j'ai sommeil.",
+    "e": "Correct : « tu as », « il est », « j'ai ».",
+    "id": "a-as-es-est.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Bien que tu ___ peur, tu continues.",
+    "o": [
+     "aies",
+     "as",
+     "ait"
+    ],
+    "a": 0,
+    "e": "Après « bien que » : subjonctif, « que tu aies ».",
+    "id": "a-as-es-est.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "avoir ou être ?",
+    "c": [
+     "as, a (avoir)",
+     "es, est (être)"
+    ],
+    "items": [
+     [
+      "Tu … faim.",
+      0
+     ],
+     [
+      "Il … malade.",
+      1
+     ],
+     [
+      "Elle … un chat.",
+      0
+     ],
+     [
+      "Tu … gentil.",
+      1
+     ],
+     [
+      "… -tu un stylo ?",
+      0
+     ],
+     [
+      "… -il là ?",
+      1
+     ]
+    ],
+    "e": "Si l'on peut dire « avait », c'est avoir (as, a). Si l'on peut dire « était », c'est être (es, est).",
+    "id": "a-as-es-est.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{As>A}-t-il déjà mangé ?",
+    "e": "Le sujet est « il » : « a-t-il ».",
+    "id": "a-as-es-est.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je ne crois pas qu'elle {a>ait} compris.",
+    "e": "« Je ne crois pas que » + subjonctif : « qu'elle ait ».",
+    "id": "a-as-es-est.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Ai>Aie} confiance en toi !",
+    "e": "Impératif du verbe avoir : « aie ».",
+    "id": "a-as-es-est.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je pense que j'ai raison.",
+    "e": "Correct : après « je pense que », on garde l'indicatif « j'ai ».",
+    "id": "a-as-es-est.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il est content que tu ___ réussi.",
+    "o": [
+     "aies",
+     "as",
+     "es"
+    ],
+    "a": 0,
+    "e": "« Être content que » + subjonctif : « que tu aies ».",
+    "id": "a-as-es-est.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "C'est toi qui {est>es} le plus rapide.",
+    "e": "« Qui » remplace « toi » : « tu es ».",
+    "id": "a-as-es-est.17"
+   }
+  ],
+  "bref": "- Avec **tu** : tu **as** (avoir), tu **es** (être). Avec **il** : il **a**, il **est**.\n- Avec **je** : j'**ai** ; mais après « il faut que », « je veux que » : que j'**aie**, qu'il **ait**."
+ },
+ {
   "id": "accents",
   "titre": "Les accents : é, è, ê",
   "resume": "Pas d'accent devant une consonne double ou un x ; è devant une syllabe muette.",
@@ -1374,6 +1579,209 @@ window.PLUME_REGLES = [
   ]
  },
  {
+  "id": "adjectif-adverbe",
+  "titre": "Adjectif ou adverbe : sentir bon, parler fort",
+  "resume": "Ces fleurs sentent bon, ils parlent fort : employés après un verbe, ces adjectifs ne s'accordent pas.",
+  "niveau": "lycee",
+  "fiche": "Certains adjectifs s'emploient **après un verbe**, pour dire **comment** se fait l'action. Ils jouent alors le rôle d'un **adverbe** et restent **invariables** :\n> sentir **bon**, parler **fort**, coûter **cher**, voir **clair**, chanter **faux**, travailler **dur**, peser **lourd**, s'arrêter **net**, tenir **bon**, viser **haut**.\n\nQuand ils décrivent un **nom**, ce sont de vrais adjectifs : ils **s'accordent**.\n> Des voix **fortes**. Ces pommes sont **chères**. Ces cartons sont **lourds**.\n\n**Le test** : posez la question « comment ? » après le verbe. Elles parlent comment ? fort → adverbe, invariable.\n\n**Le piège** : comparez « ces bijoux coûtent **cher** » (verbe coûter, invariable) et « ces bijoux sont **chers** » (attribut de « bijoux », accord).\n\n**Pour aller plus loin**\n- Avec un participe : des cheveux coupés **court** (invariable).\n- L'usage accorde dans quelques expressions figées (des fleurs fraîches cueillies, une fenêtre grande ouverte) : ce sont des exceptions.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces fleurs sentent {bonnes>bon}.",
+    "e": "Après le verbe « sentir » : adverbe, invariable.",
+    "id": "adjectif-adverbe.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils parlent {forts>fort}.",
+    "e": "Parler comment ? fort : adverbe, invariable.",
+    "id": "adjectif-adverbe.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces chaussures coûtent {chères>cher}.",
+    "e": "Après le verbe « coûter » : invariable.",
+    "id": "adjectif-adverbe.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elles chantent {fausses>faux}.",
+    "e": "Chanter comment ? faux : invariable.",
+    "id": "adjectif-adverbe.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous avons travaillé {durs>dur}.",
+    "e": "Après le verbe « travailler » : invariable.",
+    "id": "adjectif-adverbe.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les voitures se sont arrêtées {nettes>net}.",
+    "e": "S'arrêter net (brusquement) : invariable.",
+    "id": "adjectif-adverbe.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle a les cheveux coupés {courts>court}.",
+    "e": "« Court » modifie le participe « coupés » : invariable.",
+    "id": "adjectif-adverbe.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces valises pèsent {lourdes>lourd}.",
+    "e": "Après le verbe « peser » : invariable.",
+    "id": "adjectif-adverbe.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces roses sont belles et sentent bon.",
+    "e": "Correct : « belles » (attribut, accordé), « bon » (après « sentir », invariable).",
+    "id": "adjectif-adverbe.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ces bijoux coûtent ___.",
+    "o": [
+     "cher",
+     "chers"
+    ],
+    "a": 0,
+    "e": "Après le verbe « coûter » : invariable.",
+    "id": "adjectif-adverbe.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "adverbe ou adjectif ?",
+    "c": [
+     "adverbe (invariable)",
+     "adjectif (accordé)"
+    ],
+    "items": [
+     [
+      "Elles parlent (fort).",
+      0
+     ],
+     [
+      "Des voix (fort)",
+      1
+     ],
+     [
+      "Ces gâteaux sentent (bon).",
+      0
+     ],
+     [
+      "De (bon) gâteaux",
+      1
+     ],
+     [
+      "Ils voient (clair).",
+      0
+     ],
+     [
+      "Des eaux (clair)",
+      1
+     ]
+    ],
+    "e": "Après un verbe : invariable. Avec un nom : accord.",
+    "id": "adjectif-adverbe.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces cartons sont {lourd>lourds}.",
+    "e": "Attribut de « ces cartons » (après « être ») : accord.",
+    "id": "adjectif-adverbe.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils ont tenu {bons>bon} jusqu'au bout.",
+    "e": "« Tenir bon » : invariable.",
+    "id": "adjectif-adverbe.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elles voient {claires>clair} dans son jeu.",
+    "e": "« Voir clair » : invariable.",
+    "id": "adjectif-adverbe.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Des voix fortes chantaient fort dans la rue.",
+    "e": "Correct : « fortes » qualifie « voix », « fort » modifie « chantaient ».",
+    "id": "adjectif-adverbe.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ces pommes sont ___.",
+    "o": [
+     "chères",
+     "cher"
+    ],
+    "a": 0,
+    "e": "Après « être », attribut de « ces pommes » : accord.",
+    "id": "adjectif-adverbe.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ses filles visent {hautes>haut}.",
+    "e": "« Viser haut » : invariable.",
+    "id": "adjectif-adverbe.17"
+   }
+  ],
+  "bref": "- Après un **verbe**, ces adjectifs jouent le rôle d'un **adverbe** : **invariables** → ces fleurs sentent **bon**, ils parlent **fort**, ces bijoux coûtent **cher**.\n- Avec un **nom**, ils **s'accordent** → des voix **fortes**, des bijoux **chers**."
+ },
+ {
   "id": "ai-ais",
   "titre": "-ai ou -ais à la fin des verbes",
   "resume": "Je jouais ou je jouai ? Passez à « il » : il jouait, il joua.",
@@ -1816,6 +2224,412 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "Ces adverbes se prononcent tous « -amment ». Pour les écrire, retrouvez **l'adjectif** :\n- adjectif en **-ant** → adverbe en **-amment** : courant → couramment ;\n- adjectif en **-ent** → adverbe en **-emment** : prudent → prudemment.\n\nEt toujours **deux m**."
+ },
+ {
+  "id": "attribut-sujet",
+  "titre": "L'accord de l'attribut du sujet",
+  "resume": "Ma sœur est contente, les rues paraissent désertes : l'attribut s'accorde avec le sujet.",
+  "niveau": "college",
+  "fiche": "Les **verbes d'état** relient le sujet à un mot qui le décrit : **être, sembler, paraître, devenir, rester, demeurer, avoir l'air**. Ce mot est l'**attribut du sujet**. Il s'accorde **en genre et en nombre avec le sujet**.\n> Ma sœur est **contente**. Les enfants semblent **fatigués**. Ces fleurs restent **fraîches**.\n\n**Le test** : remplacez le verbe par **être**. Le mot qui suit décrit-il le sujet ? Alors il s'accorde avec lui.\n\n**Les pièges** :\n- Un masculin et un féminin : **masculin pluriel** (Paul et Léa sont **contents**).\n- **avoir l'air** + une chose : accord avec le sujet (cette tarte a l'air **délicieuse**).\n\n**Pour aller plus loin**\n- Un **nom** attribut prend aussi le féminin et le pluriel quand il le peut : mes cousines sont devenues **infirmières**.\n- **demeurer** suit la même règle : les résultats demeurent **incertains**.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ma sœur est {content>contente}.",
+    "e": "L'attribut s'accorde avec « ma sœur » (féminin) : « contente ».",
+    "id": "attribut-sujet.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les enfants semblent {fatigué>fatigués}.",
+    "e": "Après « sembler », accord avec « les enfants » : « fatigués ».",
+    "id": "attribut-sujet.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces fleurs restent {frais>fraîches}.",
+    "e": "Accord avec « ces fleurs » (féminin pluriel) : « fraîches ».",
+    "id": "attribut-sujet.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle est devenue {célèbres>célèbre}.",
+    "e": "Accord avec « elle » (singulier) : « célèbre ».",
+    "id": "attribut-sujet.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les rues paraissent {désert>désertes}.",
+    "e": "Accord avec « les rues » (féminin pluriel) : « désertes ».",
+    "id": "attribut-sujet.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Mes parents sont {heureuse>heureux}.",
+    "e": "Accord avec « mes parents » (masculin pluriel) : « heureux ».",
+    "id": "attribut-sujet.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cette tarte a l'air {délicieux>délicieuse}.",
+    "e": "« Avoir l'air » + une chose : accord avec « cette tarte » : « délicieuse ».",
+    "id": "attribut-sujet.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les nuits deviennent {froide>froides}.",
+    "e": "Accord avec « les nuits » : « froides ».",
+    "id": "attribut-sujet.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les élèves sont attentifs et la salle reste silencieuse.",
+    "e": "Correct : « attentifs » (les élèves), « silencieuse » (la salle).",
+    "id": "attribut-sujet.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ces chemises sont ___.",
+    "o": [
+     "sales",
+     "sale"
+    ],
+    "a": 0,
+    "e": "Accord avec « ces chemises » (pluriel) : « sales ».",
+    "id": "attribut-sujet.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "quel accord ?",
+    "c": [
+     "masculin pluriel",
+     "féminin pluriel"
+    ],
+    "items": [
+     [
+      "Les garçons sont (content).",
+      0
+     ],
+     [
+      "Les filles semblent (prêt).",
+      1
+     ],
+     [
+      "Mes oncles restent (calme).",
+      0
+     ],
+     [
+      "Ces routes deviennent (dangereux).",
+      1
+     ],
+     [
+      "Paul et Léa sont (ravi).",
+      0
+     ],
+     [
+      "Ses sœurs paraissent (inquiet).",
+      1
+     ]
+    ],
+    "e": "L'attribut s'accorde avec le sujet ; un masculin et un féminin réunis donnent le masculin pluriel.",
+    "id": "attribut-sujet.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Paul et Léa sont {contentes>contents}.",
+    "e": "Un masculin et un féminin : masculin pluriel, « contents ».",
+    "id": "attribut-sujet.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elles se sentent {seul>seules}.",
+    "e": "Accord avec « elles » : « seules ».",
+    "id": "attribut-sujet.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cette solution semble {simples>simple}.",
+    "e": "Accord avec « cette solution » (singulier) : « simple ».",
+    "id": "attribut-sujet.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les résultats demeurent incertains.",
+    "e": "Correct : après « demeurer », accord avec « les résultats ».",
+    "id": "attribut-sujet.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Tes idées me paraissent ___.",
+    "o": [
+     "justes",
+     "juste"
+    ],
+    "a": 0,
+    "e": "Accord avec « tes idées » : « justes ».",
+    "id": "attribut-sujet.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Mes cousines sont devenues {infirmier>infirmières}.",
+    "e": "Le nom attribut prend le féminin pluriel : « infirmières ».",
+    "id": "attribut-sujet.17"
+   }
+  ],
+  "bref": "Après **être, sembler, paraître, devenir, rester, avoir l'air**, le mot qui décrit le sujet (l'**attribut**) **s'accorde avec le sujet** :\n> Ma sœur est **contente**. Les rues paraissent **désertes**."
+ },
+ {
+  "id": "aucun-nul",
+  "titre": "Aucun, nul, plusieurs, certains : singulier ou pluriel ?",
+  "resume": "Aucune erreur, nul ne peut, mais aucuns frais ; plusieurs et certains toujours au pluriel.",
+  "niveau": "lycee",
+  "fiche": "- **aucun, aucune** et **nul, nulle** expriment le zéro : ils sont au **singulier** et vont avec **ne**.\n> Il n'a **aucun ami**. **Aucune erreur** n'a été relevée. **Nul** ne **peut** entrer.\n- Le verbe est au **singulier** : aucun des invités n'**a** répondu.\n- **plusieurs** prend **toujours un s** ; **certains, certaines** sont au **pluriel**.\n> **Plusieurs** élèves sont absents. **Certains** jours, il pleut sans arrêt.\n\n**Le test** : aucun = « pas un » → singulier.\n\n**Le piège** : devant un nom qui n'existe qu'au pluriel (**frais**, **funérailles**, **ciseaux**…), aucun prend la marque du pluriel : **aucuns frais**.\n\n**Pour aller plus loin**\n- **nul** adjectif (= sans valeur) s'accorde : des résultats **nuls**.\n- **nulle part** : nulle part ailleurs on ne mange aussi bien.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il n'a {aucuns amis>aucun ami}.",
+    "e": "« Aucun » = pas un : singulier, « aucun ami ».",
+    "id": "aucun-nul.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Aucunes>Aucune} erreur n'a été relevée.",
+    "e": "« Aucune » est au singulier.",
+    "id": "aucun-nul.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je n'ai fait {aucunes fautes>aucune faute}.",
+    "e": "« Aucune » = pas une : singulier.",
+    "id": "aucun-nul.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Plusieur>Plusieurs} élèves sont absents.",
+    "e": "« Plusieurs » prend toujours un s.",
+    "id": "aucun-nul.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Aucun des invités n'{ont>a} répondu.",
+    "e": "Le sujet est « aucun » : singulier, « a ».",
+    "id": "aucun-nul.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nul ne {peuvent>peut} entrer sans badge.",
+    "e": "« Nul » est singulier : « peut ».",
+    "id": "aucun-nul.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il n'y a {aucuns doutes>aucun doute}.",
+    "e": "« Aucun » = pas un : singulier.",
+    "id": "aucun-nul.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Certain>Certains} jours, il pleut sans arrêt.",
+    "e": "« Certains jours » : pluriel.",
+    "id": "aucun-nul.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Aucune solution n'est parfaite, mais plusieurs idées sont bonnes.",
+    "e": "Correct : « aucune » au singulier, « plusieurs » au pluriel.",
+    "id": "aucun-nul.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Je n'ai ___ envie de sortir.",
+    "o": [
+     "aucune",
+     "aucunes"
+    ],
+    "a": 0,
+    "e": "« Aucune » = pas une : singulier.",
+    "id": "aucun-nul.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "singulier ou pluriel ?",
+    "c": [
+     "singulier",
+     "pluriel"
+    ],
+    "items": [
+     [
+      "aucun (élève)",
+      0
+     ],
+     [
+      "plusieurs (livres)",
+      1
+     ],
+     [
+      "nul (homme)",
+      0
+     ],
+     [
+      "certains (jours)",
+      1
+     ],
+     [
+      "aucune (idée)",
+      0
+     ],
+     [
+      "quelques (amis)",
+      1
+     ]
+    ],
+    "e": "Aucun et nul expriment le zéro : singulier. Plusieurs, certains, quelques : pluriel.",
+    "id": "aucun-nul.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce service n'entraîne {aucun frais>aucuns frais}.",
+    "e": "« Frais » n'existe qu'au pluriel : « aucuns frais ».",
+    "id": "aucun-nul.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il n'a été invité à {aucunes fêtes>aucune fête}.",
+    "e": "« Aucune » : singulier.",
+    "id": "aucun-nul.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces résultats sont {nul>nuls}.",
+    "e": "« Nul » adjectif (sans valeur) s'accorde : « nuls ».",
+    "id": "aucun-nul.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nulle part ailleurs on ne mange aussi bien.",
+    "e": "Correct : « nulle part » au singulier.",
+    "id": "aucun-nul.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il ne reste ___ place dans ce train.",
+    "o": [
+     "aucune",
+     "aucunes"
+    ],
+    "a": 0,
+    "e": "« Aucune » = pas une : singulier.",
+    "id": "aucun-nul.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Aucune de ces robes ne me {vont>va}.",
+    "e": "Le sujet est « aucune » : singulier, « va ».",
+    "id": "aucun-nul.17"
+   }
+  ],
+  "bref": "- **aucun, nul** : **singulier** → aucun**e** erreur, nul ne **peut**.\n- Sauf devant un nom toujours pluriel : **aucuns frais**.\n- **plusieurs** (toujours un s) et **certains** : **pluriel**."
  },
  {
   "id": "ca-sa",
@@ -10501,6 +11315,211 @@ window.PLUME_REGLES = [
   "bref": "- **la** va devant un nom ou devant un verbe : **la** porte, je **la** vois. On peut dire **le** ou **les**.\n- **l'a** contient le verbe **avoir** : il **l'a** vu. On peut dire **l'avait**.\n- **là** indique un lieu : reste **là**. On peut dire **ici**."
  },
  {
+  "id": "lettres-muettes",
+  "titre": "Les lettres muettes en fin de mot",
+  "resume": "Le lait (laitier), le galop (galoper), le banc (banquette) : un mot de la famille révèle la lettre muette.",
+  "niveau": "college",
+  "fiche": "Beaucoup de mots se terminent par une **lettre qui ne s'entend pas**. Pour la trouver :\n- cherchez un **mot de la même famille** : le lai**t** (lai**t**ier), le galo**p** (galo**p**er), le déb**ut** (déb**ut**er), le tapi**s** (tapi**ss**er), le do**s** (do**ss**ier), le ban**c** (ban**qu**ette) ;\n- ou mettez au **féminin** : gran**d** (gran**d**e), peti**t** (peti**t**e), bavar**d** (bavar**d**e).\n\n**Les noms en -ment** formés sur un verbe en **-ier, -ouer, -uer, -yer** gardent le **e** du verbe, qui ne s'entend pas :\n> remercier → remerci**e**ment ; se dévouer → dévou**e**ment ; aboyer → aboi**e**ment.\n\n**Le test** : « Comment dit-on quand on fait l'action ? » ou « au féminin ? ».\n\n**Pour aller plus loin**\n- Quelques mots n'ont pas de famille qui aide : il faut les retenir (le sirop, le respect).\n- Le **p** de plom**b** s'entend dans plom**b**ier ; le **t** de sau**t** dans sau**t**er.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'ai bu un verre de {lai>lait}.",
+    "e": "« Laitier » fait entendre le t : « lait ».",
+    "id": "lettres-muettes.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le cheval part au {galo>galop}.",
+    "e": "« Galoper » fait entendre le p : « galop ».",
+    "id": "lettres-muettes.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il est assis sur le {ban>banc}.",
+    "e": "« Banquette » fait entendre le son du c : « banc ».",
+    "id": "lettres-muettes.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Mon frère est très {bavar>bavard}.",
+    "e": "« Bavarder » fait entendre le d : « bavard ».",
+    "id": "lettres-muettes.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce n'est que le {débu>début}.",
+    "e": "« Débuter » fait entendre le t : « début ».",
+    "id": "lettres-muettes.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a mal au {do>dos}.",
+    "e": "« Dossier » fait entendre le s : « dos ».",
+    "id": "lettres-muettes.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le {tapi>tapis} du salon est neuf.",
+    "e": "« Tapisser » fait entendre le s : « tapis ».",
+    "id": "lettres-muettes.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je vous adresse mes {remerciments>remerciements}.",
+    "e": "Formé sur « remercier » : le e muet reste, « remerciement ».",
+    "id": "lettres-muettes.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le marchand range le lait et le chocolat dans un grand placard.",
+    "e": "Correct : lait (laitier), chocolat (chocolaté), grand (grande), placard (placarder).",
+    "id": "lettres-muettes.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Le ___ de cette maison est très haut.",
+    "o": [
+     "toit",
+     "toi",
+     "toie"
+    ],
+    "a": 0,
+    "e": "« Toiture » fait entendre le t : « toit ».",
+    "id": "lettres-muettes.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "t ou d à la fin ?",
+    "c": [
+     "t",
+     "d"
+    ],
+    "items": [
+     [
+      "un cha… (chaton)",
+      0
+     ],
+     [
+      "gran… (grande)",
+      1
+     ],
+     [
+      "bavar… (bavarder)",
+      1
+     ],
+     [
+      "le lai… (laitier)",
+      0
+     ],
+     [
+      "chau… (chaude)",
+      1
+     ],
+     [
+      "peti… (petite)",
+      0
+     ]
+    ],
+    "e": "Le mot de la famille ou le féminin fait entendre la lettre muette.",
+    "id": "lettres-muettes.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a montré un grand {dévoument>dévouement}.",
+    "e": "Formé sur « se dévouer » : le e reste, « dévouement ».",
+    "id": "lettres-muettes.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Un morceau de {plon>plomb} est tombé.",
+    "e": "« Plombier » fait entendre le b : « plomb ».",
+    "id": "lettres-muettes.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "L'{aboiment>aboiement} du chien m'a réveillé.",
+    "e": "Formé sur « aboyer » : le e reste, « aboiement ».",
+    "id": "lettres-muettes.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a fait un {saud>saut} de deux mètres.",
+    "e": "« Sauter » fait entendre le t : « saut ».",
+    "id": "lettres-muettes.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le respect est le début de l'amitié.",
+    "e": "Correct : « respect » (respecter), « début » (débuter).",
+    "id": "lettres-muettes.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il y a un ___ de sable dans la cour.",
+    "o": [
+     "tas",
+     "ta",
+     "tat"
+    ],
+    "a": 0,
+    "e": "« Tasser » fait entendre le s : « tas ».",
+    "id": "lettres-muettes.17"
+   }
+  ],
+  "bref": "Pour trouver la **lettre muette** à la fin d'un mot, pensez à un **mot de la même famille** ou au **féminin** :\n- le lai**t** → lai**t**ier ; le galo**p** → galo**p**er ; le ban**c** → ban**qu**ette ;\n- gran**d** → gran**d**e ; bavar**d** → bavar**d**er."
+ },
+ {
   "id": "leur-leurs",
   "titre": "leur ou leurs",
   "resume": "Devant un verbe, jamais de s. Devant un nom, on regarde le nom.",
@@ -17174,6 +18193,209 @@ window.PLUME_REGLES = [
   "bref": "- **Plus-que-parfait** = auxiliaire à l'**imparfait** : j'**avais** fini, elle **était** partie. C'est **avant** un moment **passé**.\n- **Futur antérieur** = auxiliaire au **futur** : j'**aurai** fini, nous **serons** partis. C'est **avant** un moment **futur**."
  },
  {
+  "id": "prefixes-in",
+  "titre": "Les préfixes il-, ir-, im- : illégal, irréel, immobile",
+  "resume": "Le préfixe in- devient il- devant l, ir- devant r, im- devant m, b, p : d'où illisible, irréel, immobile.",
+  "niveau": "lycee",
+  "fiche": "Le préfixe **in-** veut dire « pas, le contraire de ». Il s'adapte à la lettre qui suit :\n- devant **l** : **il-**, d'où deux l → **ill**égal, **ill**isible, **ill**imité ;\n- devant **r** : **ir-**, d'où deux r → **irr**éel, **irr**égulier, **irr**esponsable ;\n- devant **m** : **im-**, d'où deux m → **imm**obile, **imm**ortel, **imm**ature ;\n- devant **b** et **p** : **im-** → **im**buvable, **im**possible ;\n- devant une **voyelle** ou une autre consonne : **in-** → **in**utile, **in**égal, **in**connu.\n\n**Le test** : enlevez le préfixe. « légal » commence par l → **ill**égal.\n\n**Le piège** : devant une voyelle, un seul n : **in**oubliable, **in**espéré, **in**utile.\n\n**Pour aller plus loin**\n- Le même phénomène se retrouve avec ad- et con- : **acc**ompagner, **coll**aborer, **corr**iger.\n- **inhabituel**, **inhumain** : devant un h, in- reste simple.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cette écriture est {ilisible>illisible}.",
+    "e": "in- + lisible : devant l, « ill- », deux l.",
+    "id": "prefixes-in.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce verbe est {irégulier>irrégulier}.",
+    "e": "in- + régulier : devant r, « irr- », deux r.",
+    "id": "prefixes-in.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il est resté {imobile>immobile}.",
+    "e": "in- + mobile : devant m, « imm- », deux m.",
+    "id": "prefixes-in.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce comportement est {ilégal>illégal}.",
+    "e": "in- + légal : « illégal », deux l.",
+    "id": "prefixes-in.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cette scène semble {inréelle>irréelle}.",
+    "e": "in- + réelle : devant r, « irr- ».",
+    "id": "prefixes-in.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a pris un forfait {ilimité>illimité}.",
+    "e": "in- + limité : « illimité », deux l.",
+    "id": "prefixes-in.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce conducteur est {iresponsable>irresponsable}.",
+    "e": "in- + responsable : « irresponsable », deux r.",
+    "id": "prefixes-in.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Dans ce livre, les héros sont {imortels>immortels}.",
+    "e": "in- + mortels : « immortels », deux m.",
+    "id": "prefixes-in.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce souvenir est inoubliable, presque irréel.",
+    "e": "Correct : « inoubliable » (voyelle : un n), « irréel » (deux r).",
+    "id": "prefixes-in.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ce café est ___.",
+    "o": [
+     "imbuvable",
+     "inbuvable"
+    ],
+    "a": 0,
+    "e": "Devant b, in- devient « im- ».",
+    "id": "prefixes-in.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "la consonne est-elle doublée ?",
+    "c": [
+     "consonne doublée",
+     "pas de double consonne"
+    ],
+    "items": [
+     [
+      "in + légal",
+      0
+     ],
+     [
+      "in + utile",
+      1
+     ],
+     [
+      "in + réel",
+      0
+     ],
+     [
+      "in + égal",
+      1
+     ],
+     [
+      "in + mobile",
+      0
+     ],
+     [
+      "in + connu",
+      1
+     ]
+    ],
+    "e": "Devant l, r, m, la consonne double (illégal, irréel, immobile). Ailleurs, in- reste simple.",
+    "id": "prefixes-in.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "C'était un geste {iréfléchi>irréfléchi}.",
+    "e": "in- + réfléchi : « irréfléchi », deux r.",
+    "id": "prefixes-in.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il est encore un peu {imature>immature}.",
+    "e": "in- + mature : « immature », deux m.",
+    "id": "prefixes-in.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ton aide est {iremplaçable>irremplaçable}.",
+    "e": "in- + remplaçable : « irremplaçable », deux r.",
+    "id": "prefixes-in.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces taches d'encre sont ineffaçables.",
+    "e": "Correct : devant une voyelle, in- reste simple, un seul n.",
+    "id": "prefixes-in.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "C'était une dépense ___.",
+    "o": [
+     "inutile",
+     "innutile"
+    ],
+    "a": 0,
+    "e": "Devant une voyelle, un seul n : « inutile ».",
+    "id": "prefixes-in.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cette victoire était {innespérée>inespérée}.",
+    "e": "Devant une voyelle, un seul n : « inespérée ».",
+    "id": "prefixes-in.17"
+   }
+  ],
+  "bref": "Le préfixe **in-** (= pas) change devant certaines lettres, et la consonne se **double** :\n- devant **l** → **ill-** : **ill**égal ; devant **r** → **irr-** : **irr**éel ; devant **m** → **imm-** : **imm**obile ;\n- devant **b, p** → **im-** : **im**buvable, **im**possible ;\n- devant une **voyelle** : **in-** seul → **in**utile, **in**oubliable."
+ },
+ {
   "id": "pres-pret",
   "titre": "près ou prêt",
   "resume": "Près de la gare (à côté) ; prêt à partir (préparé). Prêt s'accorde, près jamais.",
@@ -20341,6 +21563,413 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "- **comme, ainsi que, avec** **entre virgules** : le verbe s'accorde avec le **premier** sujet → le chat, **comme** le chien, **dort**.\n- **Sans virgules**, « ainsi que » = « et » : **pluriel** → le chat ainsi que le chien **dorment**.\n- **ou** (un seul des deux) : **singulier**. Sujets **résumés** par tout, rien, personne : **singulier**."
+ },
+ {
+  "id": "tel-tel-que",
+  "titre": "Tel, tel que, tel quel",
+  "resume": "Des fruits tels que les pommes, une telle chance, des documents laissés tels quels.",
+  "niveau": "superieur",
+  "fiche": "**tel** devant un nom : il s'accorde avec ce nom.\n> Une **telle** chance. De **tels** résultats. Un **tel** courage.\n\n**tel que** annonce des exemples : il s'accorde avec le nom qui **précède**.\n> Des fruits **tels que** les pommes. Des villes **telles que** Lyon et Lille.\n\n**tel quel** veut dire « sans changement ». Les deux mots s'accordent avec le nom.\n> J'ai laissé le dossier **tel quel**. Elle a rendu la copie **telle quelle**. Les choses sont restées **telles quelles**.\n\n**Le test** : « sans changement » → **tel quel** ; des exemples → **tel que**.\n\n**Les pièges** :\n- « Je l'ai laissé **tel que** » ✘ → je l'ai laissé **tel quel**.\n- En tête de phrase, **tel** s'accorde avec le sujet qui suit : **tel** est mon avis ; **telles** sont les règles.\n\n**Pour aller plus loin**\n- Après un nom masculin pluriel : des sports **tels que** le tennis.\n- Dans une comparaison sans « que » (il fila tel une flèche), l'usage hésite entre les deux accords.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je n'ai jamais vu une {tel>telle} foule.",
+    "e": "Devant « foule » (féminin) : « telle ».",
+    "id": "tel-tel-que.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il aime les fruits {telles>tels} que les pommes et les poires.",
+    "e": "Accord avec le nom qui précède, « fruits » (masculin pluriel) : « tels que ».",
+    "id": "tel-tel-que.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'ai laissé le dossier {tel que>tel quel}.",
+    "e": "Sans changement : « tel quel ».",
+    "id": "tel-tel-que.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous avons visité des villes {tels>telles} que Lyon et Lille.",
+    "e": "Accord avec « villes » (féminin pluriel) : « telles que ».",
+    "id": "tel-tel-que.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a de {tels>telles} idées !",
+    "e": "Devant « idées » (féminin pluriel) : « telles ».",
+    "id": "tel-tel-que.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle a rendu la copie {telle que>telle quelle}.",
+    "e": "Sans changement : « telle quelle ».",
+    "id": "tel-tel-que.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Une telle>Un tel} courage force le respect.",
+    "e": "« Courage » est masculin : « un tel ».",
+    "id": "tel-tel-que.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le zoo abrite des animaux {telles>tels} que la girafe et l'éléphant.",
+    "e": "Accord avec « animaux » (masculin pluriel) : « tels que ».",
+    "id": "tel-tel-que.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "De tels problèmes, tels que ceux-ci, demandent du temps.",
+    "e": "Correct : « tels » s'accorde avec « problèmes » et avec « ceux-ci ».",
+    "id": "tel-tel-que.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Je n'ai jamais eu une ___ chance.",
+    "o": [
+     "telle",
+     "tel"
+    ],
+    "a": 0,
+    "e": "Devant « chance » (féminin) : « telle ».",
+    "id": "tel-tel-que.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "masculin ou féminin ?",
+    "c": [
+     "tel, tels",
+     "telle, telles"
+    ],
+    "items": [
+     [
+      "des légumes (tel) que les carottes",
+      0
+     ],
+     [
+      "des fleurs (tel) que les roses",
+      1
+     ],
+     [
+      "un (tel) bruit",
+      0
+     ],
+     [
+      "une (tel) vitesse",
+      1
+     ],
+     [
+      "le texte, laissé (tel quel)",
+      0
+     ],
+     [
+      "la porte, laissée (tel quel)",
+      1
+     ]
+    ],
+    "e": "Tel s'accorde avec le nom auquel il se rapporte.",
+    "id": "tel-tel-que.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les choses sont restées {tel quelles>telles quelles}.",
+    "e": "« Tel quel » : les deux mots s'accordent avec « choses ».",
+    "id": "tel-tel-que.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle pratique des sports {tel>tels} que le tennis.",
+    "e": "Accord avec « sports » : « tels que ».",
+    "id": "tel-tel-que.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Telle>Tel} est mon avis.",
+    "e": "En tête de phrase, accord avec le sujet « mon avis » (masculin) : « tel ».",
+    "id": "tel-tel-que.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Telles sont les règles du jeu.",
+    "e": "Correct : accord avec « les règles », le sujet placé après.",
+    "id": "tel-tel-que.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Gardez ces documents ___.",
+    "o": [
+     "tels quels",
+     "tel que",
+     "tels que"
+    ],
+    "a": 0,
+    "e": "Sans changement : « tels quels », accordé avec « documents ».",
+    "id": "tel-tel-que.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il cherche un métier {tels>tel} que boulanger ou pâtissier.",
+    "e": "Accord avec « un métier » (masculin singulier) : « tel que ».",
+    "id": "tel-tel-que.17"
+   }
+  ],
+  "bref": "- **tel** devant un nom s'accorde avec lui : une **telle** chance, de **tels** résultats.\n- **tel que** (exemples) s'accorde avec le nom **avant** : des villes **telles que** Lyon.\n- **tel quel** (= sans changement), en deux mots accordés : des documents laissés **tels quels**."
+ },
+ {
+  "id": "tion-sion",
+  "titre": "Les mots en -tion, -sion, -ssion",
+  "resume": "Permettre → permission, décider → décision, ponctuer → ponctuation : le verbe aide à choisir.",
+  "niveau": "college",
+  "fiche": "**-tion** est la terminaison la plus fréquente : ac**tion**, na**tion**, ponctua**tion**, nata**tion**, inten**tion**.\n\n**Le verbe de la même famille** aide souvent :\n- verbes en **-ettre** → **-ission** : permettre → permi**ssion**, admettre → admi**ssion**, transmettre → transmi**ssion** ;\n- verbes en **-der, -dre, -ser** → **-sion** : décider → déci**sion**, comprendre → compréhen**sion**, diviser → divi**sion** ;\n- verbes en **-primer, -cuter** → **-ssion** : exprimer → expre**ssion**, discuter → discu**ssion**.\n\n**Le test** : cherchez le verbe (« permettre », « décider »…) avant d'écrire la fin du mot.\n\n**Pour aller plus loin**\n- Après **l, r, n**, on trouve souvent -sion (ver**sion**, pen**sion**), mais aussi -tion (por**tion**, men**tion**, atten**tion**) : il faut les retenir.\n- **-xion** : conne**xion**, réfle**xion**.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a obtenu la {permition>permission} de sortir.",
+    "e": "« Permettre » donne « permission » (-ission).",
+    "id": "tion-sion.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'ai pris une {décission>décision}.",
+    "e": "« Décider » donne « décision » (-sion).",
+    "id": "tion-sion.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Fais attention à la {ponctuasion>ponctuation}.",
+    "e": "« Ponctuer » donne « ponctuation » (-tion).",
+    "id": "tion-sion.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a l'{expretion>expression} d'un enfant heureux.",
+    "e": "« Exprimer » donne « expression » (-ssion).",
+    "id": "tion-sion.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous avons eu une longue {discution>discussion}.",
+    "e": "« Discuter » donne « discussion », avec deux s.",
+    "id": "tion-sion.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La {télévition>télévision} est allumée.",
+    "e": "« Téléviser » donne « télévision » (-sion).",
+    "id": "tion-sion.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a réussi le concours d'{admition>admission}.",
+    "e": "« Admettre » donne « admission » (-ission).",
+    "id": "tion-sion.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle fait de la {natassion>natation}.",
+    "e": "« Nager » / « natation » : terminaison la plus courante, -tion.",
+    "id": "tion-sion.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cette émission présente une invention étonnante.",
+    "e": "Correct : « émission » (émettre → -ission), « invention » (-tion).",
+    "id": "tion-sion.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il a de bonnes ___.",
+    "o": [
+     "intentions",
+     "intensions"
+    ],
+    "a": 0,
+    "e": "« Intention » s'écrit avec -tion.",
+    "id": "tion-sion.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "-tion ou -sion ?",
+    "c": [
+     "-tion",
+     "-sion"
+    ],
+    "items": [
+     [
+      "ac…",
+      0
+     ],
+     [
+      "ver…",
+      1
+     ],
+     [
+      "na…",
+      0
+     ],
+     [
+      "télévi…",
+      1
+     ],
+     [
+      "créa…",
+      0
+     ],
+     [
+      "déci…",
+      1
+     ]
+    ],
+    "e": "-tion est le plus fréquent ; décider, téléviser donnent -sion ; version est à retenir.",
+    "id": "tion-sion.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La {compréhention>compréhension} du texte est difficile.",
+    "e": "« Comprendre » donne « compréhension » (-sion).",
+    "id": "tion-sion.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La {transmition>transmission} des données a échoué.",
+    "e": "« Transmettre » donne « transmission » (-ission).",
+    "id": "tion-sion.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Mon grand-père touche une {pention>pension}.",
+    "e": "« Pension » s'écrit avec -sion.",
+    "id": "tion-sion.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "L'attention du public et la tension montent.",
+    "e": "Correct : « attention » (-tion), « tension » (-sion).",
+    "id": "tion-sion.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ce câble supporte une ___ de 220 volts.",
+    "o": [
+     "tension",
+     "tention"
+    ],
+    "a": 0,
+    "e": "« Tension » s'écrit avec -sion.",
+    "id": "tion-sion.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La {répétission>répétition} commence à 18 heures.",
+    "e": "« Répéter » donne « répétition » (-tion).",
+    "id": "tion-sion.17"
+   }
+  ],
+  "bref": "- Le plus souvent : **-tion** → ac**tion**, na**tion**, ponctua**tion**.\n- Pensez au **verbe** : perme**ttre** → permi**ssion** ; déci**der** → déci**sion** ; discu**ter** → discu**ssion**."
  },
  {
   "id": "tout",

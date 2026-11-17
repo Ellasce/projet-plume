@@ -14,109 +14,132 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 3. L'orthographe d'usage (consonnes doubles, accents, -amment / -emment, majuscules, trait d'union) : la catégorie entièrement absente.
 4. La ponctuation, puis les règles 🟢.
 
-## Déjà réalisées (100 règles)
+## Déjà réalisées (108 règles, 1923 exercices)
 
-- [x] a / à — `a-a`
-- [x] Infinitif ou participe passé : -er, -é, -ez — `infinitif-participe`
-- [x] Ce, se, ces, ses, c'est, s'est — `ce-se-ces-ses`
-- [x] Quel, quelle ou qu'elle — `quel-quelle-qu-elle`
-- [x] Futur ou conditionnel : -rai ou -rais — `futur-conditionnel`
-- [x] Quelque, quelques, quel que — `quelque-quel-que`
-- [x] Participe passé avec être ou avoir — `pp-etre-avoir`
-- [x] Participe passé avec avoir : le COD placé avant — `pp-cod-avant`
-- [x] Participe passé des verbes pronominaux — `pp-pronominaux`
-- [x] Participe passé suivi d'un infinitif — `pp-infinitif`
-- [x] Tout, tous, toute, toutes — `tout`
-- [x] Écrire les nombres : vingt, cent, mille — `vingt-cent-mille`
-- [x] Accords délicats du verbe avec le sujet — `accords-sujet-delicats`
-- [x] Participe présent ou adjectif verbal — `participe-present-adjectif`
-- [x] Les trois groupes de verbes — `conj-groupes`
-- [x] Le présent des trois groupes — `conj-base-present`
-- [x] L'imparfait — `conj-base-imparfait`
-- [x] Le futur simple — `conj-base-futur`
-- [x] Présent : les verbes en -dre, -indre, -soudre, -cre — `conj-present`
-- [x] Futur et conditionnel : courrai, enverrai, appellera — `conj-futur`
-- [x] Subjonctif présent — `conj-subjonctif`
-- [x] Impératif — `conj-imperatif`
-- [x] Passé simple — `conj-passe-simple`
-- [x] Participe passé : conclu, inclus, dû — `conj-participe`
-- [x] Indicatif ou subjonctif — `modes-conjonctions`
-- [x] Constructions fautives, barbarismes et pléonasmes — `constructions-fautives`
-- [x] Les paronymes — `paronymes`
-- [x] plutôt / plus tôt — `plutot-plus-tot`
-- [x] Accord dans le groupe nominal — `accord-gn`
-- [x] Accord du verbe avec le sujet — `accord-sujet-verbe`
-- [x] Pluriel des noms — `pluriel-noms`
-- [x] Adjectifs de couleur — `couleurs`
-- [x] Nu, demi, mi, semi — `demi-nu`
-- [x] Passé composé : être ou avoir — `pc-auxiliaire`
-- [x] Adverbes en -amment / -emment — `amment-emment`
-- [x] Dont ou que — `dont-que`
-- [x] Avec « tu », toujours un s — `tu-s`
-- [x] ça / sa / çà — `ca-sa`
-- [x] c'est / ce sont — `cest-ce-sont`
-- [x] Négation : le « ne » — `negation-ne`
-- [x] Trait d'union — `trait-union`
-- [x] Majuscules — `majuscules`
-- [x] COD, COI, COS — `cod-coi`
-- [x] Conditionnel passé — `conditionnel-passe`
-- [x] Verbes en -cer, -ger, -eler, -eter, -yer — `verbes-cer-ger`
-- [x] Participe passé : pris, fini, dit — `pp-terminaison`
-- [x] sais / sait / c'est / s'est — `sais-sait`
-- [x] -ai ou -ais — `ai-ais`
-- [x] Consonnes doubles — `consonnes-doubles`
-- [x] Les accents — `accents`
-- [x] Mots souvent mal orthographiés — `mots-difficiles`
-- [x] Interrogation indirecte — `interrogation-indirecte`
-- [x] Concordance des temps — `concordance-temps`
-- [x] Pronoms relatifs : qui, que, où, lequel — `pronoms-relatifs`
-- [x] La virgule — `virgule`
-- [x] Constructions des verbes — `constructions-verbes`
-- [x] Repérer le sujet — intégré à `accord-sujet-verbe`
-- [x] quand / quant / qu'en — `quand-quant`
-- [x] peu / peut / peux — `peu-peut`
-- [x] leur / leurs — `leur-leurs`
-- [x] la / l'a / là / las — `la-la`
-- [x] ou / où — `ou-ou`
-- [x] son / sont — `son-sont`
-- [x] on / ont / on n' — `on-ont`
-- [x] et / est / ai / es — `et-est`
-- [x] mes / mais / met / mets — `mes-mais-met`
-- [x] si / s'y / ci — `si-s-y`
-- [x] ni / n'y — `ni-n-y`
-- [x] près / prêt — `pres-pret`
-- [x] sans / s'en / sang / cent — `sans-s-en`
-- [x] ma / m'a, ta / t'a, mon / m'ont, ton / t'ont — `ma-m-a`
-- [x] ce / ceux — `ce-ceux`
-- [x] ce / cet / cette — `cet-cette`
-- [x] du / dû, sur / sûr, mur / mûr — `du-du`
-- [x] parce que / par ce que — `parce-que`
-- [x] notre / nôtre, votre / vôtre — `notre-notre`
-- [x] quoique / quoi que — `quoique`
-- [x] davantage / d'avantage — `davantage`
-- [x] voir / voire — `voir-voire`
-- [x] censé / sensé — `cense-sense`
-- [x] Féminin des noms et des adjectifs — `feminin`
-- [x] Chaque / chacun — `chaque-chacun`
-- [x] Pluriel des noms composés — `noms-composes`
-- [x] Même / mêmes — `meme`
-- [x] Accord avec « on » et le « vous » de politesse — `accord-on-vous`
-- [x] m devant m, b, p — `m-devant-mbp`
-- [x] Le son « s » — `son-s`
-- [x] Noms en -é, -ée, -té, -tié — `noms-ee-te`
-- [x] Mots invariables courants — `mots-invariables`
-- [x] L'élision — `elision`
-- [x] Plus-que-parfait et futur antérieur — `pqp-futur-anterieur`
-- [x] Imparfait ou passé simple — `imparfait-passe-simple`
-- [x] Subjonctif passé — `subjonctif-passe`
-- [x] Impératif + pronoms — `imperatif-pronoms`
-- [x] Verbes pronominaux : conjugaison — `pronominaux-conj`
-- [x] Participe passé de coûter, valoir, courir et des verbes impersonnels — `pp-couter-valoir`
-- [x] Excepté, vu, passé, ci-joint — `participes-invariables`
-- [x] Sujets coordonnés — `sujets-coordonnes`
-- [x] Genre des noms piégeux — `genre-noms`
-- [x] Paronymes, 2e série — `paronymes-2`
-- [x] Passé simple ou subjonctif imparfait — `subjonctif-imparfait`
+Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases sont originales, sauf celles qui portent une ligne `Source :` (LanguageTool, Verbiste).
+
+### Collège (58 règles)
+
+| Règle | Identifiant | Exercices (socle + avancés) |
+|---|---|---|
+| -ai ou -ais à la fin des verbes | `ai-ais` | 11 + 8 |
+| a ou as, es ou est, ai, aie ou ait | `a-as-es-est` | 11 + 6 |
+| a ou à | `a-a` | 10 + 23 |
+| Avec « tu », toujours un s | `tu-s` | 11 + 9 |
+| c'est ou ce sont | `cest-ce-sont` | 11 + 8 |
+| ce ou ceux | `ce-ceux` | 11 + 7 |
+| ce, cet ou cette | `cet-cette` | 11 + 8 |
+| Ce, se, ces, ses, c'est, s'est | `ce-se-ces-ses` | 10 + 8 |
+| chaque ou chacun | `chaque-chacun` | 11 + 6 |
+| COD et COI | `cod-coi` | 11 + 8 |
+| Conjuguer les verbes pronominaux | `pronominaux-conj` | 11 + 6 |
+| Doubler ou non la consonne | `consonnes-doubles` | 11 + 8 |
+| du ou dû, sur ou sûr, mur ou mûr | `du-du` | 11 + 8 |
+| et ou est | `et-est` | 11 + 8 |
+| Futur ou conditionnel : -rai ou -rais | `futur-conditionnel` | 10 + 7 |
+| Imparfait ou passé simple dans un récit | `imparfait-passe-simple` | 11 + 6 |
+| Infinitif ou participe passé : -er, -é, -ez | `infinitif-participe` | 11 + 10 |
+| L'accord dans le groupe nominal | `accord-gn` | 11 + 8 |
+| L'accord de l'attribut du sujet | `attribut-sujet` | 11 + 6 |
+| L'accord du verbe avec son sujet | `accord-sujet-verbe` | 11 + 8 |
+| L'imparfait | `conj-base-imparfait` | 8 + 5 |
+| L'élision : l', qu', jusqu'à, presqu'île | `elision` | 11 + 6 |
+| La négation : ne pas oublier « ne » | `negation-ne` | 11 + 8 |
+| la, l'a ou là | `la-la` | 13 + 8 |
+| Le futur simple | `conj-base-futur` | 9 + 5 |
+| Le féminin des noms et des adjectifs | `feminin` | 11 + 7 |
+| Le pluriel des noms | `pluriel-noms` | 11 + 8 |
+| Le présent des trois groupes | `conj-base-present` | 10 + 5 |
+| Le son « s » : s, ss, c, ç, sc | `son-s` | 11 + 6 |
+| Le trait d'union | `trait-union` | 11 + 8 |
+| Les accents : é, è, ê | `accents` | 11 + 8 |
+| Les lettres muettes en fin de mot | `lettres-muettes` | 11 + 6 |
+| Les majuscules | `majuscules` | 11 + 8 |
+| Les mots en -tion, -sion, -ssion | `tion-sion` | 11 + 6 |
+| Les mots invariables courants | `mots-invariables` | 11 + 6 |
+| Les noms en -é, -ée, -té, -tié | `noms-ee-te` | 11 + 6 |
+| Les trois groupes de verbes | `conj-groupes` | 8 + 8 |
+| leur ou leurs | `leur-leurs` | 12 + 8 |
+| m devant m, b, p | `m-devant-mbp` | 11 + 6 |
+| ma ou m'a, ta ou t'a, mon ou m'ont, ton ou t'ont | `ma-m-a` | 11 + 7 |
+| mes, mais, met ou mets | `mes-mais-met` | 11 + 8 |
+| ni ou n'y | `ni-n-y` | 11 + 7 |
+| on, ont ou on n' | `on-ont` | 11 + 8 |
+| ou ou où | `ou-ou` | 12 + 8 |
+| parce que ou par ce que | `parce-que` | 11 + 6 |
+| Participe passé : pris, fini, dit, mis | `pp-terminaison` | 11 + 8 |
+| Participe passé avec être ou avoir | `pp-etre-avoir` | 10 + 7 |
+| Passé composé : être ou avoir ? | `pc-auxiliaire` | 11 + 8 |
+| peu, peut ou peux | `peu-peut` | 12 + 8 |
+| Plus-que-parfait et futur antérieur | `pqp-futur-anterieur` | 11 + 6 |
+| près ou prêt | `pres-pret` | 11 + 8 |
+| quand, quant ou qu'en | `quand-quant` | 12 + 8 |
+| sais, sait, c'est ou s'est | `sais-sait` | 11 + 8 |
+| sans ou s'en | `sans-s-en` | 11 + 8 |
+| si, s'y ou ci | `si-s-y` | 11 + 8 |
+| son ou sont | `son-sont` | 12 + 7 |
+| Verbes en -cer, -ger, -eler, -eter, -yer | `verbes-cer-ger` | 11 + 9 |
+| ça ou sa | `ca-sa` | 11 + 7 |
+
+### Lycée (35 règles)
+
+| Règle | Identifiant | Exercices (socle + avancés) |
+|---|---|---|
+| Accords délicats du verbe avec le sujet | `accords-sujet-delicats` | 8 + 6 |
+| Adjectif ou adverbe : sentir bon, parler fort | `adjectif-adverbe` | 11 + 6 |
+| Aucun, nul, plusieurs, certains : singulier ou pluriel ? | `aucun-nul` | 11 + 6 |
+| censé ou sensé | `cense-sense` | 11 + 6 |
+| davantage ou d'avantage | `davantage` | 11 + 6 |
+| demi, mi, semi et nu | `demi-nu` | 11 + 7 |
+| dont ou que | `dont-que` | 11 + 8 |
+| Futur et conditionnel : courrai, enverrai, appellera | `conj-futur` | 8 + 7 |
+| Impératif : va, cueille, aie, veuillez | `conj-imperatif` | 8 + 6 |
+| Indicatif ou subjonctif | `modes-conjonctions` | 9 + 9 |
+| L'accord avec « on » et le « vous » de politesse | `accord-on-vous` | 11 + 6 |
+| L'accord des adjectifs de couleur | `couleurs` | 11 + 8 |
+| L'impératif avec des pronoms : donne-le-moi, vas-y | `imperatif-pronoms` | 11 + 6 |
+| L'interrogation indirecte | `interrogation-indirecte` | 11 + 8 |
+| La concordance des temps | `concordance-temps` | 11 + 8 |
+| La construction des verbes : à, de ou rien ? | `constructions-verbes` | 11 + 8 |
+| La virgule | `virgule` | 11 + 8 |
+| Le conditionnel passé : j'aurais dû | `conditionnel-passe` | 11 + 8 |
+| Le pluriel des noms composés | `noms-composes` | 11 + 6 |
+| Le subjonctif passé : que j'aie fini | `subjonctif-passe` | 11 + 6 |
+| Les adverbes en -amment et -emment | `amment-emment` | 11 + 8 |
+| Les mots souvent mal orthographiés | `mots-difficiles` | 11 + 8 |
+| Les pronoms relatifs : qui, que, où, lequel | `pronoms-relatifs` | 11 + 8 |
+| Les préfixes il-, ir-, im- : illégal, irréel, immobile | `prefixes-in` | 11 + 6 |
+| même ou mêmes | `meme` | 11 + 6 |
+| notre ou nôtre, votre ou vôtre | `notre-notre` | 11 + 7 |
+| Participe passé avec avoir : le COD placé avant | `pp-cod-avant` | 9 + 7 |
+| plutôt ou plus tôt | `plutot-plus-tot` | 12 + 7 |
+| Présent : les verbes en -dre, -indre, -soudre, -cre | `conj-present` | 8 + 9 |
+| Quel, quelle ou qu'elle | `quel-quelle-qu-elle` | 9 + 7 |
+| quoique ou quoi que | `quoique` | 11 + 6 |
+| Subjonctif présent : que nous croyions, que j'aie | `conj-subjonctif` | 8 + 8 |
+| Tout, tous, toute, toutes | `tout` | 10 + 7 |
+| voir ou voire | `voir-voire` | 11 + 6 |
+| Écrire les nombres : vingt, cent, mille | `vingt-cent-mille` | 10 + 6 |
+
+### Supérieur (15 règles)
+
+| Règle | Identifiant | Exercices (socle + avancés) |
+|---|---|---|
+| Constructions fautives, barbarismes et pléonasmes | `constructions-fautives` | 8 + 10 |
+| Excepté, vu, passé, compris, ci-joint : avant ou après le nom | `participes-invariables` | 11 + 6 |
+| L'accord avec des sujets coordonnés : comme, ainsi que, avec, ou | `sujets-coordonnes` | 11 + 6 |
+| Le genre des noms piégeux : un astérisque, une oasis | `genre-noms` | 11 + 6 |
+| Les paronymes | `paronymes` | 8 + 7 |
+| Les paronymes, 2e série : irruption, compréhensif, recouvrer | `paronymes-2` | 11 + 6 |
+| Participe passé : conclu, inclus, dû | `conj-participe` | 8 + 6 |
+| Participe passé : coûter, valoir, courir, peser, vivre et verbes impersonnels | `pp-couter-valoir` | 11 + 6 |
+| Participe passé des verbes pronominaux | `pp-pronominaux` | 8 + 8 |
+| Participe passé suivi d'un infinitif | `pp-infinitif` | 8 + 7 |
+| Participe présent ou adjectif verbal | `participe-present-adjectif` | 8 + 8 |
+| Passé simple : il vainquit, il résolut, ils vinrent | `conj-passe-simple` | 8 + 8 |
+| Passé simple ou subjonctif imparfait : il fut, qu'il fût | `subjonctif-imparfait` | 11 + 6 |
+| Quelque, quelques, quel que | `quelque-quel-que` | 8 + 8 |
+| Tel, tel que, tel quel | `tel-tel-que` | 11 + 6 |
 
 ## 1. Homophones
 
@@ -130,11 +153,11 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 - [x] 🟠 davantage / d'avantage — supérieur → `davantage`
 - [x] 🟠 voir / voire — supérieur → `voir-voire`
 - [x] 🟠 censé / sensé — supérieur → `cense-sense`
-- [ ] 🟢 dans / d'en — lycée
-- [ ] 🟢 quelquefois / quelques fois — lycée
-- [ ] 🟢 tant / temps / t'en — lycée
-- [ ] 🟢 sitôt / si tôt, bientôt / bien tôt — supérieur
-- [ ] 🟢 tache / tâche, cote / côte / cotte — supérieur
+- [ ] 🟢 dans / d'en — collège
+- [ ] 🟢 quelquefois / quelques fois — collège
+- [ ] 🟢 tant / temps / t'en — collège
+- [ ] 🟢 sitôt / si tôt, bientôt / bien tôt — lycée
+- [ ] 🟢 tache / tâche, cote / côte / cotte — lycée
 
 ## 2. Accords
 
@@ -170,23 +193,23 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 
 - [x] 🟠 m devant m, b, p — collège → `m-devant-mbp`
 - [x] 🟠 Le son « s » : s, ss, c, ç, sc — collège → `son-s`
-- [ ] 🟠 Lettres muettes en fin de mot (-ement, -ment, -ent) — collège
+- [x] 🟠 Lettres muettes en fin de mot (-ement, -ment, -ent) — collège → `lettres-muettes`
 - [x] 🟠 Noms en -ée, -té, -tié (l'année, la beauté, la moitié) — collège → `noms-ee-te`
 - [x] 🟠 Mots invariables courants (parmi, malgré, toujours, longtemps) — collège → `mots-invariables`
-- [ ] 🟠 Mots en -tion, -sion, -ssion, -xion — lycée
-- [ ] 🟠 Préfixes : ac-, ap-, ad-, at-, ir-, il-, im- — lycée
+- [x] 🟠 Mots en -tion, -sion, -ssion, -xion — collège → `tion-sion`
+- [x] 🟠 Préfixes : ac-, ap-, ad-, at-, ir-, il-, im- — lycée → `prefixes-in` (ac-, ap-… déjà dans `consonnes-doubles`)
 - [x] 🟠 Élision et apostrophe (presqu'île, lorsqu'il, jusqu'à) — lycée → `elision`
 - [ ] 🟠 Accent circonflexe : quand le garder (dû, sûr, mûr, jeûne) — supérieur
 - [ ] 🟢 Le son « g » et « j » : g, ge, gu — collège
 - [ ] 🟢 Noms en -ail / -aille, -eil / -eille, -euil / -euille — collège
-- [ ] 🟢 Tréma (naïf, Noël, aigüe en 1990) — lycée
+- [ ] 🟢 Tréma (naïf, Noël, aigüe en 1990) — collège
 - [ ] 🟢 Rectifications orthographiques de 1990 — supérieur
 - [ ] 🟢 Abréviations et sigles (M., Mme, n°, etc.) — supérieur
 
 ## 5. Grammaire (catégorie à créer)
 
 - [ ] 🟠 Classes de mots (nom, verbe, adjectif, adverbe, préposition…) — collège
-- [ ] 🟠 Attribut du sujet — collège
+- [x] 🟠 Attribut du sujet — collège → `attribut-sujet`
 - [ ] 🟠 Pronoms personnels COD et COI (le, la, lui, leur, en, y) — collège
 - [ ] 🟠 Prépositions : à / de, en / dans (aller à vélo, en voiture) — lycée
 - [ ] 🟢 Discours direct et indirect — lycée
@@ -195,7 +218,7 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 ## 6. Ponctuation et typographie (catégorie à créer)
 
 - [ ] 🟠 Point-virgule et deux-points — lycée
-- [ ] 🟠 Les majuscules accentuées (À, É) — lycée
+- [ ] 🟠 Les majuscules accentuées (À, É) — collège
 - [ ] 🟠 Espaces avant ; : ! ? et dans les guillemets « » — supérieur
 - [ ] 🟢 Guillemets et citations — lycée
 - [ ] 🟢 Points de suspension et « etc. » — lycée
@@ -228,14 +251,14 @@ Homophones
 - [x] 🟠 notre / nôtre, votre / vôtre — lycée → `notre-notre`
 - [x] 🟠 du / dû, sur / sûr, mur / mûr — lycée → `du-du`
 - [x] 🟠 parce que / par ce que — lycée → `parce-que`
-- [ ] 🟠 a / as, es / est, ai / aie / ait (les formes d'être et d'avoir qui se ressemblent) — collège
+- [x] 🟠 a / as, es / est, ai / aie / ait (les formes d'être et d'avoir qui se ressemblent) — collège → `a-as-es-est`
 - [ ] 🟢 or / hors, cour / cours / court, vers / vert / verre, compte / conte / comte — collège
 - [ ] 🟢 différent / différend, fond / fonds / fonts, pause / pose, repaire / repère — supérieur
 
 Accords et grammaire
-- [ ] 🟠 tel, tel que, tel quel — supérieur
-- [ ] 🟠 aucun, nul, chaque, plusieurs, certains (singulier ou pluriel ?) — lycée
-- [ ] 🟠 Adjectif ou adverbe (des fleurs qui sentent bon, ils parlent fort) — lycée
+- [x] 🟠 tel, tel que, tel quel — supérieur → `tel-tel-que`
+- [x] 🟠 aucun, nul, chaque, plusieurs, certains (singulier ou pluriel ?) — lycée → `aucun-nul`
+- [x] 🟠 Adjectif ou adverbe (des fleurs qui sentent bon, ils parlent fort) — lycée → `adjectif-adverbe`
 
 Conjugaison
 - [x] 🟠 Verbes pronominaux : conjugaison et auxiliaire être — collège → `pronominaux-conj`
