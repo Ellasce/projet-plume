@@ -14,7 +14,7 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 3. L'orthographe d'usage (consonnes doubles, accents, -amment / -emment, majuscules, trait d'union) : la catégorie entièrement absente.
 4. La ponctuation, puis les règles 🟢.
 
-## Déjà réalisées (123 règles, 2178 exercices)
+## Déjà réalisées (129 règles, 2280 exercices)
 
 Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases sont originales, sauf celles qui portent une ligne `Source :` (LanguageTool, Verbiste).
 
@@ -128,18 +128,23 @@ Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases
 | voir ou voire | `voir-voire` | 11 + 6 |
 | Écrire les nombres : vingt, cent, mille | `vingt-cent-mille` | 10 + 6 |
 
-### Supérieur (23 règles)
+### Supérieur (29 règles)
 
 | Règle | Identifiant | Exercices (socle + avancés) |
 |---|---|---|
 | Constructions fautives, barbarismes et pléonasmes | `constructions-fautives` | 8 + 10 |
 | Excepté, vu, passé, compris, ci-joint : avant ou après le nom | `participes-invariables` | 11 + 6 |
+| Homophones moins connus : différend, fonds, repaire, golfe | `homophones-rares` | 11 + 6 |
+| L'accent circonflexe : quand le garder | `accent-circonflexe` | 11 + 6 |
+| L'accord après beaucoup de, peu de, la foule de… | `noms-collectifs` | 11 + 6 |
 | L'accord avec des sujets coordonnés : comme, ainsi que, avec, ou | `sujets-coordonnes` | 11 + 6 |
 | L'accord de « possible » | `accord-possible` | 11 + 6 |
 | Le genre des noms piégeux : un astérisque, une oasis | `genre-noms` | 11 + 6 |
+| Les abréviations : M., Mme, n°, 2e, etc. | `abreviations` | 11 + 6 |
 | Les adjectifs composés : nouveau-nés, grandes ouvertes, haut placés | `adjectifs-composes` | 11 + 6 |
 | Les anglicismes à éviter | `anglicismes` | 11 + 6 |
 | Les barbarismes : formes déformées à éviter | `barbarismes` | 11 + 6 |
+| Les noms qui changent de genre : délice, orgue, gens, quelque chose | `noms-double-genre` | 11 + 6 |
 | Les paronymes | `paronymes` | 8 + 7 |
 | Les paronymes, 2e série : irruption, compréhensif, recouvrer | `paronymes-2` | 11 + 6 |
 | Les pléonasmes : monter en haut, sortir dehors | `pleonasmes` | 11 + 6 |
@@ -155,6 +160,7 @@ Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases
 | Quelque, quelques, quel que | `quelque-quel-que` | 8 + 8 |
 | Tel, tel que, tel quel | `tel-tel-que` | 11 + 6 |
 | Tournures critiquées : malgré que, suite à, de manière à ce que | `tournures-critiquees` | 11 + 6 |
+| Écrire une date, un nombre, une somme | `dates-nombres` | 11 + 6 |
 
 ## 1. Homophones
 
@@ -184,7 +190,7 @@ Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases
 - [x] 🟠 Participe passé employé seul, en tête de phrase — lycée → `pp-seul`
 - [x] 🟠 Ci-joint, ci-inclus, excepté, vu, passé — supérieur → `participes-invariables`
 - [x] 🟠 Sujets coordonnés (ou, ni, comme, ainsi que, avec) — supérieur → `sujets-coordonnes`
-- [ ] 🟠 Noms collectifs (une foule de, un grand nombre de, la moitié de) — supérieur
+- [x] 🟠 Noms collectifs (une foule de, un grand nombre de, la moitié de) — supérieur → `noms-collectifs`
 - [x] 🟠 Participe passé des verbes impersonnels et de coûter, valoir, peser, courir — supérieur → `pp-couter-valoir`
 - [ ] 🟢 Accord de « quelque chose », « personne », « rien » — lycée
 - [ ] 🟢 Un millier, une dizaine, accord des ordinaux — lycée
@@ -214,12 +220,12 @@ Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases
 - [x] 🟠 Mots en -tion, -sion, -ssion, -xion — collège → `tion-sion`
 - [x] 🟠 Préfixes : ac-, ap-, ad-, at-, ir-, il-, im- — lycée → `prefixes-in` (ac-, ap-… déjà dans `consonnes-doubles`)
 - [x] 🟠 Élision et apostrophe (presqu'île, lorsqu'il, jusqu'à) — lycée → `elision`
-- [ ] 🟠 Accent circonflexe : quand le garder (dû, sûr, mûr, jeûne) — supérieur
+- [x] 🟠 Accent circonflexe : quand le garder (dû, sûr, mûr, jeûne) — supérieur → `accent-circonflexe`
 - [ ] 🟢 Le son « g » et « j » : g, ge, gu — collège
 - [ ] 🟢 Noms en -ail / -aille, -eil / -eille, -euil / -euille — collège
 - [ ] 🟢 Tréma (naïf, Noël, aigüe en 1990) — collège
 - [ ] 🟢 Rectifications orthographiques de 1990 — supérieur
-- [ ] 🟢 Abréviations et sigles (M., Mme, n°, etc.) — supérieur
+- [x] 🟢 Abréviations et sigles (M., Mme, n°, etc.) — supérieur → `abreviations`
 
 ## 5. Grammaire (catégorie à créer)
 
@@ -237,7 +243,7 @@ Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases
 - [ ] 🟠 Espaces avant ; : ! ? et dans les guillemets « » — supérieur
 - [ ] 🟢 Guillemets et citations — lycée
 - [ ] 🟢 Points de suspension et « etc. » — lycée
-- [ ] 🟢 Nombres en chiffres ou en lettres, séparateurs, dates — supérieur
+- [x] 🟢 Nombres en chiffres ou en lettres, séparateurs, dates — supérieur → `dates-nombres`
 
 ## 7. Bien écrire et vocabulaire
 
@@ -248,14 +254,14 @@ Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases
 - [x] 🟠 « Malgré que », « de manière à ce que » — supérieur → `tournures-critiquees`
 - [x] 🟠 Genre des noms piégeux (un astérisque, une acné, un pétale, une oasis) — supérieur → `genre-noms`
 - [ ] 🟢 Registres de langue (familier, courant, soutenu) — lycée
-- [ ] 🟢 Noms qui changent de genre (amour, délice, orgue) — supérieur
+- [x] 🟢 Noms qui changent de genre (amour, délice, orgue) — supérieur → `noms-double-genre`
 
 ## 8. Écrits professionnels (catégorie à créer)
 
 - [x] 🟠 Formules d'appel et de politesse dans un courriel — supérieur → `ecrits-pro`
 - [x] 🟠 « Ci-joint », « veuillez trouver », « je vous prie de » — supérieur → `ecrits-pro` et `participes-invariables`
 - [x] 🟢 Tournures critiquées des courriels (« suite à », « je reste à votre disposition ») — supérieur → `tournures-critiquees`
-- [ ] 🟢 Écrire une date, une heure, une somme d'argent — supérieur
+- [x] 🟢 Écrire une date, une heure, une somme d'argent — supérieur → `dates-nombres`
 
 ## 9. Ajouts proposés (absents de la première liste)
 
@@ -268,7 +274,7 @@ Homophones
 - [x] 🟠 parce que / par ce que — lycée → `parce-que`
 - [x] 🟠 a / as, es / est, ai / aie / ait (les formes d'être et d'avoir qui se ressemblent) — collège → `a-as-es-est`
 - [ ] 🟢 or / hors, cour / cours / court, vers / vert / verre, compte / conte / comte — collège
-- [ ] 🟢 différent / différend, fond / fonds / fonts, pause / pose, repaire / repère — supérieur
+- [x] 🟢 différent / différend, fond / fonds / fonts, pause / pose, repaire / repère — supérieur → `homophones-rares`
 
 Accords et grammaire
 - [x] 🟠 tel, tel que, tel quel — supérieur → `tel-tel-que`

@@ -30,7 +30,7 @@ window.PLUME_STRUCTURE = {
         { id: "homophones-classiques", titre: "Les classiques",
           regles: ["a-a", "et-est", "on-ont", "son-sont", "ou-ou", "la-la", "leur-leurs", "peu-peut", "ca-sa", "mes-mais-met", "pres-pret", "ma-m-a", "cet-cette", "a-as-es-est"] },
         { id: "homophones-grammaticaux", titre: "Homophones grammaticaux",
-          regles: ["infinitif-participe", "ce-se-ces-ses", "quel-quelle-qu-elle", "futur-conditionnel", "quelque-quel-que", "quand-quant", "plutot-plus-tot", "sais-sait", "ai-ais", "si-s-y", "ni-n-y", "sans-s-en", "ce-ceux", "parce-que", "notre-notre", "quoique", "davantage"] }
+          regles: ["infinitif-participe", "ce-se-ces-ses", "quel-quelle-qu-elle", "futur-conditionnel", "quelque-quel-que", "quand-quant", "plutot-plus-tot", "sais-sait", "ai-ais", "si-s-y", "ni-n-y", "sans-s-en", "ce-ceux", "parce-que", "notre-notre", "quoique", "davantage", "homophones-rares"] }
       ]
     },
     {
@@ -44,7 +44,7 @@ window.PLUME_STRUCTURE = {
         { id: "participe-passe", titre: "Participe passé",
           regles: ["pp-etre-avoir", "pp-cod-avant", "pp-pronominaux", "pp-infinitif", "pp-couter-valoir", "pp-cas-difficiles", "pp-seul", "passif"] },
         { id: "autres-accords", titre: "Autres accords",
-          regles: ["tout", "vingt-cent-mille", "couleurs", "demi-nu", "accords-sujet-delicats", "participe-present-adjectif", "meme", "accord-on-vous", "adjectif-adverbe", "aucun-nul", "participes-invariables", "sujets-coordonnes", "tel-tel-que", "accord-possible", "adjectifs-composes"] }
+          regles: ["tout", "vingt-cent-mille", "couleurs", "demi-nu", "accords-sujet-delicats", "participe-present-adjectif", "meme", "accord-on-vous", "adjectif-adverbe", "aucun-nul", "participes-invariables", "sujets-coordonnes", "tel-tel-que", "accord-possible", "adjectifs-composes", "noms-collectifs", "noms-double-genre"] }
       ]
     },
     {
@@ -70,7 +70,7 @@ window.PLUME_STRUCTURE = {
       description: "L'orthographe des mots eux-mêmes : lettres doubles, accents, terminaisons.",
       sous: [
         { id: "lettres", titre: "Lettres et accents",
-          regles: ["consonnes-doubles", "m-devant-mbp", "son-s", "prefixes-in", "accents", "du-du", "mots-invariables", "mots-difficiles"] },
+          regles: ["consonnes-doubles", "m-devant-mbp", "son-s", "prefixes-in", "accents", "accent-circonflexe", "du-du", "mots-invariables", "mots-difficiles"] },
         { id: "terminaisons", titre: "Terminaisons",
           regles: ["noms-ee-te", "lettres-muettes", "tion-sion", "amment-emment"] },
         { id: "majuscules-traits", titre: "Majuscules et trait d'union",
@@ -100,7 +100,7 @@ window.PLUME_STRUCTURE = {
         { id: "usage", titre: "Usage et vocabulaire",
           regles: ["constructions-fautives", "pleonasmes", "barbarismes", "anglicismes", "paronymes", "paronymes-2", "genre-noms", "voir-voire", "cense-sense"] },
         { id: "ecrits-professionnels", titre: "Écrits professionnels",
-          regles: ["ecrits-pro", "tournures-critiquees"] }
+          regles: ["ecrits-pro", "tournures-critiquees", "abreviations", "dates-nombres"] }
       ]
     }
   ],
@@ -116,10 +116,16 @@ window.PLUME_STRUCTURE = {
     "tout", "noms-composes", "meme", "accord-on-vous", "adjectif-adverbe", "aucun-nul", "pp-seul", "passif", "prepositions", "deux-points", "ier-yer-gner", "conj-imperatif", "imperatif-pronoms", "vingt-cent-mille", "couleurs", "demi-nu", "amment-emment", "dont-que", "cest-ce-sont", "negation-ne", "trait-union", "elision", "prefixes-in", "majuscules", "conditionnel-passe", "ai-ais", "du-du", "parce-que", "notre-notre", "interrogation-indirecte", "mots-difficiles", "pronoms-relatifs", "virgule", "concordance-temps", "constructions-verbes", "conj-subjonctif", "subjonctif-passe",
     "accords-sujet-delicats", "modes-conjonctions", "pp-pronominaux", "quelque-quel-que",
     "quand-quant", "plutot-plus-tot", "quoique", "davantage", "voir-voire", "cense-sense", "participe-present-adjectif", "pp-infinitif", "conj-participe", "conj-passe-simple",
-    "constructions-fautives", "paronymes", "pp-couter-valoir", "participes-invariables", "sujets-coordonnes", "subjonctif-imparfait", "genre-noms", "paronymes-2", "tel-tel-que", "pleonasmes", "accord-possible", "pp-cas-difficiles", "adjectifs-composes", "tournures-critiquees", "anglicismes", "barbarismes", "ecrits-pro"
+    "constructions-fautives", "paronymes", "pp-couter-valoir", "participes-invariables", "sujets-coordonnes", "subjonctif-imparfait", "genre-noms", "paronymes-2", "tel-tel-que", "pleonasmes", "accord-possible", "pp-cas-difficiles", "adjectifs-composes", "tournures-critiquees", "anglicismes", "barbarismes", "ecrits-pro", "noms-collectifs", "accent-circonflexe", "homophones-rares", "noms-double-genre", "abreviations", "dates-nombres"
   ],
 
   liens: {
+    "noms-collectifs": ["accords-sujet-delicats", "sujets-coordonnes"],
+    "accent-circonflexe": ["accents", "du-du"],
+    "homophones-rares": ["paronymes-2"],
+    "noms-double-genre": ["genre-noms"],
+    "abreviations": ["majuscules", "ecrits-pro"],
+    "dates-nombres": ["vingt-cent-mille", "abreviations"],
     "accord-possible": ["accord-gn"],
     "pp-cas-difficiles": ["pp-cod-avant"],
     "adjectifs-composes": ["couleurs", "demi-nu"],

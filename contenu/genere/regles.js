@@ -562,6 +562,417 @@ window.PLUME_REGLES = [
   "bref": "- Avec **tu** : tu **as** (avoir), tu **es** (être). Avec **il** : il **a**, il **est**.\n- Avec **je** : j'**ai** ; mais après « il faut que », « je veux que » : que j'**aie**, qu'il **ait**."
  },
  {
+  "id": "abreviations",
+  "titre": "Les abréviations : M., Mme, n°, 2e, etc.",
+  "resume": "M. (et non Mr), Mme sans point, 2e (et non 2ème), etc. avec un seul point, 5 km sans s.",
+  "niveau": "superieur",
+  "fiche": "**Le point final** : on le met quand l'abréviation **coupe le mot avant sa fin** ; on ne le met pas quand elle **garde la dernière lettre**.\n> M. (Monsieur), p. (page), cf. (confer) — mais Mme (Madame), Mlle (Mademoiselle), Dr (Docteur)\n\n**Les titres** : **M.** pour Monsieur (« Mr » est anglais), **MM.** pour Messieurs, **Mme**, **Mmes**, **Mlle**.\n\n**Les ordinaux** : **1er, 1re, 2e, 3e**, **XXe** siècle (et non 2ème, 3è, XXème).\n\n**etc.** : un seul point, et jamais de points de suspension (« etc... » est une faute).\n\n**Les unités** : **km, kg, m, h** sont des symboles, sans point et sans s : 5 **km**, 80 **kg**.\n\n**Le numéro** : **n°** (ou **no**), suivi du nombre.\n\n**Pour aller plus loin**\n- On n'abrège pas « Monsieur » quand on s'adresse directement à la personne : « Monsieur, je vous écris… ».\n- Les heures : **14 h 30** (avec des espaces), plutôt que 14h30.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Mr>M.} Dupont vous attend à l'accueil.",
+    "e": "« Monsieur » s'abrège en « M. » ; « Mr » est l'abréviation anglaise.",
+    "id": "abreviations.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il habite au {no.>n°} 12 de la rue.",
+    "e": "« Numéro » s'abrège en « n° ».",
+    "alt": [
+     "no"
+    ],
+    "id": "abreviations.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'ai acheté du pain, du lait, du beurre, {etc...>etc.}",
+    "e": "« Etc. » prend un seul point, sans points de suspension.",
+    "id": "abreviations.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle est arrivée {2ème>2e} au concours.",
+    "e": "L'ordinal s'abrège en « 2e ».",
+    "id": "abreviations.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Mme.>Mme} Martin est absente.",
+    "e": "« Mme » garde la dernière lettre de « Madame » : pas de point.",
+    "id": "abreviations.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "C'est la {1ère>1re} fois que je viens.",
+    "e": "« Première » s'abrège en « 1re ».",
+    "id": "abreviations.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a parcouru dix {kms>km}.",
+    "e": "Les symboles d'unités ne prennent pas de s : « km ».",
+    "id": "abreviations.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le {Dr.>Dr} Durand reçoit le lundi.",
+    "e": "« Dr » garde la dernière lettre de « Docteur » : pas de point.",
+    "id": "abreviations.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "M. et Mme Leroy habitent au n° 5 de la rue.",
+    "e": "Correct : « M. » avec un point, « Mme » sans point, « n° ».",
+    "id": "abreviations.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Rendez-vous au ___ étage.",
+    "o": [
+     "3e",
+     "3ème",
+     "3è"
+    ],
+    "a": 0,
+    "e": "L'ordinal s'abrège en « 3e ».",
+    "id": "abreviations.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "abréviation correcte ou fautive ?",
+    "c": [
+     "correcte",
+     "fautive"
+    ],
+    "items": [
+     [
+      "M. Dupont",
+      0
+     ],
+     [
+      "Mr Dupont",
+      1
+     ],
+     [
+      "le 2e jour",
+      0
+     ],
+     [
+      "le 2ème jour",
+      1
+     ],
+     [
+      "etc.",
+      0
+     ],
+     [
+      "etc...",
+      1
+     ]
+    ],
+    "e": "M., 2e et etc. sont les formes correctes.",
+    "id": "abreviations.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Mrs>MM.} Durand et Petit sont arrivés.",
+    "e": "« Messieurs » s'abrège en « MM. ».",
+    "id": "abreviations.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce château date du {XVIIème>XVIIe} siècle.",
+    "e": "L'ordinal s'abrège en « XVIIe ».",
+    "id": "abreviations.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il pèse 80 {kgs>kg}.",
+    "e": "Les symboles d'unités ne prennent pas de s : « kg ».",
+    "id": "abreviations.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Voir p. 12 et cf. le chapitre 3.",
+    "e": "Correct : « p. » et « cf. » coupent le mot avant sa fin, d'où le point.",
+    "id": "abreviations.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Le rendez-vous est à ___.",
+    "o": [
+     "14 h 30",
+     "14H30",
+     "14 hrs 30"
+    ],
+    "a": 0,
+    "e": "L'heure s'écrit avec le symbole « h », entouré d'espaces.",
+    "id": "abreviations.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Mlle.>Mlle} Garnier a gagné la course.",
+    "e": "« Mlle » garde la dernière lettre de « Mademoiselle » : pas de point.",
+    "id": "abreviations.17"
+   }
+  ],
+  "bref": "- **M.** (Monsieur), **MM.** (Messieurs) ; **Mme**, **Mlle**, **Dr** sans point (ils finissent par la dernière lettre du mot).\n- **1er, 1re, 2e, XXe** (et non 2ème) ; **etc.** avec un seul point.\n- **5 km**, **80 kg** : les symboles ne prennent ni point ni s."
+ },
+ {
+  "id": "accent-circonflexe",
+  "titre": "L'accent circonflexe : quand le garder",
+  "resume": "Âge, fête, côte gardent toujours leur accent ; sur i et u, il est facultatif depuis 1990, sauf dans dû, mûr, sûr, jeûne et nous fûmes.",
+  "niveau": "superieur",
+  "fiche": "**Sur a, e, o**, l'accent circonflexe est **toujours obligatoire** :\n> l'âge, la fête, la côte, le rôle, l'hôpital, la pâte, une tâche, bientôt\n\n**Sur i et u**, les **rectifications de 1990** le rendent **facultatif** : les deux écritures sont correctes.\n> une boite ou une boîte, connaitre ou connaître, une ile ou une île, le gout ou le goût\n\n**Il reste obligatoire sur i et u** :\n- quand il **distingue deux mots** : **dû** (≠ du), **mûr** (≠ mur), **sûr** (≠ sur), **jeûne** (≠ jeune), **crû** (de croître ≠ cru) ;\n- dans les **terminaisons verbales** : nous **fûmes**, vous **fûtes**, qu'il **fût**.\n\n**Le test** : la voyelle est-elle a, e ou o ? → accent. Est-ce i ou u ? → facultatif, sauf mot à distinguer ou terminaison de verbe.\n\n**Les pièges** : l'accent change le sens → la **côte** (le rivage) / la **cote** (la valeur) ; une **tâche** (un travail) / une **tache** (une salissure) ; la **pâte** / la **patte**.\n\n**Pour aller plus loin**\n- Les rectifications de 1990 sont recommandées, mais l'ancienne orthographe reste correcte : aucune des deux n'est une faute.\n- **dû** perd son accent au féminin et au pluriel (due, dus) ; **mûr** et **sûr** le gardent (mûre, sûrs).",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Quel {age>âge} as-tu ?",
+    "e": "Sur a, l'accent circonflexe est obligatoire : « âge ».",
+    "id": "accent-circonflexe.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous préparons la {fete>fête} du village.",
+    "e": "Sur e, l'accent est obligatoire : « fête ».",
+    "id": "accent-circonflexe.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La maison donne sur la {cote>côte} bretonne.",
+    "e": "Le rivage s'écrit « côte », avec l'accent (la « cote » est une valeur).",
+    "id": "accent-circonflexe.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce {role>rôle} lui va bien.",
+    "e": "Sur o, l'accent est obligatoire : « rôle ».",
+    "id": "accent-circonflexe.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a reçu une {tache>tâche} difficile.",
+    "e": "Un travail : « tâche » (une « tache » est une salissure).",
+    "id": "accent-circonflexe.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle travaille à l'{hopital>hôpital}.",
+    "e": "Sur o, l'accent est obligatoire : « hôpital ».",
+    "id": "accent-circonflexe.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous {fumes>fûmes} surpris par la nouvelle.",
+    "e": "Terminaison du passé simple : l'accent reste obligatoire, « fûmes ».",
+    "id": "accent-circonflexe.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cette poire est bien {mure>mûre}.",
+    "e": "L'accent distingue « mûr » de « mur » : il reste obligatoire.",
+    "id": "accent-circonflexe.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il faut connaitre cette ile et gouter ses fruits.",
+    "e": "Correct : depuis 1990, l'accent sur i et u est facultatif (connaitre, ile, gouter).",
+    "id": "accent-circonflexe.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ce film est très ___.",
+    "o": [
+     "drôle",
+     "drole"
+    ],
+    "a": 0,
+    "e": "Sur o, l'accent est obligatoire : « drôle ».",
+    "id": "accent-circonflexe.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "accent obligatoire ou facultatif ?",
+    "c": [
+     "obligatoire",
+     "facultatif (1990)"
+    ],
+    "items": [
+     [
+      "âge",
+      0
+     ],
+     [
+      "boîte",
+      1
+     ],
+     [
+      "fête",
+      0
+     ],
+     [
+      "île",
+      1
+     ],
+     [
+      "côte",
+      0
+     ],
+     [
+      "goût",
+      1
+     ]
+    ],
+    "e": "Sur a, e, o : obligatoire. Sur i et u : facultatif depuis 1990.",
+    "id": "accent-circonflexe.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il pratique un {jeune>jeûne} d'une journée.",
+    "e": "L'accent distingue « jeûne » (ne pas manger) de « jeune » : obligatoire.",
+    "id": "accent-circonflexe.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je suis {sur>sûr} de mon choix.",
+    "e": "L'accent distingue « sûr » (certain) de « sur » : obligatoire.",
+    "id": "accent-circonflexe.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La {pate>pâte} à crêpes repose au frais.",
+    "e": "Sur a, l'accent est obligatoire : « pâte » (≠ la patte d'un animal).",
+    "id": "accent-circonflexe.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cette boite contient des biscuits au gout de miel.",
+    "e": "Correct : « boite » et « gout » sans accent sont admis depuis 1990.",
+    "id": "accent-circonflexe.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Nous ___ très heureux de vous revoir.",
+    "o": [
+     "fûmes",
+     "fumes"
+    ],
+    "a": 0,
+    "e": "Passé simple de « être » : l'accent est obligatoire, « fûmes ».",
+    "id": "accent-circonflexe.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il arrivera {bientot>bientôt}.",
+    "e": "Sur o, l'accent est obligatoire : « bientôt ».",
+    "id": "accent-circonflexe.17"
+   }
+  ],
+  "bref": "- Sur **a, e, o** : accent **obligatoire** → âge, fête, côte, hôpital.\n- Sur **i, u** : **facultatif** depuis 1990 → boite ou boîte, connaitre ou connaître.\n- **Sauf** quand il distingue deux mots ou dans un verbe : dû, mûr, sûr, jeûne ; nous fûmes, qu'il fût."
+ },
+ {
   "id": "accents",
   "titre": "Les accents : é, è, ê",
   "resume": "Pas d'accent devant une consonne double ou un x ; è devant une syllabe muette.",
@@ -9123,6 +9534,211 @@ window.PLUME_REGLES = [
   "bref": "- Une couleur **simple** s'accorde : des robes **vertes**, des yeux **bleus**.\n- Un **nom** employé comme couleur ne s'accorde pas : des yeux **marron**, des robes **orange**.\n- Une couleur **composée** ne s'accorde pas : des robes **bleu clair**.\n\n**Le test** : si on peut dire « de la couleur **d'un** fruit, d'une chose », c'est un nom → invariable."
  },
  {
+  "id": "dates-nombres",
+  "titre": "Écrire une date, un nombre, une somme",
+  "resume": "Le 1er mai, lundi 3 juin, 12 500 habitants, 12,50 €, 15 % : les règles d'écriture des dates et des nombres.",
+  "niveau": "superieur",
+  "fiche": "**Les dates** :\n- les **jours** et les **mois** prennent une **minuscule** : lundi 3 juin ;\n- le premier jour du mois : le **1er** mai (et non « le 1 mai ») ;\n- les **années** s'écrivent sans espace ni point : en **2025**, l'an **2000**.\n\n**Les grands nombres** : on sépare les tranches de trois chiffres par une **espace**, jamais par un point.\n> 12 500 habitants ; 1 000 000 d'euros\n\n**Les décimales** : on emploie la **virgule** (le point est l'usage anglais).\n> 12,50 euros ; 3,5 kg\n\n**Les symboles** se placent **après** le nombre, séparés par une espace :\n> 25 € ; 15 % ; 1,80 m\n\n**Le test** : relisez en pensant aux usages français (virgule, espace) et non anglais (point, symbole devant).\n\n**Pour aller plus loin**\n- On n'insère pas d'espace dans une année, un numéro de page ou un code : l'an 2000, page 1250.\n- En lettres, on écrit « quinze pour cent » ; en chiffres, « 15 % ».",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Rendez-vous le {1 mai>1er mai} devant la mairie.",
+    "e": "Le premier jour du mois s'écrit « 1er ».",
+    "id": "dates-nombres.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il est né le 3 {Mars>mars} 1990.",
+    "e": "Les mois prennent une minuscule.",
+    "id": "dates-nombres.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La ville compte {12.500>12 500} habitants.",
+    "e": "Les tranches de trois chiffres se séparent par une espace, pas par un point.",
+    "id": "dates-nombres.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le prix est de {12.50>12,50} euros.",
+    "e": "En français, les décimales s'écrivent avec une virgule.",
+    "id": "dates-nombres.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les prix ont augmenté de 15 {pourcents>%}.",
+    "e": "En chiffres, on écrit le symbole « % » après le nombre.",
+    "id": "dates-nombres.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La place coûte {€12>12 €}.",
+    "e": "Le symbole de l'euro se place après le nombre.",
+    "id": "dates-nombres.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous sommes le {Lundi>lundi} 3 juin.",
+    "e": "Les jours prennent une minuscule.",
+    "id": "dates-nombres.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "En l'an {2.000>2000}, tout le monde fêtait le nouveau millénaire.",
+    "e": "Une année s'écrit sans espace ni point.",
+    "id": "dates-nombres.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le 1er janvier 2025, la ville comptait 2 345 678 habitants.",
+    "e": "Correct : « 1er », année sans espace, grand nombre avec espaces.",
+    "id": "dates-nombres.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Le billet coûte ___.",
+    "o": [
+     "25 €",
+     "€25",
+     "25.00€"
+    ],
+    "a": 0,
+    "e": "Le symbole se place après le nombre, avec une espace.",
+    "id": "dates-nombres.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "écriture correcte ou fautive ?",
+    "c": [
+     "correcte",
+     "fautive"
+    ],
+    "items": [
+     [
+      "le 1er avril",
+      0
+     ],
+     [
+      "le 1 avril",
+      1
+     ],
+     [
+      "3,5 kg",
+      0
+     ],
+     [
+      "3.5 kg",
+      1
+     ],
+     [
+      "10 000 euros",
+      0
+     ],
+     [
+      "10.000 euros",
+      1
+     ]
+    ],
+    "e": "« 1er », la virgule décimale et l'espace entre les milliers sont les usages français.",
+    "id": "dates-nombres.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a gagné {1.000.000>1 000 000} d'euros.",
+    "e": "Les tranches de trois chiffres se séparent par des espaces.",
+    "id": "dates-nombres.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le taux est de {4.2 %>4,2 %}.",
+    "e": "Les décimales s'écrivent avec une virgule.",
+    "id": "dates-nombres.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La facture s'élève à {$50>50 $}.",
+    "e": "En français, le symbole monétaire se place après le nombre.",
+    "id": "dates-nombres.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La réunion aura lieu le mardi 12 mars à 9 h 30.",
+    "e": "Correct : jour et mois en minuscules, heure avec le symbole « h ».",
+    "id": "dates-nombres.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il mesure ___.",
+    "o": [
+     "1,80 m",
+     "1.80 m",
+     "1.80m"
+    ],
+    "a": 0,
+    "e": "Virgule décimale, puis espace avant le symbole « m ».",
+    "id": "dates-nombres.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Rendez-vous le {Vendredi 5 Avril>vendredi 5 avril}.",
+    "e": "Les jours et les mois prennent une minuscule.",
+    "id": "dates-nombres.17"
+   }
+  ],
+  "bref": "- Dates : le **1er** mai ; **lundi** 3 **juin** (minuscules) ; l'an **2025**.\n- Nombres : **12 500** (espace, pas de point) ; **3,5** (virgule).\n- Symboles **après** le nombre : **25 €**, **15 %**."
+ },
+ {
   "id": "davantage",
   "titre": "davantage ou d'avantage",
   "resume": "Dors davantage (= plus) ; plus d'avantages (= de bénéfices).",
@@ -11638,6 +12254,209 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "Certains noms trompent par leur forme. Il faut **retenir** leur genre :\n- **masculins** : un astérisque, un armistice, un tentacule, un haltère, un intervalle, un apogée, un en-tête ;\n- **féminins** : une oasis, une acné, une échappatoire, une anagramme, une épithète, une orbite."
+ },
+ {
+  "id": "homophones-rares",
+  "titre": "Homophones moins connus : différend, fonds, repaire, golfe",
+  "resume": "Un différend (désaccord), des fonds (de l'argent), un repaire (un abri), le golfe (la mer).",
+  "niveau": "superieur",
+  "fiche": "- **différent** (adjectif) : pas pareil → des avis **différents**. Un **différend** (nom) : un désaccord → régler un **différend**.\n- le **fond** : le bas, l'arrière → au **fond** de la mer. Les **fonds** : de l'argent → collecter des **fonds**, un **fonds** de commerce. Les **fonts** baptismaux : le bassin du baptême.\n- une **pause** : un arrêt → faire une **pause**. Une **pose** : l'action de poser, une attitude → la **pose** d'une moquette, prendre la **pose**.\n- un **repaire** : un abri de bêtes ou de malfaiteurs → un **repaire** de brigands. Un **repère** : une marque pour se retrouver → un point de **repère**.\n- le **golf** : le sport. Le **golfe** : une avancée de la mer → le **golfe** de Gascogne.\n- le **compte** (calcul), le **conte** (histoire), le **comte** (noble).\n\n**Le test** : remplacez par une définition (désaccord, argent, arrêt, abri…).\n\n**Pour aller plus loin**\n- **fonds** garde son s au singulier : un **fonds** de commerce.\n- **repère** vient de « repérer » : on repère un lieu grâce à un **repère**.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils ont réglé leur {différent>différend} à l'amiable.",
+    "e": "Un désaccord : le nom « différend ».",
+    "id": "homophones-rares.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nos avis sont très {différends>différents}.",
+    "e": "Pas pareils : l'adjectif « différents ».",
+    "id": "homophones-rares.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a collecté des {fond>fonds} pour l'association.",
+    "e": "De l'argent : « fonds ».",
+    "id": "homophones-rares.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le trésor gît au {fonds>fond} de la mer.",
+    "e": "Le bas de la mer : « fond ».",
+    "id": "homophones-rares.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Faisons une {pose>pause} de dix minutes.",
+    "e": "Un arrêt : « pause ».",
+    "id": "homophones-rares.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La {pause>pose} de la moquette prendra une journée.",
+    "e": "L'action de poser : « pose ».",
+    "id": "homophones-rares.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cette grotte est un {repère>repaire} de brigands.",
+    "e": "Un abri de malfaiteurs : « repaire ».",
+    "id": "homophones-rares.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce clocher sert de {repaire>repère} aux marins.",
+    "e": "Une marque pour se retrouver : « repère ».",
+    "id": "homophones-rares.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les fonts baptismaux se trouvent au fond de l'église.",
+    "e": "Correct : « fonts baptismaux » (le bassin), « au fond » (à l'arrière).",
+    "id": "homophones-rares.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ils jouent au ___ le dimanche.",
+    "o": [
+     "golf",
+     "golfe"
+    ],
+    "a": 0,
+    "e": "Le sport : « golf ».",
+    "id": "homophones-rares.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "différent ou différend ?",
+    "c": [
+     "différent (pas pareil)",
+     "différend (désaccord)"
+    ],
+    "items": [
+     [
+      "deux avis …",
+      0
+     ],
+     [
+      "un … entre voisins",
+      1
+     ],
+     [
+      "des goûts …",
+      0
+     ],
+     [
+      "régler un …",
+      1
+     ],
+     [
+      "un caractère …",
+      0
+     ],
+     [
+      "un … commercial",
+      1
+     ]
+    ],
+    "e": "L'adjectif (pas pareil) : différent. Le nom (désaccord) : différend.",
+    "id": "homophones-rares.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le bateau navigue dans le {golf>golfe} de Gascogne.",
+    "e": "Une avancée de la mer : « golfe ».",
+    "id": "homophones-rares.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a lu un {compte>conte} de fées.",
+    "e": "Une histoire : « conte ».",
+    "id": "homophones-rares.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le {conte>comte} habitait un château.",
+    "e": "Un titre de noblesse : « comte ».",
+    "id": "homophones-rares.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le comte a fait le compte de ses terres.",
+    "e": "Correct : le « comte » (noble) et le « compte » (calcul).",
+    "id": "homophones-rares.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il a racheté un ___ de commerce.",
+    "o": [
+     "fonds",
+     "fond"
+    ],
+    "a": 0,
+    "e": "Un capital, une entreprise : « fonds de commerce ».",
+    "id": "homophones-rares.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle prend la {pause>pose} pour le photographe.",
+    "e": "Une attitude : « pose ».",
+    "id": "homophones-rares.17"
+   }
+  ],
+  "bref": "- **différent** = pas pareil ; un **différend** = un désaccord.\n- le **fond** = le bas ; des **fonds** = de l'argent.\n- une **pause** = un arrêt ; une **pose** = l'action de poser.\n- un **repaire** = un abri ; un **repère** = une marque."
  },
  {
   "id": "ier-yer-gner",
@@ -15850,6 +16669,209 @@ window.PLUME_REGLES = [
   "bref": "- **n'y** = **ne + y**, devant un verbe : il **n'y** a rien → il **y** a quelque chose.\n- **ni** relie deux éléments niés : **ni** pain **ni** lait → du pain **et** du lait."
  },
  {
+  "id": "noms-collectifs",
+  "titre": "L'accord après beaucoup de, peu de, la foule de…",
+  "resume": "Beaucoup de gens pensent (pluriel) ; la foule des supporters envahit le terrain (singulier).",
+  "niveau": "superieur",
+  "fiche": "**Après un adverbe de quantité** (beaucoup de, peu de, trop de, assez de, combien de, nombre de, quantité de), le verbe s'accorde avec le **nom qui suit** :\n> Beaucoup de gens **pensent**… Peu d'élèves **ont** réussi. Trop de bruit **gêne** les voisins.\n\n**Après un nom collectif précédé de « le, la, ce, son… »** (la foule, ce groupe, le troupeau, la meute), on considère l'ensemble : le verbe est au **singulier**.\n> La foule des supporters **envahit** le terrain. Ce groupe d'enfants **chante** très juste.\n\n**Le test** : le premier mot est-il un adverbe (beaucoup, peu…) ou un nom précédé de « le, la, ce » ?\n\n**Pour aller plus loin**\n- Après **un, une** + collectif (une foule de, un grand nombre de) ou une fraction (la moitié de), l'usage accepte le singulier ou le pluriel, selon qu'on pense à l'ensemble ou aux éléments.\n- « Trop de travail **tue** le travail » : le nom qui suit est au singulier, le verbe aussi.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Beaucoup de gens {pense>pensent} que c'est trop cher.",
+    "e": "Après « beaucoup de », accord avec « gens » : pluriel.",
+    "id": "noms-collectifs.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Peu d'élèves {a>ont} réussi l'examen.",
+    "e": "Après « peu de », accord avec « élèves » : pluriel.",
+    "id": "noms-collectifs.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La foule des supporters {envahissent>envahit} le terrain.",
+    "e": "« La foule » (avec « la ») : accord avec le collectif, singulier.",
+    "id": "noms-collectifs.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Trop de voitures {encombre>encombrent} le centre-ville.",
+    "e": "Après « trop de », accord avec « voitures » : pluriel.",
+    "id": "noms-collectifs.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce groupe d'enfants {chantent>chante} très juste.",
+    "e": "« Ce groupe » : accord avec le collectif, singulier.",
+    "id": "noms-collectifs.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Combien de personnes {viendra>viendront} ?",
+    "e": "Après « combien de », accord avec « personnes » : pluriel.",
+    "id": "noms-collectifs.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le troupeau de moutons {traversent>traverse} la route.",
+    "e": "« Le troupeau » : accord avec le collectif, singulier.",
+    "id": "noms-collectifs.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nombre d'experts {estime>estiment} que la crise va durer.",
+    "e": "« Nombre de » (= beaucoup de) : accord avec « experts », pluriel.",
+    "id": "noms-collectifs.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Beaucoup d'enfants aiment ce livre, mais ce groupe d'adultes le trouve ennuyeux.",
+    "e": "Correct : « beaucoup d'enfants » → pluriel ; « ce groupe » → singulier.",
+    "id": "noms-collectifs.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Peu de candidats ___ venus.",
+    "o": [
+     "sont",
+     "est"
+    ],
+    "a": 0,
+    "e": "Après « peu de », accord avec « candidats » : pluriel.",
+    "id": "noms-collectifs.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "singulier ou pluriel ?",
+    "c": [
+     "singulier",
+     "pluriel"
+    ],
+    "items": [
+     [
+      "Beaucoup de livres (être) abîmés.",
+      1
+     ],
+     [
+      "La foule des curieux (grossir).",
+      0
+     ],
+     [
+      "Peu d'amis (venir).",
+      1
+     ],
+     [
+      "Ce groupe de touristes (partir).",
+      0
+     ],
+     [
+      "Trop de bruit (gêner).",
+      0
+     ],
+     [
+      "Combien d'élèves (savoir) nager ?",
+      1
+     ]
+    ],
+    "e": "Après beaucoup, peu, trop, combien : accord avec le nom qui suit. Après « la, ce » + collectif : singulier.",
+    "id": "noms-collectifs.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Quantité de gens {croit>croient} cette rumeur.",
+    "e": "« Quantité de » (= beaucoup de) : accord avec « gens », pluriel.",
+    "id": "noms-collectifs.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Trop de travail {tuent>tue} le travail.",
+    "e": "Après « trop de », accord avec « travail », singulier.",
+    "id": "noms-collectifs.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La meute de loups {hurlent>hurle} la nuit.",
+    "e": "« La meute » : accord avec le collectif, singulier.",
+    "id": "noms-collectifs.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Peu d'argent suffit parfois au bonheur.",
+    "e": "Correct : après « peu de », accord avec « argent », singulier.",
+    "id": "noms-collectifs.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ce troupeau de vaches ___ dans le pré.",
+    "o": [
+     "broute",
+     "broutent"
+    ],
+    "a": 0,
+    "e": "« Ce troupeau » : singulier.",
+    "id": "noms-collectifs.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Assez de personnes {s'est>se sont} inscrites.",
+    "e": "Après « assez de », accord avec « personnes » : pluriel.",
+    "id": "noms-collectifs.17"
+   }
+  ],
+  "bref": "- **beaucoup de, peu de, trop de, combien de, nombre de** : accord avec le **nom qui suit** → beaucoup de gens **pensent** ; trop de bruit **gêne**.\n- **la foule de, ce groupe de, le troupeau de** : accord avec le **collectif**, au **singulier** → la foule des supporters **envahit** le terrain."
+ },
+ {
   "id": "noms-composes",
   "titre": "Le pluriel des noms composés",
   "resume": "Des coffres-forts, des arcs-en-ciel, des tire-bouchons : seuls les noms et les adjectifs s'accordent.",
@@ -16053,6 +17075,209 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "Dans un nom composé, **seuls les noms et les adjectifs** prennent la marque du pluriel :\n- des **coffres-forts** (nom + adjectif), des **choux-fleurs** (nom + nom) ;\n- des **arcs-en-ciel** (seul le premier nom : « arcs de ciel ») ;\n- des **tire-bouchons**, des **sous-marins** (le verbe et « sous » ne changent pas)."
+ },
+ {
+  "id": "noms-double-genre",
+  "titre": "Les noms qui changent de genre : délice, orgue, gens, quelque chose",
+  "resume": "Un délice exquis mais des délices exquises ; un orgue, les grandes orgues ; les vieilles gens ; quelque chose de beau.",
+  "niveau": "superieur",
+  "fiche": "- **délice** est **masculin au singulier** et **féminin au pluriel** :\n> Ce gâteau est un délice **exquis**. Il a goûté aux délices **exquises** de la ville.\n- **orgue** est **masculin**, mais **féminin au pluriel** quand on parle d'un seul grand instrument :\n> Cet orgue est **ancien**. Les **grandes** orgues de la cathédrale.\n- **gens** : l'adjectif placé **juste avant** se met au **féminin** ; placé **après**, au **masculin**.\n> Les **vieilles** gens. Des gens **heureux**.\n- **quelque chose** est **masculin** : quelque chose de **beau** (alors que « une chose » est féminin).\n- **personne** : nom **féminin** (une personne **gentille**) ; pronom **masculin** (personne n'est **venu**).\n\n**Pour aller plus loin**\n- **amour** peut être féminin au pluriel dans la langue littéraire (de folles amours), mais le masculin est aussi admis.\n- **après-midi** est masculin ou féminin.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce gâteau est un délice {exquise>exquis}.",
+    "e": "« Délice » est masculin au singulier : « exquis ».",
+    "id": "noms-double-genre.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a goûté aux délices {exquis>exquises} de cette ville.",
+    "e": "« Délices » est féminin au pluriel : « exquises ».",
+    "id": "noms-double-genre.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La cathédrale possède de {grands orgues>grandes orgues}.",
+    "e": "Un seul grand instrument, au pluriel : féminin, « grandes orgues ».",
+    "id": "noms-double-genre.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Quelque chose de {belle>beau} est arrivé.",
+    "e": "« Quelque chose » est masculin : « beau ».",
+    "id": "noms-double-genre.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Personne n'est {venue>venu} ce matin.",
+    "e": "« Personne » pronom est masculin : « venu ».",
+    "id": "noms-double-genre.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les {vieux>vieilles} gens se souviennent de la guerre.",
+    "e": "Adjectif placé juste avant « gens » : féminin, « vieilles ».",
+    "id": "noms-double-genre.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "C'est {une>un} orgue magnifique.",
+    "e": "« Orgue » est masculin au singulier : « un orgue ».",
+    "id": "noms-double-genre.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces personnes sont très {gentils>gentilles}.",
+    "e": "« Personne » nom est féminin : « gentilles ».",
+    "id": "noms-double-genre.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les vieilles gens sont souvent prudents.",
+    "e": "Correct : « vieilles » (avant gens, féminin), « prudents » (après, masculin).",
+    "id": "noms-double-genre.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Quelque chose de ___ m'attend.",
+    "o": [
+     "nouveau",
+     "nouvelle"
+    ],
+    "a": 0,
+    "e": "« Quelque chose » est masculin : « nouveau ».",
+    "id": "noms-double-genre.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "masculin ou féminin ?",
+    "c": [
+     "masculin",
+     "féminin"
+    ],
+    "items": [
+     [
+      "un délice",
+      0
+     ],
+     [
+      "des délices",
+      1
+     ],
+     [
+      "un orgue",
+      0
+     ],
+     [
+      "les grandes orgues",
+      1
+     ],
+     [
+      "quelque chose",
+      0
+     ],
+     [
+      "une personne",
+      1
+     ]
+    ],
+    "e": "Délice et orgue changent de genre au pluriel ; quelque chose est masculin ; personne (nom) est féminin.",
+    "id": "noms-double-genre.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces délices ont été {savourés>savourées} jusqu'à la dernière miette.",
+    "e": "« Délices » au pluriel est féminin : « savourées ».",
+    "id": "noms-double-genre.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Personne n'est {parfaite>parfait}.",
+    "e": "« Personne » pronom est masculin : « parfait ».",
+    "id": "noms-double-genre.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les {bons>bonnes} gens de ce village nous ont accueillis.",
+    "e": "Adjectif juste avant « gens » : féminin, « bonnes ».",
+    "id": "noms-double-genre.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cet orgue est le plus ancien de la région.",
+    "e": "Correct : « orgue » au singulier est masculin.",
+    "id": "noms-double-genre.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il a joué sur les ___ orgues de la cathédrale.",
+    "o": [
+     "grandes",
+     "grands"
+    ],
+    "a": 0,
+    "e": "Un seul grand instrument, au pluriel : féminin.",
+    "id": "noms-double-genre.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Quelque chose de {nouvelle>nouveau} se prépare.",
+    "e": "« Quelque chose » est masculin : « nouveau ».",
+    "id": "noms-double-genre.17"
+   }
+  ],
+  "bref": "- **un** délice exquis / **des** délices exquis**es** ;\n- **un** orgue / les **grandes** orgues (un seul instrument) ;\n- les **vieilles** gens (adjectif avant) / des gens **heureux** (adjectif après) ;\n- quelque chose de **beau** (masculin)."
  },
  {
   "id": "noms-ee-te",
