@@ -1,7 +1,7 @@
 # L'élision : l', qu', jusqu'à, presqu'île
 
 Identifiant : elision
-Niveau : lycée
+Niveau : collège
 Résumé : Lorsqu'il, jusqu'à, l'hôpital… mais le héros, presque arrivé, si elle.
 
 ## Analyse

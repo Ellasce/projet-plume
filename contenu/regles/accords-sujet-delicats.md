@@ -1,7 +1,7 @@
 # Accords délicats du verbe avec le sujet
 
 Identifiant : accords-sujet-delicats
-Niveau : supérieur
+Niveau : lycée
 Résumé : La plupart sont, c'est moi qui suis, chacun doit…
 
 ## Fiche

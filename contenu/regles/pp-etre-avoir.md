@@ -1,7 +1,7 @@
 # Participe passé avec être ou avoir
 
 Identifiant : pp-etre-avoir
-Niveau : lycée
+Niveau : collège
 Résumé : Avec être, on accorde avec le sujet ; avec avoir, jamais avec le sujet.
 
 ## Fiche

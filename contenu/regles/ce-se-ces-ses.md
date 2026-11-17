@@ -1,7 +1,7 @@
 # Ce, se, ces, ses, c'est, s'est
 
 Identifiant : ce-se-ces-ses
-Niveau : lycée
+Niveau : collège
 Résumé : Six mots qui se prononcent presque pareil.
 
 ## Fiche

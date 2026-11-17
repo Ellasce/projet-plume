@@ -1,7 +1,7 @@
 # quand, quant ou qu'en
 
 Identifiant : quand-quant
-Niveau : lycée
+Niveau : collège
 Résumé : Le temps, « en ce qui concerne » ou « que + en » ? Trois tests.
 
 ## Analyse

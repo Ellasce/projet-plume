@@ -1,7 +1,7 @@
 # La négation : ne pas oublier « ne »
 
 Identifiant : negation-ne
-Niveau : lycée
+Niveau : collège
 Résumé : À l'écrit, la négation a deux parties : ne… pas, ne… jamais, personne ne…
 
 ## Analyse

@@ -360,7 +360,7 @@ window.PLUME_REGLES = [
   "id": "accents",
   "titre": "Les accents : é, è, ê",
   "resume": "Pas d'accent devant une consonne double ou un x ; è devant une syllabe muette.",
-  "niveau": "lycee",
+  "niveau": "college",
   "fiche": "- **Pas d'accent** sur le e quand il est suivi de **deux consonnes** ou d'un **x** : t**e**rre, b**e**lle, r**e**ster, m**e**rci, **e**xemple, **e**xcellent.\n- **é** (accent aigu) quand on entend « é » en fin de syllabe : **é**cole, **é**t**é**, r**é**ponse.\n- **è** (accent grave) devant une syllabe finale **muette** (avec un e muet) : p**è**re, m**è**re, il l**è**ve, probl**è**me.\n- **ê** (accent circonflexe) : des mots à retenir. Un mot de la même famille avec un **s** aide souvent : f**ê**te → festival, for**ê**t → forestier, t**ê**te → entêté.\n\n**Les pièges** :\n- Dans les verbes, l'accent change : je l**è**ve mais nous l**e**vons ; je c**è**de mais nous c**é**dons.\n- On n'écrit jamais d'accent devant un **x** : **e**xact, **e**xamen.\n\n**Pour aller plus loin**\n- **Les accents se gardent sur les majuscules** : **É**cole, l'**É**tat, **À** demain.\n- Depuis les **rectifications de 1990**, on peut écrire **évènement** (comme on prononce) et **je cèderai** ; les anciennes graphies (événement, je céderai) restent correctes.",
   "exercices": [
    {
@@ -1230,7 +1230,7 @@ window.PLUME_REGLES = [
   "id": "accords-sujet-delicats",
   "titre": "Accords délicats du verbe avec le sujet",
   "resume": "La plupart sont, c'est moi qui suis, chacun doit…",
-  "niveau": "superieur",
+  "niveau": "lycee",
   "fiche": "- **La plupart** (des…) : verbe au **pluriel**.\n> La plupart des participants ont apprécié.\n- **Qui** reprend le pronom qui le précède : le verbe s'accorde avec ce pronom.\n> C'est moi qui ai organisé. C'est toi qui as raison. C'est nous qui sommes responsables.\n- **Chacun** : verbe au **singulier**.\n> Chacun des candidats doit venir.\n- **Plus d'un** : singulier. **Moins de deux** : pluriel.\n> Plus d'un spectateur est reparti déçu.\n- **Ni… ni…** : généralement pluriel quand les deux sujets participent à l'action.\n> Ni le directeur ni son adjoint ne seront présents.\n\n**Pour aller plus loin**\n- **Moins de deux** : pluriel. **Plus d'un** : singulier.\n- C'est vous qui **avez**, c'est nous qui **sommes**.",
   "exercices": [
    {
@@ -2246,7 +2246,7 @@ window.PLUME_REGLES = [
   "id": "ce-se-ces-ses",
   "titre": "Ce, se, ces, ses, c'est, s'est",
   "resume": "Six mots qui se prononcent presque pareil.",
-  "niveau": "lycee",
+  "niveau": "college",
   "fiche": "- **ce** : déterminant démonstratif devant un nom (ce livre) ou pronom (ce que tu dis).\n- **se** : pronom placé devant un verbe (il se lave, ils se parlent). On peut le remplacer par « me » en changeant de personne : je me lave.\n- **ces** : pluriel de ce / cette, pour montrer (ces livres-là).\n- **ses** : pluriel de son / sa, pour indiquer la possession (ses livres = les siens).\n- **c'est** : « cela est ». On peut dire « c'était ».\n- **s'est** : pronom « se » + auxiliaire être, devant un participe passé (il s'est trompé). On peut dire « je me suis trompé ».\n\n> C'est à ce moment-là qu'il s'est souvenu de tout.\n> Paul a prêté sa voiture et ses outils.\n\n**Pour aller plus loin**\n- **Ce faisant** (= en faisant cela) s'écrit avec « ce ».\n- N'oubliez pas **sait** (verbe savoir) : elle sait qu'il viendra.",
   "exercices": [
    {
@@ -2439,7 +2439,7 @@ window.PLUME_REGLES = [
   "id": "cense-sense",
   "titre": "censé ou sensé",
   "resume": "Il est censé venir (= supposé) ; une idée sensée (= raisonnable).",
-  "niveau": "superieur",
+  "niveau": "lycee",
   "fiche": "- **censé** veut dire **supposé** ; il est presque toujours suivi d'un **infinitif** : tu es **censé** arriver à huit heures.\n- **sensé** veut dire **raisonnable**, plein de bon **sens** : c'est une remarque très **sensée**.\n\n**Le test** : remplacez par « supposé » ou par « raisonnable ».\n> Tu es censé arriver à huit heures. → Tu es supposé arriver ✔ → **censé**.\n> Une remarque sensée. → Une remarque raisonnable ✔ → **sensée**.\n\n**Les pièges** :\n- Les deux **s'accordent** : elle est **censée** partir ; des arguments **sensés**.\n- Un moyen de retenir : **sensé** comme bon **sens**.\n\n**Pour aller plus loin**\n- « **Nul n'est censé ignorer la loi** » : personne n'est supposé l'ignorer.\n- **censé** s'accorde avec le sujet : ils sont **censés** partir à midi.",
   "exercices": [
    {
@@ -2642,7 +2642,7 @@ window.PLUME_REGLES = [
   "id": "cest-ce-sont",
   "titre": "c'est ou ce sont",
   "resume": "À l'écrit soigné, « ce sont » devant un pluriel.",
-  "niveau": "lycee",
+  "niveau": "college",
   "fiche": "- Devant un **singulier** : **c'est** mon ami, **c'est** une bonne idée.\n- Devant un **pluriel**, à l'écrit soigné : **ce sont** mes amis, **ce sont** les voisins.\n\n« C'est des… » s'entend souvent à l'oral, mais il est déconseillé à l'écrit.\n\n**Les pièges** :\n- Avec **nous** et **vous**, on garde **c'est** : **c'est** nous, **c'est** vous.\n- Avec **eux** et **elles**, on écrit **ce sont** : **ce sont** eux qui ont gagné.\n- La règle vaut à tous les temps : **c'étaient** mes amis, **ce seront** les vacances.\n\n**Pour aller plus loin**\n- Devant une **énumération de noms au singulier**, « c'est » est accepté : c'est le pain, le beurre et le lait qui manquent.\n- Devant une **préposition**, on garde « c'est » : **c'est** de ces livres que je parle (et non « ce sont de ces livres »).",
   "exercices": [
    {
@@ -7031,7 +7031,7 @@ window.PLUME_REGLES = [
   "id": "constructions-verbes",
   "titre": "La construction des verbes : à, de ou rien ?",
   "resume": "On pardonne à quelqu'un, on aide quelqu'un, on se souvient de quelque chose.",
-  "niveau": "superieur",
+  "niveau": "lycee",
   "fiche": "Chaque verbe se construit d'une façon précise. Le pronom en dépend.\n\n**Avec « à »** (pronoms **lui, leur**) : pardonner **à**, obéir **à**, nuire **à**, plaire **à**, ressembler **à**, téléphoner **à**, s'intéresser **à**.\n> On pardonne à son ami → on **lui** pardonne.\n\n**Sans préposition** (pronoms **le, la, les**) : aider, applaudir, écouter, rencontrer, remercier, se rappeler (quelque chose).\n> On aide sa voisine → on **l'**aide. On se rappelle **cette histoire**.\n\n**Avec « de »** : se souvenir **de**, avoir besoin **de**, se méfier **de**, profiter **de**.\n> On se souvient **de** cette histoire.\n\n**Les pièges** :\n- « Je l'ai pardonné » ✘ → je **lui** ai pardonné (pardonner **à** quelqu'un).\n- « Je lui aide » ✘ → je **l'**aide (aider quelqu'un).\n- « Je me rappelle **de** cela » ✘ → je me rappelle cela, je me souviens **de** cela.\n\n**Pour aller plus loin**\n- **manquer** change de sens : « tu me manques » = je regrette ton absence (manquer **à** quelqu'un) ; « j'ai manqué le train » = je l'ai raté.\n- **s'attendre à ce que** est suivi du subjonctif : je m'attends **à ce qu'**il vienne.",
   "exercices": [
    {
@@ -7475,7 +7475,7 @@ window.PLUME_REGLES = [
   "id": "davantage",
   "titre": "davantage ou d'avantage",
   "resume": "Dors davantage (= plus) ; plus d'avantages (= de bénéfices).",
-  "niveau": "superieur",
+  "niveau": "lycee",
   "fiche": "- **davantage** est un adverbe qui veut dire **plus** : tu devrais dormir **davantage**. Il est invariable.\n- **d'avantage(s)** est formé de **de** et du nom **avantage** (un bénéfice, un point positif) : ce forfait offre beaucoup **d'avantages**.\n\n**Le test** : remplacez par « plus » ou par « de bénéfices ».\n> J'aimerais en savoir davantage. → en savoir plus ✔ → **davantage**.\n> Cette offre présente beaucoup d'avantages. → beaucoup de bénéfices ✔ → **d'avantages**.\n\n**Les pièges** :\n- **davantage de** + nom = **plus de** : **davantage de** temps libre.\n- Après « beaucoup », « plus », « autant », c'est presque toujours le nom : plus **d'avantages**.\n\n**Pour aller plus loin**\n- **davantage que** = plus que : il s'intéresse **davantage** à la musique **qu'**au sport.\n- **pas davantage** : je n'en dirai **pas davantage**.",
   "exercices": [
    {
@@ -8112,7 +8112,7 @@ window.PLUME_REGLES = [
   "id": "du-du",
   "titre": "du ou dû, sur ou sûr, mur ou mûr",
   "resume": "J'ai dû partir (devoir), je suis sûr (certain), un fruit mûr (à point) : l'accent change le sens.",
-  "niveau": "lycee",
+  "niveau": "college",
   "fiche": "- **dû** est le participe passé de **devoir** : j'ai **dû** partir (je **dois** partir). **du** est un article : je bois **du** lait.\n- **sûr** veut dire **certain** : je suis **sûr** qu'il viendra. **sur** indique une position : le vase est **sur** la table.\n- **mûr** veut dire **à point**, **prêt** : ces bananes sont **mûres**. **mur** est un nom : il a peint le **mur**.\n\n**Le test** : remplacez par « certain », « à point » ou le verbe « devoir ».\n> Es-tu sûr de toi ? → Es-tu certain de toi ? ✔ → **sûr**.\n> Pose le vase sur la table. → Pose le vase certain la table ✘ → **sur**.\n\n**Les pièges** :\n- **dû** perd son accent au féminin et au pluriel : la somme **due**, les impôts **dus**.\n- **sûr** et **mûr** gardent leur accent : elle est **sûre**, des fruits **mûrs**.\n\n**Pour aller plus loin**\n- **bien sûr** et **à coup sûr** s'écrivent avec l'accent (certainement).\n- Un fromage **mûr**, une idée **mûre** : « à point », « bien réfléchie ».",
   "exercices": [
    {
@@ -8334,7 +8334,7 @@ window.PLUME_REGLES = [
   "id": "elision",
   "titre": "L'élision : l', qu', jusqu'à, presqu'île",
   "resume": "Lorsqu'il, jusqu'à, l'hôpital… mais le héros, presque arrivé, si elle.",
-  "niveau": "lycee",
+  "niveau": "college",
   "fiche": "- **le, la, de, je, me, te, se, ne, que** perdent leur voyelle devant une **voyelle** ou un **h muet** : **l'**arbre, **l'**hôpital, **qu'**il, **j'**aime.\n- Les mots formés avec **que** font de même : **lorsqu'**il, **puisqu'**il, **quoiqu'**elle, **jusqu'**à, **quelqu'**un.\n- **si** ne s'élide que devant **il** et **ils** : **s'il** vient, mais **si elle** vient.\n\n**Le test** : le mot suivant commence-t-il par une voyelle ou un h muet (on fait la liaison : les‿hôpitaux) ?\n> lorsque + il → **lorsqu'il**.\n> le + héros (h aspiré : les / héros, sans liaison) → **le héros**.\n\n**Les pièges** :\n- Devant un **h aspiré**, pas d'élision : **le** héros, **le** hoquet, **le** hérisson, **la** hache.\n- **presque** ne s'élide que dans **presqu'île** : il est **presque** arrivé.\n\n**Pour aller plus loin**\n- On ne fait pas l'élision devant **onze** : le **onze** mars.\n- Pour reconnaître un h aspiré, faites le pluriel : s'il n'y a pas de liaison (les / héros), il est aspiré.",
   "exercices": [
    {
@@ -8972,7 +8972,7 @@ window.PLUME_REGLES = [
   "id": "futur-conditionnel",
   "titre": "Futur ou conditionnel : -rai ou -rais",
   "resume": "Je viendrai ou je viendrais ? Passez à « nous ».",
-  "niveau": "lycee",
+  "niveau": "college",
   "fiche": "À la 1re personne du singulier, on confond souvent :\n- le **futur** : je **-rai** (un fait à venir, considéré comme sûr) ;\n- le **conditionnel** : je **-rais** (une hypothèse, un souhait, une demande polie).\n\n**L'astuce** : conjuguez avec **nous**.\n- nous viend**rons** → futur → je viend**rai**\n- nous viend**rions** → conditionnel → je viend**rais**\n\n> Demain, je serai au bureau. (nous serons)\n> Si j'avais le temps, je viendrais. (nous viendrions)\n> Je voudrais un café. (politesse)\n\n**Repère** : après « si » + imparfait, on emploie le conditionnel.\n\n**Pour aller plus loin**\n- **Futur dans le passé** : il m'a promis qu'il **viendrait**.\n- Si + plus-que-parfait → conditionnel passé : si j'avais su, je **serais** venu.",
   "exercices": [
    {
@@ -9174,6 +9174,209 @@ window.PLUME_REGLES = [
     "id": "futur-conditionnel.17"
    }
   ]
+ },
+ {
+  "id": "genre-noms",
+  "titre": "Le genre des noms piégeux : un astérisque, une oasis",
+  "resume": "Un astérisque, un armistice, un tentacule… mais une oasis, une échappatoire, une acné.",
+  "niveau": "superieur",
+  "fiche": "Le genre d'un nom ne se devine pas toujours. Ces mots sont souvent mal employés.\n\n**Masculins** (on dit **un**) :\n> un astérisque, un armistice, un tentacule, un haltère, un intervalle, un apogée, un éloge, un en-tête, un effluve, un hémisphère, un pétale\n\n**Féminins** (on dit **une**) :\n> une oasis, une acné, une échappatoire, une anagramme, une épithète, une orbite, une icône, une amnistie\n\n**Le piège** : devant une voyelle, **l'** et **son** cachent le genre (l'apogée, son orbite). Accordez un adjectif pour vérifier : un apogée **tardif**, une orbite **basse**.\n\n**Pour aller plus loin**\n- Certains noms changent de genre selon le sens ou le nombre (un orgue, de belles orgues ; un amour, de folles amours) : ce sont des cas à part.\n- **Après-midi** peut être masculin ou féminin.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a mis {une>un} astérisque à côté du mot.",
+    "e": "« Astérisque » est masculin : « un astérisque ».",
+    "id": "genre-noms.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous avons atteint {un>une} oasis au coucher du soleil.",
+    "e": "« Oasis » est féminin : « une oasis ».",
+    "id": "genre-noms.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La pieuvre a huit tentacules très {longues>longs}.",
+    "e": "« Tentacule » est masculin : « longs ».",
+    "id": "genre-noms.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il souffre d'{un>une} acné sévère.",
+    "e": "« Acné » est féminin : « une acné ».",
+    "id": "genre-noms.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les deux pays ont signé {une>un} armistice.",
+    "e": "« Armistice » est masculin : « un armistice ».",
+    "id": "genre-noms.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle soulève des haltères très {lourdes>lourds}.",
+    "e": "« Haltère » est masculin : « lourds ».",
+    "id": "genre-noms.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il cherche {un>une} échappatoire.",
+    "e": "« Échappatoire » est féminin : « une échappatoire ».",
+    "id": "genre-noms.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle a écrit {une>un} long éloge de son professeur.",
+    "e": "« Éloge » est masculin : « un long éloge ».",
+    "id": "genre-noms.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cet hémisphère est le plus peuplé de la planète.",
+    "e": "Correct : « hémisphère » est masculin : « cet hémisphère ».",
+    "id": "genre-noms.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Le satellite suit une orbite très ___.",
+    "o": [
+     "basse",
+     "bas"
+    ],
+    "a": 0,
+    "e": "« Orbite » est féminin : « basse ».",
+    "id": "genre-noms.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "masculin ou féminin ?",
+    "c": [
+     "masculin (un)",
+     "féminin (une)"
+    ],
+    "items": [
+     [
+      "astérisque",
+      0
+     ],
+     [
+      "oasis",
+      1
+     ],
+     [
+      "tentacule",
+      0
+     ],
+     [
+      "acné",
+      1
+     ],
+     [
+      "armistice",
+      0
+     ],
+     [
+      "échappatoire",
+      1
+     ]
+    ],
+    "e": "Un astérisque, un tentacule, un armistice ; une oasis, une acné, une échappatoire.",
+    "id": "genre-noms.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Sa carrière a connu un apogée {tardive>tardif}.",
+    "e": "« Apogée » est masculin : « tardif ».",
+    "id": "genre-noms.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Laissez {une>un} intervalle de deux mètres.",
+    "e": "« Intervalle » est masculin : « un intervalle ».",
+    "id": "genre-noms.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle a trouvé {un>une} anagramme amusante de son prénom.",
+    "e": "« Anagramme » est féminin : « une anagramme ».",
+    "id": "genre-noms.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Une épithète bien choisie vaut mieux qu'un long éloge.",
+    "e": "Correct : « épithète » est féminin, « éloge » est masculin.",
+    "id": "genre-noms.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il a imprimé ___ en-tête sur chaque lettre.",
+    "o": [
+     "un",
+     "une"
+    ],
+    "a": 0,
+    "e": "« En-tête » est masculin : « un en-tête ».",
+    "id": "genre-noms.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Une>Un} effluve agréable s'échappait de la cuisine.",
+    "e": "« Effluve » est masculin : « un effluve ».",
+    "id": "genre-noms.17"
+   }
+  ],
+  "bref": "Certains noms trompent par leur forme. Il faut **retenir** leur genre :\n- **masculins** : un astérisque, un armistice, un tentacule, un haltère, un intervalle, un apogée, un en-tête ;\n- **féminins** : une oasis, une acné, une échappatoire, une anagramme, une épithète, une orbite."
  },
  {
   "id": "imparfait-passe-simple",
@@ -9587,7 +9790,7 @@ window.PLUME_REGLES = [
   "id": "infinitif-participe",
   "titre": "Infinitif ou participe passé : -er, -é, -ez",
   "resume": "Manger, mangé ou mangez ? Le test du verbe « prendre ».",
-  "niveau": "lycee",
+  "niveau": "college",
   "fiche": "Les verbes en **-er** se prononcent pareil à l'infinitif (**-er**), au participe passé (**-é**) et à la 2e personne du pluriel (**-ez**).\n\n**L'astuce** : remplacez le verbe par un verbe comme **prendre**, **vendre** ou **mordre**, qui ne se prononce pas pareil.\n- Si vous entendez **prendre** → infinitif en **-er**.\n- Si vous entendez **pris** → participe passé en **-é**.\n- Si le sujet est **vous** → **-ez**.\n\n> Il faut appeler (prendre) le médecin.\n> Elle a oublié (pris) ses clés.\n> Vous parlez trop vite.\n\n**Repères** : après une préposition (à, de, pour, sans…) ou après un autre verbe conjugué, on a presque toujours l'infinitif. Après **avoir** ou **être**, on a le participe passé.\n\n**Pour aller plus loin**\n- Après un verbe de perception ou « laisser », on emploie l'infinitif : j'ai entendu les enfants **chanter**, il s'est laissé **tenter**.\n- Un participe employé seul s'accorde comme un adjectif : les clés **oubliées**.",
   "exercices": [
    {
@@ -10951,7 +11154,7 @@ window.PLUME_REGLES = [
   "id": "majuscules",
   "titre": "Les majuscules",
   "resume": "Les Français parlent français : majuscule au peuple, minuscule à la langue.",
-  "niveau": "lycee",
+  "niveau": "college",
   "fiche": "**Majuscule** :\n- au début d'une phrase ;\n- aux noms propres : personnes, villes, pays, fleuves (Paris, la France, la Loire) ;\n- aux noms d'**habitants** et de **peuples** : les **F**rançais, une **P**arisienne, les **E**spagnols.\n\n**Minuscule** :\n- aux **langues** : il parle **f**rançais, apprendre l'**a**nglais ;\n- aux **adjectifs** de nationalité : un vin **f**rançais, la cuisine **i**talienne ;\n- aux **jours**, **mois** et **saisons** : **l**undi, **j**anvier, l'**é**té.\n\n**Le test** : s'il s'agit de **personnes** (les Français = des gens), majuscule ; d'une **langue** ou d'un **adjectif**, minuscule.\n\n**L'accent se garde** sur une majuscule : **À** demain, **É**tienne.\n\n**Pour aller plus loin**\n- **Points cardinaux** : minuscule pour une direction (au **n**ord de Lyon), majuscule pour une région (le **N**ord, l'Amérique du **S**ud).\n- **Institutions et périodes historiques** : l'**É**tat, la **R**évolution française, le **M**oyen **Â**ge.",
   "exercices": [
    {
@@ -11598,7 +11801,7 @@ window.PLUME_REGLES = [
   "id": "modes-conjonctions",
   "titre": "Indicatif ou subjonctif",
   "resume": "Après que + indicatif ; bien que, pour que, je veux que + subjonctif.",
-  "niveau": "superieur",
+  "niveau": "lycee",
   "fiche": "**Après que** introduit un fait accompli, réel : il se construit avec l'**indicatif**.\n> Nous partirons après qu'il aura terminé.\n\n**Avant que, bien que, pour que, afin que, sans que, à moins que, jusqu'à ce que, quoique** expriment un fait envisagé, non réalisé ou concédé : **subjonctif**.\n> Bien qu'il soit fatigué, il continue.\n> Je t'explique pour que tu comprennes.\n\n**L'astuce** : « après que » suit la même logique que « quand » ou « lorsque », qu'on ne fait jamais suivre du subjonctif.\n\n**Après un verbe** : la volonté, le souhait, le sentiment ou la nécessité appellent le **subjonctif** (je veux que tu sois, il faut que, je suis surpris que). La certitude appelle l'**indicatif** (je suis certain que vous êtes).\n\n**Pour aller plus loin**\n- **Il semble que** + subjonctif, mais **il me semble que** + indicatif.\n- Après qu'il **fut** parti (passé antérieur, sans accent).",
   "exercices": [
    {
@@ -11828,7 +12031,7 @@ window.PLUME_REGLES = [
   "id": "mots-difficiles",
   "titre": "Les mots souvent mal orthographiés",
   "resume": "Parmi, malgré, connexion, occurrence, rémunérer : les mots qui piègent les adultes.",
-  "niveau": "superieur",
+  "niveau": "lycee",
   "fiche": "**Pas de s** à : **parmi**, **malgré**, **quatre** (des quatre coins).\n\n**Un s** final à : **volontiers**, **toujours**, **longtemps**, **néanmoins**, **d'ailleurs**.\n\n**Des lettres dans le bon ordre** :\n- **rémunérer**, **rémunération** (rien à voir avec « numéro » : le **m** vient avant le **n**) ;\n- **aéroport** (aéro- comme avion) ;\n- **infarctus**.\n\n**Des consonnes doubles** : **occurrence** (cc, rr), **connexion** (nn), **dilemme** (mm), **apparemment** (pp, mm).\n\n**Des terminaisons** : **connexion**, **réflexion**, **flexion** en -xion ; mais **attention**, **question** en -tion.\n\n**Pour aller plus loin**\n- **Quatre** ne prend jamais de s : les **quatre** saisons ; dans « quatre-vingts », le s appartient à « vingt ».\n- **À l'envi** (= à qui mieux mieux) s'écrit sans e final, contrairement à « l'envie » : ils se sont disputés **à l'envi**.\n- **Langage** s'écrit sans u, contrairement à « langue ».",
   "exercices": [
    {
@@ -12255,7 +12458,7 @@ window.PLUME_REGLES = [
   "id": "negation-ne",
   "titre": "La négation : ne pas oublier « ne »",
   "resume": "À l'écrit, la négation a deux parties : ne… pas, ne… jamais, personne ne…",
-  "niveau": "lycee",
+  "niveau": "college",
   "fiche": "À l'écrit, la négation a **deux parties** : **ne… pas**, **ne… plus**, **ne… jamais**, **ne… rien**, **ne… personne**, **ne… aucun**.\n> Je sais pas. ✘ → Je **ne** sais **pas**. ✔\n> Il vient plus. ✘ → Il **ne** vient **plus**. ✔\n\nDevant une voyelle, **ne** devient **n'** : je **n'**aime pas.\n\n**Les pièges** :\n- Avec **personne**, **rien**, **aucun** au début de la phrase, il faut aussi **ne** : **Personne n'**est venu. **Rien ne** bouge. **Aucun** élève **n'**a répondu.\n- Avec **on**, on n'entend pas le « n' » : **on n'**a pas le temps.\n\n**Pour aller plus loin**\n- **ne… que** signifie « seulement » : il **ne** boit **que** de l'eau (il boit seulement de l'eau).\n- Le **ne explétif** n'a pas de sens négatif et reste facultatif : avant qu'il **ne** pleuve, je crains qu'il **ne** soit en retard.\n- **ni… ni** : il **ne** boit **ni** thé **ni** café.",
   "exercices": [
    {
@@ -13769,7 +13972,7 @@ window.PLUME_REGLES = [
   "id": "parce-que",
   "titre": "parce que ou par ce que",
   "resume": "Je reste parce que je suis malade (= car) ; je suis touché par ce que tu dis (= par la chose que).",
-  "niveau": "lycee",
+  "niveau": "college",
   "fiche": "- **parce que** (deux mots) exprime la **cause**. On peut le remplacer par **car** : il est en retard **parce qu'**il a raté le bus.\n- **par ce que** (trois mots) veut dire **par la chose que** : je suis étonné **par ce que** tu m'apprends.\n\n**Le test** : remplacez par « car ».\n> Je reste à la maison parce que je suis malade. → car je suis malade ✔ → **parce que**.\n> Commence par ce que tu préfères. → Commence car tu préfères ✘ → **par ce que**.\n\n**Les pièges** :\n- Devant une voyelle : **parce qu'**il, **par ce qu'**elle.\n- Après **par ce que**, le verbe a besoin d'un complément : ce que tu **dis**, ce qu'il **ressent**.\n\n**Pour aller plus loin**\n- « Pourquoi ? — **Parce que** ! » : employé seul, c'est toujours **parce que**.\n- Les deux peuvent se suivre : je t'appelle **parce que** je suis bouleversé **par ce que** j'ai vu.",
   "exercices": [
    {
@@ -13967,6 +14170,209 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "- **parce que** donne une **cause** : je reste **parce que** je suis malade → **car** je suis malade.\n- **par ce que** = **par la chose que** : commence **par ce que** tu préfères."
+ },
+ {
+  "id": "paronymes-2",
+  "titre": "Les paronymes, 2e série : irruption, compréhensif, recouvrer",
+  "resume": "Faire irruption, entrer en éruption ; une explication compréhensible, un ami compréhensif.",
+  "niveau": "superieur",
+  "fiche": "Les paronymes se ressemblent mais n'ont pas le même sens :\n- **éruption** (d'un volcan, de boutons) / **irruption** (entrée brutale : faire irruption) ;\n- **compréhensible** (qu'on peut comprendre) / **compréhensif** (qui comprend les autres, indulgent) ;\n- **recouvrer** (retrouver : recouvrer la santé, une dette) / **recouvrir** (couvrir entièrement) ;\n- **allocution** (discours bref) / **allocation** (somme versée) ;\n- **consumer** (détruire par le feu) / **consommer** (utiliser, manger) ;\n- **prolongement** (dans l'espace : d'une route) / **prolongation** (dans le temps : d'un match, d'un contrat) ;\n- **prodigue** (qui dépense sans compter : l'enfant prodigue) / **prodige** (personne exceptionnelle : un enfant prodige).\n\n**Le test** : remplacez par une définition. « Entrer brutalement » → irruption ; « qui comprend les autres » → compréhensif.\n\n**Pour aller plus loin**\n- **originel** (qui remonte aux origines : le péché originel) / **original** (nouveau, singulier).\n- **littéral** (à la lettre : le sens littéral) / **littéraire** (qui concerne la littérature).\n- **notoire** (connu de tous, souvent en mal : un escroc notoire) / **notable** (digne d'être noté ; une personne importante).",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les policiers ont fait {éruption>irruption} dans la salle.",
+    "e": "Entrer brutalement : « faire irruption ».",
+    "id": "paronymes-2.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le volcan est entré en {irruption>éruption}.",
+    "e": "Un volcan actif : « éruption ».",
+    "id": "paronymes-2.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Mon professeur est très {compréhensible>compréhensif}.",
+    "e": "Qui comprend les autres, indulgent : « compréhensif ».",
+    "id": "paronymes-2.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Après l'opération, il a enfin {recouvert>recouvré} la vue.",
+    "e": "Retrouver la vue : « recouvrer ».",
+    "id": "paronymes-2.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le président a prononcé une courte {allocation>allocution}.",
+    "e": "Un discours bref : « allocution ».",
+    "id": "paronymes-2.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le feu a {consommé>consumé} toute la forêt.",
+    "e": "Détruire par le feu : « consumer ».",
+    "id": "paronymes-2.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le match est allé jusqu'aux {prolongements>prolongations}.",
+    "e": "Un temps supplémentaire : « prolongations ».",
+    "id": "paronymes-2.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le fils {prodige>prodigue} est revenu après avoir tout dépensé.",
+    "e": "Qui dépense sans compter : « prodigue ».",
+    "id": "paronymes-2.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ses explications sont compréhensibles, et il se montre toujours compréhensif.",
+    "e": "Correct : des explications claires (compréhensibles), une personne indulgente (compréhensif).",
+    "id": "paronymes-2.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Le ___ de la route jusqu'au village est prévu.",
+    "o": [
+     "prolongement",
+     "prolongation"
+    ],
+    "a": 0,
+    "e": "Dans l'espace (une route) : « prolongement ».",
+    "id": "paronymes-2.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "prolongement ou prolongation ?",
+    "c": [
+     "prolongement (espace)",
+     "prolongation (temps)"
+    ],
+    "items": [
+     [
+      "la route",
+      0
+     ],
+     [
+      "le contrat",
+      1
+     ],
+     [
+      "la ligne de métro",
+      0
+     ],
+     [
+      "le match",
+      1
+     ],
+     [
+      "le mur",
+      0
+     ],
+     [
+      "le séjour",
+      1
+     ]
+    ],
+    "e": "Ce qui s'étend dans l'espace : prolongement. Ce qui dure plus longtemps : prolongation.",
+    "id": "paronymes-2.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le sens {littéraire>littéral} de cette expression est « à la lettre ».",
+    "e": "À la lettre : « littéral ».",
+    "id": "paronymes-2.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Selon la Bible, Adam et Ève ont commis le péché {original>originel}.",
+    "e": "Qui remonte aux origines : « originel ».",
+    "id": "paronymes-2.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il aime {invoquer>évoquer} ses souvenirs d'enfance.",
+    "e": "Rappeler des souvenirs : « évoquer ».",
+    "id": "paronymes-2.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "C'est un fait notoire : cet homme est un notable de la ville.",
+    "e": "Correct : « notoire » (connu de tous), « notable » (personne importante).",
+    "id": "paronymes-2.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "L'entreprise cherche à ___ ses créances.",
+    "o": [
+     "recouvrer",
+     "recouvrir"
+    ],
+    "a": 0,
+    "e": "Récupérer une somme due : « recouvrer ».",
+    "id": "paronymes-2.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce voleur {notable>notoire} a enfin été arrêté.",
+    "e": "Connu de tous (en mal) : « notoire ».",
+    "id": "paronymes-2.17"
+   }
+  ],
+  "bref": "- faire **irruption** (entrer brutalement) / un volcan en **éruption** ;\n- une phrase **compréhensible** (claire) / un ami **compréhensif** (indulgent) ;\n- **recouvrer** la vue (la retrouver) / **recouvrir** un mur (le couvrir) ;\n- le **prolongement** d'une route (l'espace) / les **prolongations** d'un match (le temps)."
  },
  {
   "id": "paronymes",
@@ -14320,6 +14726,209 @@ window.PLUME_REGLES = [
     "id": "participe-present-adjectif.16"
    }
   ]
+ },
+ {
+  "id": "participes-invariables",
+  "titre": "Excepté, vu, passé, compris, ci-joint : avant ou après le nom",
+  "resume": "Excepté les enfants, mais les enfants exceptés ; ci-joint les photos, mais la lettre ci-jointe.",
+  "niveau": "superieur",
+  "fiche": "**Avant le nom** (ou en tête de phrase), ces mots jouent le rôle d'une **préposition** : ils sont **invariables**.\n> **Excepté** les plus jeunes, tout le monde a nagé. **Vu** les circonstances, la réunion est reportée. **Passé** dix heures, les portes sont fermées. **Y compris** les taxes, le prix reste raisonnable.\n\n**Après le nom**, ce sont des **participes** : ils **s'accordent** avec ce nom.\n> Les plus jeunes **exceptés**, tout le monde a nagé. La lettre **ci-jointe**. La TVA **comprise**.\n\n**Le test** : regardez la place du mot. Avant le nom → invariable. Après → accord.\n\n**Les pièges** :\n- **ci-joint** et **ci-inclus** en tête de phrase : invariables (**ci-joint** les photos de la fête).\n- **attendu** et **non compris** suivent la même règle : **attendu** les difficultés ; **non compris** les boissons.\n\n**Pour aller plus loin**\n- Dans « vous trouverez **ci-joint** (ou **ci-jointe**) la facture », les deux accords sont admis : le mot est entre le verbe et le nom.\n- **étant donné** devant un nom : l'invariabilité est la plus courante, l'accord est toléré (étant donné ou étant donnée la situation).",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Exceptés>Excepté} les plus jeunes, tout le monde a nagé.",
+    "e": "Placé avant le nom : préposition, invariable.",
+    "id": "participes-invariables.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Vus>Vu} les circonstances, la réunion est reportée.",
+    "e": "Placé avant le nom : « vu » est invariable.",
+    "id": "participes-invariables.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Passées>Passé} dix heures, les portes sont fermées.",
+    "e": "Placé avant le nom : « passé » est invariable.",
+    "id": "participes-invariables.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Veuillez lire la lettre {ci-joint>ci-jointe}.",
+    "e": "Placé après le nom : accord avec « la lettre ».",
+    "id": "participes-invariables.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Ci-jointes>Ci-joint} les photos de la fête.",
+    "e": "En tête de phrase : « ci-joint » est invariable.",
+    "id": "participes-invariables.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les enfants {excepté>exceptés}, toute la famille est venue.",
+    "e": "Placé après le nom : accord avec « les enfants ».",
+    "id": "participes-invariables.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Y comprises>Y compris} les taxes, le prix reste raisonnable.",
+    "e": "Placé avant le nom : « y compris » est invariable.",
+    "id": "participes-invariables.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Toutes les pièces, la cuisine {compris>comprise}, seront repeintes.",
+    "e": "Placé après le nom : accord avec « la cuisine ».",
+    "id": "participes-invariables.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Passé minuit, tout est fermé, excepté la pharmacie.",
+    "e": "Correct : « passé » et « excepté », placés avant le nom, sont invariables.",
+    "id": "participes-invariables.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "___ les jours fériés, le musée est ouvert.",
+    "o": [
+     "Excepté",
+     "Exceptés"
+    ],
+    "a": 0,
+    "e": "Placé avant le nom : invariable.",
+    "id": "participes-invariables.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "invariable ou accordé ?",
+    "c": [
+     "invariable (avant le nom)",
+     "accordé (après le nom)"
+    ],
+    "items": [
+     [
+      "excepté les enfants",
+      0
+     ],
+     [
+      "les enfants exceptés",
+      1
+     ],
+     [
+      "passé huit heures",
+      0
+     ],
+     [
+      "la facture ci-jointe",
+      1
+     ],
+     [
+      "y compris la TVA",
+      0
+     ],
+     [
+      "la TVA comprise",
+      1
+     ]
+    ],
+    "e": "Avant le nom, ces mots sont des prépositions, invariables. Après, ils s'accordent.",
+    "id": "participes-invariables.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La copie {ci-inclus>ci-incluse} doit être signée.",
+    "e": "Placé après le nom : accord avec « la copie ».",
+    "id": "participes-invariables.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Attendues>Attendu} les difficultés, nous avons renoncé.",
+    "e": "Placé avant le nom : « attendu » (= étant donné) est invariable.",
+    "id": "participes-invariables.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Non comprises>Non compris} les boissons, le repas coûte vingt euros.",
+    "e": "Placé avant le nom : « non compris » est invariable.",
+    "id": "participes-invariables.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Toutes les factures, celles de juin exceptées, ont été payées.",
+    "e": "Correct : placé après « celles de juin », « exceptées » s'accorde.",
+    "id": "participes-invariables.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "La TVA ___, le total est de cent euros.",
+    "o": [
+     "comprise",
+     "compris"
+    ],
+    "a": 0,
+    "e": "Placé après le nom : accord avec « la TVA ».",
+    "id": "participes-invariables.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Passée>Passé} la première semaine, tout devient plus facile.",
+    "e": "Placé avant le nom : « passé » est invariable.",
+    "id": "participes-invariables.17"
+   }
+  ],
+  "bref": "- **Avant** le nom ou en **tête** de phrase : **invariable** → **excepté** les enfants, **vu** les circonstances, **ci-joint** les photos.\n- **Après** le nom : **accord** → les enfants **exceptés**, la lettre **ci-jointe**, la TVA **comprise**."
  },
  {
   "id": "pc-auxiliaire",
@@ -15402,10 +16011,213 @@ window.PLUME_REGLES = [
   ]
  },
  {
+  "id": "pp-couter-valoir",
+  "titre": "Participe passé : coûter, valoir, courir, peser, vivre et verbes impersonnels",
+  "resume": "Les trois cents euros que ce vélo m'a coûté, mais les efforts que ce travail m'a coûtés.",
+  "niveau": "superieur",
+  "fiche": "Ces verbes ont deux sens. Le participe passé ne s'accorde que lorsque le complément est un **vrai COD**, placé avant.\n\n**Sens propre** : un **prix**, un **poids**, une **distance**, une **durée**. Ce n'est pas un COD (on répond à « combien ? ») : **invariable**.\n> Les trois cents euros que ce vélo m'a **coûté**. Les dix kilomètres qu'il a **couru**.\n\n**Sens figuré** : le complément répond à « quoi ? ». C'est un COD : **accord** s'il est placé avant.\n> Les efforts que ce travail m'a **coûtés**. Les dangers qu'il a **courus**. Les honneurs que son talent lui a **valus**.\n\n**Verbes impersonnels** (il y a, il faut, il fait…) : le participe est **toujours invariable**.\n> Les orages qu'il y a **eu**. Les heures qu'il a **fallu**. La chaleur qu'il a **fait**.\n\n**Le test** : posez la question « combien ? » (sens propre, invariable) ou « quoi ? » (COD, accord).\n\n**Les pièges** :\n- **peser** : « le douanier a pesé quoi ? les valises » → les valises qu'il a **pesées** ; mais « il pesait combien ? soixante kilos » → les soixante kilos qu'il a **pesé**.\n- **durer** n'a jamais de COD : les deux heures qu'a **duré** le film.\n\n**Pour aller plus loin**\n- **valoir** au sens de « procurer » : les récompenses que ce film lui a **values**.\n- **vivre** suivi d'une durée (les vingt ans qu'il a vécu) : l'usage hésite ; au sens figuré (les épreuves qu'il a **vécues**), on accorde.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les trois cents euros que ce vélo m'a {coûtés>coûté} sont vite oubliés.",
+    "e": "Un prix (combien ?) : ce n'est pas un COD, le participe reste invariable.",
+    "id": "pp-couter-valoir.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les efforts que ce travail m'a {coûté>coûtés} étaient immenses.",
+    "e": "Sens figuré : « que » (les efforts) est un COD placé avant : accord, « coûtés ».",
+    "id": "pp-couter-valoir.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les dangers qu'il a {couru>courus} l'ont rendu prudent.",
+    "e": "Courir un danger (quoi ?) : COD placé avant, accord.",
+    "id": "pp-couter-valoir.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les dix kilomètres qu'il a {courus>couru} l'ont épuisé.",
+    "e": "Une distance (combien ?) : invariable.",
+    "id": "pp-couter-valoir.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les orages qu'il y a {eus>eu} ont abîmé les récoltes.",
+    "e": "« Il y a » est impersonnel : participe toujours invariable.",
+    "id": "pp-couter-valoir.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les valises que le douanier a {pesé>pesées} étaient trop lourdes.",
+    "e": "Le douanier a pesé quoi ? les valises : COD placé avant, accord.",
+    "id": "pp-couter-valoir.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les soixante kilos qu'il a {pesés>pesé} autrefois lui semblent loin.",
+    "e": "Un poids (combien pesait-il ?) : invariable.",
+    "id": "pp-couter-valoir.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les moments difficiles qu'elle a {vécu>vécus} l'ont rendue plus forte.",
+    "e": "Vivre des moments (quoi ?) : COD placé avant, accord.",
+    "id": "pp-couter-valoir.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les heures qu'il a fallu pour finir ont paru longues.",
+    "e": "Correct : « il faut » est impersonnel, « fallu » reste invariable.",
+    "id": "pp-couter-valoir.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Les récompenses que ce film lui a ___ sont nombreuses.",
+    "o": [
+     "values",
+     "valu"
+    ],
+    "a": 0,
+    "e": "Valoir = procurer : « que » (les récompenses) est un COD placé avant, accord.",
+    "id": "pp-couter-valoir.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "accord ou invariable ?",
+    "c": [
+     "accord",
+     "invariable"
+    ],
+    "items": [
+     [
+      "les efforts que cela m'a (coûter)",
+      0
+     ],
+     [
+      "les vingt euros que cela m'a (coûter)",
+      1
+     ],
+     [
+      "les dangers qu'il a (courir)",
+      0
+     ],
+     [
+      "les cinq kilomètres qu'il a (courir)",
+      1
+     ],
+     [
+      "la chaleur qu'il a (faire)",
+      1
+     ],
+     [
+      "les honneurs que cela lui a (valoir)",
+      0
+     ]
+    ],
+    "e": "Sens figuré, avec un vrai COD : accord. Prix, distance, verbe impersonnel : invariable.",
+    "id": "pp-couter-valoir.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les mille euros que ce tableau a {valus>valu} autrefois paraissent dérisoires.",
+    "e": "Un prix (combien valait-il ?) : invariable.",
+    "id": "pp-couter-valoir.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les inondations qu'il y a {eues>eu} ce printemps ont surpris tout le monde.",
+    "e": "« Il y a » est impersonnel : invariable.",
+    "id": "pp-couter-valoir.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les risques que vous avez {couru>courus} étaient inutiles.",
+    "e": "Courir un risque (quoi ?) : COD placé avant, accord.",
+    "id": "pp-couter-valoir.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Toutes les larmes que cette rupture lui a coûtées n'y ont rien changé.",
+    "e": "Correct : sens figuré (cela lui a coûté quoi ? des larmes) : accord.",
+    "id": "pp-couter-valoir.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Les trois heures qu'il a ___ pour réparer la voiture m'ont semblé longues.",
+    "o": [
+     "fallu",
+     "fallues"
+    ],
+    "a": 0,
+    "e": "« Il faut » est impersonnel : « fallu » reste invariable.",
+    "id": "pp-couter-valoir.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les deux heures qu'a {durées>duré} le film m'ont paru interminables.",
+    "e": "« Durer » n'a jamais de COD : invariable.",
+    "id": "pp-couter-valoir.17"
+   }
+  ],
+  "bref": "- **Sens propre** (prix, poids, distance, durée) : **invariable** → les 300 € que ce vélo m'a **coûté**.\n- **Sens figuré** (le complément est un vrai COD) : **accord** s'il est placé avant → les efforts que ce travail m'a **coûtés**.\n- **Verbes impersonnels** : toujours **invariables** → les orages qu'il y a **eu**."
+ },
+ {
   "id": "pp-etre-avoir",
   "titre": "Participe passé avec être ou avoir",
   "resume": "Avec être, on accorde avec le sujet ; avec avoir, jamais avec le sujet.",
-  "niveau": "lycee",
+  "niveau": "college",
   "fiche": "**Avec l'auxiliaire être**, le participe passé s'accorde en genre et en nombre avec le sujet.\n> Mes cousines sont arrivées.\n> La décision a été prise.\n\n**Avec l'auxiliaire avoir**, le participe passé ne s'accorde **jamais avec le sujet**.\n> Les enfants ont mangé.\n> Nous avons fini.\n(Il peut toutefois s'accorder avec un COD placé avant : c'est la règle suivante.)\n\n**Employé sans auxiliaire**, le participe passé s'accorde comme un adjectif.\n> Des fenêtres ouvertes.\n\n**Pour aller plus loin**\n- Un masculin et un féminin réunis : accord au **masculin pluriel**.\n- Avec « vous », le contexte indique le genre et le nombre : vous êtes arrivé**s** les premiers.",
   "exercices": [
    {
@@ -17016,7 +17828,7 @@ window.PLUME_REGLES = [
   "id": "quand-quant",
   "titre": "quand, quant ou qu'en",
   "resume": "Le temps, « en ce qui concerne » ou « que + en » ? Trois tests.",
-  "niveau": "lycee",
+  "niveau": "college",
   "fiche": "- **quand** indique le temps. On peut le remplacer par **lorsque** ou, dans une question, par **à quel moment** : **quand** il pleut, **quand** pars-tu ?\n- **quant** est toujours suivi de **à**, **au** ou **aux**. Il signifie « en ce qui concerne » : **quant à** moi, **quant aux** résultats.\n\n**Le test** : essayez **lorsque** (ou « à quel moment »), puis **en ce qui concerne**.\n> Appelle-moi quand tu arrives. → lorsque tu arrives ✔ → **quand**\n> Quant à lui, il reste. → En ce qui le concerne ✔ → **quant**\n\n**Les pièges** :\n- **quant à** peut suivre un nom : un doute **quant à** sa sincérité (au sujet de).\n- **quand même** s'écrit avec « quand ».\n\n**Pour aller plus loin**\n- **qu'en** est formé de « que » et de « en » : **qu'en** penses-tu ? (que penses-tu de cela ?)\n- Avec **ne**, il exprime une restriction : il **ne** voyage **qu'en** train (seulement en train).",
   "exercices": [
    {
@@ -17609,7 +18421,7 @@ window.PLUME_REGLES = [
   "id": "quoique",
   "titre": "quoique ou quoi que",
   "resume": "Quoiqu'il pleuve (= bien qu'il pleuve) ; quoi que tu fasses (= quelle que soit la chose que tu fasses).",
-  "niveau": "superieur",
+  "niveau": "lycee",
   "fiche": "- **quoique** (en un mot) marque une **concession**. On peut le remplacer par **bien que** : **quoiqu'**il soit jeune, il est très sérieux.\n- **quoi que** (en deux mots) veut dire **quelle que soit la chose que** : **quoi que** tu dises, je ne changerai pas d'avis.\n\n**Le test** : remplacez par « bien que ».\n> Quoiqu'il pleuve, nous sortirons. → Bien qu'il pleuve ✔ → **quoique**.\n> Quoi que tu fasses, fais-le bien. → Bien que tu fasses ✘ → **quoi que**.\n\n**Les pièges** :\n- Les expressions **quoi qu'il en soit**, **quoi qu'il arrive** s'écrivent en deux mots.\n- **quoi que ce soit** (n'importe quoi) : en deux mots.\n\n**Pour aller plus loin**\n- **quoique** peut précéder un adjectif : **quoique** riche, il vit simplement (= bien que riche).\n- **quoi qu'on en dise** (quoi que l'on dise de cela) : en deux mots.",
   "exercices": [
    {
@@ -18905,6 +19717,224 @@ window.PLUME_REGLES = [
   "bref": "- **son** indique à qui est la chose : son vélo (le sien). On peut dire **mon**.\n- **sont** est le verbe **être** au pluriel : ils sont là. On peut dire **étaient**.\n\n> Il range son sac. → Il range mon sac ✔ → **son**\n> Les sacs sont lourds. → Les sacs étaient lourds ✔ → **sont**"
  },
  {
+  "id": "subjonctif-imparfait",
+  "titre": "Passé simple ou subjonctif imparfait : il fut, qu'il fût",
+  "resume": "Il fut surpris (passé simple, sans accent) ; bien qu'il fût surpris (subjonctif, avec accent).",
+  "niveau": "superieur",
+  "fiche": "À la 3e personne du singulier, le passé simple et le subjonctif imparfait se prononcent pareil. Seul l'**accent circonflexe** (et le t des verbes en -er) les distingue.\n\n- il **fut** / qu'il **fût** ;\n- il **eut** / qu'il **eût** ;\n- il **vint** / qu'il **vînt** ;\n- il **finit** / qu'il **finît** ;\n- il **chanta** / qu'il **chantât**.\n\n**Le test** : mettez la phrase au présent.\n> Bien qu'il fût fatigué… → bien qu'il **soit** fatigué → subjonctif, **fût**.\n> Il fut le premier à arriver. → il **est** le premier → indicatif, **fut**.\n\n**Les pièges** :\n- **Après que** est suivi de l'indicatif : après qu'il **eut** fini (sans accent).\n- **Il eût été préférable**, **on eût dit** : langue soutenue pour « il aurait été », « on aurait dit », avec accent.\n\n**Pour aller plus loin**\n- Dans la langue courante, on remplace le subjonctif imparfait par le présent : je voulais qu'il **vienne** (au lieu de « qu'il vînt »).\n- Aux autres personnes, les formes sont rares : que nous **partissions**, que vous **fussiez**.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il {fût>fut} le premier à arriver.",
+    "e": "Un fait (il est le premier) : passé simple, sans accent.",
+    "id": "subjonctif-imparfait.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Bien qu'il {fut>fût} fatigué, il continua.",
+    "e": "« Bien que » + subjonctif (bien qu'il soit) : « fût », avec accent.",
+    "alt": [
+     "soit"
+    ],
+    "id": "subjonctif-imparfait.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je voulais qu'il {vint>vînt} avec nous.",
+    "e": "« Vouloir que » + subjonctif (qu'il vienne) : « vînt », avec accent.",
+    "alt": [
+     "vienne"
+    ],
+    "id": "subjonctif-imparfait.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il {vînt>vint} me voir le lendemain.",
+    "e": "Un fait (il vient me voir) : passé simple, « vint ».",
+    "id": "subjonctif-imparfait.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il fallait qu'elle {chanta>chantât} devant le roi.",
+    "e": "« Il fallait que » + subjonctif : « chantât », avec un accent et un t.",
+    "alt": [
+     "chante"
+    ],
+    "id": "subjonctif-imparfait.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle {chantât>chanta} toute la soirée.",
+    "e": "Un fait : passé simple, « chanta ».",
+    "id": "subjonctif-imparfait.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Quoiqu'il {eut>eût} raison, on ne l'écouta pas.",
+    "e": "« Quoique » + subjonctif (quoiqu'il ait raison) : « eût ».",
+    "alt": [
+     "ait"
+    ],
+    "id": "subjonctif-imparfait.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Dès qu'il {eût>eut} fini, il sortit.",
+    "e": "« Dès que » + indicatif : passé antérieur, « eut », sans accent.",
+    "id": "subjonctif-imparfait.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il fut surpris qu'elle partît si tôt.",
+    "e": "Correct : « fut » (passé simple), puis « qu'elle partît » (subjonctif après « surpris que »).",
+    "id": "subjonctif-imparfait.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "On ___ dit qu'il avait vu un fantôme.",
+    "o": [
+     "eût",
+     "eut"
+    ],
+    "a": 0,
+    "e": "« On eût dit » = « on aurait dit » : subjonctif plus-que-parfait, avec accent.",
+    "id": "subjonctif-imparfait.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "passé simple ou subjonctif imparfait ?",
+    "c": [
+     "passé simple (il fut)",
+     "subjonctif imparfait (qu'il fût)"
+    ],
+    "items": [
+     [
+      "Il fut nommé directeur.",
+      0
+     ],
+     [
+      "Bien qu'il fût jeune…",
+      1
+     ],
+     [
+      "Il eut peur.",
+      0
+     ],
+     [
+      "Je doutais qu'il eût compris.",
+      1
+     ],
+     [
+      "Elle finit son repas.",
+      0
+     ],
+     [
+      "Il fallait qu'elle finît.",
+      1
+     ]
+    ],
+    "e": "Un fait : passé simple, sans accent. Après « que » demandant le subjonctif : accent circonflexe.",
+    "id": "subjonctif-imparfait.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Après qu'il {eût>eut} parlé, chacun se tut.",
+    "e": "« Après que » + indicatif : passé antérieur, « eut ».",
+    "id": "subjonctif-imparfait.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il eût été préférable de partir plus tôt.",
+    "e": "Correct : « il eût été » = « il aurait été », avec accent.",
+    "id": "subjonctif-imparfait.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il craignait que nous ne {partîmes>partissions}.",
+    "e": "« Craindre que » + subjonctif : « que nous partissions ». « Partîmes » est un passé simple.",
+    "alt": [
+     "partions"
+    ],
+    "id": "subjonctif-imparfait.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle {finît>finit} son repas et se leva.",
+    "e": "Des faits qui se suivent : passé simple, « finit ».",
+    "id": "subjonctif-imparfait.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il était juste qu'il ___ récompensé.",
+    "o": [
+     "fût",
+     "fut"
+    ],
+    "a": 0,
+    "e": "« Il était juste que » + subjonctif : « fût ».",
+    "id": "subjonctif-imparfait.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "S'il {eut>eût} su, il ne serait pas venu.",
+    "e": "Langue soutenue : « s'il eût su » = « s'il avait su », subjonctif plus-que-parfait, avec accent.",
+    "id": "subjonctif-imparfait.17"
+   }
+  ],
+  "bref": "- **Passé simple** (un fait) : il **fut**, il **eut**, il **vint**, il **chanta** — **sans accent**.\n- **Subjonctif imparfait** (après « que », « bien que »…) : qu'il **fût**, qu'il **eût**, qu'il **vînt**, qu'il **chantât** — **avec accent**.\n- **Le test** : au présent, dirait-on « qu'il **soit** » ? → subjonctif, accent."
+ },
+ {
   "id": "subjonctif-passe",
   "titre": "Le subjonctif passé : que j'aie fini",
   "resume": "Je suis content que tu aies réussi, qu'elle soit venue : aie, ait, aient, soit.",
@@ -19108,6 +20138,209 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "Le subjonctif passé se forme avec **avoir** ou **être au subjonctif** + le participe passé :\n- que j'**aie**, que tu **aies**, qu'il **ait**, qu'ils **aient** fini ;\n- que je **sois**, qu'elle **soit**, qu'ils **soient** partis.\n\n> Je suis content que tu **aies** réussi (et non « que tu as réussi »)."
+ },
+ {
+  "id": "sujets-coordonnes",
+  "titre": "L'accord avec des sujets coordonnés : comme, ainsi que, avec, ou",
+  "resume": "Le français, comme l'italien, vient du latin ; le français ainsi que l'italien viennent du latin.",
+  "niveau": "superieur",
+  "fiche": "**Comparaison entre virgules** : avec **comme**, **ainsi que**, **de même que**, **avec** placés entre virgules, le second sujet est mis à part. Le verbe s'accorde avec le **premier** seul.\n> Le français, comme l'italien, **vient** du latin. Le directeur, avec ses adjoints, **est arrivé**.\n\n**Sans virgules**, **ainsi que** a le sens de **et** : le verbe est au **pluriel**.\n> Le maire ainsi que ses conseillers **ont inauguré** la salle.\n\n**ou** quand **un seul** des deux fait l'action : **singulier**.\n> Le président ou son adjoint **présidera** la séance.\n\n**Sujets résumés** par **tout**, **rien**, **personne** : le verbe s'accorde avec ce mot, au **singulier**.\n> L'argent, la santé, le temps, tout lui **manque**.\n\n**Les pièges** :\n- Regardez les **virgules** : elles changent l'accord.\n- **Ni toi ni moi** = nous : ni toi ni moi ne **pouvons** l'aider.\n\n**Pour aller plus loin**\n- Avec **ou** et **ni… ni…**, quand l'action peut concerner les deux, l'usage admet le singulier comme le pluriel.\n- **Personne, pas même ses parents, ne savait** : « personne » commande le singulier.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le français, comme l'italien, {viennent>vient} du latin.",
+    "e": "« Comme l'italien » est entre virgules : accord avec « le français » seul.",
+    "id": "sujets-coordonnes.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le directeur, avec ses adjoints, {sont arrivés>est arrivé} en avance.",
+    "e": "« Avec ses adjoints » est entre virgules : accord avec « le directeur ».",
+    "id": "sujets-coordonnes.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ma sœur ainsi que mon frère {habite>habitent} à Lyon.",
+    "e": "Sans virgules, « ainsi que » = « et » : pluriel.",
+    "id": "sujets-coordonnes.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le président ou son adjoint {présideront>présidera} la séance.",
+    "e": "Un seul des deux présidera : singulier.",
+    "id": "sujets-coordonnes.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "L'argent, la santé, le temps, tout lui {manquent>manque}.",
+    "e": "« Tout » résume les sujets : singulier.",
+    "id": "sujets-coordonnes.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le chat, de même que le chien, {dorment>dort} dans la cuisine.",
+    "e": "« De même que le chien » est entre virgules : accord avec « le chat ».",
+    "id": "sujets-coordonnes.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ni toi ni moi ne {pouvez>pouvons} l'aider.",
+    "e": "« Toi et moi » = nous : « pouvons ».",
+    "id": "sujets-coordonnes.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Mon père, comme mon grand-père, {étaient>était} menuisier.",
+    "e": "Comparaison entre virgules : accord avec « mon père ».",
+    "id": "sujets-coordonnes.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le maire ainsi que ses conseillers ont inauguré la salle.",
+    "e": "Correct : sans virgules, « ainsi que » = « et », d'où le pluriel.",
+    "id": "sujets-coordonnes.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Paul ou Julie ___ la première place : il n'y en a qu'une.",
+    "o": [
+     "obtiendra",
+     "obtiendront"
+    ],
+    "a": 0,
+    "e": "Un seul des deux l'obtiendra : singulier.",
+    "id": "sujets-coordonnes.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "singulier ou pluriel ?",
+    "c": [
+     "singulier",
+     "pluriel"
+    ],
+    "items": [
+     [
+      "Le lion, comme le tigre, (chasser) la nuit.",
+      0
+     ],
+     [
+      "Le lion ainsi que le tigre (chasser) la nuit.",
+      1
+     ],
+     [
+      "Le vent, la pluie, rien ne (l'arrêter).",
+      0
+     ],
+     [
+      "Toi et moi (partir) demain.",
+      1
+     ],
+     [
+      "La mère, avec ses enfants, (arriver).",
+      0
+     ],
+     [
+      "Le maire et son adjoint (signer).",
+      1
+     ]
+    ],
+    "e": "Entre virgules ou résumé par « rien » : singulier. Avec « et », ou « ainsi que » sans virgules : pluriel.",
+    "id": "sujets-coordonnes.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le capitaine, avec son équipage, {ont quitté>a quitté} le navire.",
+    "e": "« Avec son équipage » est entre virgules : accord avec « le capitaine ».",
+    "id": "sujets-coordonnes.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Personne, pas même ses parents, ne {savaient>savait} la vérité.",
+    "e": "Le sujet est « personne » : singulier.",
+    "id": "sujets-coordonnes.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ses amis, ses voisins, personne ne {l'ont>l'a} aidé.",
+    "e": "« Personne » résume les sujets : singulier.",
+    "id": "sujets-coordonnes.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Le latin, comme le grec, était enseigné au lycée.",
+    "e": "Correct : comparaison entre virgules, accord avec « le latin ».",
+    "id": "sujets-coordonnes.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "C'est Lucas ou Hugo qui ___ le capitaine : il n'y en aura qu'un.",
+    "o": [
+     "sera",
+     "seront"
+    ],
+    "a": 0,
+    "e": "Un seul des deux : singulier.",
+    "id": "sujets-coordonnes.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La pluie, le vent, le froid, rien ne les {ont>a} arrêtés.",
+    "e": "« Rien » résume les sujets : singulier.",
+    "id": "sujets-coordonnes.17"
+   }
+  ],
+  "bref": "- **comme, ainsi que, avec** **entre virgules** : le verbe s'accorde avec le **premier** sujet → le chat, **comme** le chien, **dort**.\n- **Sans virgules**, « ainsi que » = « et » : **pluriel** → le chat ainsi que le chien **dorment**.\n- **ou** (un seul des deux) : **singulier**. Sujets **résumés** par tout, rien, personne : **singulier**."
  },
  {
   "id": "tout",
@@ -19320,7 +20553,7 @@ window.PLUME_REGLES = [
   "id": "trait-union",
   "titre": "Le trait d'union",
   "resume": "Dis-moi, est-ce, peut-être, vingt-deux, c'est-à-dire : où mettre le trait d'union.",
-  "niveau": "lycee",
+  "niveau": "college",
   "fiche": "On met un **trait d'union** :\n- entre un **impératif** et le pronom qui le suit : **dis-moi**, **donne-le-moi**, **allez-y**, **prends-en** ;\n- quand le **sujet est placé après le verbe** : **est-ce** que, **viens-tu**, **peut-il**, **a-t-il** (le -t- est entouré de deux traits d'union) ;\n- dans les **nombres composés** jusqu'à cent : **vingt-deux**, **quatre-vingt-dix** ;\n- avec **-ci** et **-là** : ce jour-**là**, celui-**ci**, là-**bas**.\n\n**Les pièges** :\n- **peut-être** (avec trait d'union) signifie « sans doute » : il viendra **peut-être**. Sans trait d'union, c'est le verbe pouvoir suivi de « être » : cela **peut être** utile (cela pouvait être utile).\n- **c'est-à-dire** prend deux traits d'union.\n\n**Pour aller plus loin**\n- Mots composés courants : **après-midi**, **grand-mère**, **arc-en-ciel**, **porte-monnaie**, **au-dessus**, **là-dedans**.\n- Après un impératif, pas de trait d'union si le pronom dépend du verbe suivant : **viens me voir** (me voir), mais **laisse-moi faire** (laisse-moi).\n- Depuis les **rectifications de 1990**, on peut relier tous les éléments d'un nombre : **trois-cent-vingt-et-un**. Les deux écritures sont acceptées.",
   "exercices": [
    {
@@ -20509,7 +21742,7 @@ window.PLUME_REGLES = [
   "id": "voir-voire",
   "titre": "voir ou voire",
   "resume": "Difficile, voire impossible (= et même) ; aller voir un film (le verbe).",
-  "niveau": "superieur",
+  "niveau": "lycee",
   "fiche": "- **voire** (avec un e) est un adverbe qui veut dire **et même** : cela prendra des semaines, **voire** des mois.\n- **voir** est le **verbe** : je vais **voir** un film, viens **voir** ce que j'ai trouvé.\n\n**Le test** : remplacez par « et même ».\n> C'est difficile, voire impossible. → difficile, et même impossible ✔ → **voire**.\n> Je vais voir un film. → Je vais et même un film ✘ → **voir**.\n\n**Les pièges** :\n- **voire** suit souvent une **virgule** et renchérit : utile, **voire** indispensable.\n- « **voire même** » est un pléonasme : **voire** veut déjà dire « et même ».\n\n**Pour aller plus loin**\n- On écrit simplement : c'est risqué, **voire** dangereux (et non « voire même dangereux »).\n- **Fais voir**, **on verra**, **il faut voir** : expressions avec le verbe.",
   "exercices": [
    {

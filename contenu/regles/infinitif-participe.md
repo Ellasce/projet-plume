@@ -1,7 +1,7 @@
 # Infinitif ou participe passé : -er, -é, -ez
 
 Identifiant : infinitif-participe
-Niveau : lycée
+Niveau : collège
 Résumé : Manger, mangé ou mangez ? Le test du verbe « prendre ».
 
 ## Fiche

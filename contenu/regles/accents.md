@@ -1,7 +1,7 @@
 # Les accents : é, è, ê
 
 Identifiant : accents
-Niveau : lycée
+Niveau : collège
 Résumé : Pas d'accent devant une consonne double ou un x ; è devant une syllabe muette.
 
 ## Analyse

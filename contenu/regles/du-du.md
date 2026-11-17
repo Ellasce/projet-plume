@@ -1,7 +1,7 @@
 # du ou dû, sur ou sûr, mur ou mûr
 
 Identifiant : du-du
-Niveau : lycée
+Niveau : collège
 Résumé : J'ai dû partir (devoir), je suis sûr (certain), un fruit mûr (à point) : l'accent change le sens.
 
 ## Analyse

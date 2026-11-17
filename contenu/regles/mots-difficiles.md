@@ -1,7 +1,7 @@
 # Les mots souvent mal orthographiés
 
 Identifiant : mots-difficiles
-Niveau : supérieur
+Niveau : lycée
 Résumé : Parmi, malgré, connexion, occurrence, rémunérer : les mots qui piègent les adultes.
 
 ## Analyse

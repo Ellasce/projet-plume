@@ -1,7 +1,7 @@
 # Les majuscules
 
 Identifiant : majuscules
-Niveau : lycée
+Niveau : collège
 Résumé : Les Français parlent français : majuscule au peuple, minuscule à la langue.
 
 ## Analyse

@@ -1,7 +1,7 @@
 # voir ou voire
 
 Identifiant : voir-voire
-Niveau : supérieur
+Niveau : lycée
 Résumé : Difficile, voire impossible (= et même) ; aller voir un film (le verbe).
 
 ## Analyse

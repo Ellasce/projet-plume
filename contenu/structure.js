@@ -42,9 +42,9 @@ window.PLUME_STRUCTURE = {
         { id: "accords-base", titre: "Les bases",
           regles: ["accord-gn", "feminin", "accord-sujet-verbe", "pluriel-noms", "noms-composes", "chaque-chacun", "cest-ce-sont"] },
         { id: "participe-passe", titre: "Participe passé",
-          regles: ["pp-etre-avoir", "pp-cod-avant", "pp-pronominaux", "pp-infinitif"] },
+          regles: ["pp-etre-avoir", "pp-cod-avant", "pp-pronominaux", "pp-infinitif", "pp-couter-valoir"] },
         { id: "autres-accords", titre: "Autres accords",
-          regles: ["tout", "vingt-cent-mille", "couleurs", "demi-nu", "accords-sujet-delicats", "participe-present-adjectif", "meme", "accord-on-vous"] }
+          regles: ["tout", "vingt-cent-mille", "couleurs", "demi-nu", "accords-sujet-delicats", "participe-present-adjectif", "meme", "accord-on-vous", "participes-invariables", "sujets-coordonnes"] }
       ]
     },
     {
@@ -58,7 +58,7 @@ window.PLUME_STRUCTURE = {
         { id: "temps-composes", titre: "Temps composés",
           regles: ["pc-auxiliaire", "pronominaux-conj", "pp-terminaison", "pqp-futur-anterieur", "conditionnel-passe", "subjonctif-passe"] },
         { id: "formes-verbes", titre: "Formes pièges",
-          regles: ["conj-present", "conj-futur", "conj-subjonctif", "conj-imperatif", "imperatif-pronoms", "conj-passe-simple", "conj-participe"] },
+          regles: ["conj-present", "conj-futur", "conj-subjonctif", "conj-imperatif", "imperatif-pronoms", "conj-passe-simple", "subjonctif-imparfait", "conj-participe"] },
         { id: "choisir-mode", titre: "Choisir le mode",
           regles: ["imparfait-passe-simple", "modes-conjonctions", "concordance-temps"] }
       ]
@@ -98,7 +98,7 @@ window.PLUME_STRUCTURE = {
       description: "Les tournures fautives et les mots qu'on confond.",
       sous: [
         { id: "usage", titre: "Usage et vocabulaire",
-          regles: ["constructions-fautives", "paronymes", "voir-voire", "cense-sense"] }
+          regles: ["constructions-fautives", "paronymes", "paronymes-2", "genre-noms", "voir-voire", "cense-sense"] }
       ]
     }
   ],
@@ -114,10 +114,16 @@ window.PLUME_STRUCTURE = {
     "tout", "noms-composes", "meme", "accord-on-vous", "conj-imperatif", "imperatif-pronoms", "vingt-cent-mille", "couleurs", "demi-nu", "amment-emment", "dont-que", "cest-ce-sont", "negation-ne", "trait-union", "elision", "majuscules", "conditionnel-passe", "ai-ais", "du-du", "parce-que", "notre-notre", "interrogation-indirecte", "mots-difficiles", "pronoms-relatifs", "virgule", "concordance-temps", "constructions-verbes", "conj-subjonctif", "subjonctif-passe",
     "accords-sujet-delicats", "modes-conjonctions", "pp-pronominaux", "quelque-quel-que",
     "quand-quant", "plutot-plus-tot", "quoique", "davantage", "voir-voire", "cense-sense", "participe-present-adjectif", "pp-infinitif", "conj-participe", "conj-passe-simple",
-    "constructions-fautives", "paronymes"
+    "constructions-fautives", "paronymes", "pp-couter-valoir", "participes-invariables", "sujets-coordonnes", "subjonctif-imparfait", "genre-noms", "paronymes-2"
   ],
 
   liens: {
+    "pp-couter-valoir": ["pp-cod-avant"],
+    "participes-invariables": ["pp-etre-avoir"],
+    "sujets-coordonnes": ["accords-sujet-delicats", "accord-sujet-verbe"],
+    "genre-noms": ["accord-gn", "cet-cette"],
+    "paronymes-2": ["paronymes"],
+    "subjonctif-imparfait": ["conj-passe-simple", "concordance-temps"],
     "pqp-futur-anterieur": ["conditionnel-passe", "concordance-temps"],
     "imparfait-passe-simple": ["conj-passe-simple", "ai-ais"],
     "subjonctif-passe": ["conj-subjonctif", "modes-conjonctions"],

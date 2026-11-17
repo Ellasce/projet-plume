@@ -1,7 +1,7 @@
 # parce que ou par ce que
 
 Identifiant : parce-que
-Niveau : lycée
+Niveau : collège
 Résumé : Je reste parce que je suis malade (= car) ; je suis touché par ce que tu dis (= par la chose que).
 
 ## Analyse

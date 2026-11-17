@@ -1,7 +1,7 @@
 # La construction des verbes : à, de ou rien ?
 
 Identifiant : constructions-verbes
-Niveau : supérieur
+Niveau : lycée
 Résumé : On pardonne à quelqu'un, on aide quelqu'un, on se souvient de quelque chose.
 
 ## Analyse

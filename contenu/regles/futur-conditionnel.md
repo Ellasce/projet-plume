@@ -1,7 +1,7 @@
 # Futur ou conditionnel : -rai ou -rais
 
 Identifiant : futur-conditionnel
-Niveau : lycée
+Niveau : collège
 Résumé : Je viendrai ou je viendrais ? Passez à « nous ».
 
 ## Fiche

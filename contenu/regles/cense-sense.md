@@ -1,7 +1,7 @@
 # censé ou sensé
 
 Identifiant : cense-sense
-Niveau : supérieur
+Niveau : lycée
 Résumé : Il est censé venir (= supposé) ; une idée sensée (= raisonnable).
 
 ## Analyse

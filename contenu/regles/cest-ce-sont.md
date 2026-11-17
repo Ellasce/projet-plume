@@ -1,7 +1,7 @@
 # c'est ou ce sont
 
 Identifiant : cest-ce-sont
-Niveau : lycée
+Niveau : collège
 Résumé : À l'écrit soigné, « ce sont » devant un pluriel.
 
 ## Analyse

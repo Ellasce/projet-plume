@@ -1,7 +1,7 @@
 # davantage ou d'avantage
 
 Identifiant : davantage
-Niveau : supérieur
+Niveau : lycée
 Résumé : Dors davantage (= plus) ; plus d'avantages (= de bénéfices).
 
 ## Analyse

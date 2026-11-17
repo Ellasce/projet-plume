@@ -1,7 +1,7 @@
 # Le trait d'union
 
 Identifiant : trait-union
-Niveau : lycée
+Niveau : collège
 Résumé : Dis-moi, est-ce, peut-être, vingt-deux, c'est-à-dire : où mettre le trait d'union.
 
 ## Analyse

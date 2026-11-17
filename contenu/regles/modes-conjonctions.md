@@ -1,7 +1,7 @@
 # Indicatif ou subjonctif
 
 Identifiant : modes-conjonctions
-Niveau : supérieur
+Niveau : lycée
 Résumé : Après que + indicatif ; bien que, pour que, je veux que + subjonctif.
 
 ## Fiche

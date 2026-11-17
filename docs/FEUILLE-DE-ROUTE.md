@@ -5,7 +5,7 @@ Liste des règles à créer, établie d'après les programmes du collège et du 
 Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). Quand une règle est en ligne, on coche sa case et on indique son identifiant.
 
 **Priorité** : 🔴 erreur très fréquente, à faire en premier · 🟠 importante · 🟢 approfondissement.
-**Niveau** : collège · lycée · supérieur.
+**Niveau** : collège · lycée · supérieur. Répartition revue le 17 novembre 2026 : les notions simples sont au collège, le supérieur est réservé aux vraies difficultés (accords rares, langue soutenue, vocabulaire précis).
 
 ## Ordre conseillé
 
@@ -14,7 +14,7 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 3. L'orthographe d'usage (consonnes doubles, accents, -amment / -emment, majuscules, trait d'union) : la catégorie entièrement absente.
 4. La ponctuation, puis les règles 🟢.
 
-## Déjà réalisées (94 règles)
+## Déjà réalisées (100 règles)
 
 - [x] a / à — `a-a`
 - [x] Infinitif ou participe passé : -er, -é, -ez — `infinitif-participe`
@@ -111,6 +111,12 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 - [x] Subjonctif passé — `subjonctif-passe`
 - [x] Impératif + pronoms — `imperatif-pronoms`
 - [x] Verbes pronominaux : conjugaison — `pronominaux-conj`
+- [x] Participe passé de coûter, valoir, courir et des verbes impersonnels — `pp-couter-valoir`
+- [x] Excepté, vu, passé, ci-joint — `participes-invariables`
+- [x] Sujets coordonnés — `sujets-coordonnes`
+- [x] Genre des noms piégeux — `genre-noms`
+- [x] Paronymes, 2e série — `paronymes-2`
+- [x] Passé simple ou subjonctif imparfait — `subjonctif-imparfait`
 
 ## 1. Homophones
 
@@ -138,10 +144,10 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 - [x] 🟠 Même / mêmes (adverbe ou adjectif) — lycée → `meme`
 - [x] 🟠 Accord avec « on », le « vous » de politesse, le « nous » de modestie — lycée → `accord-on-vous`
 - [ ] 🟠 Participe passé employé seul, en tête de phrase — lycée
-- [ ] 🟠 Ci-joint, ci-inclus, excepté, vu, passé — supérieur
-- [ ] 🟠 Sujets coordonnés (ou, ni, comme, ainsi que, avec) — supérieur
+- [x] 🟠 Ci-joint, ci-inclus, excepté, vu, passé — supérieur → `participes-invariables`
+- [x] 🟠 Sujets coordonnés (ou, ni, comme, ainsi que, avec) — supérieur → `sujets-coordonnes`
 - [ ] 🟠 Noms collectifs (une foule de, un grand nombre de, la moitié de) — supérieur
-- [ ] 🟠 Participe passé des verbes impersonnels et de coûter, valoir, peser, courir — supérieur
+- [x] 🟠 Participe passé des verbes impersonnels et de coûter, valoir, peser, courir — supérieur → `pp-couter-valoir`
 - [ ] 🟢 Accord de « quelque chose », « personne », « rien » — lycée
 - [ ] 🟢 Un millier, une dizaine, accord des ordinaux — lycée
 - [ ] 🟢 Adjectifs composés (des enfants nouveau-nés, ivres morts) — supérieur
@@ -158,7 +164,7 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 - [ ] 🟠 Passif et voix pronominale — lycée
 - [x] 🟠 Impératif + pronoms (donne-le-moi, vas-y, manges-en) — lycée → `imperatif-pronoms`
 - [ ] 🟢 Verbes défectifs (falloir, pleuvoir, clore, frire) — supérieur
-- [ ] 🟢 Subjonctif imparfait (reconnaître, lire) — supérieur
+- [x] 🟢 Subjonctif imparfait (reconnaître, lire) — supérieur → `subjonctif-imparfait`
 
 ## 4. Orthographe d'usage (catégorie à créer)
 
@@ -200,9 +206,9 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 - [ ] 🟠 Pléonasmes (règle dédiée et complète) — supérieur
 - [ ] 🟠 Anglicismes (« impacter », « faire sens », « en charge de ») — supérieur
 - [ ] 🟠 Barbarismes et mots déformés (règle dédiée) — supérieur
-- [ ] 🟠 Paronymes, 2e série (éruption / irruption, compréhensible / compréhensif) — supérieur
+- [x] 🟠 Paronymes, 2e série (éruption / irruption, compréhensible / compréhensif) — supérieur → `paronymes-2`
 - [ ] 🟠 « Malgré que », « de manière à ce que » — supérieur
-- [ ] 🟠 Genre des noms piégeux (un astérisque, une acné, un pétale, une oasis) — supérieur
+- [x] 🟠 Genre des noms piégeux (un astérisque, une acné, un pétale, une oasis) — supérieur → `genre-noms`
 - [ ] 🟢 Registres de langue (familier, courant, soutenu) — lycée
 - [ ] 🟢 Noms qui changent de genre (amour, délice, orgue) — supérieur
 

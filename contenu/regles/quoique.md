@@ -1,7 +1,7 @@
 # quoique ou quoi que
 
 Identifiant : quoique
-Niveau : supérieur
+Niveau : lycée
 Résumé : Quoiqu'il pleuve (= bien qu'il pleuve) ; quoi que tu fasses (= quelle que soit la chose que tu fasses).
 
 ## Analyse
