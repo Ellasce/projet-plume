@@ -14,7 +14,7 @@ Chaque règle se crée en suivant [la procédure](PROCEDURE-CREATION-REGLE.md). 
 3. L'orthographe d'usage (consonnes doubles, accents, -amment / -emment, majuscules, trait d'union) : la catégorie entièrement absente.
 4. La ponctuation, puis les règles 🟢.
 
-## Déjà réalisées (116 règles, 2059 exercices)
+## Déjà réalisées (123 règles, 2178 exercices)
 
 Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases sont originales, sauf celles qui portent une ligne `Source :` (LanguageTool, Verbiste).
 
@@ -128,17 +128,23 @@ Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases
 | voir ou voire | `voir-voire` | 11 + 6 |
 | Écrire les nombres : vingt, cent, mille | `vingt-cent-mille` | 10 + 6 |
 
-### Supérieur (16 règles)
+### Supérieur (23 règles)
 
 | Règle | Identifiant | Exercices (socle + avancés) |
 |---|---|---|
 | Constructions fautives, barbarismes et pléonasmes | `constructions-fautives` | 8 + 10 |
 | Excepté, vu, passé, compris, ci-joint : avant ou après le nom | `participes-invariables` | 11 + 6 |
 | L'accord avec des sujets coordonnés : comme, ainsi que, avec, ou | `sujets-coordonnes` | 11 + 6 |
+| L'accord de « possible » | `accord-possible` | 11 + 6 |
 | Le genre des noms piégeux : un astérisque, une oasis | `genre-noms` | 11 + 6 |
+| Les adjectifs composés : nouveau-nés, grandes ouvertes, haut placés | `adjectifs-composes` | 11 + 6 |
+| Les anglicismes à éviter | `anglicismes` | 11 + 6 |
+| Les barbarismes : formes déformées à éviter | `barbarismes` | 11 + 6 |
 | Les paronymes | `paronymes` | 8 + 7 |
 | Les paronymes, 2e série : irruption, compréhensif, recouvrer | `paronymes-2` | 11 + 6 |
 | Les pléonasmes : monter en haut, sortir dehors | `pleonasmes` | 11 + 6 |
+| Les écrits professionnels : formules et tournures | `ecrits-pro` | 11 + 6 |
+| Participe passé : avec « en », avec le « le » neutre, suivi d'un attribut | `pp-cas-difficiles` | 11 + 6 |
 | Participe passé : conclu, inclus, dû | `conj-participe` | 8 + 6 |
 | Participe passé : coûter, valoir, courir, peser, vivre et verbes impersonnels | `pp-couter-valoir` | 11 + 6 |
 | Participe passé des verbes pronominaux | `pp-pronominaux` | 8 + 8 |
@@ -148,6 +154,7 @@ Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases
 | Passé simple ou subjonctif imparfait : il fut, qu'il fût | `subjonctif-imparfait` | 11 + 6 |
 | Quelque, quelques, quel que | `quelque-quel-que` | 8 + 8 |
 | Tel, tel que, tel quel | `tel-tel-que` | 11 + 6 |
+| Tournures critiquées : malgré que, suite à, de manière à ce que | `tournures-critiquees` | 11 + 6 |
 
 ## 1. Homophones
 
@@ -181,10 +188,10 @@ Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases
 - [x] 🟠 Participe passé des verbes impersonnels et de coûter, valoir, peser, courir — supérieur → `pp-couter-valoir`
 - [ ] 🟢 Accord de « quelque chose », « personne », « rien » — lycée
 - [ ] 🟢 Un millier, une dizaine, accord des ordinaux — lycée
-- [ ] 🟢 Adjectifs composés (des enfants nouveau-nés, ivres morts) — supérieur
-- [ ] 🟢 Accord de « possible » (le plus de fautes possible) — supérieur
-- [ ] 🟢 Participe passé avec « en » et avec le « le » neutre — supérieur
-- [ ] 🟢 Participe passé suivi d'un attribut (je l'ai trouvée belle) — supérieur
+- [x] 🟢 Adjectifs composés (des enfants nouveau-nés, ivres morts) — supérieur → `adjectifs-composes`
+- [x] 🟢 Accord de « possible » (le plus de fautes possible) — supérieur → `accord-possible`
+- [x] 🟢 Participe passé avec « en » et avec le « le » neutre — supérieur → `pp-cas-difficiles`
+- [x] 🟢 Participe passé suivi d'un attribut (je l'ai trouvée belle) — supérieur → `pp-cas-difficiles`
 
 ## 3. Conjugaison
 
@@ -235,19 +242,19 @@ Tableau mis à jour par `python -I outils/tableau_regles.py`. Toutes les phrases
 ## 7. Bien écrire et vocabulaire
 
 - [x] 🟠 Pléonasmes (règle dédiée et complète) — supérieur → `pleonasmes`
-- [ ] 🟠 Anglicismes (« impacter », « faire sens », « en charge de ») — supérieur
-- [ ] 🟠 Barbarismes et mots déformés (règle dédiée) — supérieur
+- [x] 🟠 Anglicismes (« impacter », « faire sens », « en charge de ») — supérieur → `anglicismes`
+- [x] 🟠 Barbarismes et mots déformés (règle dédiée) — supérieur → `barbarismes`
 - [x] 🟠 Paronymes, 2e série (éruption / irruption, compréhensible / compréhensif) — supérieur → `paronymes-2`
-- [ ] 🟠 « Malgré que », « de manière à ce que » — supérieur
+- [x] 🟠 « Malgré que », « de manière à ce que » — supérieur → `tournures-critiquees`
 - [x] 🟠 Genre des noms piégeux (un astérisque, une acné, un pétale, une oasis) — supérieur → `genre-noms`
 - [ ] 🟢 Registres de langue (familier, courant, soutenu) — lycée
 - [ ] 🟢 Noms qui changent de genre (amour, délice, orgue) — supérieur
 
 ## 8. Écrits professionnels (catégorie à créer)
 
-- [ ] 🟠 Formules d'appel et de politesse dans un courriel — supérieur
-- [ ] 🟠 « Ci-joint », « veuillez trouver », « je vous prie de » — supérieur
-- [ ] 🟢 Tournures critiquées des courriels (« suite à », « je reste à votre disposition ») — supérieur
+- [x] 🟠 Formules d'appel et de politesse dans un courriel — supérieur → `ecrits-pro`
+- [x] 🟠 « Ci-joint », « veuillez trouver », « je vous prie de » — supérieur → `ecrits-pro` et `participes-invariables`
+- [x] 🟢 Tournures critiquées des courriels (« suite à », « je reste à votre disposition ») — supérieur → `tournures-critiquees`
 - [ ] 🟢 Écrire une date, une heure, une somme d'argent — supérieur
 
 ## 9. Ajouts proposés (absents de la première liste)

@@ -1211,6 +1211,209 @@ window.PLUME_REGLES = [
   "bref": "- **on = nous** : le verbe reste au singulier, mais l'adjectif s'accorde : avec mes amis, on est **partis**.\n- **vous** pour **une seule personne** (politesse) : le verbe est au pluriel, l'adjectif au singulier : Madame, vous êtes **prête** ?"
  },
  {
+  "id": "accord-possible",
+  "titre": "L'accord de « possible »",
+  "resume": "Le plus de fautes possible (invariable) ; toutes les solutions possibles (accordé).",
+  "niveau": "superieur",
+  "fiche": "**Possible** est invariable quand il suit **le plus, le moins, le mieux, le meilleur, les meilleurs…** : il signifie alors « **qu'il est possible** ».\n> Faites le moins d'erreurs **possible**. Il a vendu le plus de livres **possible**. Les meilleurs résultats **possible**.\n\n**Possible** s'accorde quand il **qualifie un nom** : il signifie « qui peut exister, se produire ».\n> Toutes les solutions **possibles**. Des retards sont **possibles**.\n\n**Le test** : remplacez par « **qu'il est possible** (de faire, d'avoir) ». Si la phrase garde son sens → invariable.\n\n**Pour aller plus loin**\n- « Tous les cas **possibles** » : les cas qui peuvent se présenter, accord.\n- « Le plus de cas **possible** » : autant qu'il est possible, invariable.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Faites le moins d'erreurs {possibles>possible}.",
+    "e": "Après « le moins » : « qu'il est possible », invariable.",
+    "id": "accord-possible.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous avons étudié toutes les solutions {possible>possibles}.",
+    "e": "Les solutions qui peuvent exister : adjectif, accord.",
+    "id": "accord-possible.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a vendu le plus de livres {possibles>possible}.",
+    "e": "Après « le plus » : invariable.",
+    "id": "accord-possible.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Des retards sont {possible>possibles} en cas de neige.",
+    "e": "Attribut de « des retards » : accord.",
+    "id": "accord-possible.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Prenez le moins de bagages {possibles>possible}.",
+    "e": "Après « le moins » : invariable.",
+    "id": "accord-possible.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il faut envisager tous les cas {possible>possibles}.",
+    "e": "Les cas qui peuvent se présenter : accord.",
+    "id": "accord-possible.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle a obtenu les meilleures notes {possibles>possible}.",
+    "e": "« Les meilleures notes qu'il est possible d'obtenir » : invariable.",
+    "id": "accord-possible.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce sont les seules issues {possible>possibles}.",
+    "e": "Les issues qui existent : adjectif, accord.",
+    "id": "accord-possible.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Invitez le plus d'amis possible et prévoyez toutes les boissons possibles.",
+    "e": "Correct : « possible » invariable après « le plus » ; accordé avec « boissons ».",
+    "id": "accord-possible.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Répondez le plus vite ___.",
+    "o": [
+     "possible",
+     "possibles"
+    ],
+    "a": 0,
+    "e": "Après « le plus » : invariable.",
+    "id": "accord-possible.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "invariable ou accordé ?",
+    "c": [
+     "invariable (qu'il est possible)",
+     "accordé (qui peut exister)"
+    ],
+    "items": [
+     [
+      "le moins de fautes (possible)",
+      0
+     ],
+     [
+      "toutes les hypothèses (possible)",
+      1
+     ],
+     [
+      "le plus de places (possible)",
+      0
+     ],
+     [
+      "des erreurs (possible)",
+      1
+     ],
+     [
+      "les meilleurs prix (possible)",
+      0
+     ],
+     [
+      "plusieurs chemins (possible)",
+      1
+     ]
+    ],
+    "e": "Après le plus, le moins, le meilleur : invariable. Avec un nom qu'il qualifie : accord.",
+    "id": "accord-possible.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous avons fait le moins de bruit {possibles>possible}.",
+    "e": "Après « le moins » : invariable.",
+    "id": "accord-possible.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Plusieurs interprétations sont {possible>possibles}.",
+    "e": "Attribut de « plusieurs interprétations » : accord.",
+    "id": "accord-possible.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Visitez le plus de musées {possibles>possible} pendant votre séjour.",
+    "e": "Après « le plus » : invariable.",
+    "id": "accord-possible.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a imaginé toutes les réponses possibles.",
+    "e": "Correct : les réponses qui peuvent exister, accord.",
+    "id": "accord-possible.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Achetez les fruits les plus mûrs ___.",
+    "o": [
+     "possible",
+     "possibles"
+    ],
+    "a": 0,
+    "e": "« Les plus mûrs qu'il est possible » : invariable.",
+    "id": "accord-possible.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les candidats {possible>possibles} seront reçus lundi.",
+    "e": "Les candidats qui peuvent être retenus : adjectif, accord.",
+    "id": "accord-possible.17"
+   }
+  ],
+  "bref": "- Après **le plus, le moins, le mieux, le meilleur…** : **invariable** → le plus de fautes **possible** (= qu'il est possible).\n- Quand il qualifie un **nom** (= qui peut exister) : **accord** → toutes les solutions **possibles**."
+ },
+ {
   "id": "accord-sujet-verbe",
   "titre": "L'accord du verbe avec son sujet",
   "resume": "Trouver le vrai sujet, même s'il est loin ou placé après le verbe.",
@@ -1782,6 +1985,209 @@ window.PLUME_REGLES = [
   "bref": "- Après un **verbe**, ces adjectifs jouent le rôle d'un **adverbe** : **invariables** → ces fleurs sentent **bon**, ils parlent **fort**, ces bijoux coûtent **cher**.\n- Avec un **nom**, ils **s'accordent** → des voix **fortes**, des bijoux **chers**."
  },
  {
+  "id": "adjectifs-composes",
+  "titre": "Les adjectifs composés : nouveau-nés, grandes ouvertes, haut placés",
+  "resume": "Deux adjectifs s'accordent tous les deux ; un mot employé comme adverbe reste invariable.",
+  "niveau": "superieur",
+  "fiche": "**Deux adjectifs** qui qualifient chacun le nom : **tous les deux s'accordent**.\n> des personnes sourd**es**-muet**tes**, des sauces aigre**s**-douce**s**, des voyageurs ivre**s** mort**s**\n\n**Un élément employé comme adverbe** (il modifie l'autre adjectif ou le participe) : il reste **invariable**.\n> des enfants **nouveau**-nés (= nouvellement nés), des enfants **mort**-nés, des personnes **haut** placées, des jeunes filles **court** vêtues\n\n**L'usage** fait varier quelques mots : des fenêtres **grandes** ouvertes, les **derniers**-nés, les **premiers**-nés.\n\n**Le test** : peut-on remplacer le premier mot par un adverbe en -ment (nouvellement, hautement) ? → invariable.\n\n**Pour aller plus loin**\n- **nouveau** s'accorde quand le participe est employé comme nom : les **nouveaux** venus, les **nouveaux** mariés.\n- **frais** s'accorde par l'usage devant un participe : des fleurs **fraîches** cueillies.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les enfants {nouveaux-nés>nouveau-nés} dorment beaucoup.",
+    "e": "« Nouveau » = nouvellement : adverbe, invariable.",
+    "id": "adjectifs-composes.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils ont servi des sauces {aigre-douces>aigres-douces}.",
+    "e": "Deux adjectifs : les deux s'accordent.",
+    "id": "adjectifs-composes.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les fenêtres étaient {grand ouvertes>grandes ouvertes}.",
+    "e": "Par l'usage, « grand ouvert » s'accorde : « grandes ouvertes ».",
+    "id": "adjectifs-composes.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce sont des personnes {hautes placées>haut placées}.",
+    "e": "« Haut » modifie « placées » (= hautement) : invariable.",
+    "id": "adjectifs-composes.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "On a retrouvé deux voyageurs {ivre morts>ivres morts}.",
+    "e": "Deux adjectifs : les deux s'accordent.",
+    "id": "adjectifs-composes.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les jeunes filles étaient {courtes vêtues>court vêtues}.",
+    "e": "« Court » modifie « vêtues » : invariable.",
+    "id": "adjectifs-composes.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cette école accueille des enfants {sourd-muets>sourds-muets}.",
+    "e": "Deux adjectifs : les deux s'accordent.",
+    "id": "adjectifs-composes.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Voici les {dernier-nés>derniers-nés} de la portée.",
+    "e": "Par l'usage, « dernier-né » s'accorde : « derniers-nés ».",
+    "id": "adjectifs-composes.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les portes grandes ouvertes laissaient entrer des invités haut placés.",
+    "e": "Correct : « grandes ouvertes » (usage), « haut placés » (adverbe invariable).",
+    "id": "adjectifs-composes.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "La maternité compte dix bébés ___.",
+    "o": [
+     "nouveau-nés",
+     "nouveaux-nés"
+    ],
+    "a": 0,
+    "e": "« Nouveau » = nouvellement : invariable.",
+    "id": "adjectifs-composes.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "premier élément accordé ou invariable ?",
+    "c": [
+     "accordé",
+     "invariable"
+    ],
+    "items": [
+     [
+      "des sauces (aigre)-douces",
+      0
+     ],
+     [
+      "des enfants (nouveau)-nés",
+      1
+     ],
+     [
+      "des fenêtres (grand) ouvertes",
+      0
+     ],
+     [
+      "des personnes (haut) placées",
+      1
+     ],
+     [
+      "des voyageurs (ivre) morts",
+      0
+     ],
+     [
+      "des filles (court) vêtues",
+      1
+     ]
+    ],
+    "e": "Un adjectif qui qualifie le nom s'accorde ; un mot qui joue le rôle d'un adverbe reste invariable.",
+    "id": "adjectifs-composes.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les agneaux {morts-nés>mort-nés} ont été emportés.",
+    "e": "« Mort » modifie « nés » : invariable.",
+    "id": "adjectifs-composes.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ses filles sont ses {première-nées>premières-nées}.",
+    "e": "Par l'usage, « premier-né » s'accorde : « premières-nées ».",
+    "id": "adjectifs-composes.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle aime les pommes {aigre-douces>aigres-douces}.",
+    "e": "Deux adjectifs : les deux s'accordent.",
+    "id": "adjectifs-composes.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les bébés nouveau-nés sont pesés chaque jour.",
+    "e": "Correct : « nouveau » reste invariable.",
+    "id": "adjectifs-composes.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Ces fonctionnaires sont ___ placés.",
+    "o": [
+     "haut",
+     "hauts"
+    ],
+    "a": 0,
+    "e": "« Haut » modifie « placés » : invariable.",
+    "id": "adjectifs-composes.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Les volets étaient {grand ouverts>grands ouverts}.",
+    "e": "Par l'usage, « grand ouvert » s'accorde.",
+    "id": "adjectifs-composes.17"
+   }
+  ],
+  "bref": "- **Deux adjectifs** : les deux s'accordent → des sauces **aigres-douces**, des voyageurs **ivres morts**.\n- Un mot qui joue le rôle d'un **adverbe** reste **invariable** → des enfants **nouveau**-nés (= nouvellement nés), des personnes **haut** placées.\n- Par l'usage : des fenêtres **grandes** ouvertes, les **derniers**-nés."
+ },
+ {
   "id": "ai-ais",
   "titre": "-ai ou -ais à la fin des verbes",
   "resume": "Je jouais ou je jouai ? Passez à « il » : il jouait, il joua.",
@@ -2226,6 +2632,230 @@ window.PLUME_REGLES = [
   "bref": "Ces adverbes se prononcent tous « -amment ». Pour les écrire, retrouvez **l'adjectif** :\n- adjectif en **-ant** → adverbe en **-amment** : courant → couramment ;\n- adjectif en **-ent** → adverbe en **-emment** : prudent → prudemment.\n\nEt toujours **deux m**."
  },
  {
+  "id": "anglicismes",
+  "titre": "Les anglicismes à éviter",
+  "resume": "Impacter, faire sens, en charge de, supporter une équipe : des calques de l'anglais qui ont un équivalent français.",
+  "niveau": "superieur",
+  "fiche": "Ces expressions sont des **calques de l'anglais** : elles prennent un sens ou une construction anglaise alors qu'un équivalent français existe.\n- **impacter** → **toucher**, **avoir des conséquences sur** ;\n- **faire sens** → **avoir du sens** ;\n- **être en charge de** → **être chargé de** ;\n- **supporter** une équipe → **soutenir** (en français, « supporter » veut dire « endurer ») ;\n- **réaliser** au sens de comprendre → **se rendre compte** ;\n- une **opportunité** au sens de chance → une **occasion** ;\n- **définitivement** au sens de certainement → **certainement**, **assurément** ;\n- **digital** au sens d'électronique → **numérique** ;\n- **adresser** un problème → **traiter**, **aborder** un problème.\n\n**Les pièges** : ces mots restent corrects dans leur **sens français** : **réaliser** un projet (l'accomplir), partir **définitivement** (pour toujours), une empreinte **digitale** (des doigts).\n\n**Pour aller plus loin**\n- L'anglicisme n'est pas toujours fautif : beaucoup de mots anglais sont entrés dans l'usage (week-end, parking). On critique surtout ceux qui remplacent sans raison un mot français précis.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cette décision va {impacter>toucher} nos ventes.",
+    "e": "« Impacter » est un anglicisme : « toucher » ou « avoir des conséquences sur ».",
+    "alt": [
+     "affecter",
+     "avoir des conséquences sur"
+    ],
+    "id": "anglicismes.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ton raisonnement {fait sens>a du sens}.",
+    "e": "« Faire sens » est calqué sur l'anglais : « avoir du sens ».",
+    "id": "anglicismes.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle est {en charge du>chargée du} recrutement.",
+    "e": "« En charge de » est un anglicisme : « chargée de ».",
+    "id": "anglicismes.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il {supporte>soutient} le club de sa ville.",
+    "e": "En français, « supporter » veut dire « endurer » : « soutenir ».",
+    "id": "anglicismes.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "J'ai soudain {réalisé>compris} mon erreur.",
+    "e": "« Réaliser » au sens de comprendre est un anglicisme : « compris ».",
+    "alt": [
+     "pris conscience de"
+    ],
+    "id": "anglicismes.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "C'est une belle {opportunité>occasion} de voyager.",
+    "e": "Au sens de « chance » : « occasion ».",
+    "id": "anglicismes.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il viendra {définitivement>certainement} demain.",
+    "e": "« Définitivement » veut dire « pour toujours » ; au sens de certainement : « certainement ».",
+    "alt": [
+     "assurément",
+     "sans aucun doute"
+    ],
+    "id": "anglicismes.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "L'entreprise mise sur la transformation {digitale>numérique}.",
+    "e": "Au sens d'électronique : « numérique ».",
+    "id": "anglicismes.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle a réalisé son rêve : partir définitivement vivre à la mer.",
+    "e": "Correct : « réaliser » (accomplir) et « définitivement » (pour toujours) dans leur sens français.",
+    "id": "anglicismes.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Le directeur est ___ du projet.",
+    "o": [
+     "chargé",
+     "en charge"
+    ],
+    "a": 0,
+    "e": "« En charge de » est un anglicisme : « chargé de ».",
+    "id": "anglicismes.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "anglicisme à éviter ou emploi correct ?",
+    "c": [
+     "anglicisme à éviter",
+     "emploi correct"
+    ],
+    "items": [
+     [
+      "impacter les ventes",
+      0
+     ],
+     [
+      "toucher les ventes",
+      1
+     ],
+     [
+      "faire sens",
+      0
+     ],
+     [
+      "réaliser un projet",
+      1
+     ],
+     [
+      "supporter une équipe",
+      0
+     ],
+     [
+      "une empreinte digitale",
+      1
+     ]
+    ],
+    "e": "Impacter, faire sens, supporter une équipe sont des calques. Réaliser un projet et une empreinte digitale sont des emplois français.",
+    "id": "anglicismes.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous devons {adresser>traiter} ce problème rapidement.",
+    "e": "« Adresser un problème » est calqué sur l'anglais : « traiter ».",
+    "alt": [
+     "aborder",
+     "régler"
+    ],
+    "id": "anglicismes.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je n'avais pas {réalisé>compris} qu'il était si tard.",
+    "e": "Au sens de comprendre : « compris ».",
+    "alt": [
+     "remarqué"
+    ],
+    "id": "anglicismes.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cette loi va {impacter>toucher} les petites entreprises.",
+    "e": "« Impacter » est un anglicisme : « toucher ».",
+    "alt": [
+     "affecter"
+    ],
+    "id": "anglicismes.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce supporter soutient son équipe depuis vingt ans.",
+    "e": "Correct : le nom « supporter » est entré dans l'usage ; le verbe français est « soutenir ».",
+    "id": "anglicismes.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Cette réforme ___.",
+    "o": [
+     "a du sens",
+     "fait sens"
+    ],
+    "a": 0,
+    "e": "« Faire sens » est un anglicisme : « avoir du sens ».",
+    "id": "anglicismes.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il faut saisir cette {opportunité>occasion}.",
+    "e": "Au sens de « chance » : « occasion ».",
+    "id": "anglicismes.17"
+   }
+  ],
+  "bref": "On évite à l'écrit soigné :\n- **impacter** → **toucher**, avoir des conséquences sur ;\n- **faire sens** → **avoir du sens** ;\n- **en charge de** → **chargé de** ;\n- **supporter** une équipe → **soutenir** ;\n- **réaliser** (= comprendre) → **se rendre compte**."
+ },
+ {
   "id": "attribut-sujet",
   "titre": "L'accord de l'attribut du sujet",
   "resume": "Ma sœur est contente, les rues paraissent désertes : l'attribut s'accorde avec le sujet.",
@@ -2630,6 +3260,213 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "- **aucun, nul** : **singulier** → aucun**e** erreur, nul ne **peut**.\n- Sauf devant un nom toujours pluriel : **aucuns frais**.\n- **plusieurs** (toujours un s) et **certains** : **pluriel**."
+ },
+ {
+  "id": "barbarismes",
+  "titre": "Les barbarismes : formes déformées à éviter",
+  "resume": "Ils croient (et non croivent), quand même (et non comme même), pécuniaire (et non pécunier).",
+  "niveau": "superieur",
+  "fiche": "**Formes verbales qui n'existent pas** :\n- ils croivent → ils **croient** ; ils voyent → ils **voient** ;\n- il faut que je vais → il faut que j'**aille** ;\n- je m'en rappelle → je m'en **souviens** (ou je me le **rappelle** : on se rappelle quelque chose).\n\n**Mots déformés** :\n- comme même → **quand même** ;\n- pécunier → **pécuniaire** (qui concerne l'argent) ;\n- en définitif → **en définitive** (finalement) ;\n- un espèce de → **une** espèce de (« espèce » est féminin) ;\n- aéropage → **aréopage** (une assemblée de personnes savantes).\n\n**Le test** : en cas de doute, cherchez le mot dans un dictionnaire : un barbarisme n'y figure pas.\n\n**Pour aller plus loin**\n- D'autres barbarismes sont traités dans « Constructions fautives » : rouvrir (et non réouvrir), obnubilé, indemne, dilemme.\n- « Pécuniaire » est le même au masculin et au féminin : un problème **pécuniaire**, une aide **pécuniaire**.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils {croivent>croient} tout ce qu'on leur dit.",
+    "e": "Le verbe croire fait « ils croient ».",
+    "id": "barbarismes.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il pleut, mais je sors {comme même>quand même}.",
+    "e": "L'expression est « quand même ».",
+    "id": "barbarismes.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a des soucis {pécuniers>pécuniaires}.",
+    "e": "L'adjectif est « pécuniaire », au masculin comme au féminin.",
+    "id": "barbarismes.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{En définitif>En définitive}, nous avons pris la bonne décision.",
+    "e": "La locution est « en définitive » (finalement).",
+    "id": "barbarismes.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "C'est {un espèce>une espèce} de chapeau rond.",
+    "e": "« Espèce » est féminin : « une espèce de ».",
+    "id": "barbarismes.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il faut que {je vais>j'aille} à la banque.",
+    "e": "Après « il faut que », subjonctif du verbe aller : « que j'aille ».",
+    "id": "barbarismes.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils {voyent>voient} la mer de leur fenêtre.",
+    "e": "Le verbe voir fait « ils voient ».",
+    "id": "barbarismes.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ton anniversaire ? Je m'en {rappelle>souviens} très bien.",
+    "e": "On se souvient DE quelque chose (d'où « en ») ; on se rappelle quelque chose (sans « de »).",
+    "alt": [
+     "Je me le rappelle"
+    ],
+    "id": "barbarismes.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ils croient qu'il viendra quand même.",
+    "e": "Correct : « ils croient », « quand même ».",
+    "id": "barbarismes.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il a reçu une aide ___.",
+    "o": [
+     "pécuniaire",
+     "pécunière",
+     "pécunier"
+    ],
+    "a": 0,
+    "e": "L'adjectif est « pécuniaire ».",
+    "id": "barbarismes.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "forme correcte ou barbarisme ?",
+    "c": [
+     "barbarisme",
+     "forme correcte"
+    ],
+    "items": [
+     [
+      "comme même",
+      0
+     ],
+     [
+      "quand même",
+      1
+     ],
+     [
+      "ils croivent",
+      0
+     ],
+     [
+      "ils croient",
+      1
+     ],
+     [
+      "en définitif",
+      0
+     ],
+     [
+      "en définitive",
+      1
+     ]
+    ],
+    "e": "Comme même, croivent, en définitif sont des formes déformées.",
+    "id": "barbarismes.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Un {aéropage>aréopage} de savants a examiné la question.",
+    "e": "Le mot est « aréopage » (une assemblée de savants).",
+    "id": "barbarismes.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il faut que tu {vas>ailles} voir le médecin.",
+    "e": "Après « il faut que », subjonctif : « que tu ailles ».",
+    "id": "barbarismes.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces machines {extraiyent>extraient} le charbon.",
+    "e": "Le verbe extraire fait « ils extraient ».",
+    "id": "barbarismes.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "C'est une espèce de grand oiseau blanc.",
+    "e": "Correct : « espèce » est féminin, « une espèce de ».",
+    "id": "barbarismes.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Je ne sais pas, mais j'irai ___.",
+    "o": [
+     "quand même",
+     "comme même"
+    ],
+    "a": 0,
+    "e": "L'expression est « quand même ».",
+    "id": "barbarismes.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cet accord a des conséquences {pécunières>pécuniaires}.",
+    "e": "L'adjectif est « pécuniaire », même au féminin : « pécuniaires ».",
+    "id": "barbarismes.17"
+   }
+  ],
+  "bref": "Un **barbarisme** est un mot déformé ou une forme qui n'existe pas :\n- ils croivent → ils **croient** ; il faut que je vais → que j'**aille** ;\n- comme même → **quand même** ; pécunier → **pécuniaire** ; en définitif → **en définitive** ;\n- un espèce de → **une** espèce de."
  },
  {
   "id": "ca-sa",
@@ -9346,6 +10183,210 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "- **dû** (avec accent) vient du verbe **devoir** : j'ai **dû** partir. Sinon, **du** : **du** pain.\n- **sûr** = **certain** : je suis **sûr**. Sinon, **sur** : **sur** la table.\n- **mûr** = **à point** : un fruit **mûr**. Sinon, **mur** : le **mur**."
+ },
+ {
+  "id": "ecrits-pro",
+  "titre": "Les écrits professionnels : formules et tournures",
+  "resume": "Je vous saurais gré, veuillez agréer, à la suite de : les formules justes d'un courriel ou d'une lettre.",
+  "niveau": "superieur",
+  "fiche": "**Les formules justes** :\n- « Je vous **saurais** gré de bien vouloir me répondre » : l'expression est **savoir gré** (être reconnaissant).\n- « **Veuillez** trouver ci-joint… », « **Veuillez** agréer… » : impératif du verbe **vouloir**.\n- « Je vous **prie** d'agréer, Madame, l'expression de mes salutations distinguées » : verbe **prier**.\n\n**La formule d'appel** :\n- « **Madame,** », « **Monsieur,** », « **Madame, Monsieur,** » (avec majuscules et virgule) ;\n- « **Chère Madame,** » : sans le nom de famille ;\n- « **Monsieur le Directeur,** » : le titre prend une majuscule.\n\n**Le piège** : « suite à votre demande » est critiqué → **à la suite de** votre demande.\n\n**Pour aller plus loin**\n- Les formules de fin varient selon le contexte : « Cordialement », « Bien à vous » sont courants dans les courriels.\n- Dans la formule de politesse, on reprend la formule d'appel entre virgules : je vous prie d'agréer, **Madame**, l'expression de…",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je vous {serais>saurais} gré de bien vouloir me répondre.",
+    "e": "L'expression est « savoir gré » : « je vous saurais gré ».",
+    "id": "ecrits-pro.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Veuiller>Veuillez} trouver ci-joint mon dossier.",
+    "e": "Impératif du verbe vouloir : « veuillez ».",
+    "id": "ecrits-pro.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je vous {pris>prie} d'agréer mes salutations distinguées.",
+    "e": "Verbe prier au présent : « je vous prie ».",
+    "id": "ecrits-pro.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Chère Madame Martin>Chère Madame}, je vous remercie de votre réponse.",
+    "e": "Avec « chère », on n'ajoute pas le nom de famille.",
+    "id": "ecrits-pro.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Suite à>À la suite de} notre entretien, je vous envoie le devis.",
+    "e": "« Suite à » est critiqué : « à la suite de ».",
+    "id": "ecrits-pro.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Monsieur le directeur>Monsieur le Directeur}, je sollicite un rendez-vous.",
+    "e": "Dans la formule d'appel, le titre prend une majuscule.",
+    "id": "ecrits-pro.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Nous vous {serions>saurions} gré de régler cette facture.",
+    "e": "« Savoir gré » : « nous vous saurions gré ».",
+    "id": "ecrits-pro.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Veuillez agréez>Veuillez agréer} mes salutations distinguées.",
+    "e": "Après « veuillez », l'infinitif : « agréer ».",
+    "id": "ecrits-pro.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Monsieur le Directeur, je vous saurais gré de m'accorder un entretien.",
+    "e": "Correct : titre avec une majuscule dans l'appel, et « savoir gré ».",
+    "id": "ecrits-pro.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Je vous ___ gré de votre compréhension.",
+    "o": [
+     "saurais",
+     "serais"
+    ],
+    "a": 0,
+    "e": "L'expression est « savoir gré ».",
+    "id": "ecrits-pro.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "formule correcte ou fautive ?",
+    "c": [
+     "correcte",
+     "fautive"
+    ],
+    "items": [
+     [
+      "Je vous saurais gré de…",
+      0
+     ],
+     [
+      "Je vous serais gré de…",
+      1
+     ],
+     [
+      "À la suite de votre appel…",
+      0
+     ],
+     [
+      "Suite à votre appel…",
+      1
+     ],
+     [
+      "Chère Madame,",
+      0
+     ],
+     [
+      "Chère Madame Dupont,",
+      1
+     ]
+    ],
+    "e": "Savoir gré, à la suite de, et « Chère Madame » sans le nom sont les formes recommandées.",
+    "id": "ecrits-pro.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je vous {prierai>prie} de bien vouloir me rappeler.",
+    "e": "La formule s'écrit au présent : « je vous prie ».",
+    "id": "ecrits-pro.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Veuiller>Veuillez} nous excuser pour ce retard.",
+    "e": "Impératif du verbe vouloir : « veuillez ».",
+    "id": "ecrits-pro.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Madame Monsieur>Madame, Monsieur}, nous accusons réception de votre courrier.",
+    "e": "Dans l'appel, on sépare « Madame » et « Monsieur » par une virgule.",
+    "id": "ecrits-pro.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "À la suite de votre demande, veuillez trouver ci-joint le contrat.",
+    "e": "Correct : « à la suite de », « veuillez trouver ci-joint ».",
+    "id": "ecrits-pro.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "___ trouver ci-joint les documents demandés.",
+    "o": [
+     "Veuillez",
+     "Veuiller",
+     "Voulez"
+    ],
+    "a": 0,
+    "e": "Impératif du verbe vouloir : « veuillez ».",
+    "id": "ecrits-pro.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je vous {serai>saurai} gré de me tenir informé.",
+    "e": "« Savoir gré » au futur : « je vous saurai gré ».",
+    "id": "ecrits-pro.17"
+   }
+  ],
+  "bref": "- Je vous **saurais** gré (savoir gré), et non « serais gré ».\n- **Veuillez** trouver ci-joint ; je vous **prie** d'agréer.\n- Appel : **Madame,** — ou **Chère Madame,** sans le nom de famille."
  },
  {
   "id": "elision",
@@ -18162,6 +19203,209 @@ window.PLUME_REGLES = [
   "bref": "- **plus tôt** (deux mots) est le contraire de **plus tard** : il est arrivé **plus tôt**.\n- **plutôt** (un mot) signifie « de préférence » ou « assez » : je prendrai **plutôt** un thé ; c'est **plutôt** bon.\n\n> Viens plus tôt. → Viens plus tard ✔ (le sens s'inverse, mais la phrase reste correcte) → **plus tôt**\n> C'est plutôt cher. → C'est plus tard cher ✘ → **plutôt**"
  },
  {
+  "id": "pp-cas-difficiles",
+  "titre": "Participe passé : avec « en », avec le « le » neutre, suivi d'un attribut",
+  "resume": "Des pommes, j'en ai mangé ; c'est plus grave que je ne l'avais pensé ; ces fleurs, je les ai trouvées belles.",
+  "niveau": "superieur",
+  "fiche": "**1. Le pronom « en »** n'entraîne pas d'accord : il signifie « de cela ».\n> Des pommes, j'en ai **mangé** trois. Des lettres, il en a **écrit** beaucoup.\n\n**2. Le « le » neutre** remplace une idée, une phrase (= cela). Il n'entraîne pas d'accord.\n> La situation est plus grave que je ne l'avais **pensé** (= que je n'avais pensé cela).\n> L'épreuve était plus facile qu'on ne l'avait **dit**.\n\n**3. Un participe suivi d'un attribut** s'accorde avec le COD placé avant.\n> Ces fleurs, je les ai **trouvées** belles. Cette robe, on l'a **jugée** trop chère.\n\n**Le test** : « l' » remplace-t-il un nom précis (accord) ou une idée, « cela » (invariable) ?\n\n**Pour aller plus loin**\n- Comparez : cette histoire, je l'ai **lue** (l' = cette histoire) / elle est plus longue que je ne l'avais **cru** (l' = cela).\n- Avec « en » précédé d'un adverbe de quantité (combien en as-tu lu ?), l'usage hésite.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Des pommes, j'en ai {mangées>mangé} trois.",
+    "e": "Avec « en », le participe reste invariable.",
+    "id": "pp-cas-difficiles.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La situation est plus grave que je ne l'avais {pensée>pensé}.",
+    "e": "« L' » = cela (une idée) : invariable.",
+    "id": "pp-cas-difficiles.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces fleurs, je les ai {trouvé>trouvées} belles.",
+    "e": "Participe suivi d'un attribut : accord avec « les » (les fleurs), placé avant.",
+    "id": "pp-cas-difficiles.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Des lettres, il en a {écrites>écrit} beaucoup.",
+    "e": "Avec « en » : invariable.",
+    "id": "pp-cas-difficiles.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "L'épreuve était plus facile qu'on ne l'avait {dite>dit}.",
+    "e": "« L' » = cela : invariable.",
+    "id": "pp-cas-difficiles.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cette robe, on l'a {jugé>jugée} trop chère.",
+    "e": "Accord avec « l' » (la robe), suivi de l'attribut « trop chère ».",
+    "id": "pp-cas-difficiles.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Des fautes, tu en as {faites>fait} très peu.",
+    "e": "Avec « en » : invariable.",
+    "id": "pp-cas-difficiles.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces garçons, je les ai {cru>crus} plus âgés.",
+    "e": "Accord avec « les » (ces garçons), suivi de l'attribut « plus âgés ».",
+    "id": "pp-cas-difficiles.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La route était plus longue que je ne l'avais imaginé.",
+    "e": "Correct : « l' » = cela, participe invariable.",
+    "id": "pp-cas-difficiles.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Des photos, j'en ai ___ des centaines.",
+    "o": [
+     "pris",
+     "prises"
+    ],
+    "a": 0,
+    "e": "Avec « en » : invariable.",
+    "id": "pp-cas-difficiles.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "accord ou invariable ?",
+    "c": [
+     "accord",
+     "invariable"
+    ],
+    "items": [
+     [
+      "Ces idées, je les ai (trouver) bonnes.",
+      0
+     ],
+     [
+      "Des idées, j'en ai (avoir) plusieurs.",
+      1
+     ],
+     [
+      "Cette maison, on l'a (dire) hantée.",
+      0
+     ],
+     [
+      "C'est plus simple que je ne l'avais (croire).",
+      1
+     ],
+     [
+      "Cette histoire, je l'ai (lire).",
+      0
+     ],
+     [
+      "Des gâteaux, il en a (manger) deux.",
+      1
+     ]
+    ],
+    "e": "« En » et le « l' » neutre (= cela) : invariable. « Les, l' » qui remplacent un nom précis : accord.",
+    "id": "pp-cas-difficiles.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Cette histoire, je l'ai {lu>lue} hier.",
+    "e": "« L' » = cette histoire (un nom précis) : accord.",
+    "id": "pp-cas-difficiles.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Elle est plus intelligente qu'on ne l'avait {crue>cru}.",
+    "e": "« L' » = cela (qu'on n'avait cru cela) : invariable.",
+    "id": "pp-cas-difficiles.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Des erreurs, nous en avons {corrigées>corrigé} beaucoup.",
+    "e": "Avec « en » : invariable.",
+    "id": "pp-cas-difficiles.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces chanteuses, je les ai trouvées excellentes.",
+    "e": "Correct : accord avec « les » (ces chanteuses), suivi d'un attribut.",
+    "id": "pp-cas-difficiles.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "La réunion a duré plus longtemps qu'on ne l'avait ___.",
+    "o": [
+     "prévu",
+     "prévue"
+    ],
+    "a": 0,
+    "e": "« L' » = cela : invariable.",
+    "id": "pp-cas-difficiles.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ces exercices, je les ai {jugé>jugés} trop faciles.",
+    "e": "Accord avec « les » (ces exercices), suivi de l'attribut « trop faciles ».",
+    "id": "pp-cas-difficiles.17"
+   }
+  ],
+  "bref": "- Avec **en** : **invariable** → des pommes, j'en ai **mangé**.\n- Avec **l'** = **cela** (une idée) : **invariable** → c'est plus grave que je ne l'avais **pensé**.\n- Avec un **attribut** : accord avec le COD placé avant → ces fleurs, je les ai **trouvées** belles."
+ },
+ {
   "id": "pp-cod-avant",
   "titre": "Participe passé avec avoir : le COD placé avant",
   "resume": "Avoir + COD placé avant le verbe = accord avec ce COD.",
@@ -23685,6 +24929,230 @@ window.PLUME_REGLES = [
    }
   ],
   "bref": "- Le plus souvent : **-tion** → ac**tion**, na**tion**, ponctua**tion**.\n- Pensez au **verbe** : perme**ttre** → permi**ssion** ; déci**der** → déci**sion** ; discu**ter** → discu**ssion**."
+ },
+ {
+  "id": "tournures-critiquees",
+  "titre": "Tournures critiquées : malgré que, suite à, de manière à ce que",
+  "resume": "Bien que (et non malgré que), à la suite de (et non suite à), de manière que (et non de manière à ce que).",
+  "niveau": "superieur",
+  "fiche": "Ces tournures sont fréquentes à l'oral et dans les courriels, mais elles sont **critiquées** à l'écrit soigné.\n- **malgré que** → **bien que**, **quoique** : **bien qu**'il pleuve (« malgré » s'emploie devant un nom : malgré la pluie).\n- **de manière à ce que**, **de façon à ce que** → **de manière que**, **de façon que** : parlez fort, **de manière qu**'on vous entende.\n- **suite à** → **à la suite de**, **en réponse à** : **à la suite de** votre appel.\n- **conséquent** au sens d'« important » → **important**, **considérable** : une somme **importante** (« conséquent » veut dire « logique, cohérent »).\n- **au niveau de**, quand il ne s'agit pas d'une hauteur → **en ce qui concerne**, **pour** : **en ce qui concerne** les salaires.\n- **causer à** quelqu'un → **parler à** quelqu'un.\n\n**Le test** : la tournure peut-elle être remplacée par une forme plus simple et plus précise ? Préférez celle-ci.\n\n**Pour aller plus loin**\n- **au niveau de** reste correct au sens propre : la ville est **au niveau de** la mer.\n- **conséquent** est correct au sens de « logique » : un raisonnement **conséquent**.",
+  "exercices": [
+   {
+    "num": 1,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Malgré qu'il>Bien qu'il} soit tard, il travaille encore.",
+    "e": "« Malgré que » est critiqué : « bien que ».",
+    "alt": [
+     "Quoiqu'il"
+    ],
+    "id": "tournures-critiquees.1"
+   },
+   {
+    "num": 2,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Suite à>À la suite de} votre appel, nous avons modifié la commande.",
+    "e": "« Suite à » est critiqué : « à la suite de ».",
+    "alt": [
+     "En réponse à"
+    ],
+    "id": "tournures-critiquees.2"
+   },
+   {
+    "num": 3,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Parlez fort, {de manière à ce qu'on>de manière qu'on} vous entende.",
+    "e": "« De manière à ce que » est lourd et critiqué : « de manière que ».",
+    "id": "tournures-critiquees.3"
+   },
+   {
+    "num": 4,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Il a hérité d'une somme {conséquente>importante}.",
+    "e": "« Conséquent » veut dire « logique » ; au sens d'« important » : « importante ».",
+    "alt": [
+     "considérable"
+    ],
+    "id": "tournures-critiquees.4"
+   },
+   {
+    "num": 5,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Au niveau des>En ce qui concerne les} salaires, rien ne change.",
+    "e": "« Au niveau de » au sens vague : « en ce qui concerne ».",
+    "id": "tournures-critiquees.5"
+   },
+   {
+    "num": 6,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Rangez les dossiers {de façon à ce qu'on>de façon qu'on} les retrouve.",
+    "e": "« De façon à ce que » est critiqué : « de façon que ».",
+    "id": "tournures-critiquees.6"
+   },
+   {
+    "num": 7,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Malgré que>Bien que} la route soit longue, nous partirons.",
+    "e": "« Malgré que » est critiqué : « bien que ».",
+    "alt": [
+     "Quoique"
+    ],
+    "id": "tournures-critiquees.7"
+   },
+   {
+    "num": 8,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Je lui ai {causé>parlé} hier au téléphone.",
+    "e": "On « parle à » quelqu'un ; « causer à » est familier.",
+    "id": "tournures-critiquees.8"
+   },
+   {
+    "num": 9,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "À la suite de cet incident, une enquête a été ouverte.",
+    "e": "Correct : « à la suite de » est la forme recommandée.",
+    "id": "tournures-critiquees.9"
+   },
+   {
+    "num": 10,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "___ la pluie, le match a eu lieu.",
+    "o": [
+     "Malgré",
+     "Malgré que"
+    ],
+    "a": 0,
+    "e": "Devant un nom : « malgré ».",
+    "id": "tournures-critiquees.10"
+   },
+   {
+    "num": 11,
+    "avance": false,
+    "statut": "a-relire",
+    "t": "tri",
+    "consigne": "tournure critiquée ou recommandée ?",
+    "c": [
+     "critiquée",
+     "recommandée"
+    ],
+    "items": [
+     [
+      "malgré qu'il pleuve",
+      0
+     ],
+     [
+      "bien qu'il pleuve",
+      1
+     ],
+     [
+      "suite à votre lettre",
+      0
+     ],
+     [
+      "à la suite de votre lettre",
+      1
+     ],
+     [
+      "de manière à ce qu'il comprenne",
+      0
+     ],
+     [
+      "de manière qu'il comprenne",
+      1
+     ]
+    ],
+    "e": "Bien que, à la suite de, de manière que sont les formes recommandées à l'écrit soigné.",
+    "id": "tournures-critiquees.11"
+   },
+   {
+    "num": 12,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ce projet demande un budget {conséquent>considérable}.",
+    "e": "Au sens d'« important » : « considérable ».",
+    "alt": [
+     "important"
+    ],
+    "id": "tournures-critiquees.12"
+   },
+   {
+    "num": 13,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Suite à>À la suite de} votre demande, voici les documents.",
+    "e": "« Suite à » est critiqué : « à la suite de ».",
+    "alt": [
+     "En réponse à"
+    ],
+    "id": "tournures-critiquees.13"
+   },
+   {
+    "num": 14,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "{Au niveau du>En ce qui concerne le} budget, nous sommes prudents.",
+    "e": "« Au niveau de » au sens vague : « en ce qui concerne ».",
+    "id": "tournures-critiquees.14"
+   },
+   {
+    "num": 15,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "La ville est construite au niveau de la mer.",
+    "e": "Correct : « au niveau de » au sens propre (une hauteur).",
+    "id": "tournures-critiquees.15"
+   },
+   {
+    "num": 16,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "choix",
+    "s": "Il est parti tôt ___ éviter les bouchons.",
+    "o": [
+     "pour",
+     "de manière à ce qu'il"
+    ],
+    "a": 0,
+    "e": "« Pour » + infinitif suffit ; « de manière à ce que » est lourd et critiqué.",
+    "id": "tournures-critiquees.16"
+   },
+   {
+    "num": 17,
+    "avance": true,
+    "statut": "a-relire",
+    "t": "faute",
+    "s": "Ses idées sont {conséquentes>importantes} pour l'entreprise.",
+    "e": "Au sens d'« important » : « importantes ».",
+    "alt": [
+     "considérables"
+    ],
+    "id": "tournures-critiquees.17"
+   }
+  ],
+  "bref": "À l'écrit soigné, on évite :\n- **malgré que** → **bien que** ;\n- **suite à** → **à la suite de** ;\n- **de manière à ce que** → **de manière que** ;\n- **conséquent** (= important) → **important**."
  },
  {
   "id": "tout",

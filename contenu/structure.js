@@ -42,9 +42,9 @@ window.PLUME_STRUCTURE = {
         { id: "accords-base", titre: "Les bases",
           regles: ["accord-gn", "attribut-sujet", "feminin", "accord-sujet-verbe", "pluriel-noms", "noms-composes", "chaque-chacun", "cest-ce-sont"] },
         { id: "participe-passe", titre: "Participe passé",
-          regles: ["pp-etre-avoir", "pp-cod-avant", "pp-pronominaux", "pp-infinitif", "pp-couter-valoir", "pp-seul", "passif"] },
+          regles: ["pp-etre-avoir", "pp-cod-avant", "pp-pronominaux", "pp-infinitif", "pp-couter-valoir", "pp-cas-difficiles", "pp-seul", "passif"] },
         { id: "autres-accords", titre: "Autres accords",
-          regles: ["tout", "vingt-cent-mille", "couleurs", "demi-nu", "accords-sujet-delicats", "participe-present-adjectif", "meme", "accord-on-vous", "adjectif-adverbe", "aucun-nul", "participes-invariables", "sujets-coordonnes", "tel-tel-que"] }
+          regles: ["tout", "vingt-cent-mille", "couleurs", "demi-nu", "accords-sujet-delicats", "participe-present-adjectif", "meme", "accord-on-vous", "adjectif-adverbe", "aucun-nul", "participes-invariables", "sujets-coordonnes", "tel-tel-que", "accord-possible", "adjectifs-composes"] }
       ]
     },
     {
@@ -98,7 +98,9 @@ window.PLUME_STRUCTURE = {
       description: "Les tournures fautives et les mots qu'on confond.",
       sous: [
         { id: "usage", titre: "Usage et vocabulaire",
-          regles: ["constructions-fautives", "pleonasmes", "paronymes", "paronymes-2", "genre-noms", "voir-voire", "cense-sense"] }
+          regles: ["constructions-fautives", "pleonasmes", "barbarismes", "anglicismes", "paronymes", "paronymes-2", "genre-noms", "voir-voire", "cense-sense"] },
+        { id: "ecrits-professionnels", titre: "Écrits professionnels",
+          regles: ["ecrits-pro", "tournures-critiquees"] }
       ]
     }
   ],
@@ -114,10 +116,16 @@ window.PLUME_STRUCTURE = {
     "tout", "noms-composes", "meme", "accord-on-vous", "adjectif-adverbe", "aucun-nul", "pp-seul", "passif", "prepositions", "deux-points", "ier-yer-gner", "conj-imperatif", "imperatif-pronoms", "vingt-cent-mille", "couleurs", "demi-nu", "amment-emment", "dont-que", "cest-ce-sont", "negation-ne", "trait-union", "elision", "prefixes-in", "majuscules", "conditionnel-passe", "ai-ais", "du-du", "parce-que", "notre-notre", "interrogation-indirecte", "mots-difficiles", "pronoms-relatifs", "virgule", "concordance-temps", "constructions-verbes", "conj-subjonctif", "subjonctif-passe",
     "accords-sujet-delicats", "modes-conjonctions", "pp-pronominaux", "quelque-quel-que",
     "quand-quant", "plutot-plus-tot", "quoique", "davantage", "voir-voire", "cense-sense", "participe-present-adjectif", "pp-infinitif", "conj-participe", "conj-passe-simple",
-    "constructions-fautives", "paronymes", "pp-couter-valoir", "participes-invariables", "sujets-coordonnes", "subjonctif-imparfait", "genre-noms", "paronymes-2", "tel-tel-que", "pleonasmes"
+    "constructions-fautives", "paronymes", "pp-couter-valoir", "participes-invariables", "sujets-coordonnes", "subjonctif-imparfait", "genre-noms", "paronymes-2", "tel-tel-que", "pleonasmes", "accord-possible", "pp-cas-difficiles", "adjectifs-composes", "tournures-critiquees", "anglicismes", "barbarismes", "ecrits-pro"
   ],
 
   liens: {
+    "accord-possible": ["accord-gn"],
+    "pp-cas-difficiles": ["pp-cod-avant"],
+    "adjectifs-composes": ["couleurs", "demi-nu"],
+    "tournures-critiquees": ["constructions-fautives", "ecrits-pro"],
+    "anglicismes": ["paronymes"],
+    "barbarismes": ["constructions-fautives"],
     "pp-seul": ["pp-etre-avoir", "participes-invariables"],
     "passif": ["pp-etre-avoir"],
     "prepositions": ["constructions-fautives"],
